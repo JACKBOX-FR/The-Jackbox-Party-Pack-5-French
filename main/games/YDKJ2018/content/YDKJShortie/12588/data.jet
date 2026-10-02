@@ -1,0 +1,143 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Tout en étant battu dans la Mer de Tranquillité ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "3,2,1,0 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Quand Aquaman ne pourrait-il PAS être sauvé par des créatures marines ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Sea Señor ",
+      "t": "A",
+      "v": "284959_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "C'était un ventre flop. ",
+      "t": "A",
+      "v": "284971_0",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Vous savez comment le super pouvoir d’Aquaman est de pouvoir parler aux poissons ? Même Jason Mamoa a probablement du mal à donner l’impression que cela semble cool. ",
+      "t": "A",
+      "v": "284960_2",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "284962_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "C'était un ventre flop. ",
+      "t": "A",
+      "v": "284969_3",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "C'était un ventre flop. ",
+      "t": "A",
+      "v": "284967_0",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "La Mer de Tranquillité est sur la lune, il n’y aurait donc ni poisson, ni plancton, ni crevette pour aider Aquaman. ",
+      "t": "A",
+      "v": "284964_2",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Aquaman ne serait probablement pas autant harcelé s'il ne portait pas de chemise pendant qu'il nageait. ",
+      "t": "A",
+      "v": "284965_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "When would Aquaman NOT be able to be saved by sea creatures?",
+      "t": "A",
+      "v": "284961_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

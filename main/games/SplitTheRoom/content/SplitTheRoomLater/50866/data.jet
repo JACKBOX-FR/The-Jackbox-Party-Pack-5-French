@@ -1,0 +1,86 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "chatons | vos rêves | caviars | Disques Blu-ray | dents de lait ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "S+6.64",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "S+2.98",
+      "n": "$ScenarioAudio$ScenarioTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "<BLANK>. ",
+      "n": "ScenarioText3"
+    },
+    {
+      "t": "S",
+      "v": "S+5.42",
+      "n": "$ScenarioAudio$ScenarioTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "Votre nouvel emploi vous offre une licorne pour votre long trajet. ",
+      "n": "ScenarioText1"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00 ",
+      "n": "$ScenarioAudio$ScenarioTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Pour qu'il puisse voler, il faut le nourrir ",
+      "n": "ScenarioText2"
+    },
+    {
+      "t": "S",
+      "v": "Faites-vous la navette via la licorne ? ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Hoofin' It ",
+      "t": "A",
+      "v": "727437_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Votre nouvel emploi vous offre une licorne pour votre long trajet. Pour qu’il puisse voler, vous devez le nourrir CECI. Faites-vous la navette via la licorne ? ",
+      "t": "A",
+      "v": "727438_2 ",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    }
+  ]
+}

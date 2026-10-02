@@ -1,1 +1,81 @@
-{"fields":[{"t":"B","v":"true","n":"HasScenarioAudio"},{"t":"B","v":"false","n":"HasCategoryAudio"},{"t":"B","v":"true","n":"HasResponseAudio"},{"t":"S","v":"wearing dead cats | eating people | drinking urine | burning down homes | self-mutilation","n":"Decoys"},{"t":"S","v":"one that steals babies","n":"Answer"},{"t":"S","v":"S+7.67","n":"$ScenarioAudio$QuestionTextCue"},{"t":"S","v":"ALL_NO","n":"Keywords"},{"t":"S","v":"Quel gang post-apocalyptique vas-tu rejoindre ?","n":"QuestionText"},{"s":"Post-Apocalyptic Gang [FINAL]","t":"A","n":"CategoryAudio"},{"s":"You live in a post-apocalyptic hellscape. You can either join the gang that’s known for stealing babies, or one known for doing this.  Which post-apocalyptic gang do you join?","t":"A","v":"758079_2","n":"ScenarioAudio"},{"s":"Hashtag squad goals!","t":"A","v":"758082_1","n":"ResponseAudio"},{"n":"ScenarioText1","v":"Tu vis dans un enfer post-apocalyptique.","t":"S"},{"n":"$ScenarioAudio$ScenarioTextCue1","v":"S+0.00","t":"S"},{"n":"ScenarioText2","v":" Tu peux rejoindre le gang connu pour voler des bébés ou celui connu pour <BLANK>.","t":"S"},{"n":"$ScenarioAudio$ScenarioTextCue2","v":"S+2.45","t":"S"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "portant des chats morts | manger des gens | boire de l'urine | incendier des maisons | automutilation ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "celui qui vole les bébés ",
+      "n": "Answer"
+    },
+    {
+      "t": "S",
+      "v": "S+7.67",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "ALL_NO",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "Quel gang post-apocalyptique vas-tu rejoindre ?",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Gang post-apocalyptique [FINAL] ",
+      "t": "A",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Vous vivez dans un paysage infernal post-apocalyptique. Vous pouvez soit rejoindre le gang connu pour voler des bébés, soit un gang connu pour cela. À quel gang post-apocalyptique rejoignez-vous ? ",
+      "t": "A",
+      "v": "758079_2",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "Objectifs de l'équipe hashtag ! ",
+      "t": "A",
+      "v": "758082_1",
+      "n": "ResponseAudio"
+    },
+    {
+      "n": "ScenarioText1",
+      "v": "Tu vis dans un enfer post-apocalyptique.",
+      "t": "S"
+    },
+    {
+      "n": "$ScenarioAudio$ScenarioTextCue1",
+      "v": "S+0.00",
+      "t": "S"
+    },
+    {
+      "n": "ScenarioText2",
+      "v": " Tu peux rejoindre le gang connu pour voler des bébés ou celui connu pour <BLANK>.",
+      "t": "S"
+    },
+    {
+      "n": "$ScenarioAudio$ScenarioTextCue2",
+      "v": "S+2.45",
+      "t": "S"
+    }
+  ]
+}

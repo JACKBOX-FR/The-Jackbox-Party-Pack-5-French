@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Noël | Effondrement économique | Des oies atterrissent sur ma tête ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "<BLANK> se produit trop fréquemment. ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Chaque fois que je me retourne, CELA arrive ! ",
+      "t": "A",
+      "v": "759450_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

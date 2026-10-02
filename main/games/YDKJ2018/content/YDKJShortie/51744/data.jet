@@ -1,0 +1,141 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "La Reconquête ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "3,0,2,1 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "En fonction de la durée du conflit, laquelle de ces guerres était la plus proche d’une guerre à l’infini ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "De quel côté du conflit se trouvait Spider-Man ? ",
+      "t": "A",
+      "v": "739577_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "739580_2",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "d'actualité, mais non. ",
+      "t": "A",
+      "v": "739587_1",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "non, cela n'a duré que quelques 300 années ",
+      "t": "A",
+      "v": "739585_1",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "La Reconquista a duré du début du VIIIe siècle jusqu'en 1492 : plus de 700 ans ",
+      "t": "A",
+      "v": "739582_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "OR\nBien que, comparé à un infini, 700 soit un jeu d'enfant. ",
+      "t": "A",
+      "v": "739583_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "Based on the length of the conflict, which of these wars was closest to being an infinity war?",
+      "t": "A",
+      "v": "739579_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

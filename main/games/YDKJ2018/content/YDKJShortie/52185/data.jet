@@ -1,0 +1,139 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "\"Cul cul cul cul cul / cul cul cul cul cul\" ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "2,3,1,0 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Laquelle des paroles suivantes de Big Sean démontre le dispositif rhétorique epizeuxis ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Allez Big Sean ou rentrez chez vous Sean ",
+      "t": "A",
+      "v": "746178_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "OR\nOn dit que les questions rhétoriques n'ont pas de mauvaises réponses... mais nous y sommes. (Tous) ",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "746181_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "OU\nLâchez le micro, puis reprenez-le et annoncez au monde que vous avez tort. (TOUS) ",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "L'épizeuxis est la répétition immédiate d'un mot pour l'accentuer. ",
+      "t": "A",
+      "v": "746183_4",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Ou dans ce cas Emph-ASS-sis. ",
+      "t": "A",
+      "v": "746184_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "Which of the following Big Sean lyrics demonstrates the rhetorical device epizeuxis?",
+      "t": "A",
+      "v": "746180_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

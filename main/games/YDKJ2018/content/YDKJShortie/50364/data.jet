@@ -1,0 +1,140 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "étage de poussée ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "1,0,2,3 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Si Christian Grey disait à Anastasia qu’il a besoin de spectateurs sur trois côtés de sa salle de jeux, en termes théâtraux, ils accompliraient des actes indescriptibles sur : ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "50 nuances de jeux ",
+      "t": "A",
+      "v": "721430_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "J'ai... des questions triviales non conventionnelles. Permettez-moi de vous montrer. ",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "721433_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "Il s'avère qu'il y a quelque chose qui ne va pas avec un petit coup et un grincement. ",
+      "t": "A",
+      "v": "721440_1",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Un espace de représentation qui pénètre dans l'auditorium et permet aux membres du public de s'asseoir sur trois côtés est appelé scène de poussée... ",
+      "t": "A",
+      "v": "721435_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "...et dans les productions live de 50 Shades of Grey, la première rangée s'appellerait la Splash Zone. ",
+      "t": "A",
+      "v": "721436_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "If Christian Grey told Anastasia he needs audience members on three sides of his playroom, in theater terms they’d be performing unspeakable acts on a:",
+      "t": "A",
+      "v": "721432_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

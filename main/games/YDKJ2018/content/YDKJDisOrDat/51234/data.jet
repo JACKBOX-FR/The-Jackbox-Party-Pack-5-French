@@ -1,0 +1,245 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion5Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupPoorAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasDisAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion1Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion4Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTimingInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasScoreInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupRockedAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupAwfulAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion7Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasDatAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion6Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion3Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupOutroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupGoodAudio"
+    },
+    {
+      "t": "S",
+      "v": "S+6.54",
+      "n": "$InstructionsAudio$DatTextCue"
+    },
+    {
+      "t": "S",
+      "v": "Bonne nuit, ténèbres aux abords de la ville ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "Springsteen ",
+      "n": "DatButtonText"
+    },
+    {
+      "t": "S",
+      "v": "livre pour enfants ",
+      "n": "DisButtonText"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$InstructionsAudio$BothCue"
+    },
+    {
+      "t": "S",
+      "v": "un personnage d'un célèbre livre pour enfants ",
+      "n": "DisText"
+    },
+    {
+      "t": "S",
+      "v": "un personnage d'une chanson de Bruce Springsteen ",
+      "n": "DatText"
+    },
+    {
+      "t": "S",
+      "v": "S+3.60",
+      "n": "$InstructionsAudio$DisTextCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$DisAudio$DisButtonCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$DatAudio$DatButtonCue"
+    },
+    {
+      "s": "Petite dynamite ",
+      "t": "A",
+      "v": "732633_1",
+      "n": "Question5Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "TimingInstructionsAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupOutroAudio"
+    },
+    {
+      "s": "Je vais lire sept noms et pour chacun d'eux, dites-moi s'il s'agit # d'un personnage d'un célèbre livre pour enfants ou # d'un personnage d'une chanson de Bruce Springsteen ou # des deux. ",
+      "t": "A",
+      "v": "732628_1",
+      "n": "InstructionsAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ScoreInstructionsAudio"
+    },
+    {
+      "s": "Petite Miss Bossy ",
+      "t": "A",
+      "v": "732635_1",
+      "n": "Question7Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupPoorAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupRockedAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupAwfulAudio"
+    },
+    {
+      "s": "Faire du kart Mozart ",
+      "t": "A",
+      "v": "732630_1",
+      "n": "Question2Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupGoodAudio"
+    },
+    {
+      "s": "... d'un livre pour enfants... ou... ",
+      "t": "A",
+      "v": "732641_4",
+      "n": "DisAudio"
+    },
+    {
+      "s": "Pete le hors-la-loi ",
+      "t": "A",
+      "v": "732631_1",
+      "n": "Question3Audio"
+    },
+    {
+      "s": "Bonne nuit Ténèbres aux abords de la ville... et un deux trois quatre... c'est un Dis ou Dat ",
+      "t": "A",
+      "v": "732627_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "... d'une chanson de Springsteen ",
+      "t": "A",
+      "v": "732642_3",
+      "n": "DatAudio"
+    },
+    {
+      "s": "Pete le chat ",
+      "t": "A",
+      "v": "732632_1",
+      "n": "Question4Audio"
+    },
+    {
+      "s": "Début-Nacré ",
+      "t": "A",
+      "v": "732629_1",
+      "n": "Question1Audio"
+    },
+    {
+      "s": "Petit pistolet ",
+      "t": "A",
+      "v": "732634_1",
+      "n": "Question6Audio"
+    }
+  ]
+}

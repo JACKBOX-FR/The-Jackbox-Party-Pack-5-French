@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "regards sales | concombres | mouvements de danse ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Les gens continuent de me donner <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Les gens n'arrêtent pas de me donner CECI ! ",
+      "t": "A",
+      "v": "767615_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "\"Amber, accepterais-tu ce tournesol ?\" ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "1,3,0,2 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Qu'entendriez-vous sur <i>The Bachelor</i> si les producteurs décidaient que la couleur des fleurs distribuées devait correspondre directement au nom de chaque candidat ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Je ne suis pas là pour faire des frondes ",
+      "t": "A",
+      "v": "721727_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Les cardinaux sont rouges. Votre réponse a explosé. ",
+      "t": "A",
+      "v": "721739_1",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "La seule chose pire que d’avoir un premier rendez-vous difficile, c’est de l’avoir disponible dans un coffret. ",
+      "t": "A",
+      "v": "721728_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "721730_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "Je ne sais pas s'il y a un lien ici. ",
+      "t": "A",
+      "v": "721737_3",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "L'ébène décrit une couleur sombre, le jasmin est traditionnellement blanc. S'il vous plaît, dites au revoir. ",
+      "t": "A",
+      "v": "721735_3",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Le tournesol est d’une riche couleur jaune autrement connue sous le nom d’ambre. ",
+      "t": "A",
+      "v": "721732_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Bien sûr, ce n’est pas grave quand c’est à la télé, mais quand j’essaie de sortir avec 20 femmes en même temps, ça s’appelle une secte ! ",
+      "t": "A",
+      "v": "721733_2",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "What would you hear on  <i>The Bachelor</i> if the producers decided the color of the flowers given out should directly match each contestant’s name?",
+      "t": "A",
+      "v": "721729_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

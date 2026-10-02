@@ -1,0 +1,142 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "mmmm, œufs ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "2,3,1,0 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Si vous preniez une grosse bouchée de <i>La Naissance de Vénus</i> de Botticelli, à cause de la peinture à la détrempe utilisée par l'artiste de la Renaissance, quel goût aurait-elle ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Réveillez-vous et sentez l'art ",
+      "t": "A",
+      "v": "727866_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "mmmm... non. (TOUS) ",
+      "t": "A",
+      "v": "727878_2",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "727869_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "mmmm...non. (TOUS) ",
+      "t": "A",
+      "v": "727876_0",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "mmmm... non. (TOUS) ",
+      "t": "A",
+      "v": "727874_0",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "La peinture à la détrempe, ou détrempe à l'œuf, contenait du jaune d'œuf et était populaire parmi les artistes de la Renaissance. ",
+      "t": "A",
+      "v": "727871_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Les crevettes tempura de mon grill hibachi local sont une véritable œuvre d'art. ",
+      "t": "A",
+      "v": "727872_2",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "If you took a big bite of Botticelli’s <i>The Birth of Venus</i>, due to the tempera paint the Renaissance artist used, how would it taste?",
+      "t": "A",
+      "v": "727868_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

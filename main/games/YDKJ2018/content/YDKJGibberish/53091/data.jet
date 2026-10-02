@@ -1,0 +1,100 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "S",
+      "v": "C'est une saison chaude... ",
+      "n": "Clue1Text"
+    },
+    {
+      "t": "S",
+      "v": "...mais j'ai encore froid. ",
+      "n": "Clue2Text"
+    },
+    {
+      "t": "S",
+      "v": "« Cool pour l'été » ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "frais pour l'été, frais pour l'été, frais pour l'été, frais 4 pour l'été ",
+      "n": "Acceptable"
+    },
+    {
+      "t": "S",
+      "v": "Je suis glacial en juillet. ",
+      "n": "Clue3Text"
+    },
+    {
+      "t": "S",
+      "v": "Ce cochon est un con ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "Sanglier cruel, hein ? Déception ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "C'est une saison chaude... ",
+      "t": "A",
+      "v": "758706_1",
+      "n": "Clue1Audio"
+    },
+    {
+      "s": "Ce cochon est un con ",
+      "t": "A",
+      "v": "758701_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Je suis glacial en juillet. ",
+      "t": "A",
+      "v": "758708_1",
+      "n": "Clue3Audio"
+    },
+    {
+      "s": "Découvrez cette phrase charabia et dites-moi avec quel titre de chanson populaire elle rime. ",
+      "t": "A",
+      "v": "758702_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "OutroAudio"
+    },
+    {
+      "s": "...mais j'ai encore froid. ",
+      "t": "A",
+      "v": "758707_1",
+      "n": "Clue2Audio"
+    },
+    {
+      "s": "Sanglier cruel, hein ? Déception ",
+      "t": "A",
+      "v": "758703_3",
+      "n": "QuestionAudio"
+    }
+  ]
+}

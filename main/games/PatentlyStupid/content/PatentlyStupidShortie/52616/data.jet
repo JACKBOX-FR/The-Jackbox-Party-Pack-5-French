@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "utiliser du plastique|tuer les moustiques|mâcher la bouche ouverte ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Dans cinq ans, nous dirons tous : « Nous aurions dû arrêter <BLANK> ». ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je crains que dans cinq ans, nous regretterons de ne pas avoir arrêté CELA ! ",
+      "t": "A",
+      "v": "752562_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

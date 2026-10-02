@@ -1,0 +1,151 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "tu as supplié tes parents de leur donner du Candy Corn ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "S+2,97 ",
+      "n": "$QuestionAudio$QuestionTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "1,3,2,0 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Un enfant des années 1890, bien sûr. ",
+      "n": "QuestionText2"
+    },
+    {
+      "t": "S",
+      "v": "Before",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "What’s a sure sign that you were a ‘90s kid?",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Pour les vrais enfants des années 90 ",
+      "t": "A",
+      "v": "708187_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "En parlant de ratés... ",
+      "t": "A",
+      "v": "708199_1",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "708190_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "(déçu) Oh... Henry... ",
+      "t": "A",
+      "v": "708195_1",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Oh Henry bars, Milk Duds, and Bit-O-Honey we’re all invented in the 1920’s. Candy corn, however, was introduced in the 1880s, therefore it’s the only candy true 1890’s kids would’ve begged their parents for.",
+      "t": "A",
+      "v": "708192_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "But now millennials are killing the bland candy industry.",
+      "t": "A",
+      "v": "708193_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "What’s a sure sign that you were a ‘90s kid? (beat) An 1890’s kid, that is.",
+      "t": "A",
+      "v": "708189_3",
+      "n": "QuestionAudio"
+    }
+  ]
+}

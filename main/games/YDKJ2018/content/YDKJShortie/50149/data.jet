@@ -1,0 +1,143 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "La Chine, mais ce ne sont pas mes affaires ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "1,0,2,3 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Si Kermit la grenouille sirotait autant de thé qu'il en avait besoin pour s'installer dans le pays qui est le leader mondial en matière de production de thé, où irait-il ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Ombre de marionnettes ",
+      "t": "A",
+      "v": "717544_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "[sfx : son long et excité de quelqu'un qui sirote du thé, si possible, les sons suggèrent que le buveur est excité mais essaie de faire semblant de boire du thé avec désinvolture et de ne pas y prêter attention] ",
+      "t": "A",
+      "v": "717556_0",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Je ne comprends pas vraiment celui-ci, donc je suppose que c'est un mème. ",
+      "t": "A",
+      "v": "717545_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "717547_2",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "[sfx : son long et excité de quelqu'un qui sirote du thé, si possible, les sons suggèrent que le buveur est excité mais essaie de faire semblant de boire du thé avec désinvolture et de ne pas y prêter attention] ",
+      "t": "A",
+      "v": "717554_0",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "[sfx : son long et excité de quelqu'un qui sirote du thé, si possible, les sons suggèrent que le buveur est excité mais essaie de faire semblant de boire du thé avec désinvolture et de ne pas y prêter attention] ",
+      "t": "A",
+      "v": "717552_0",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "La Chine est le leader mondial en matière de production de thé... d'un million de tonnes. L'Inde, le Kenya et le Sri Lanka sont respectivement deuxième, troisième et quatrième. ",
+      "t": "A",
+      "v": "717549_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Kermit ne boit que du thé noir car il n'est pas facile d'en trouver du vert. ",
+      "t": "A",
+      "v": "717550_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "If Kermit the Frog were sipping so much tea he needed to move to the country that leads the world in tea production, where would he move?",
+      "t": "A",
+      "v": "717546_3",
+      "n": "QuestionAudio"
+    }
+  ]
+}

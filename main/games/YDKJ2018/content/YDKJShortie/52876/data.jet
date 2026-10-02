@@ -1,0 +1,149 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Geai ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "S+3.50 ",
+      "n": "$QuestionAudio$QuestionTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "2,3,0,1 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Comment dois-je appeler mon PLUS COURT ? ",
+      "n": "QuestionText2"
+    },
+    {
+      "t": "S",
+      "v": "Before",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Suppose I nicknamed my nipples the “Duplass brothers.”",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Un effet de mamelon ",
+      "t": "A",
+      "v": "756085_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "OR\nC'est un petit pincement. ",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "756088_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "OR\nFermer, mais pas de pincement. ",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "OU\nJe n'ai pas mordu le bon. ",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "According to IMDB, Jay is 5’9“ and Mark is 5’11”.",
+      "t": "A",
+      "v": "756090_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "I went jogging the other day in a mesh top so right now Jay and Mark looked like they got the crap beat out of them.",
+      "t": "A",
+      "v": "756091_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "Suppose I nicknamed my nipples the “Duplass brothers.” What should I call my shorter one?",
+      "t": "A",
+      "v": "756087_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

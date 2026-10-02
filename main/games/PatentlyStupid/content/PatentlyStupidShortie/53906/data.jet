@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "les années 1940 | mon chien | dormir jusqu'à midi ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "<BLANK> me manque vraiment ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Ça me manque vraiment, vraiment, vraiment, vraiment ! Vraiment ! ",
+      "t": "A",
+      "v": "767820_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

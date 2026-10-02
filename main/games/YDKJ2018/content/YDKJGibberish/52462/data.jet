@@ -1,0 +1,100 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "S",
+      "v": "Je parle de moi... ",
+      "n": "Clue1Text"
+    },
+    {
+      "t": "S",
+      "v": "....et je ne suis pas bon. ",
+      "n": "Clue2Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Moi méprisable</i> ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Moi méprisable, moi méprisable, moi méprisable, moi méprisable ",
+      "n": "Acceptable"
+    },
+    {
+      "t": "S",
+      "v": "Je suis un gars répugnant. ",
+      "n": "Clue3Text"
+    },
+    {
+      "t": "S",
+      "v": "Il ne saute pas le jour de l'aile ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "Nous choisissons l'abeille swole. ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Je parle de moi... ",
+      "t": "A",
+      "v": "749992_1",
+      "n": "Clue1Audio"
+    },
+    {
+      "s": "Il ne saute pas le jour de l'aile ",
+      "t": "A",
+      "v": "749987_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Je suis un gars répugnant. ",
+      "t": "A",
+      "v": "749994_1",
+      "n": "Clue3Audio"
+    },
+    {
+      "s": "Découvrez cette phrase charabia et dites-moi avec quel titre de film elle rime. ",
+      "t": "A",
+      "v": "749988_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "OutroAudio"
+    },
+    {
+      "s": "....et je ne suis pas bon. ",
+      "t": "A",
+      "v": "749993_1",
+      "n": "Clue2Audio"
+    },
+    {
+      "s": "Nous choisissons l'abeille swole. ",
+      "t": "A",
+      "v": "749989_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

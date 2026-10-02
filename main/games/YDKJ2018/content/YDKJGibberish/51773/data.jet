@@ -1,0 +1,100 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "S",
+      "v": "On entend ça dans les émissions de télé-réalité... ",
+      "n": "Clue1Text"
+    },
+    {
+      "t": "S",
+      "v": "...généralement d'un «méchant». ",
+      "n": "Clue2Text"
+    },
+    {
+      "t": "S",
+      "v": "Je ne suis pas là pour me faire des amis. ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Je ne suis pas là pour me faire des amis, je n'entends pas me faire des amis, je ne suis pas là pour me faire des amis, je ne suis pas là pour me faire des amis ",
+      "n": "Acceptable"
+    },
+    {
+      "t": "S",
+      "v": "Ce n’est pas un endroit où je suis arrivé pour développer une nouvelle affection pour les autres. ",
+      "n": "Clue3Text"
+    },
+    {
+      "t": "S",
+      "v": "Marketing auprès d’une faune attrayante ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "Euh, les cerfs chauds brisent les tendances. ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "On entend ça dans les émissions de télé-réalité... ",
+      "t": "A",
+      "v": "740017_2",
+      "n": "Clue1Audio"
+    },
+    {
+      "s": "Marketing auprès d’une faune attrayante ",
+      "t": "A",
+      "v": "740012_2",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Ce n’est pas un endroit où je suis arrivé pour développer une nouvelle affection pour les autres. ",
+      "t": "A",
+      "v": "740019_1",
+      "n": "Clue3Audio"
+    },
+    {
+      "s": "Regardez cette phrase charabia et dites-moi avec quelle phrase populaire elle rime. ",
+      "t": "A",
+      "v": "740013_2",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "OutroAudio"
+    },
+    {
+      "s": "...généralement d'un «méchant». ",
+      "t": "A",
+      "v": "740018_2",
+      "n": "Clue2Audio"
+    },
+    {
+      "s": "Euh, les cerfs chauds brisent les tendances. ",
+      "t": "A",
+      "v": "740014_3",
+      "n": "QuestionAudio"
+    }
+  ]
+}

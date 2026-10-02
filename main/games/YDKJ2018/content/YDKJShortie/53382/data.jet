@@ -1,0 +1,141 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "<i>L'Illiade</i> ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "3,0,1,2 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Si <i>Frasier</i> est <i>L'Odyssée</i>, qu'est-ce que <i>Cheers</i> ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Frayer ",
+      "t": "A",
+      "v": "761704_7",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Non, c'est la refonte où Fraiser tente de tuer Martin. ",
+      "t": "A",
+      "v": "761716_1",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "D'accord, finissons-en, je suppose. ",
+      "t": "A",
+      "v": "761705_8",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "761707_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "L'Illiade précède L'Odyssée, tout comme Cheers précède Fraiser. ",
+      "t": "A",
+      "v": "761709_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Eh bien, maintenant que nous avons presque fini... (criant hors du micro) tous les scénaristes peuvent rentrer chez eux et recommencer à regarder Frasier en frénésie, je suppose !! ",
+      "t": "A",
+      "v": "761710_7",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "If <i>Frasier</i> is <i>The Odyssey</i>, what is <i>Cheers</i>?",
+      "t": "A",
+      "v": "761706_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

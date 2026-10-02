@@ -1,0 +1,140 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "un QUINTILLIONaire ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "3,0,1,2 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Qui serait membre du SIX Comma Club ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Les riches deviennent ridiculement plus riches ",
+      "t": "A",
+      "v": "721088_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "OU\nC'est de la monnaie. ",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "J’ai donc entendu dire que certains milliardaires se disent membres du Three Comma Club, parce que, vous savez, il y a trois virgules dans un milliard. Alors, dis-moi ça... ",
+      "t": "A",
+      "v": "721089_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "721091_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "OU\nC'est faux. Période. (Tous) ",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Un quintillion comporte dix-huit zéros et, par conséquent, six virgules pour l'accompagner. ",
+      "t": "A",
+      "v": "721093_2",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Si j’avais autant de virgules, j’en donnerais au moins la moitié aux pauvres. Je veux dire, je garderais bien sûr tout mon argent, mais les pauvres peuvent avoir la moitié de la ponctuation. ",
+      "t": "A",
+      "v": "721094_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "Who would be a member of the SIX Comma Club?",
+      "t": "A",
+      "v": "721090_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "une question qui implique un moment de calme ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "une question qui ne cesse d'être interrompue ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "53751 ",
+      "n": "Choice2Id"
+    },
+    {
+      "t": "S",
+      "v": "Souhaitez-vous une question qui implique un moment de calme ou une question qui est constamment interrompue ? ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "53750",
+      "n": "Choice1Id"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "Souhaitez-vous une question qui implique un moment de calme ou une question qui est constamment interrompue ?",
+      "t": "A",
+      "v": "767142_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

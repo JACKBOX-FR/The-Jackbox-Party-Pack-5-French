@@ -1,0 +1,139 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Qu'est-ce que c'est ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "0,2,3,1 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Qu'est-ce qu'une contraction ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Syntaxe au maximum ",
+      "t": "A",
+      "v": "738569_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "OU ",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Grammaticalement parlant...",
+      "t": "A",
+      "v": "738570_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "738572_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "OR\nVous ne pouvez pas croire que vous vous êtes trompé. (Tous) ",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Une contraction, c'est lorsqu'un nom et un verbe se combinent et que vous remplacez la lettre omise par une apostrophe. ",
+      "t": "A",
+      "v": "738574_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "OU\nSuper ! Maintenant, je peux l'expliquer à cette femme enceinte qui n'arrête pas de me plaindre de ses contractions. C'est juste de la grammaire, madame ! De plus, comment continuez-vous à entrer ici ?\nOR\nComme le démontre cette question, nous payons nos écrivains au mot. \nOU ",
+      "t": "A",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "What’s a contraction?",
+      "t": "A",
+      "v": "738571_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

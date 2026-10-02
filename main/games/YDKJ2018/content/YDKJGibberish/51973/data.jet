@@ -1,0 +1,100 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "S",
+      "v": "Salutations de... ",
+      "n": "Clue1Text"
+    },
+    {
+      "t": "S",
+      "v": "...le monde des dinosaures. ",
+      "n": "Clue2Text"
+    },
+    {
+      "t": "S",
+      "v": "Bienvenue dans Jurassic Park ! ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "bienvenue aussi parc jurassique, bienvenue au parc jurassique, bienvenue au parc jurassique, bienvenue au parc jurrassique, bienvenue au parc jurassique ",
+      "n": "Acceptable"
+    },
+    {
+      "t": "S",
+      "v": "Bonjour, vous êtes au pays des monstres ! ",
+      "n": "Clue3Text"
+    },
+    {
+      "t": "S",
+      "v": "Bien essayé, officier ! ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "Vous sentez de la colle ? Tu es classique, narc ! ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Salutations de... ",
+      "t": "A",
+      "v": "742763_1",
+      "n": "Clue1Audio"
+    },
+    {
+      "s": "Bien essayé, officier ! ",
+      "t": "A",
+      "v": "742758_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Bonjour, vous êtes au pays des monstres ! ",
+      "t": "A",
+      "v": "742765_1",
+      "n": "Clue3Audio"
+    },
+    {
+      "s": "Découvrez cette phrase charabia et dites-moi avec quelle ligne de film elle rime. ",
+      "t": "A",
+      "v": "742759_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "OutroAudio"
+    },
+    {
+      "s": "...le monde des dinosaures. ",
+      "t": "A",
+      "v": "742764_1",
+      "n": "Clue2Audio"
+    },
+    {
+      "s": "Vous sentez de la colle ? Tu es classique, narc ! ",
+      "t": "A",
+      "v": "742760_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

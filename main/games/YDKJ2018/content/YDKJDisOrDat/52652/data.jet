@@ -1,0 +1,245 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion5Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupPoorAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasDisAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion1Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion4Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTimingInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasScoreInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupRockedAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupAwfulAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion7Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasDatAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion6Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion3Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupOutroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupGoodAudio"
+    },
+    {
+      "t": "S",
+      "v": "S+7.70",
+      "n": "$InstructionsAudio$DatTextCue"
+    },
+    {
+      "t": "S",
+      "v": "Austen-tatif ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "POUVOIRS D'AUSTIN ",
+      "n": "DatButtonText"
+    },
+    {
+      "t": "S",
+      "v": "JANE AUSTEN ",
+      "n": "DisButtonText"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$InstructionsAudio$BothCue"
+    },
+    {
+      "t": "S",
+      "v": "un personnage d'un roman de Jane Austen ",
+      "n": "DisText"
+    },
+    {
+      "t": "S",
+      "v": "un personnage d'un film <i>Austin Powers</i> ",
+      "n": "DatText"
+    },
+    {
+      "t": "S",
+      "v": "S+4.40",
+      "n": "$InstructionsAudio$DisTextCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$DisAudio$DisButtonCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$DatAudio$DatButtonCue"
+    },
+    {
+      "s": "Emma Woodhouse ",
+      "t": "A",
+      "v": "752875_1",
+      "n": "Question5Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "TimingInstructionsAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupOutroAudio"
+    },
+    {
+      "s": "Je vais lister les noms de sept femmes et pour chacune d'elles, vous me direz si c'est #un personnage d'un roman de Jane Austen ou #un personnage d'un film d'Austin Powers. ",
+      "t": "A",
+      "v": "752870_2",
+      "n": "InstructionsAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ScoreInstructionsAudio"
+    },
+    {
+      "s": "Fanny Prix ",
+      "t": "A",
+      "v": "752877_1",
+      "n": "Question7Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupPoorAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupRockedAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupAwfulAudio"
+    },
+    {
+      "s": "Vanessa Kensington ",
+      "t": "A",
+      "v": "752872_1",
+      "n": "Question2Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupGoodAudio"
+    },
+    {
+      "s": "...Jane Austen....ou... ",
+      "t": "A",
+      "v": "752883_1",
+      "n": "DisAudio"
+    },
+    {
+      "s": "Caroline Bingly ",
+      "t": "A",
+      "v": "752873_1",
+      "n": "Question3Audio"
+    },
+    {
+      "s": "Austen-tatif et faites attention à vos manières parce que c'est un Dis ou Dat ",
+      "t": "A",
+      "v": "752869_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "...Austin Pouvoirs ",
+      "t": "A",
+      "v": "752884_2",
+      "n": "DatAudio"
+    },
+    {
+      "s": "Robin des hirondelles ",
+      "t": "A",
+      "v": "752874_1",
+      "n": "Question4Audio"
+    },
+    {
+      "s": "Mme Farbissina ",
+      "t": "A",
+      "v": "752871_1",
+      "n": "Question1Audio"
+    },
+    {
+      "s": "Kitty Bennet ",
+      "t": "A",
+      "v": "752876_1",
+      "n": "Question6Audio"
+    }
+  ]
+}

@@ -1,1 +1,76 @@
-{"fields":[{"t":"B","v":"true","n":"HasScenarioAudio"},{"t":"B","v":"true","n":"HasCategoryAudio"},{"t":"B","v":"false","n":"HasResponseAudio"},{"t":"S","v":"OR ELSE | BEN AFFLECK | GEICO | JUST KIDDING | GRANDMA","n":"Decoys"},{"t":"S","v":"S+10.85","n":"$ScenarioAudio$QuestionTextCue"},{"t":"S","v":"","n":"Keywords"},{"t":"S","v":"L'arrêtes-tu ?","n":"QuestionText"},{"s":"Writers In The Sky","t":"A","v":"754723_1","n":"CategoryAudio"},{"s":"Your nemesis hires a skywriter to write “MARRY ME” to their romantic partner at the beach tomorrow. Your unscrupulous skywriter friend tells you he will add to the message with THIS STATEMENT. Do you stop him?","t":"A","v":"754724_2","n":"ScenarioAudio"},{"s":"","t":"A","n":"ResponseAudio"},{"n":"ScenarioText1","v":"Ton ennemi juré engage un parachutiste pour écrire \" MARIE-MOI \" à son partenaire romantique à la plage demain.","t":"S"},{"n":"$ScenarioAudio$ScenarioTextCue1","v":"S+0.00","t":"S"},{"n":"ScenarioText2","v":"Ton ami rédacteur en chef sans scrupules te dit qu'il ajoutera au message “<BLANK>.”","t":"S"},{"n":"$ScenarioAudio$ScenarioTextCue2","v":"S+6.09","t":"S"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "OU AUTRE | Ben Affleck | GEICO | Je plaisante | GRAND-MÈRE ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "S+10.85",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "L'arrêtes-tu ?",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Écrivains dans le ciel ",
+      "t": "A",
+      "v": "754723_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Votre ennemi juré engage un skywriter pour écrire «ÉPOUSE-MOI» à son partenaire romantique à la plage demain. Votre ami skywriter sans scrupules vous dit qu'il ajoutera au message CETTE DÉCLARATION. Est-ce que vous l'arrêtez ? ",
+      "t": "A",
+      "v": "754724_2",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    },
+    {
+      "n": "ScenarioText1",
+      "v": "Ton ennemi juré engage un parachutiste pour écrire \" MARIE-MOI \" à son partenaire romantique à la plage demain.",
+      "t": "S"
+    },
+    {
+      "n": "$ScenarioAudio$ScenarioTextCue1",
+      "v": "S+0.00",
+      "t": "S"
+    },
+    {
+      "n": "ScenarioText2",
+      "v": "Ton ami rédacteur en chef sans scrupules te dit qu'il ajoutera au message “<BLANK>.”",
+      "t": "S"
+    },
+    {
+      "n": "$ScenarioAudio$ScenarioTextCue2",
+      "v": "S+6.09",
+      "t": "S"
+    }
+  ]
+}

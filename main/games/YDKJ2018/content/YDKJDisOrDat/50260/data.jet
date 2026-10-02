@@ -1,0 +1,245 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion5Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupPoorAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasDisAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion1Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion4Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTimingInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasScoreInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupRockedAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupAwfulAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion7Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasDatAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion6Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion3Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupOutroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupGoodAudio"
+    },
+    {
+      "t": "S",
+      "v": "S+8.42",
+      "n": "$InstructionsAudio$DatTextCue"
+    },
+    {
+      "t": "S",
+      "v": "Un lapin blanc comme neige ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "<i>Jeu des trônes</i> ",
+      "n": "DatButtonText"
+    },
+    {
+      "t": "S",
+      "v": "<i>De l'autre côté du miroir</i> ",
+      "n": "DisButtonText"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$InstructionsAudio$BothCue"
+    },
+    {
+      "t": "S",
+      "v": "un personnage de <i>De l'autre côté du miroir</i> de Lewis Carroll ",
+      "n": "DisText"
+    },
+    {
+      "t": "S",
+      "v": "un personnage de <i>Game of Thrones</i> ",
+      "n": "DatText"
+    },
+    {
+      "t": "S",
+      "v": "S+4.24",
+      "n": "$InstructionsAudio$DisTextCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$DisAudio$DisButtonCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$DatAudio$DatButtonCue"
+    },
+    {
+      "s": "Bandersnatch ",
+      "t": "A",
+      "v": "719819_1",
+      "n": "Question5Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "TimingInstructionsAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupOutroAudio"
+    },
+    {
+      "s": "Je vais lire sept noms et pour chacun d'eux, je veux que vous me disiez s'il s'agit # d'un personnage de De l'autre côté du miroir de Lewis Carroll ou # d'un personnage de Game of Thrones ",
+      "t": "A",
+      "v": "719814_1",
+      "n": "InstructionsAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ScoreInstructionsAudio"
+    },
+    {
+      "s": "Tarte chaude ",
+      "t": "A",
+      "v": "719821_1",
+      "n": "Question7Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupPoorAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupRockedAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupAwfulAudio"
+    },
+    {
+      "s": "Le roi fou ",
+      "t": "A",
+      "v": "719816_1",
+      "n": "Question2Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupGoodAudio"
+    },
+    {
+      "s": "... De l'autre côté du miroir... ou... ",
+      "t": "A",
+      "v": "719827_3",
+      "n": "DisAudio"
+    },
+    {
+      "s": "Le chien ",
+      "t": "A",
+      "v": "719817_1",
+      "n": "Question3Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "719813_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "... Jeu des Trônes ",
+      "t": "A",
+      "v": "719828_3",
+      "n": "DatAudio"
+    },
+    {
+      "s": "Le moucheron ",
+      "t": "A",
+      "v": "719818_1",
+      "n": "Question4Audio"
+    },
+    {
+      "s": "Le roi rouge ",
+      "t": "A",
+      "v": "719815_1",
+      "n": "Question1Audio"
+    },
+    {
+      "s": "Petit doigt ",
+      "t": "A",
+      "v": "719820_1",
+      "n": "Question6Audio"
+    }
+  ]
+}

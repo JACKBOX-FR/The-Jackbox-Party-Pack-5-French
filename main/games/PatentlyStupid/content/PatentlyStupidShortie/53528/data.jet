@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "ne rien faire | danser | jouer à des jeux vidéo ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je veux aider l'environnement pendant que je <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je veux aider l'environnement tout en faisant CELA ! ",
+      "t": "A",
+      "v": "764416_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

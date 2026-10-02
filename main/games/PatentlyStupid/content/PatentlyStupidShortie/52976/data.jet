@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "combats de chiens | empreintes digitales | publicités ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Chaque fois que j'allume la télé, je vois <BLANK>. ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : J'en ai marre de voir CECI sur mon écran de télé ! ",
+      "t": "A",
+      "v": "757487_2",
+      "n": "PromptAudio"
+    }
+  ]
+}

@@ -1,1 +1,76 @@
-{"fields":[{"t":"B","v":"true","n":"HasScenarioAudio"},{"t":"B","v":"true","n":"HasCategoryAudio"},{"t":"B","v":"false","n":"HasResponseAudio"},{"t":"S","v":"a butt | a thumbs down | a dong | an eggplant emoji | “you suck”","n":"Decoys"},{"t":"S","v":"S+7.10","n":"$ScenarioAudio$QuestionTextCue"},{"t":"S","v":"","n":"Keywords"},{"t":"S","v":"Est-ce que tu remercies encore les gens ?","n":"QuestionText"},{"s":"Thanks But No Thanks","t":"A","v":"730401_3","n":"CategoryAudio"},{"s":"Every time someone says “You’re welcome” to you, this projects on your forehead. It’s in super HD.  Do you ever thank someone again?","t":"A","v":"722445_4","n":"ScenarioAudio"},{"s":"","t":"A","n":"ResponseAudio"},{"n":"ScenarioText1","v":"Chaque fois que quelqu'un te dit \"De rien\", <BLANK> se projette sur ton front.","t":"S"},{"n":"$ScenarioAudio$ScenarioTextCue1","v":"S+0.00","t":"S"},{"n":"ScenarioText2","v":"C'est en super HD.","t":"S"},{"n":"$ScenarioAudio$ScenarioTextCue2","v":"S+5.64","t":"S"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "un cul | un pouce vers le bas | un dong | un emoji aubergine | \"tu es nul\" ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "S+7.10",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "Est-ce que tu remercies encore les gens ?",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Merci mais non merci ",
+      "t": "A",
+      "v": "730401_3",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Chaque fois que quelqu’un vous dit « De rien », cela se projette sur votre front. C'est en super HD. Est-ce qu'il vous arrive de remercier encore quelqu'un ? ",
+      "t": "A",
+      "v": "722445_4",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    },
+    {
+      "n": "ScenarioText1",
+      "v": "Chaque fois que quelqu'un te dit \"De rien\", <BLANK> se projette sur ton front.",
+      "t": "S"
+    },
+    {
+      "n": "$ScenarioAudio$ScenarioTextCue1",
+      "v": "S+0.00",
+      "t": "S"
+    },
+    {
+      "n": "ScenarioText2",
+      "v": "C'est en super HD.",
+      "t": "S"
+    },
+    {
+      "n": "$ScenarioAudio$ScenarioTextCue2",
+      "v": "S+5.64",
+      "t": "S"
+    }
+  ]
+}

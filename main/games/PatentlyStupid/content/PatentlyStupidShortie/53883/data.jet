@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "succès | araignées pendant que je dors | mon crachat ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "J'ai peur de m'étouffer avec <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : J'ai une peur paralysante de m'étouffer avec ça ! ",
+      "t": "A",
+      "v": "767749_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

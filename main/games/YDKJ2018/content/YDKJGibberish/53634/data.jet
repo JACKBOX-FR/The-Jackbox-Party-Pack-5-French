@@ -1,0 +1,100 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "S",
+      "v": "Avant, j'étais très bas... ",
+      "n": "Clue1Text"
+    },
+    {
+      "t": "S",
+      "v": "...maintenant je suis au top. ",
+      "n": "Clue2Text"
+    },
+    {
+      "t": "S",
+      "v": "« Commencé par le bas » ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "commencé par le bas, commencé par le bas, commencé par le bas, commencé par le bas, commencé par le bas",
+      "n": "Acceptable"
+    },
+    {
+      "t": "S",
+      "v": "La chanson de Drake sur des débuts modestes ",
+      "n": "Clue3Text"
+    },
+    {
+      "t": "S",
+      "v": "Mes goûts de fruits sont très... singuliers ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "Tarte, prune rouge ? Tu les as eu ? ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Avant, j'étais très bas... ",
+      "t": "A",
+      "v": "765739_1",
+      "n": "Clue1Audio"
+    },
+    {
+      "s": "Mes goûts de fruits sont très... singuliers ",
+      "t": "A",
+      "v": "765734_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "La chanson de Drake sur des débuts modestes ",
+      "t": "A",
+      "v": "765741_4",
+      "n": "Clue3Audio"
+    },
+    {
+      "s": "Regardez cette phrase charabia et dites-moi avec quel titre de chanson populaire elle rime. ",
+      "t": "A",
+      "v": "765735_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "OutroAudio"
+    },
+    {
+      "s": "...maintenant je suis au top. ",
+      "t": "A",
+      "v": "765740_1",
+      "n": "Clue2Audio"
+    },
+    {
+      "s": "Tarte, prune rouge ? Tu les as eu ? ",
+      "t": "A",
+      "v": "765736_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

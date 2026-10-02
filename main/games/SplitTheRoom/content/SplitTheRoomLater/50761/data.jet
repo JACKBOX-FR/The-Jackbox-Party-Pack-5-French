@@ -1,0 +1,96 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "Votre avocat | Armes à feu | Serpents | Crêpes | Films d'horreur ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "S+9.50",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "S+4.66",
+      "n": "$ScenarioAudio$ScenarioTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "Journée de travail. ",
+      "n": "ScenarioText3"
+    },
+    {
+      "t": "S",
+      "v": "S+5.75",
+      "n": "$ScenarioAudio$ScenarioTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "Si vous ramenez votre petite fille à la maison, elle sera écrasée. ",
+      "n": "ScenarioText4"
+    },
+    {
+      "t": "S",
+      "v": "Vous arrivez au bureau et découvrez que ce n'est pas la journée Amenez votre fille au travail, mais plutôt Amenez votre fille au travail. ",
+      "n": "ScenarioText1"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00 ",
+      "n": "$ScenarioAudio$ScenarioTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "<BLANK> ",
+      "n": "ScenarioText2"
+    },
+    {
+      "t": "S",
+      "v": "S+6.70",
+      "n": "$ScenarioAudio$ScenarioTextCue4"
+    },
+    {
+      "t": "S",
+      "v": "La laissez-vous rester ? ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Une affaire de famille ",
+      "t": "A",
+      "v": "La laissez-vous rester ? ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Vous arrivez au bureau et découvrez que ce n’est pas la journée « Amenez votre fille au travail », mais plutôt la journée « Apportez cette chose au travail ». Si vous ramenez votre petite fille à la maison, elle sera écrasée. La laissez-vous rester ? ",
+      "t": "A",
+      "v": "726342_3",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "dentifrice | café | défaite",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je déteste le goût de <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Pouah. J'ai le goût de CELA dans ma bouche et je veux que ça disparaisse ! ",
+      "t": "A",
+      "v": "767743_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

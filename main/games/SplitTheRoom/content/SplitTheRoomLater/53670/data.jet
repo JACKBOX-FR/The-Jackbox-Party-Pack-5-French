@@ -1,0 +1,96 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "républicain hardcore | Je mange ma propre merde | toujours vierge | Ventilateur Nickelback | fan de pieds ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "S+8.05",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "S+3.36",
+      "n": "$ScenarioAudio$ScenarioTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "Dans votre bio, vous devez écrire, ",
+      "n": "ScenarioText3"
+    },
+    {
+      "t": "S",
+      "v": "S+4.66",
+      "n": "$ScenarioAudio$ScenarioTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "\"<BLANK>.\" ",
+      "n": "ScenarioText4"
+    },
+    {
+      "t": "S",
+      "v": "Vous pouvez rapidement gagner 10 000 vrais followers sur les réseaux sociaux. ",
+      "n": "ScenarioText1"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00 ",
+      "n": "$ScenarioAudio$ScenarioTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Il y a cependant un piège. ",
+      "n": "ScenarioText2"
+    },
+    {
+      "t": "S",
+      "v": "S+6.49",
+      "n": "$ScenarioAudio$ScenarioTextCue4"
+    },
+    {
+      "t": "S",
+      "v": "Le faites-vous ? ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Risque biologique ",
+      "t": "A",
+      "v": "Le faites-vous ? ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Vous pouvez rapidement gagner 10 000 vrais followers sur les réseaux sociaux. Il y a cependant un piège. Dans votre bio, vous devez écrire CECI. Le faites-vous ? ",
+      "t": "A",
+      "v": "766304_3",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    }
+  ]
+}

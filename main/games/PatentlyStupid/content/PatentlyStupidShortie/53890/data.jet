@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Mes voisins ennuyeux | un essaim d'abeilles | Le Grincheux ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Chaque fois que j'organise une fête, <BLANK> apparaît ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : C’est la même vieille histoire. J'organise une fête et CECI apparaît ! ",
+      "t": "A",
+      "v": "767771_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

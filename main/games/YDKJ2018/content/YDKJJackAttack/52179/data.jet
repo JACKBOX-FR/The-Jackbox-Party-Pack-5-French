@@ -1,0 +1,421 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_6Correct"
+    },
+    {
+      "t": "S",
+      "v": "Australie ",
+      "n": "Choice6_6Text"
+    },
+    {
+      "t": "S",
+      "v": "bleu ",
+      "n": "Root2Text"
+    },
+    {
+      "t": "S",
+      "v": "Afrique du Sud ",
+      "n": "Choice5_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Finlande ",
+      "n": "Choice2_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Japon ",
+      "n": "Choice4_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Canada ",
+      "n": "Choice6_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Fierté LGBTQ ",
+      "n": "Choice3_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Maison Gryffondor ",
+      "n": "Choice1_6Text"
+    },
+    {
+      "t": "S",
+      "v": "rouge ",
+      "n": "Root1Text"
+    },
+    {
+      "t": "S",
+      "v": "Mexique ",
+      "n": "Choice6_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Irlande ",
+      "n": "Choice2_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Pakistan ",
+      "n": "Choice4_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Un enthousiasme en baisse ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "Grèce ",
+      "n": "Choice2_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Ordre Jedi ",
+      "n": "Choice4_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Finlande ",
+      "n": "Choice1_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Jolly Roger ",
+      "n": "Choice5_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Royaume-Uni ",
+      "n": "Choice1_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Israël ",
+      "n": "Choice3_4Text"
+    },
+    {
+      "t": "S",
+      "v": "pénalité de football ",
+      "n": "Choice1_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Norvège ",
+      "n": "Choice4_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Maison Arryn ",
+      "n": "Choice2_5Text"
+    },
+    {
+      "t": "S",
+      "v": "étoiles ",
+      "n": "Root5Text"
+    },
+    {
+      "t": "S",
+      "v": "un cercle ",
+      "n": "Root4Text"
+    },
+    {
+      "t": "S",
+      "v": "Brésil ",
+      "n": "Choice4_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Chine ",
+      "n": "Choice2_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Russie ",
+      "n": "Choice6_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Espagne ",
+      "n": "Choice5_6Text"
+    },
+    {
+      "t": "S",
+      "v": "France ",
+      "n": "Choice1_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Irlande ",
+      "n": "Choice3_3Text"
+    },
+    {
+      "t": "S",
+      "v": "États-Unis ",
+      "n": "Choice5_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Italie ",
+      "n": "Choice3_1Text"
+    },
+    {
+      "t": "S",
+      "v": "L'Iran ",
+      "n": "Choice3_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Japon ",
+      "n": "Choice1_2Text"
+    },
+    {
+      "t": "S",
+      "v": "NASA ",
+      "n": "Choice5_5Text"
+    },
+    {
+      "t": "S",
+      "v": "rayures horizontales ",
+      "n": "Root3Text"
+    },
+    {
+      "t": "S",
+      "v": "Maison Poufsouffle ",
+      "n": "Choice6_2Text"
+    },
+    {
+      "t": "S",
+      "v": "un animal ",
+      "n": "Root6Text"
+    },
+    {
+      "t": "S",
+      "v": "commencer la course ",
+      "n": "Choice2_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Fédération Unie des Planètes ",
+      "n": "Choice4_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Espagne ",
+      "n": "Choice6_3Text"
+    },
+    {
+      "t": "S",
+      "v": "États-Unis ",
+      "n": "Choice3_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Nouvelle-Zélande ",
+      "n": "Choice5_1Text"
+    },
+    {
+      "s": "Un enthousiasme en baisse ",
+      "t": "A",
+      "v": "745989_3 ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "J’espère bien que vous avez vu ce qu’il y a sur certains drapeaux dans votre vie. Bonne chance... ",
+      "t": "A",
+      "v": "745990_3 ",
+      "n": "IntroAudio"
+    }
+  ]
+}

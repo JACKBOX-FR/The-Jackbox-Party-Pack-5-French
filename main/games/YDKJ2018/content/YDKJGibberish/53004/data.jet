@@ -1,0 +1,100 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "S",
+      "v": "Les couleurs sont détectées... ",
+      "n": "Clue1Text"
+    },
+    {
+      "t": "S",
+      "v": "...sur ta langue. ",
+      "n": "Clue2Text"
+    },
+    {
+      "t": "S",
+      "v": "Goûtez l'arc-en-ciel. ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "goûte un arc-en-ciel, goûte le ranebow, goûte l'arc-en-ciel, goûte l'arc-en-ciel ",
+      "n": "Acceptable"
+    },
+    {
+      "t": "S",
+      "v": "De délicieux bonbons tropicaux moelleux ! ",
+      "n": "Clue3Text"
+    },
+    {
+      "t": "S",
+      "v": "Je suis le gars qui dessine à la craie les contours des meurtres d'animaux ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "J'ai retrouvé une biche tuée. ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Les couleurs sont détectées... ",
+      "t": "A",
+      "v": "757866_1",
+      "n": "Clue1Audio"
+    },
+    {
+      "s": "Je suis le gars qui dessine à la craie les contours des meurtres d'animaux ",
+      "t": "A",
+      "v": "757861_2",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "De délicieux bonbons tropicaux moelleux ! ",
+      "t": "A",
+      "v": "757868_1",
+      "n": "Clue3Audio"
+    },
+    {
+      "s": "Notez cette phrase charabia et dites-moi avec quel slogan de marque elle rime. ",
+      "t": "A",
+      "v": "757862_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "OutroAudio"
+    },
+    {
+      "s": "...sur ta langue. ",
+      "t": "A",
+      "v": "757867_1",
+      "n": "Clue2Audio"
+    },
+    {
+      "s": "J'ai retrouvé une biche tuée. ",
+      "t": "A",
+      "v": "757863_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

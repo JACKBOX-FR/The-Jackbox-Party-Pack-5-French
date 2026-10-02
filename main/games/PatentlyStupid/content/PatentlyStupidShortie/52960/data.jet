@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "mon corps | exterminateurs | ma soeur ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je ne fais pas confiance à <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je n’ai tout simplement pas dans mon cœur de faire confiance à CELA ! ",
+      "t": "A",
+      "v": "757408_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

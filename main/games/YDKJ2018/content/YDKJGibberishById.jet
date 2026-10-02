@@ -1,0 +1,28 @@
+{
+    "content": [
+        {
+            "id": "53695",
+            "category": {
+                "text": "Ce sentiment étrange, comme si quelque chose de très important vous manquait"
+            },
+            "gibberishText": {
+                "text": "Oui, singez le Tim que vous pouvez éviter."
+            },
+            "spellings": [],
+            "correctText": {
+                "text": "Échappez à la simulation."
+            },
+            "clues": [
+                {
+                    "text": "Vous êtes piégé en dehors de la réalité, Cookie...."
+                },
+                {
+                    "text": "... et vous devez \u201csortir de la simulation.\u201d"
+                },
+                {
+                    "text": "Sérieusement, la réponse est « échapper à la simulation »."
+                }
+            ]
+        }
+    ]
+}

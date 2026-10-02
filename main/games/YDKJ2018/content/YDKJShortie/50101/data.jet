@@ -1,0 +1,142 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "un GRAIN DE CAFÉ portant des mitaines ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "1,3,0,2 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Lequel de ces haricots smol est totalement smol mais PAS DU TOUT UN HARICOT ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Moins de gonflement, plus de Smol ",
+      "t": "A",
+      "v": "716643_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "(comme si quelque chose était super adorable) Ahhhhhhh. ",
+      "t": "A",
+      "v": "716655_3",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Écoutez, je ne suis pas au courant à 100% de tout mon jargon Internet, mais selon ma nièce de sept ans, un haricot smol est une petite chose adorable. ",
+      "t": "A",
+      "v": "716644_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "716646_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "Oh mon petit enfant. ",
+      "t": "A",
+      "v": "716651_2",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Mis à part la fumée, les grains de café ne sont pas des grains... ce sont des graines. ",
+      "t": "A",
+      "v": "716648_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "De plus, le café n’est pas adorable, c’est mortellement sérieux ET J’EN AI VRAIMENT BESOIN MAINTENANT !! PERSONNE!!?? ",
+      "t": "A",
+      "v": "716649_2",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "Which of these smol beans is totally smol but NOT A BEAN AT ALL?",
+      "t": "A",
+      "v": "716645_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

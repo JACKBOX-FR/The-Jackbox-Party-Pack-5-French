@@ -1,0 +1,96 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "enlever tous leurs poils | boire cinq Red Bulls | faire l'amour romantique | un combat à coups de poing | révélant vos secrets ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "S+10.42",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "S+3.83",
+      "n": "$ScenarioAudio$ScenarioTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "Le test pour déterminer s’ils sont humains ou non implique ",
+      "n": "ScenarioText3"
+    },
+    {
+      "t": "S",
+      "v": "S+6.40",
+      "n": "$ScenarioAudio$ScenarioTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "<BLANK>. ",
+      "n": "ScenarioText4"
+    },
+    {
+      "t": "S",
+      "v": "Vous êtes coincé dans une station spatiale qui pourrait avoir été infiltrée par un extraterrestre métamorphe. ",
+      "n": "ScenarioText1"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00 ",
+      "n": "$ScenarioAudio$ScenarioTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "<OTHERPLAYER> commence à se comporter de manière suspecte. ",
+      "n": "ScenarioText2"
+    },
+    {
+      "t": "S",
+      "v": "S+9.23",
+      "n": "$ScenarioAudio$ScenarioTextCue4"
+    },
+    {
+      "t": "S",
+      "v": "Effectuez-vous le test ? ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Pointer du doigt ",
+      "t": "A",
+      "v": "Effectuez-vous le test ? ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Vous êtes coincé dans une station spatiale qui pourrait avoir été infiltrée par un extraterrestre métamorphe. <OTHERPLAYER> commence à se comporter de manière suspecte. Le test pour déterminer s’ils sont humains ou non implique CECI. Effectuez-vous le test ? ",
+      "t": "A",
+      "v": "758068_2",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    }
+  ]
+}

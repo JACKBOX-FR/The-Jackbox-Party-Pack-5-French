@@ -1,1 +1,76 @@
-{"fields":[{"t":"B","v":"true","n":"HasScenarioAudio"},{"t":"B","v":"true","n":"HasCategoryAudio"},{"t":"B","v":"false","n":"HasResponseAudio"},{"t":"S","v":"death to america | women belong in the kitchen | abandon all hope | abstain from voting | dropout of school","n":"Decoys"},{"t":"S","v":"S+7.82","n":"$ScenarioAudio$QuestionTextCue"},{"t":"S","v":"","n":"Keywords"},{"t":"S","v":"La laisses-tu continuer à regarder ce dessin animé ?","n":"QuestionText"},{"s":"Same Time, Same Channel","t":"A","v":"731137_1","n":"CategoryAudio"},{"s":"Your daughter is obsessed with this one cartoon. However, when you slow down the video, you find a subliminal message that says this . Do you let her keep watching it?","t":"A","v":"731138_2","n":"ScenarioAudio"},{"s":"","t":"A","n":"ResponseAudio"},{"n":"ScenarioText1","v":"Ta fille est obsédée par ce seul dessin animé.","t":"S"},{"n":"$ScenarioAudio$ScenarioTextCue1","v":"S+0.00","t":"S"},{"n":"ScenarioText2","v":"Cependant, lorsque tu ralentis la vidéo, tu trouves un message subliminal qui dit, “<BLANK>.”","t":"S"},{"n":"$ScenarioAudio$ScenarioTextCue2","v":"S+2.51","t":"S"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "mort à l'Amérique | la place des femmes dans la cuisine | abandonner tout espoir | s'abstenir de voter | décrochage scolaire ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "S+7.82",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "La laisses-tu continuer à regarder ce dessin animé ?",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Même heure, même chaîne ",
+      "t": "A",
+      "v": "731137_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Votre fille est obsédée par ce dessin animé. Cependant, lorsque vous ralentissez la vidéo, vous trouvez un message subliminal qui dit ceci. La laissez-vous continuer à le regarder ? ",
+      "t": "A",
+      "v": "731138_2",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    },
+    {
+      "n": "ScenarioText1",
+      "v": "Ta fille est obsédée par ce seul dessin animé.",
+      "t": "S"
+    },
+    {
+      "n": "$ScenarioAudio$ScenarioTextCue1",
+      "v": "S+0.00",
+      "t": "S"
+    },
+    {
+      "n": "ScenarioText2",
+      "v": "Cependant, lorsque tu ralentis la vidéo, tu trouves un message subliminal qui dit, “<BLANK>.”",
+      "t": "S"
+    },
+    {
+      "n": "$ScenarioAudio$ScenarioTextCue2",
+      "v": "S+2.51",
+      "t": "S"
+    }
+  ]
+}

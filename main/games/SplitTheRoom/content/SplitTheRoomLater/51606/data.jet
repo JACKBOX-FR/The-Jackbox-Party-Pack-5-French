@@ -1,0 +1,96 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "Vous ne pouvez pas avoir d'enfants | Numéros Uggghhhhh | La jeter | Il est temps de soulager quelques engourdissements | je ne donne pas de pourboire ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "S+11.00",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "S+2.82",
+      "n": "$ScenarioAudio$ScenarioTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "Vous sortez pour un déjeuner chic avec votre frère et sa fiancée – qui n’est vraiment pas digne de confiance. ",
+      "n": "ScenarioText3"
+    },
+    {
+      "t": "S",
+      "v": "S+4.21",
+      "n": "$ScenarioAudio$ScenarioTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "Elle vous dit ce que vous devez pour le déjeuner. ",
+      "n": "ScenarioText4"
+    },
+    {
+      "t": "S",
+      "v": "Chaque fois que tu essaies de faire des calculs dans ta tête, tu cries : ",
+      "n": "ScenarioText1"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00 ",
+      "n": "$ScenarioAudio$ScenarioTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "« <BLANK> ! » ",
+      "n": "ScenarioText2"
+    },
+    {
+      "t": "S",
+      "v": "S+9.08",
+      "n": "$ScenarioAudio$ScenarioTextCue4"
+    },
+    {
+      "t": "S",
+      "v": "Est-ce que tu vérifies ses calculs ? ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Astuce supplémentaire ",
+      "t": "A",
+      "v": "Est-ce que tu vérifies ses calculs ? ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Chaque fois que vous essayez de faire des calculs dans votre tête, vous criez CECI. Vous sortez pour un déjeuner chic avec votre frère et sa fiancée – qui n’est vraiment pas digne de confiance. Elle vous dit ce que vous devez pour le déjeuner. Est-ce que tu vérifies ses calculs ? ",
+      "t": "A",
+      "v": "737703_2",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    }
+  ]
+}

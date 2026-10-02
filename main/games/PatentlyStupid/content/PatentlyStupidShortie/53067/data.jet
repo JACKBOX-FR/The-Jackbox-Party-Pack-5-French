@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "vomir | marcher sur les enfants | mange toutes les fleurs ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je <BLANK> toujours aux mariages ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je déteste aller aux mariages parce que je fais toujours CECI ! ",
+      "t": "A",
+      "v": "758432_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

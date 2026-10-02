@@ -1,0 +1,140 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "<i>Jumanji : DE RETOUR EN NOIR</i> ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "3,2,1,0 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Laquelle de ces suites potentielles de <i>Jumanji</i> n'a PAS de chanson de Guns N' Roses maladroitement ajoutée au titre ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Bienvenue dans la jungle encore et encore et encore... ",
+      "t": "A",
+      "v": "720638_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Je pense que ce qui a rendu Jumanji : Welcome to the Jungle si génial, c'est qu'ils ont ajouté une chanson de Gun N Roses au nom sans raison perceptible. ",
+      "t": "A",
+      "v": "720639_2",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "720641_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "J'aurais pensé que le N avec l'apostrophe serait un révélateur... ",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Knockin' on Heaven's Door, Paradise City et Civil War sont toutes des chansons de Guns N' Roses, donc BIEN SÛR elles conviendraient à n'importe quel titre de Jumanji comme un gant maladroit, mais Back in Black est une chanson d'AC/DC. ",
+      "t": "A",
+      "v": "720643_2",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Maintenant, je ne suis pas sûr que Guns N’ Roses ait écrit ses chansons en pensant à la franchise Jumanji toutes ces années, mais il est difficile de croire que tout cela n’est qu’une folle coïncidence. ",
+      "t": "A",
+      "v": "720644_2",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "Which of these potential <i>Jumanji</i> sequels does NOT have a Guns N’ Roses song awkwardly tacked on to the title?",
+      "t": "A",
+      "v": "720640_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

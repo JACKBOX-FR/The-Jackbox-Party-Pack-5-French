@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "oreillers | chats | chemises de nouveauté ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je n'ai jamais de <BLANK> quand j'en ai besoin ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je n'ai jamais CELA quand j'en ai besoin ! ",
+      "t": "A",
+      "v": "767774_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

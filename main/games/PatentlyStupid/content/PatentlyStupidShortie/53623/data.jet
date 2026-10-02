@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "médecine | sandwichs | dignité ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Les animaux sauvages continuent de manger mon <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Les animaux sauvages continuent de manger mon CECI ! ",
+      "t": "A",
+      "v": "765689_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

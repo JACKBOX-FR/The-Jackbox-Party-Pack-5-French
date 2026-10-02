@@ -1,0 +1,96 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "Chuck E. Cheese's | un garde-manger | un lave-auto | un casino | une gare routière ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "S+8.49",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "S+3.59",
+      "n": "$ScenarioAudio$ScenarioTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "Mais l'entrée se fait au fond d'un ",
+      "n": "ScenarioText3"
+    },
+    {
+      "t": "S",
+      "v": "S+5.14",
+      "n": "$ScenarioAudio$ScenarioTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "<BLANK>. ",
+      "n": "ScenarioText4"
+    },
+    {
+      "t": "S",
+      "v": "Vous trouvez un superbe appartement à loyer contrôlé pour la moitié du prix que vous payez actuellement. ",
+      "n": "ScenarioText1"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00 ",
+      "n": "$ScenarioAudio$ScenarioTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "C'est dans un super quartier. ",
+      "n": "ScenarioText2"
+    },
+    {
+      "t": "S",
+      "v": "S+7.28",
+      "n": "$ScenarioAudio$ScenarioTextCue4"
+    },
+    {
+      "t": "S",
+      "v": "Signez-vous un bail de deux ans? ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Chasse à l'appartement ",
+      "t": "A",
+      "v": "Signez-vous un bail de deux ans? ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Vous trouvez un superbe appartement à loyer contrôlé pour la moitié du prix que vous payez actuellement. C'est dans un super quartier. Mais l’entrée se trouve à l’arrière de cet endroit. Signez-vous un bail de deux ans? ",
+      "t": "A",
+      "v": "745494_2",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    }
+  ]
+}

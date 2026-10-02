@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Rock alternatif des années 90 | Père Noël | caviar ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Mes enfants ne laisseront pas <BLANK> tranquille ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Mes enfants ne laisseront pas ça tranquille ! ",
+      "t": "A",
+      "v": "759486_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

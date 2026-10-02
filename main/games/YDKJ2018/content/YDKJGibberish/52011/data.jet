@@ -1,0 +1,100 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "S",
+      "v": "C'est tellement amusant... ",
+      "n": "Clue1Text"
+    },
+    {
+      "t": "S",
+      "v": "...Je fais de la gymnastique. ",
+      "n": "Clue2Text"
+    },
+    {
+      "t": "S",
+      "v": "Se rouler par terre en riant ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "rouler par terre en riant, rouler par terre en riant, rouler par terre en riant, rouler par terre en riant ",
+      "n": "Acceptable"
+    },
+    {
+      "t": "S",
+      "v": "Je tourne en spirale sur le tapis en riant. ",
+      "n": "Clue3Text"
+    },
+    {
+      "t": "S",
+      "v": "Dawn a une idée pour la sortie de travail ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "Au bowling, Dawn ? Euh, plus de personnel. ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "C'est tellement amusant... ",
+      "t": "A",
+      "v": "743297_2",
+      "n": "Clue1Audio"
+    },
+    {
+      "s": "Dawn a une idée pour la sortie de travail ",
+      "t": "A",
+      "v": "743292_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Je tourne en spirale sur le tapis en riant. ",
+      "t": "A",
+      "v": "743299_1",
+      "n": "Clue3Audio"
+    },
+    {
+      "s": "Regardez cette phrase charabia et dites-moi avec quelle phrase Internet courante elle rime. ",
+      "t": "A",
+      "v": "743293_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "OutroAudio"
+    },
+    {
+      "s": "...Je fais de la gymnastique. ",
+      "t": "A",
+      "v": "743298_1",
+      "n": "Clue2Audio"
+    },
+    {
+      "s": "Au bowling, Dawn ? Euh, plus de personnel. ",
+      "t": "A",
+      "v": "743294_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "blog | groupe de garage | nouvelle coupe de cheveux ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je veux que les gens connaissent mon <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je veux parler de CECI au monde ! ",
+      "t": "A",
+      "v": "767126_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Hawaï | espace extra-atmosphérique | une bonne humeur ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "J'aimerais pouvoir toujours être dans <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Non pas que je n'aime pas être ici, mais j'aimerais pouvoir toujours être ICI ! ",
+      "t": "A",
+      "v": "767807_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

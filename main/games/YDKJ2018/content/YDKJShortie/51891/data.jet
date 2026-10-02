@@ -1,0 +1,160 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "Include “Settlers of Catan” and “Scattergories” in your tally.",
+      "n": "QuestionText3"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00 ",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "3 ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "S+3.76 ",
+      "n": "$QuestionAudio$QuestionTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "S+8.90 ",
+      "n": "$QuestionAudio$QuestionTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "0,1,2,3",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "How many of these games are traditionally sold with any kind of timer?<br>",
+      "n": "QuestionText2"
+    },
+    {
+      "t": "S",
+      "v": "Before",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "“Boggle,” “Taboo,” “Apples to Apples,” “Clue” and “Jenga.”<br>",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Calcul de quelques chiffres de sablier ",
+      "t": "A",
+      "v": "741577_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Cette dernière question m'a fait penser aux sabliers. Vous savez, ces petits sabliers en plastique qui accompagnent certains jeux de société. ",
+      "t": "A",
+      "v": "741578_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "741580_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Boggle and Taboo usually come with little sand timers, Scattergories too, although that game eventually added a mechanical timer, which still counts.",
+      "t": "A",
+      "v": "741582_2",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "[It still counts... cuz it’s a timer. It counts down time... no?... okay.]",
+      "t": "A",
+      "v": "741583_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "Boggle, Taboo, Apples to Apples, Clue and Jenga. How many of these games are traditionally sold with any kind of timer? (very brief pause as if question is done) Oh, and include Settlers of Catan and Scattergories in your tally.",
+      "t": "A",
+      "v": "741579_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

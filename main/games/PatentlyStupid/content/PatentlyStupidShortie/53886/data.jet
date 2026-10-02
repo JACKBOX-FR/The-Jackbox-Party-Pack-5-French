@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "mon art | les montagnes | avec vision aux rayons X ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je veux que tout le monde voie <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : J'ai envie que tout le monde voie CECI !",
+      "t": "A",
+      "v": "767758_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

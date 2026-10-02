@@ -1,0 +1,140 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "C’est là-haut dans cette EAR. ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "0,3,2,1 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Pouvez-vous m'orienter vers l'OS D'ÉTRIERS ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Parfois, j'aime faire semblant d'être un petit cowboy fait d'os humains ",
+      "t": "A",
+      "v": "728969_7",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "OU\nImaginez simplement une mauvaise herbe roulant dans la pièce... ",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "(effet sonore : coup de cheval) Salut, partenaire. Je suis un cow-boy en os humain. Je cherche des étriers. Mais je ne connais pas ce Skellyton humain... ",
+      "t": "A",
+      "v": "728970_0f",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "728972_2",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "OU\nJe comprends votre confusion, mais cela ne veut pas dire que je la pardonne... ",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "OR\nIl est temps de flâner. (Tous) ",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "L'os de l'étrier est le plus petit os du corps ; il relaie les vibrations sonores de l’oreille moyenne vers l’oreille interne. ",
+      "t": "A",
+      "v": "728974_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Habituellement, lorsque je joue ce personnage, c’est une question de préliminaires, mais c’est aussi amusant de le faire au travail. ",
+      "t": "A",
+      "v": "728975_5",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "Can you direct me to the STIRRUP BONE?",
+      "t": "A",
+      "v": "728971_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

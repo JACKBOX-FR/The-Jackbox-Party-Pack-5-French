@@ -1,0 +1,143 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Les États-Unis ont payé le DANEMARK pour des trucs de cul ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "1,2,3,0 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Si l’achat des îles Vierges par les États-Unis était enregistré dans Venmo, quelle description hilarante verriez-vous ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Nous sommes en 2018 et j’écris toujours des blagues fatiguées sur mes chèques ",
+      "t": "A",
+      "v": "724829_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "N'importe qui a eu de la monnaie pour une mauvaise réponse. (Tous) ",
+      "t": "A",
+      "v": "724841_3",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "J'adore envoyer de l'argent avec Venmo car les descriptions que mes amis mettent dans leurs transactions sont toujours, TOUJOURS aussi drôles ! ",
+      "t": "A",
+      "v": "724830_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "724832_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "N'importe qui a eu de la monnaie pour une mauvaise réponse. (Tous) ",
+      "t": "A",
+      "v": "724839_0",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "N'importe qui a eu de la monnaie pour une mauvaise réponse. (Tous) ",
+      "t": "A",
+      "v": "724837_0",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "En 1917, les États-Unis ont acheté les îles Vierges aux Danois pour la modique somme de 25 millions de dollars. ",
+      "t": "A",
+      "v": "724834_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Mais en réalité, cela aurait dû être de 25 millions et quatre dollars parce que les États-Unis ont déclaré qu'ils ne voulaient pas des frites commandées par le Danemark, mais quand ils sont arrivés, ils sont allés en ville pour les acheter. ",
+      "t": "A",
+      "v": "724835_4",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "If the United States’ purchase of the Virgin Islands was recorded in Venmo, what hilarious description would you see?",
+      "t": "A",
+      "v": "724831_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

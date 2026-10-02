@@ -1,0 +1,172 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "DATAMINING",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+7.68",
+      "n": "$QuestionAudio$QuestionTextCue4"
+    },
+    {
+      "t": "S",
+      "v": "De qui avons-nous acquis l’historique de recherche ? ",
+      "n": "QuestionText4"
+    },
+    {
+      "t": "S",
+      "v": "\"Est-ce que 'Boy Bag' a un double sens ?\"<br> ",
+      "n": "QuestionText3"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00 ",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Coco Chanel ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "S+2.90",
+      "n": "$QuestionAudio$QuestionTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "S+5.06",
+      "n": "$QuestionAudio$QuestionTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "1,0,2,3",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "“the number 5? trademarkable?”<br>",
+      "n": "QuestionText2"
+    },
+    {
+      "t": "S",
+      "v": "Before",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "“What dress is good for every occasion?”<br>",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Type = { Mode, Célèbre } ",
+      "t": "A",
+      "v": "740586_2",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Avoir tort vous va bien. ",
+      "t": "A",
+      "v": "740598_1",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Cookie : Binjpipe a collecté tellement de données utilisateur qu'il a besoin d'aide pour localiser certains de ses favoris.\nVoix de Binjpipe : Nous n'avons pas de favoris, nous aimons également toutes vos informations personnelles. Comme ça... ",
+      "t": "A",
+      "v": "740587_1f",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "740589_2",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "Clothes...but not clothes enough.",
+      "t": "A",
+      "v": "740594_1",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Coco Chanel popularized the little black dress, introduced the fragrance Chanel No. 5 and named a handbag after her lover Arthur “Boy” Capel.",
+      "t": "A",
+      "v": "740591_2",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Voice of Binjpipe: Thank you for your help. Your willingness to assist us has been noted and will be exploited in the future.",
+      "t": "A",
+      "v": "740592_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "“What dress is good for every occasion?”...“the number 5? trademarkable?”...“Does Boy Bag have a double meaning?” Whose search history have we acquired?",
+      "t": "A",
+      "v": "740588_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

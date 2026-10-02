@@ -1,0 +1,421 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_6Correct"
+    },
+    {
+      "t": "S",
+      "v": "Cannelle ",
+      "n": "Choice6_6Text"
+    },
+    {
+      "t": "S",
+      "v": "chat ",
+      "n": "Root2Text"
+    },
+    {
+      "t": "S",
+      "v": "Pinto ",
+      "n": "Choice5_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Buckeye ",
+      "n": "Choice2_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Danio ",
+      "n": "Choice4_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Velours ",
+      "n": "Choice6_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Mésange ",
+      "n": "Choice3_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Maltais ",
+      "n": "Choice1_6Text"
+    },
+    {
+      "t": "S",
+      "v": "chien ",
+      "n": "Root1Text"
+    },
+    {
+      "t": "S",
+      "v": "Lilas ",
+      "n": "Choice6_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Siamois ",
+      "n": "Choice2_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Betta ",
+      "n": "Choice4_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Bon élevage ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "Mannois ",
+      "n": "Choice2_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Éternuer ",
+      "n": "Choice4_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Chihuahua ",
+      "n": "Choice1_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Barbacoa ",
+      "n": "Choice5_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Samoyède ",
+      "n": "Choice1_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Plongeon ",
+      "n": "Choice3_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Barzoï ",
+      "n": "Choice1_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Molly ",
+      "n": "Choice4_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Poupée de chiffon ",
+      "n": "Choice2_5Text"
+    },
+    {
+      "t": "S",
+      "v": "cheval ",
+      "n": "Root5Text"
+    },
+    {
+      "t": "S",
+      "v": "poisson ",
+      "n": "Root4Text"
+    },
+    {
+      "t": "S",
+      "v": "Loach ",
+      "n": "Choice4_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Turncoat ",
+      "n": "Choice2_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Idiot ",
+      "n": "Choice6_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Sainte Marie ",
+      "n": "Choice5_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Barbizon ",
+      "n": "Choice1_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Doobie ",
+      "n": "Choice3_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Lipizzan ",
+      "n": "Choice5_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Boiteux ",
+      "n": "Choice3_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Crépon ",
+      "n": "Choice3_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Pookenais ",
+      "n": "Choice1_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Nina ",
+      "n": "Choice5_5Text"
+    },
+    {
+      "t": "S",
+      "v": "oiseau ",
+      "n": "Root3Text"
+    },
+    {
+      "t": "S",
+      "v": "Rex ",
+      "n": "Choice6_2Text"
+    },
+    {
+      "t": "S",
+      "v": "lapin ",
+      "n": "Root6Text"
+    },
+    {
+      "t": "S",
+      "v": "Allée ",
+      "n": "Choice2_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Verge d'or ",
+      "n": "Choice4_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Satiné ",
+      "n": "Choice6_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Coucou ",
+      "n": "Choice3_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Pur-sang ",
+      "n": "Choice5_1Text"
+    },
+    {
+      "s": "Bon élevage ",
+      "t": "A",
+      "v": "749483_1 ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "J'espère que vous reconnaissez les races reconnues de ces animaux... bonne chance... ",
+      "t": "A",
+      "v": "749484_1 ",
+      "n": "IntroAudio"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "portefeuille | album photos | porte-chat | épicerie | canne ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "S+7.81",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "S+1.69",
+      "n": "$ScenarioAudio$ScenarioTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "Juste après son départ, vous remarquez qu'il a laissé derrière lui son ",
+      "n": "ScenarioText3"
+    },
+    {
+      "t": "S",
+      "v": "S+4.22",
+      "n": "$ScenarioAudio$ScenarioTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "<BLANK>. ",
+      "n": "ScenarioText4"
+    },
+    {
+      "t": "S",
+      "v": "Vous êtes dans le dernier train de la nuit. ",
+      "n": "ScenarioText1"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00 ",
+      "n": "$ScenarioAudio$ScenarioTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Assis en face de vous se trouve un adorable vieil homme. ",
+      "n": "ScenarioText2"
+    },
+    {
+      "t": "S",
+      "v": "S+6.72",
+      "n": "$ScenarioAudio$ScenarioTextCue4"
+    },
+    {
+      "t": "S",
+      "v": "Est-ce que vous le poursuivez ? ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Portes ouvertes à droite ",
+      "t": "A",
+      "v": "Est-ce que vous le poursuivez ? ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Vous êtes dans le dernier train de la nuit. Assis en face de vous se trouve un adorable vieil homme. Juste après son départ, vous remarquez qu'il a laissé cet objet derrière lui. Est-ce que vous le poursuivez ? ",
+      "t": "A",
+      "v": "745331_2",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    }
+  ]
+}

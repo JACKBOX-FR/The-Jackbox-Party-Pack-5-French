@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "rots | faire des bruits de baisers | parle comme Yoda ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je gâche mes entretiens d'embauche quand je <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je n'arrête pas de gâcher les entretiens d'embauche en faisant CELA ! ",
+      "t": "A",
+      "v": "761604_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

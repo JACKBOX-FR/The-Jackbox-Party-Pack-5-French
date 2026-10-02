@@ -1,0 +1,100 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "S",
+      "v": "Il est temps de se préparer... ",
+      "n": "Clue1Text"
+    },
+    {
+      "t": "S",
+      "v": "...pour une période très fraîche. ",
+      "n": "Clue2Text"
+    },
+    {
+      "t": "S",
+      "v": "L'hiver arrive. ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "L'hiver arrive, les hivers arrivent, l'hiver arrive, l'hiver arrive ",
+      "n": "Acceptable"
+    },
+    {
+      "t": "S",
+      "v": "La saison froide sera à nos portes. ",
+      "n": "Clue3Text"
+    },
+    {
+      "t": "S",
+      "v": "Écoutons-le pour Lynn ! ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "Lynn ? Son? Mademoiselle Engourdissement ? ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Il est temps de se préparer... ",
+      "t": "A",
+      "v": "740133_1",
+      "n": "Clue1Audio"
+    },
+    {
+      "s": "Écoutons-le pour Lynn ! ",
+      "t": "A",
+      "v": "740128_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "La saison froide sera à nos portes. ",
+      "t": "A",
+      "v": "740135_1",
+      "n": "Clue3Audio"
+    },
+    {
+      "s": "Découvrez cette phrase charabia et dites-moi avec quel slogan télévisé elle rime. ",
+      "t": "A",
+      "v": "740129_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "OutroAudio"
+    },
+    {
+      "s": "...pour une période très fraîche. ",
+      "t": "A",
+      "v": "740134_2",
+      "n": "Clue2Audio"
+    },
+    {
+      "s": "Lynn ? Son? Mademoiselle Engourdissement ? ",
+      "t": "A",
+      "v": "740130_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

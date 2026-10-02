@@ -1,0 +1,140 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "oui, dans la deuxième question ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "3,0,1,2 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Ai-je mentionné que je n’aime pas voir des films au cinéma ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Allons tous au lobby ",
+      "t": "A",
+      "v": "743077_3",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Ugh... Je déteste voir des films au cinéma. Attendez. Du déjà vu. ",
+      "t": "A",
+      "v": "743078_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "743080_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "C'est vrai... c'était la deuxième question. D'accord, bien, donc je ne deviens pas fou après tout. ",
+      "t": "A",
+      "v": "743082_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Vous savez, j’ai arrêté de voir des films au cinéma parce que, malheureusement, il n’y a pas de monstres qui mangent les gens qui parlent alors qu’ils ne devraient pas. Oh attends. J'ai déjà fait cette blague. ",
+      "t": "A",
+      "v": "743083_5",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "Have I... mentioned I don’t like seeing movies in theaters?",
+      "t": "A",
+      "v": "743079_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

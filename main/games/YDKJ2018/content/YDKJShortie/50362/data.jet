@@ -1,0 +1,143 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "53 CD Primus ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "1,3,2,0 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Que pourriez-vous commander auprès d'Amazon Prime s'ils expédiaient uniquement des quantités qui étaient des nombres premiers ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Puis-je obtenir ces chiffres ? ",
+      "t": "A",
+      "v": "721394_2",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "45 est divisible par 3,5 et 9. Tout comme la couleur que vous avez choisie pour les murs de votre chambre, cette réponse est fausse. ",
+      "t": "A",
+      "v": "721406_1",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Certaines personnes préfèrent les achats en ligne aux ventes au détail, mais je n’ai jamais eu besoin de me souvenir d’un mot de passe pour accéder à J.C. Penney. ",
+      "t": "A",
+      "v": "721395_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "721397_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "49 est divisible par 7. Le robot devrait en fait s'appeler Optimus Semiprime. ",
+      "t": "A",
+      "v": "721404_1",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "33 est divisible par 3 et 11, donc ce n’est pas premier. Cela ressemble plus à une série de chiffres. ",
+      "t": "A",
+      "v": "721402_1",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "53 est le seul nombre de la liste qui est un nombre premier, c'est-à-dire un nombre qui ne peut être divisé que par 1 et par lui-même... ",
+      "t": "A",
+      "v": "721399_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "...contrairement à mon amour pour Primus, qui ne peut jamais être divisé PAR RIEN, MAMAN ! ",
+      "t": "A",
+      "v": "721400_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "What could you order from Amazon Prime if they only shipped quantities that were prime numbers?",
+      "t": "A",
+      "v": "721396_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "S",
+      "v": "Tu es piégé en dehors de la réalité, Cookie....",
+      "n": "Clue1Text"
+    },
+    {
+      "t": "S",
+      "v": "... et vous devez « échapper à la simulation ».",
+      "n": "Clue2Text"
+    },
+    {
+      "t": "S",
+      "v": "Échappez à la simulation.",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Acceptable"
+    },
+    {
+      "t": "S",
+      "v": "Sérieusement, la réponse est « échapper à la simulation ».",
+      "n": "Clue3Text"
+    },
+    {
+      "t": "S",
+      "v": "Ce sentiment étrange de rater quelque chose de très important",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "Oui, singez le Tim que vous pouvez éviter.",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Tu es piégé en dehors de la réalité, Cookie....",
+      "t": "A",
+      "v": "766527_2",
+      "n": "Clue1Audio"
+    },
+    {
+      "s": "Ce sentiment étrange de rater quelque chose de très important",
+      "t": "A",
+      "v": "766522_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Sérieusement, la réponse est « échapper à la simulation ».",
+      "t": "A",
+      "v": "766529_4",
+      "n": "Clue3Audio"
+    },
+    {
+      "s": "Jetez un œil à cette phrase charabia et dites-moi avec quelle expression courante elle rime.",
+      "t": "A",
+      "v": "766523_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "OutroAudio"
+    },
+    {
+      "s": "... et vous devez « échapper à la simulation ».",
+      "t": "A",
+      "v": "766528_1",
+      "n": "Clue2Audio"
+    },
+    {
+      "s": "Oui, singez le Tim que vous pouvez éviter.",
+      "t": "A",
+      "v": "766524_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

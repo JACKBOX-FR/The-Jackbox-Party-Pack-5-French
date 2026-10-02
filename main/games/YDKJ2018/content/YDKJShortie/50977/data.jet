@@ -1,0 +1,141 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "<i>Le F@#$% ! Jeeves inimitable</i> ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "0,3,2,1 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Si l’auteur pour enfants P.G. Wodehouse voulait se rebaptiser NC-17 Wodehouse, quel titre donnerait-il à l'un de ses livres ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "La marque des opportunités ",
+      "t": "A",
+      "v": "728922_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Il faut trouver où se trouvent les bonnes réponses ! ",
+      "t": "A",
+      "v": "728934_1",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "728925_1f",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "OU\nBonne nuit score. ",
+      "t": "A",
+      "v": "728930_1",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "P.G. Wodehouse a écrit une série de livres pour enfants sur un majordome britannique nommé Jeeves. ",
+      "t": "A",
+      "v": "728927_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "C’est mieux que d’apprendre ce genre de majordomes auprès de leurs amis. ",
+      "t": "A",
+      "v": "728928_4",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "If children’s author P.G. Wodehouse wanted to rebrand himself as NC-17 Wodehouse, what title would he give one of his books?",
+      "t": "A",
+      "v": "728924_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

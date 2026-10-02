@@ -1,0 +1,100 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "S",
+      "v": "La vie est un travail dur... ",
+      "n": "Clue1Text"
+    },
+    {
+      "t": "S",
+      "v": "... et c'est un fait. ",
+      "n": "Clue2Text"
+    },
+    {
+      "t": "S",
+      "v": "La lutte est réelle. ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "une lutte est réelle, la lutte est réelle, la lutte est réelle, la lutte est réelle ",
+      "n": "Acceptable"
+    },
+    {
+      "t": "S",
+      "v": "Le combat est réel. ",
+      "n": "Clue3Text"
+    },
+    {
+      "t": "S",
+      "v": "Poésie des oiseaux ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "Une mouette suffisante. Son repas. ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "La vie est un travail dur... ",
+      "t": "A",
+      "v": "740036_1",
+      "n": "Clue1Audio"
+    },
+    {
+      "s": "Poésie des oiseaux ",
+      "t": "A",
+      "v": "740031_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Le combat est réel. ",
+      "t": "A",
+      "v": "740038_2",
+      "n": "Clue3Audio"
+    },
+    {
+      "s": "Écoutez ce charabia et dites-moi avec quelle phrase populaire il rime. ",
+      "t": "A",
+      "v": "740032_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "OutroAudio"
+    },
+    {
+      "s": "... et c'est un fait. ",
+      "t": "A",
+      "v": "740037_2",
+      "n": "Clue2Audio"
+    },
+    {
+      "s": "Une mouette suffisante. Son repas. ",
+      "t": "A",
+      "v": "740033_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

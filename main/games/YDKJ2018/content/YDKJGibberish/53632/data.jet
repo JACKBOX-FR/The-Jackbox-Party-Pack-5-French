@@ -1,0 +1,100 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "S",
+      "v": "Une série documentaire Netflix... ",
+      "n": "Clue1Text"
+    },
+    {
+      "t": "S",
+      "v": "... concentré sur les homicides. ",
+      "n": "Clue2Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Faire un meurtrier</i> ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "faire le meurtrier, commettre un meurtre, simuler un meurtrier, commettre un meurtre ",
+      "n": "Acceptable"
+    },
+    {
+      "t": "S",
+      "v": "Créer des tueurs ",
+      "n": "Clue3Text"
+    },
+    {
+      "t": "S",
+      "v": "Le vol est à la mode ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "Prendre la fourrure pour elle. ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Une série documentaire Netflix... ",
+      "t": "A",
+      "v": "765721_1",
+      "n": "Clue1Audio"
+    },
+    {
+      "s": "Le vol est à la mode ",
+      "t": "A",
+      "v": "765716_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Créer des tueurs ",
+      "t": "A",
+      "v": "765723_1",
+      "n": "Clue3Audio"
+    },
+    {
+      "s": "Lisez cette phrase charabia et dites-moi avec quel titre de série elle rime. ",
+      "t": "A",
+      "v": "765717_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "OutroAudio"
+    },
+    {
+      "s": "... concentré sur les homicides. ",
+      "t": "A",
+      "v": "765722_1",
+      "n": "Clue2Audio"
+    },
+    {
+      "s": "Prendre la fourrure pour elle. ",
+      "t": "A",
+      "v": "765718_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

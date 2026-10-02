@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "chaises | des gens qui valent la peine de parler | poneys ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Mon travail a besoin de plus <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Mon travail est génial, mais il a besoin de plus de CECI ! ",
+      "t": "A",
+      "v": "765710_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

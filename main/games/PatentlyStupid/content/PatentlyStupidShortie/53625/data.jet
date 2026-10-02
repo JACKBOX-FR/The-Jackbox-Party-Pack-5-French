@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "déchire ma chemise | manger un gâteau | parler français ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Quand je suis en colère, je <BLANK> !!! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je fais CECI à chaque fois que je perds mon sang-froid ! ",
+      "t": "A",
+      "v": "765695_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

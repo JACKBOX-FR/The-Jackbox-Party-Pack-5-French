@@ -1,0 +1,421 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_6Correct"
+    },
+    {
+      "t": "S",
+      "v": "bluffer ",
+      "n": "Choice6_6Text"
+    },
+    {
+      "t": "S",
+      "v": "abréviation médicale ",
+      "n": "Root2Text"
+    },
+    {
+      "t": "S",
+      "v": "Bravo ",
+      "n": "Choice5_4Text"
+    },
+    {
+      "t": "S",
+      "v": "RX ",
+      "n": "Choice2_3Text"
+    },
+    {
+      "t": "S",
+      "v": "discutable ",
+      "n": "Choice4_2Text"
+    },
+    {
+      "t": "S",
+      "v": "course droite ",
+      "n": "Choice6_1Text"
+    },
+    {
+      "t": "S",
+      "v": "mât ",
+      "n": "Choice3_5Text"
+    },
+    {
+      "t": "S",
+      "v": "première vue ",
+      "n": "Choice1_6Text"
+    },
+    {
+      "t": "S",
+      "v": "termes de cuisine ",
+      "n": "Root1Text"
+    },
+    {
+      "t": "S",
+      "v": "bourdonnant ",
+      "n": "Choice6_5Text"
+    },
+    {
+      "t": "S",
+      "v": "EZÉ ",
+      "n": "Choice2_6Text"
+    },
+    {
+      "t": "S",
+      "v": "trompeur ",
+      "n": "Choice4_1Text"
+    },
+    {
+      "t": "S",
+      "v": "C'est du jargon à mes oreilles ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "DNR ",
+      "n": "Choice2_2Text"
+    },
+    {
+      "t": "S",
+      "v": "demandé et répondu ",
+      "n": "Choice4_6Text"
+    },
+    {
+      "t": "S",
+      "v": "al dente ",
+      "n": "Choice1_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Hameau ",
+      "n": "Choice5_3Text"
+    },
+    {
+      "t": "S",
+      "v": "blanchir ",
+      "n": "Choice1_5Text"
+    },
+    {
+      "t": "S",
+      "v": "murger ",
+      "n": "Choice3_4Text"
+    },
+    {
+      "t": "S",
+      "v": "un blanc ",
+      "n": "Choice1_3Text"
+    },
+    {
+      "t": "S",
+      "v": "bluffant ",
+      "n": "Choice4_4Text"
+    },
+    {
+      "t": "S",
+      "v": "UTI ",
+      "n": "Choice2_5Text"
+    },
+    {
+      "t": "S",
+      "v": "alphabet militaire ",
+      "n": "Root5Text"
+    },
+    {
+      "t": "S",
+      "v": "objections juridiques ",
+      "n": "Root4Text"
+    },
+    {
+      "t": "S",
+      "v": "blocage ",
+      "n": "Choice4_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Chambres d'hôtes ",
+      "n": "Choice2_1Text"
+    },
+    {
+      "t": "S",
+      "v": "quinte flush ",
+      "n": "Choice6_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Félix ",
+      "n": "Choice5_6Text"
+    },
+    {
+      "t": "S",
+      "v": "dorloter ",
+      "n": "Choice1_4Text"
+    },
+    {
+      "t": "S",
+      "v": "foc ",
+      "n": "Choice3_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Bêta ",
+      "n": "Choice5_2Text"
+    },
+    {
+      "t": "S",
+      "v": "à l'arrière ",
+      "n": "Choice3_1Text"
+    },
+    {
+      "t": "S",
+      "v": "caca ",
+      "n": "Choice3_6Text"
+    },
+    {
+      "t": "S",
+      "v": "fouetter ",
+      "n": "Choice1_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Oscar ",
+      "n": "Choice5_5Text"
+    },
+    {
+      "t": "S",
+      "v": "jargon du navire ",
+      "n": "Root3Text"
+    },
+    {
+      "t": "S",
+      "v": "salle comble ",
+      "n": "Choice6_2Text"
+    },
+    {
+      "t": "S",
+      "v": "termes de poker ",
+      "n": "Root6Text"
+    },
+    {
+      "t": "S",
+      "v": "NPPR ",
+      "n": "Choice2_4Text"
+    },
+    {
+      "t": "S",
+      "v": "argumentatif ",
+      "n": "Choice4_3Text"
+    },
+    {
+      "t": "S",
+      "v": "stores ",
+      "n": "Choice6_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Kram ",
+      "n": "Choice3_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Alpha ",
+      "n": "Choice5_1Text"
+    },
+    {
+      "s": "C'est du jargon à mes oreilles ",
+      "t": "A",
+      "v": "747745_1 ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "J'espère que vous savez de quoi je parle... bonne chance... ",
+      "t": "A",
+      "v": "747746_2 ",
+      "n": "IntroAudio"
+    }
+  ]
+}

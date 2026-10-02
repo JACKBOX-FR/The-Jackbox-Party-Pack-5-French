@@ -1,0 +1,142 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "/r/matey ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "1,0,3,2 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Quel est le format de nom approprié pour un subreddit sur les pirates sur Reddit ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Barbe rouge ",
+      "t": "A",
+      "v": "707833_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Voici les votes négatifs. ",
+      "t": "A",
+      "v": "707845_2",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "707836_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "RIP ma boîte de réception ",
+      "t": "A",
+      "v": "707843_2",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "RRRRR... tu es sérieux ? ",
+      "t": "A",
+      "v": "707841_1",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Les sous-reddits sur Reddit sont désignés par une barre oblique ou une barre oblique avant le titre. ",
+      "t": "A",
+      "v": "707838_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Si vous n'êtes jamais allé sur Reddit, imaginez un chat mignon dans une dispute politique extrêmement méchante. ",
+      "t": "A",
+      "v": "707839_2",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "What’s the proper name format for a subreddit about pirates on Reddit?",
+      "t": "A",
+      "v": "707835_4",
+      "n": "QuestionAudio"
+    }
+  ]
+}

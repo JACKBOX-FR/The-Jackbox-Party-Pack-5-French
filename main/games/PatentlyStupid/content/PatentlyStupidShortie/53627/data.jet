@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "fer | cuisinier | faire mes impôts ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "J'ai tellement sommeil quand je dois <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : J'ai tellement sommeil quand je fais CECI ! ",
+      "t": "A",
+      "v": "765701_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

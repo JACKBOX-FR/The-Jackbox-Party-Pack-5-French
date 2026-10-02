@@ -1,0 +1,139 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "\"Corée du Sud ! Je passe juste par votre frontière avec la Corée du Nord !\" ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "3,2,1,0 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Lequel de ces éléments serait un exemple de glissement vers la DMZ de quelqu’un ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Êtes-vous debout ?... sur votre géographie ? ",
+      "t": "A",
+      "v": "716354_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "OU\nBloqué. (TOUS) ",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "716357_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "OU\nJe vais juste vous laisser en lecture. (TOUS) ",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "La frontière entre la Corée du Nord et la Corée du Sud est une DMZ ou zone démilitarisée bien connue. ",
+      "t": "A",
+      "v": "716359_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Mais de temps en temps, cela peut donner lieu à une action militaire, généralement lorsque Kim Jong Un se sent seul et boit quelques verres de vin. ",
+      "t": "A",
+      "v": "716360_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "Which of these would be an example of sliding into someone’s DMZ?",
+      "t": "A",
+      "v": "716356_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

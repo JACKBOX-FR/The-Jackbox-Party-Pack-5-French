@@ -1,0 +1,140 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "une fois par an ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "3,0,1,2 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Si je tondais Ed Sheeran comme un mouton adulte, à quelle fréquence le tondrais-je habituellement ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Je suis amoureux de ton Baaa-dy",
+      "t": "A",
+      "v": "714248_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Bon sang, j’espère bien que le célèbre auteur-compositeur-interprète britannique aux cheveux hirsutes, Ed Sheeran, ne changera pas totalement de look avant la sortie de ce jeu. ",
+      "t": "A",
+      "v": "714249_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "714251_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "Une fois ? Oh mon Dieu, ce serait totalement insatisfaisant. ",
+      "t": "A",
+      "v": "714258_6",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Un mouton adulte est généralement tondu une fois par an. ",
+      "t": "A",
+      "v": "714253_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "OU\nAhhh, je passe mes doigts dans ses fins cheveux roux... désolé... je réfléchis juste à voix haute. \nOR\nEt ma station contemporaine pour adultes est diffusée toute l'année. ",
+      "t": "A",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "If I sheared Ed Sheeran like an adult sheep, how often would I typically shear him?",
+      "t": "A",
+      "v": "714250_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

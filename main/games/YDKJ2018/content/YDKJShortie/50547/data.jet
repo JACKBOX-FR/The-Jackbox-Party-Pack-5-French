@@ -1,0 +1,140 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Le profil de Stan Lee gravé sur les pendentifs d'un collier ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "0,3,1,2 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "S’il existait une boutique Etsy appelée Stan Lee Cameos, que vendrait-elle ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Le vengeur gériatrique ! ",
+      "t": "A",
+      "v": "723602_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Le secret pour gagner des millions au box-office est de laisser un auteur de bande dessinée de 95 ans se promener dans votre film. ",
+      "t": "A",
+      "v": "723603_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "723605_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "Cette odeur, si vous vous le demandez, est celle du Dr Pepper, des bonbons au caramel et d'énormes tas d'argent. ",
+      "t": "A",
+      "v": "723612_2",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "Si vous espériez imputer vos crimes à un vieil homme bien-aimé... Je connais un autre type. ",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Lorsque vous gravez une image dans un matériau et que vous la portez comme bijou, on parle de camée. ",
+      "t": "A",
+      "v": "723607_2",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "OR\nSi vous en commandez un en ligne, il sera livré par un vieil homme moustachu remarquablement familier\nOR\nJ'ai du mal à croire qu'Etsy et Amazon existent dans le même univers cinématographique. \nOU ",
+      "t": "A",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "If there were an Etsy store called Stan Lee Cameos, what would it sell?",
+      "t": "A",
+      "v": "723604_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

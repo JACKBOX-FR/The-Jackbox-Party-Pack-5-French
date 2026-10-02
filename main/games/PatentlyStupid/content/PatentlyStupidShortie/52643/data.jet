@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "nouvelles mathématiques|Star Wars|baiser ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je trouve que <BLANK> est carrément déroutant. ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je suis complètement confus par CECI ! ",
+      "t": "A",
+      "v": "752765_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

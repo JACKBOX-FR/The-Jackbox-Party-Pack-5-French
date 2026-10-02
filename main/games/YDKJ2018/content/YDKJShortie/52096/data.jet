@@ -1,0 +1,143 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "batteur à oeufs ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "2,0,3,1 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Lequel de ces ustensiles de cuisine est également un geste en nage synchronisée ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "N'Sink ",
+      "t": "A",
+      "v": "744685_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Jimmy/Cookie ensemble ",
+      "t": "A",
+      "v": "744697_1",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "{sfx : quelques bruits de bagarre ajoutés à l'audio dans la catégorie ci-dessus]\nJIMMY : (haletant légèrement à cause de l'effort) Cookie, je pense qu'il n'y a qu'une seule façon de résoudre cette tension entre nous...\nCOOKIE : Bisou ?\nJIMMY : Lisez une question ensemble. (alt : « Partager. ») ",
+      "t": "A",
+      "v": "744686_3",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "744688_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "COOKIE ET JIMMY : (en même temps mais ils disent des mots différents) Faux ! Incorrect! ",
+      "t": "A",
+      "v": "744695_1",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "Jimmy/Cookie ensemble ",
+      "t": "A",
+      "v": "744693_1",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Pour maintenir leur moitié supérieure au-dessus de l’eau, les nageurs synchronisés donnent des coups de pied comme des batteurs d’œufs. ",
+      "t": "A",
+      "v": "744690_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "COOKIE : En parlant de faire du surplace... tu ne ressens pas ça un peu...\nJIMMY : Non, je comprends... ça ne marche pas. Je suis désolé...\nCOOKIE : Merci.\nJIMMY : Mais nous allons devoir vous demander de quitter Cookie.\nCOOKIE : QUOI !?\n[sfx : un bruit de sécurité entrant et menottant Cookie ici] ",
+      "t": "A",
+      "v": "744691_0f",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "COOKIE AND JIMMY: (both awkwardly reading it at the same time) Which of these kitchen utensils is also a move in synchronized swimming?",
+      "t": "A",
+      "v": "744687_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

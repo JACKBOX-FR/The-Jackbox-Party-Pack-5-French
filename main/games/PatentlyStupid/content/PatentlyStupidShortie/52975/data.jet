@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "apprendre l'espagnol | toiletter mon chien | jongler ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je veux conduire et <BLANK> en même temps ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je suis furieux de ne pas pouvoir conduire et faire CECI en même temps ! ",
+      "t": "A",
+      "v": "757484_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

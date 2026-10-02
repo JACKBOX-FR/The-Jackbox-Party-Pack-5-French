@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "formulaires fiscaux | vélociraptors | voyageurs du temps ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "J'ai peur de trouver <BLANK> dans mon sous-sol ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je n'irai pas dans mon sous-sol parce que je pourrais trouver CECI ! ",
+      "t": "A",
+      "v": "758447_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "gressins| questions de mes enfants | peur ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "J'en ai marre des <BLANK> sans fin ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Honnêtement, je n’en peux plus de ça sans fin. ",
+      "t": "A",
+      "v": "759033_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

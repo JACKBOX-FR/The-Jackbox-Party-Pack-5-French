@@ -1,0 +1,160 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "What should a third <i>Mamma Mia!</i> movie be called?",
+      "n": "QuestionText3"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00 ",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "<i>Maman Mia ! C'est reparti : mon mon</i> ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "S+2,67 ",
+      "n": "$QuestionAudio$QuestionTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "S+14.56 ",
+      "n": "$QuestionAudio$QuestionTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "2,0,3,1",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "The sequel was called <i>Mamma Mia! Here We Go Again</i>.",
+      "n": "QuestionText2"
+    },
+    {
+      "t": "S",
+      "v": "Before",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "The first <i>Mamma Mia</i> movie was called <i>Mamma Mia!</i>",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Maman Mia ! C'est une question épicée d'ABBA ",
+      "t": "A",
+      "v": "758535_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "D'accord, alors... ",
+      "t": "A",
+      "v": "758536_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "758538_2",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "The words following “here we go again” in “Mamma Mia” are “my my” so the third movie’s full title would be Mamma Mia! Here We Go Again My my",
+      "t": "A",
+      "v": "758540_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Then they say “how can I resist you?” Then they say “Mamma Mia” again and then I think if I say anymore we owe either Abba or Meryll Streep a bunch of money.",
+      "t": "A",
+      "v": "758541_2",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "The first Mamma Mia movie was called Mamma Mia! Then the sequel was called Mamma Mia! Here We Go Again, which is super clever because “Here we go again” is the line right after “Mamma mia” in the song “Mamma Mia.” So following that logic: What should a third <i>Mamma Mia!</i> movie be called?",
+      "t": "A",
+      "v": "758537_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

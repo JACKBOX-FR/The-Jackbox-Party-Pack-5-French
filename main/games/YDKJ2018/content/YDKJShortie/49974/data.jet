@@ -1,0 +1,138 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "\"Yas Rani!\" ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "1,3,0,2 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Si Ilana et Abbi de <i>Broad City</i> se sont liés d'amitié avec une reine d'Inde, quel devrait être leur nouveau slogan ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Large attrait ",
+      "t": "A",
+      "v": "714374_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "OU\nJe ne peux même pas. (TOUS) ",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "714377_4",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "OU ",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "OU\nD'une manière générale... Vous avez tort (TOUS) ",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Rani est l'hindi pour Reine. ",
+      "t": "A",
+      "v": "714379_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "OR\nEt Hannibal Buress a utilisé les éléphants d'Inde pour se remettre de lui-même. \nOR\net cette édition étrangère s'appelle « Abroad City »\nOR\nYAS. Nous avons une vraie triple couronne ici avec tous ces KWEENS. ",
+      "t": "A",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "If Ilana and Abbi from <i>Broad City</i> befriended a queen from India, what should be their new catchphrase?",
+      "t": "A",
+      "v": "714376_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

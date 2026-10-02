@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Wi-Fi | politique | comment utiliser le four ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "J’en ai marre que mon fils m’explique <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je suis frustré parce que mon fils doit m'expliquer CELA ! ",
+      "t": "A",
+      "v": "761731_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

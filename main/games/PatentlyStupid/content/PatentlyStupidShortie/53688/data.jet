@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "la banque | ma salle à manger | mon fan-club ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "<BLANK> est tout simplement trop de monde. ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je déteste à quel point il y a du monde ! ",
+      "t": "A",
+      "v": "766451_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

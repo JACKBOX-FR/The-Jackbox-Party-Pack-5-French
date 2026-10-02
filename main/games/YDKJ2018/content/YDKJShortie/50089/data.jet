@@ -1,0 +1,141 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "la glande lacrymale",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "0,2,3,1",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "D'OÙ VIENNENT CES LARMES ?!! ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Et maintenant... Un <i>This Is Us très spécial</i> ",
+      "t": "A",
+      "v": "716427_3",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "(commence à pleurer) Oh mec, je viens d'entendre le titre de l'émission télévisée This is Us et je me mets à pleurer... Je ne comprends pas ! ",
+      "t": "A",
+      "v": "716428_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "716430_3",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "[effet : pet] ",
+      "t": "A",
+      "v": "716435_0",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "La fonction de la glande lacrymale est de produire des larmes. Alors... (reniflant) ces larmes viennent de là. ",
+      "t": "A",
+      "v": "716432_2",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "C’est une glande que je n’utilise certainement pas (réprimer mes larmes), surtout quand je pense à toutes les difficultés que Kate et Toby ont traversées cette année. ",
+      "t": "A",
+      "v": "716433_2",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "(sobbing through the question) WHERE ARE THESE TEARS EVEN COMING FROM?!!(Cookie weeps through the MCs)",
+      "t": "A",
+      "v": "716429_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,421 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_6Correct"
+    },
+    {
+      "t": "S",
+      "v": "FFFFF ",
+      "n": "Choice6_6Text"
+    },
+    {
+      "t": "S",
+      "v": "des réponses qui n'apparaissent qu'une seule fois ",
+      "n": "Root2Text"
+    },
+    {
+      "t": "S",
+      "v": "biscuits ",
+      "n": "Choice5_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Saturne ",
+      "n": "Choice2_3Text"
+    },
+    {
+      "t": "S",
+      "v": "graphique ",
+      "n": "Choice4_2Text"
+    },
+    {
+      "t": "S",
+      "v": "F ",
+      "n": "Choice6_1Text"
+    },
+    {
+      "t": "S",
+      "v": "mordre ",
+      "n": "Choice3_5Text"
+    },
+    {
+      "t": "S",
+      "v": "les adjectifs ",
+      "n": "Choice1_6Text"
+    },
+    {
+      "t": "S",
+      "v": "des réponses qui apparaissent deux fois ",
+      "n": "Root1Text"
+    },
+    {
+      "t": "S",
+      "v": "TTTTT ",
+      "n": "Choice6_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Tolède, Ohio ",
+      "n": "Choice2_6Text"
+    },
+    {
+      "t": "S",
+      "v": "oiseau de proie ",
+      "n": "Choice4_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Répétition Répétition Répétition ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "<i>Grande ville</i> ",
+      "n": "Choice2_2Text"
+    },
+    {
+      "t": "S",
+      "v": "freins antiblocage ",
+      "n": "Choice4_6Text"
+    },
+    {
+      "t": "S",
+      "v": "pizza ",
+      "n": "Choice1_1Text"
+    },
+    {
+      "t": "S",
+      "v": "biscuits ",
+      "n": "Choice5_3Text"
+    },
+    {
+      "t": "S",
+      "v": "mathématiques ",
+      "n": "Choice1_5Text"
+    },
+    {
+      "t": "S",
+      "v": "méditation transcendantale ",
+      "n": "Choice3_4Text"
+    },
+    {
+      "t": "S",
+      "v": "les adjectifs ",
+      "n": "Choice1_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Amy Adams ",
+      "n": "Choice4_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Saturne ",
+      "n": "Choice2_5Text"
+    },
+    {
+      "t": "S",
+      "v": "des réponses qui apparaissent un nombre pair de fois ",
+      "n": "Root5Text"
+    },
+    {
+      "t": "S",
+      "v": "des réponses qui n'apparaissent jamais ",
+      "n": "Root4Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Pat Patrouille</i> ",
+      "n": "Choice4_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Tolède, Ohio ",
+      "n": "Choice2_1Text"
+    },
+    {
+      "t": "S",
+      "v": "UUU ",
+      "n": "Choice6_4Text"
+    },
+    {
+      "t": "S",
+      "v": "biscuits ",
+      "n": "Choice5_6Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Westworld</i> ",
+      "n": "Choice1_4Text"
+    },
+    {
+      "t": "S",
+      "v": "pièce de monnaie ",
+      "n": "Choice3_3Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Empire</i> ",
+      "n": "Choice5_2Text"
+    },
+    {
+      "t": "S",
+      "v": "méditation transcendantale ",
+      "n": "Choice3_1Text"
+    },
+    {
+      "t": "S",
+      "v": "méditation transcendantale ",
+      "n": "Choice3_6Text"
+    },
+    {
+      "t": "S",
+      "v": "pizza ",
+      "n": "Choice1_2Text"
+    },
+    {
+      "t": "S",
+      "v": "hydrogène ",
+      "n": "Choice5_5Text"
+    },
+    {
+      "t": "S",
+      "v": "des réponses qui apparaissent trois fois ",
+      "n": "Root3Text"
+    },
+    {
+      "t": "S",
+      "v": "U ",
+      "n": "Choice6_2Text"
+    },
+    {
+      "t": "S",
+      "v": "des lettres qui apparaissent six fois ",
+      "n": "Root6Text"
+    },
+    {
+      "t": "S",
+      "v": "Leslie Jones ",
+      "n": "Choice2_4Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Fille disparue</i> ",
+      "n": "Choice4_3Text"
+    },
+    {
+      "t": "S",
+      "v": "T ",
+      "n": "Choice6_3Text"
+    },
+    {
+      "t": "S",
+      "v": "pièce de monnaie ",
+      "n": "Choice3_2Text"
+    },
+    {
+      "t": "S",
+      "v": "hydrogène ",
+      "n": "Choice5_1Text"
+    },
+    {
+      "s": "Répétition Répétition Répétition ",
+      "t": "A",
+      "v": "762814_3 ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Honnêtement, celui-ci est le résultat d’un esprit malade. Bonne chance... ",
+      "t": "A",
+      "v": "762815_6 ",
+      "n": "IntroAudio"
+    }
+  ]
+}

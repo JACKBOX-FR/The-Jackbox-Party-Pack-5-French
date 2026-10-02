@@ -1,0 +1,142 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "<i>Qui a peur de Virginia Woolf ?</i> ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "0,3,2,1 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Quelle production théâtrale au titre terrifiant pourrions-nous jouer, trois fantômes et moi-même, car elle nécessite traditionnellement un casting de quatre personnes ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "\"Ghosted\" fonctionne également comme titre de catégorie pour cette question ",
+      "t": "A",
+      "v": "758922_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "[SFX : Cri d'horreur] ",
+      "t": "A",
+      "v": "758934_0",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "[sfx : trois fantômes continuent de gémir] Ces trois fantômes sont toujours là et j'ai peur qu'ils essaient de m'apprendre le vrai sens de Noël à moins que nous ne trouvions une autre façon de passer le temps. ",
+      "t": "A",
+      "v": "758923_0f",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "758925_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "[SFX : Dun, Dun, Dun!!!!] ",
+      "t": "A",
+      "v": "758932_0",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Who's Afraid of Virginia Woolfe ne comporte que quatre personnages. ",
+      "t": "A",
+      "v": "758927_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Martha de Bloody Mary est plutôt bonne, mais Nick de Beetlejuice meurt sur scène. ",
+      "t": "A",
+      "v": "758928_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "What terrifyingly titled theatrical production could three ghosts and myself perform because it traditionally calls for a four-person cast?",
+      "t": "A",
+      "v": "758924_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

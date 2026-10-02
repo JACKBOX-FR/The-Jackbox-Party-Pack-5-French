@@ -1,0 +1,143 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "un pain plat de ferme avec de la bette à carde Kierkegaard ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "3,2,0,1 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Quelle entrée rend hommage au père de l’existentialisme ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Dîner décontracté pour l'esprit éclairé ",
+      "t": "A",
+      "v": "727829_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "La vérité est subjective mais vous avez définitivement tort. (Tous) ",
+      "t": "A",
+      "v": "727841_2",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "J'ai déjeuné au Café Philosophe. C’est comme un Applebees, si les Applebees vous faisaient affronter votre propre mortalité. ",
+      "t": "A",
+      "v": "727830_2",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "727832_4",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "La vérité est subjective mais vous avez définitivement tort. (Tous) ",
+      "t": "A",
+      "v": "727839_0",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "La vérité est subjective mais vous avez définitivement tort. (Tous) ",
+      "t": "A",
+      "v": "727837_0",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Soren Kierkegaard est connu comme le père de l'existentialisme. ",
+      "t": "A",
+      "v": "727834_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "... parce qu'il a donné naissance au concept... avec son cerveau... vous savez, comme le font les pères ? ",
+      "t": "A",
+      "v": "727835_2",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "Which appetizer pays tribute to the Father of Existentialism?",
+      "t": "A",
+      "v": "727831_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

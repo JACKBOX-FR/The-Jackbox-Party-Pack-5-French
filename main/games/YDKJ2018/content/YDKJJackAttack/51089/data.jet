@@ -1,0 +1,421 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_6Correct"
+    },
+    {
+      "t": "S",
+      "v": "un grand vieux D",
+      "n": "Choice6_6Text"
+    },
+    {
+      "t": "S",
+      "v": "sept lettres",
+      "n": "Root2Text"
+    },
+    {
+      "t": "S",
+      "v": "échec",
+      "n": "Choice5_4Text"
+    },
+    {
+      "t": "S",
+      "v": "M. méchant",
+      "n": "Choice2_3Text"
+    },
+    {
+      "t": "S",
+      "v": "bip sonore",
+      "n": "Choice4_2Text"
+    },
+    {
+      "t": "S",
+      "v": "même",
+      "n": "Choice6_1Text"
+    },
+    {
+      "t": "S",
+      "v": "nombre pair de lettres",
+      "n": "Choice3_5Text"
+    },
+    {
+      "t": "S",
+      "v": "pour",
+      "n": "Choice1_6Text"
+    },
+    {
+      "t": "S",
+      "v": "quatre lettres",
+      "n": "Root1Text"
+    },
+    {
+      "t": "S",
+      "v": "hautbois",
+      "n": "Choice6_5Text"
+    },
+    {
+      "t": "S",
+      "v": "aarrghh",
+      "n": "Choice2_6Text"
+    },
+    {
+      "t": "S",
+      "v": "trois E",
+      "n": "Choice4_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Nombre de lettres",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "ongle",
+      "n": "Choice2_2Text"
+    },
+    {
+      "t": "S",
+      "v": "herpès",
+      "n": "Choice4_6Text"
+    },
+    {
+      "t": "S",
+      "v": "tente",
+      "n": "Choice1_1Text"
+    },
+    {
+      "t": "S",
+      "v": "un grand vieux D",
+      "n": "Choice5_3Text"
+    },
+    {
+      "t": "S",
+      "v": "euh",
+      "n": "Choice1_5Text"
+    },
+    {
+      "t": "S",
+      "v": "M. méchant",
+      "n": "Choice3_4Text"
+    },
+    {
+      "t": "S",
+      "v": "pizza",
+      "n": "Choice1_3Text"
+    },
+    {
+      "t": "S",
+      "v": "arbitre",
+      "n": "Choice4_4Text"
+    },
+    {
+      "t": "S",
+      "v": "du piquant",
+      "n": "Choice2_5Text"
+    },
+    {
+      "t": "S",
+      "v": "trois voyelles",
+      "n": "Root5Text"
+    },
+    {
+      "t": "S",
+      "v": "trois E",
+      "n": "Root4Text"
+    },
+    {
+      "t": "S",
+      "v": "tweeté",
+      "n": "Choice4_5Text"
+    },
+    {
+      "t": "S",
+      "v": "pizza",
+      "n": "Choice2_1Text"
+    },
+    {
+      "t": "S",
+      "v": "slogan",
+      "n": "Choice6_4Text"
+    },
+    {
+      "t": "S",
+      "v": "irrégulier",
+      "n": "Choice5_6Text"
+    },
+    {
+      "t": "S",
+      "v": "quatre ",
+      "n": "Choice1_4Text"
+    },
+    {
+      "t": "S",
+      "v": "bip sonore ",
+      "n": "Choice3_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Rihanna ",
+      "n": "Choice5_2Text"
+    },
+    {
+      "t": "S",
+      "v": "caca ",
+      "n": "Choice3_1Text"
+    },
+    {
+      "t": "S",
+      "v": "nombre impair de lettres ",
+      "n": "Choice3_6Text"
+    },
+    {
+      "t": "S",
+      "v": "caca ",
+      "n": "Choice1_2Text"
+    },
+    {
+      "t": "S",
+      "v": "zone ",
+      "n": "Choice5_5Text"
+    },
+    {
+      "t": "S",
+      "v": "nombre pair de lettres ",
+      "n": "Root3Text"
+    },
+    {
+      "t": "S",
+      "v": "numéro ",
+      "n": "Choice6_2Text"
+    },
+    {
+      "t": "S",
+      "v": "un nombre pair de consonnes ",
+      "n": "Root6Text"
+    },
+    {
+      "t": "S",
+      "v": "un grand vieux D ",
+      "n": "Choice2_4Text"
+    },
+    {
+      "t": "S",
+      "v": "pipi ",
+      "n": "Choice4_3Text"
+    },
+    {
+      "t": "S",
+      "v": "consonnes ",
+      "n": "Choice6_3Text"
+    },
+    {
+      "t": "S",
+      "v": "pizza ",
+      "n": "Choice3_2Text"
+    },
+    {
+      "t": "S",
+      "v": "mardi ",
+      "n": "Choice5_1Text"
+    },
+    {
+      "s": "Nombre de lettres ",
+      "t": "A",
+      "v": "730684_1 ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Je veux dire cela littéralement. Préparez-vous à compter les lettres. Bonne chance.... ",
+      "t": "A",
+      "v": "730685_1 ",
+      "n": "IntroAudio"
+    }
+  ]
+}

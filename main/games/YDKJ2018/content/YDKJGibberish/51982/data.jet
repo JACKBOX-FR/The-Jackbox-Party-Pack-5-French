@@ -1,0 +1,100 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "S",
+      "v": "C'est facile... ",
+      "n": "Clue1Text"
+    },
+    {
+      "t": "S",
+      "v": "...parce que ce n'est pas compliqué. ",
+      "n": "Clue2Text"
+    },
+    {
+      "t": "S",
+      "v": "Ce n’est pas sorcier. ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "ce n'est pas sorcier, ce n'est pas sorcier, ce n'est pas sorcier, ce n'est pas sorcier ",
+      "n": "Acceptable"
+    },
+    {
+      "t": "S",
+      "v": "Il ne s’agit pas d’ingénierie de navette spatiale. ",
+      "n": "Clue3Text"
+    },
+    {
+      "t": "S",
+      "v": "Ne mangez pas dans la cabine du pilote ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "Fritz a des fourmis à tarte dans le cockpit ! ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "C'est facile... ",
+      "t": "A",
+      "v": "742917_2",
+      "n": "Clue1Audio"
+    },
+    {
+      "s": "Ne mangez pas dans la cabine du pilote ",
+      "t": "A",
+      "v": "742912_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Il ne s’agit pas d’ingénierie de navette spatiale. ",
+      "t": "A",
+      "v": "742919_1",
+      "n": "Clue3Audio"
+    },
+    {
+      "s": "Regardez la phrase charabia et dites-moi avec quelle expression courante elle rime. ",
+      "t": "A",
+      "v": "742913_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "OutroAudio"
+    },
+    {
+      "s": "...parce que ce n'est pas compliqué. ",
+      "t": "A",
+      "v": "742918_2",
+      "n": "Clue2Audio"
+    },
+    {
+      "s": "Fritz a des fourmis à tarte dans le cockpit ! ",
+      "t": "A",
+      "v": "742914_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

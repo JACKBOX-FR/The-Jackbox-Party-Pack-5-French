@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "sois plus gentil | recycler | arrêter d'enlever leurs chaussures dans les avions ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "J'aimerais que tout le monde le fasse <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je veux simplement que tout le monde fasse CECI ! ",
+      "t": "A",
+      "v": "767677_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

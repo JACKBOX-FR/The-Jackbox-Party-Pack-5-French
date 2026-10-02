@@ -1,0 +1,140 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "de Seattle à Caracas, Venezuela ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "2,1,3,0 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Si Niles Crane devient Nile Crane, jusqu’où ira-t-il ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Juste les œufs brouillés pour moi ",
+      "t": "A",
+      "v": "726034_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "726037_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "Attendez, vous voulez dire Kansas City, Kansas ou Kansas City, Missouri ? Cela n’a pas d’importance. C'est faux. ",
+      "t": "A",
+      "v": "726042_2",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Le Nil mesure environ 4 258 milles de long, ce qui signifie que Niles peut s'allonger à Seattle et atteindre un peu au-delà de Caracas s'il le souhaite. ",
+      "t": "A",
+      "v": "726039_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "C'est bizarre que nous ayons eu deux questions Frasier. Je pensais que nous avions un algorithme pour arrêter les répétitions comme celle-là. Des problèmes étranges surviennent parfois, je suppose. ",
+      "t": "A",
+      "v": "726040_3",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "If Niles Crane becomes Nile Crane, how far will he stretch?",
+      "t": "A",
+      "v": "726036_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

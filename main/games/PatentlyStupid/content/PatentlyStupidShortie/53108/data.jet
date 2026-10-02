@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "le garder propre | éloigner les adolescents | garder les sirènes à l'écart ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "J'adore avoir une piscine mais je déteste <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Les piscines sont géniales, mais je redoute CECI ! ",
+      "t": "A",
+      "v": "758965_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

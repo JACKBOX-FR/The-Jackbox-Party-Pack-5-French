@@ -1,0 +1,50 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Une question avec des klaxons à air ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Une question sur les avertisseurs pneumatiques ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "51957 ",
+      "n": "Choice2Id"
+    },
+    {
+      "t": "S",
+      "v": "Souhaitez-vous une question sur les avertisseurs pneumatiques ou une question sur les avertisseurs pneumatiques ? ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "51958 ",
+      "n": "Choice1Id"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "Souhaitez-vous une question sur les avertisseurs pneumatiques ou une question sur les avertisseurs pneumatiques ? ",
+      "t": "A",
+      "v": "757893_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

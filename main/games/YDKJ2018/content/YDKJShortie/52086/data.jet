@@ -1,0 +1,143 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "CELEBRITY",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Quatre chutes ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "3,0,2,1 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Milieu ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Si un Jimmy Fallon équivaut à un litre, combien y a-t-il de Jimmy Fallon dans un gallon ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Jon Hamm sur le seigle ",
+      "t": "A",
+      "v": "744390_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Jimmy : C'est le pitch de ma nouvelle sitcom. ",
+      "t": "A",
+      "v": "744402_1",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Cookie : (un peu exagéré, comme ça, ça va être une excellente question) Imaginez que Jon Hamm soit coincé dans le livre de Bukkowski Ham on Rye...\nJimmy : [rires] Ouais. Excellente prémisse.\nCookie : Tu m'as fait peur.\nJimmy : Puis-je poser une autre question ?\nCookie : [sorte de bruit frustré rapide] ",
+      "t": "A",
+      "v": "744391_1f",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "744393_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "JImmy : Six Fallons ? Qu'est-ce que c'est : une réunion de moi et de cinq membres de ma famille du côté de mon père ? ",
+      "t": "A",
+      "v": "744400_1",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "Cookie : Nous n'étions vraiment préparés que pour... une question... [sfx : mélange de papier] ici, je suppose, faites celle-ci. ",
+      "t": "A",
+      "v": "744405_0f",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Cookie : Il y a quatre litres dans un gallon, ce qui en fait quatre gallons Fallon. ",
+      "t": "A",
+      "v": "744395_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Jimmy : C'était un peu bizarre la façon dont je parlais de moi à la troisième personne dans cette question.\nCookie : Jimmy Fallon à tout le monde !! ",
+      "t": "A",
+      "v": "744396_0",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "Jimmy: If one Jimmy Fallon is equal to one quart, how many Jimmy Fallons are in a gallon?",
+      "t": "A",
+      "v": "744392_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

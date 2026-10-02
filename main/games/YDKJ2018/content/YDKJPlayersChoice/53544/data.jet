@@ -1,0 +1,50 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "une question sur le temps ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "une question sur l'espace ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "53229 ",
+      "n": "Choice2Id"
+    },
+    {
+      "t": "S",
+      "v": "Vous souhaitez une question sur le temps ou une question sur l'espace ? ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "53230 ",
+      "n": "Choice1Id"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "Vous souhaitez une question sur le temps ou une question sur l'espace ? ",
+      "t": "A",
+      "v": "764659_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

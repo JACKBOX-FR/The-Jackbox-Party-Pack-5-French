@@ -1,0 +1,421 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_6Correct"
+    },
+    {
+      "t": "S",
+      "v": "« Quoi qu’il en soit, comment se passe ta vie sexuelle ? » ",
+      "n": "Choice6_6Text"
+    },
+    {
+      "t": "S",
+      "v": "dans « La pièce où ça se passe » ",
+      "n": "Root2Text"
+    },
+    {
+      "t": "S",
+      "v": "Jeanne Allen ",
+      "n": "Choice5_4Text"
+    },
+    {
+      "t": "S",
+      "v": "La Fayette ",
+      "n": "Choice2_3Text"
+    },
+    {
+      "t": "S",
+      "v": "casquette ",
+      "n": "Choice4_2Text"
+    },
+    {
+      "t": "S",
+      "v": "\"Tu me déchires, Laura!\" ",
+      "n": "Choice6_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Lorraine Massey ",
+      "n": "Choice3_5Text"
+    },
+    {
+      "t": "S",
+      "v": "horloges ",
+      "n": "Choice1_6Text"
+    },
+    {
+      "t": "S",
+      "v": "dans la pièce de <i>Goodnight Moon</i> ",
+      "n": "Root1Text"
+    },
+    {
+      "t": "S",
+      "v": "\"Pourquoi, Lisa, pourquoi, POURQUOI !?\" ",
+      "n": "Choice6_5Text"
+    },
+    {
+      "t": "S",
+      "v": "John Adams ",
+      "n": "Choice2_6Text"
+    },
+    {
+      "t": "S",
+      "v": "tête ",
+      "n": "Choice4_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Dans la salle ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "James Madison ",
+      "n": "Choice2_2Text"
+    },
+    {
+      "t": "S",
+      "v": "volve ",
+      "n": "Choice4_6Text"
+    },
+    {
+      "t": "S",
+      "v": "un téléphone ",
+      "n": "Choice1_1Text"
+    },
+    {
+      "t": "S",
+      "v": "John Lithgow ",
+      "n": "Choice5_3Text"
+    },
+    {
+      "t": "S",
+      "v": "deux chatons ",
+      "n": "Choice1_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Delbert Grady ",
+      "n": "Choice3_4Text"
+    },
+    {
+      "t": "S",
+      "v": "un camion jouet ",
+      "n": "Choice1_3Text"
+    },
+    {
+      "t": "S",
+      "v": "tige ",
+      "n": "Choice4_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Thomas Jefferson ",
+      "n": "Choice2_5Text"
+    },
+    {
+      "t": "S",
+      "v": "dans la <i>Chambre</i> ",
+      "n": "Root5Text"
+    },
+    {
+      "t": "S",
+      "v": "dans un diagramme de champignon ",
+      "n": "Root4Text"
+    },
+    {
+      "t": "S",
+      "v": "pistolet ",
+      "n": "Choice4_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Alexandre Hamilton ",
+      "n": "Choice2_1Text"
+    },
+    {
+      "t": "S",
+      "v": "\"Je ne voulais pas me tirer dessus!\" ",
+      "n": "Choice6_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Laura Dern ",
+      "n": "Choice5_6Text"
+    },
+    {
+      "t": "S",
+      "v": "un ballon rouge ",
+      "n": "Choice1_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Danny Torrance ",
+      "n": "Choice3_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Brie Larson ",
+      "n": "Choice5_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Wendy Torrance ",
+      "n": "Choice3_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Les jumeaux Grady ",
+      "n": "Choice3_6Text"
+    },
+    {
+      "t": "S",
+      "v": "un chiot ",
+      "n": "Choice1_2Text"
+    },
+    {
+      "t": "S",
+      "v": "William H. Macy ",
+      "n": "Choice5_5Text"
+    },
+    {
+      "t": "S",
+      "v": "dans la chambre 237 de l'hôtel Overlook ",
+      "n": "Root3Text"
+    },
+    {
+      "t": "S",
+      "v": "\"Oh, salut Marc!\" ",
+      "n": "Choice6_2Text"
+    },
+    {
+      "t": "S",
+      "v": "dans <i>La Chambre</i> ",
+      "n": "Root6Text"
+    },
+    {
+      "t": "S",
+      "v": "Raymond Burr ",
+      "n": "Choice2_4Text"
+    },
+    {
+      "t": "S",
+      "v": "branchies ",
+      "n": "Choice4_3Text"
+    },
+    {
+      "t": "S",
+      "v": "\"Demandez simplement au chien!\" ",
+      "n": "Choice6_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Jack Torrance ",
+      "n": "Choice3_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Alison Brie ",
+      "n": "Choice5_1Text"
+    },
+    {
+      "s": "Dans la salle ",
+      "t": "A",
+      "v": "752368_2 ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "J'espère que vous savez ce qu'il y a dans quelles pièces... bonne chance... ",
+      "t": "A",
+      "v": "752369_2 ",
+      "n": "IntroAudio"
+    }
+  ]
+}

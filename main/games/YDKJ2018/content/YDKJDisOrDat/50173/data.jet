@@ -1,0 +1,245 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion5Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupPoorAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasDisAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion1Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion4Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTimingInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasScoreInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupRockedAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupAwfulAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion7Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasDatAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion6Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion3Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupOutroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupGoodAudio"
+    },
+    {
+      "t": "S",
+      "v": "S+8.50",
+      "n": "$InstructionsAudio$DatTextCue"
+    },
+    {
+      "t": "S",
+      "v": "Mon frère, mon frère et pipi ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "SOLUTION Caca ",
+      "n": "DatButtonText"
+    },
+    {
+      "t": "S",
+      "v": "PODCAST ",
+      "n": "DisButtonText"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$InstructionsAudio$BothCue"
+    },
+    {
+      "t": "S",
+      "v": "un podcast populaire dans les classements Apple Podcast ",
+      "n": "DisText"
+    },
+    {
+      "t": "S",
+      "v": "un produit d'incontinence adulte ",
+      "n": "DatText"
+    },
+    {
+      "t": "S",
+      "v": "S+3.89",
+      "n": "$InstructionsAudio$DisTextCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.81",
+      "n": "$DisAudio$DisButtonCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.77",
+      "n": "$DatAudio$DatButtonCue"
+    },
+    {
+      "s": "99 % invisibles ",
+      "t": "A",
+      "v": "718060_1",
+      "n": "Question5Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "TimingInstructionsAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupOutroAudio"
+    },
+    {
+      "s": "Je vais énumérer sept noms, pour chacun, j'ai besoin que vous me disiez s'il s'agit # d'un podcast populaire dans les classements Apple Podcast, ou # d'un produit pour l'incontinence pour adultes ",
+      "t": "A",
+      "v": "718055_3",
+      "n": "InstructionsAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ScoreInstructionsAudio"
+    },
+    {
+      "s": "Ville S ",
+      "t": "A",
+      "v": "718062_1",
+      "n": "Question7Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupPoorAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupRockedAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupAwfulAudio"
+    },
+    {
+      "s": "Air frais ",
+      "t": "A",
+      "v": "718057_2",
+      "n": "Question2Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupGoodAudio"
+    },
+    {
+      "s": "...un podcast... ou... ",
+      "t": "A",
+      "v": "718068_4",
+      "n": "DisAudio"
+    },
+    {
+      "s": "Le Quotidien ",
+      "t": "A",
+      "v": "718058_1",
+      "n": "Question3Audio"
+    },
+    {
+      "s": "Mon frère, mon frère et mon pipi... et le paradis des crevettes maintenant, c'est un dis ou un dat ! ",
+      "t": "A",
+      "v": "718054_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "... une solution pour faire caca ",
+      "t": "A",
+      "v": "718069_4",
+      "n": "DatAudio"
+    },
+    {
+      "s": "Dossier de bien-être ",
+      "t": "A",
+      "v": "718059_1",
+      "n": "Question4Audio"
+    },
+    {
+      "s": "Toujours discret ",
+      "t": "A",
+      "v": "718056_1",
+      "n": "Question1Audio"
+    },
+    {
+      "s": "Coussinets d'équilibre ",
+      "t": "A",
+      "v": "718061_1",
+      "n": "Question6Audio"
+    }
+  ]
+}

@@ -1,0 +1,421 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_6Correct"
+    },
+    {
+      "t": "S",
+      "v": "Le magasin des merveilles de Magorium ",
+      "n": "Choice6_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Mme. ",
+      "n": "Root2Text"
+    },
+    {
+      "t": "S",
+      "v": "de Aucun ",
+      "n": "Choice5_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Feu du doute ",
+      "n": "Choice2_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Doolittle 2 ",
+      "n": "Choice4_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Phillips ",
+      "n": "Choice6_1Text"
+    },
+    {
+      "t": "S",
+      "v": "et Mme Smith ",
+      "n": "Choice3_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Pettigrew vit un jour ",
+      "n": "Choice1_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Mademoiselle ",
+      "n": "Root1Text"
+    },
+    {
+      "t": "S",
+      "v": "Amérique : le premier vengeur ",
+      "n": "Choice6_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Le merveilleux _____ Maisel ",
+      "n": "Choice2_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Smith se rend à Washington ",
+      "n": "Choice4_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Ce serait mon titre honorifique ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "et M. Smith ",
+      "n": "Choice2_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Norbite ",
+      "n": "Choice4_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Feu du doute ",
+      "n": "Choice1_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Haricot ",
+      "n": "Choice5_3Text"
+    },
+    {
+      "t": "S",
+      "v": "M. et _____ Smith ",
+      "n": "Choice1_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Le talentueux _____ Ripley ",
+      "n": "Choice3_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Convivialité ",
+      "n": "Choice1_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Jank Jank dans le réservoir puant ",
+      "n": "Choice4_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Jekyll et M. Hyde ",
+      "n": "Choice2_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Maître ",
+      "n": "Root5Text"
+    },
+    {
+      "t": "S",
+      "v": "Dr. ",
+      "n": "Root4Text"
+    },
+    {
+      "t": "S",
+      "v": "Le spectacle _____Oz ",
+      "n": "Choice4_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Fantastique _____ Renard ",
+      "n": "Choice2_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Slip : le premier film épique ",
+      "n": "Choice6_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Batteur ",
+      "n": "Choice5_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Sloan ",
+      "n": "Choice1_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Haricot ",
+      "n": "Choice3_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Le _____ du Manoir Pippin ",
+      "n": "Choice5_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Fantastique _____ Renard ",
+      "n": "Choice3_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Les paons de Popper ",
+      "n": "Choice3_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Petit _____ Soleil ",
+      "n": "Choice1_2Text"
+    },
+    {
+      "t": "S",
+      "v": "chef cuisinier ",
+      "n": "Choice5_5Text"
+    },
+    {
+      "t": "S",
+      "v": "M. ",
+      "n": "Root3Text"
+    },
+    {
+      "t": "S",
+      "v": "Crunch : Contes Crunch ",
+      "n": "Choice6_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Capitaine ",
+      "n": "Root6Text"
+    },
+    {
+      "t": "S",
+      "v": "Conduire _____ Daisy ",
+      "n": "Choice2_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Jekyll et M. Hyde ",
+      "n": "Choice4_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Amérique : le soldat de l'été ",
+      "n": "Choice6_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Le talentueux _____ Crunch ",
+      "n": "Choice3_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Le _____ du déguisement ",
+      "n": "Choice5_1Text"
+    },
+    {
+      "s": "Ce serait mon titre honorifique ",
+      "t": "A",
+      "v": "732515_1 ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Les titres de films et de séries télévisées regorgent de... titres. Amusez-vous... ",
+      "t": "A",
+      "v": "732516_2 ",
+      "n": "IntroAudio"
+    }
+  ]
+}

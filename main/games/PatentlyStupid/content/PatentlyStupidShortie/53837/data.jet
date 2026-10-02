@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "bol | me laver les yeux | manger de la soupe ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "J'ai besoin d'un <BLANK> plus simple ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je veux juste un CECI plus facile ! ",
+      "t": "A",
+      "v": "767609_2",
+      "n": "PromptAudio"
+    }
+  ]
+}

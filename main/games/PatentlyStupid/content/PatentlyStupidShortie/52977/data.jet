@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "péter | oublier le nom de quelqu'un | j'oublie mon portefeuille ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Rien ne m'embarrasse plus que <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je suis constamment gêné par CECI ! ",
+      "t": "A",
+      "v": "757490_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

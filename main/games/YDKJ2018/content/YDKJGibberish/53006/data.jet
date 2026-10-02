@@ -1,0 +1,100 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "S",
+      "v": "Lâchez-vous, soyez libre... ",
+      "n": "Clue1Text"
+    },
+    {
+      "t": "S",
+      "v": "... ne vous inquiétez pas de ce que pensent les autres. ",
+      "n": "Clue2Text"
+    },
+    {
+      "t": "S",
+      "v": "Dansez comme si personne ne vous regardait. ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "danser comme si personne ne regardait, danser comme personne ne regardait, danser comme personne ne regardait, danser comme personne ne regardait, danser comme personne ne regardait, danser comme personne ne regardait ",
+      "n": "Acceptable"
+    },
+    {
+      "t": "S",
+      "v": "Bougez votre corps comme si les gens avaient les yeux fermés. ",
+      "n": "Clue3Text"
+    },
+    {
+      "t": "S",
+      "v": "Tirer profit de votre amitié internationale ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "Randonnée en France, connais des copains... cha-ching ! ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Lâchez-vous, soyez libre... ",
+      "t": "A",
+      "v": "757884_1",
+      "n": "Clue1Audio"
+    },
+    {
+      "s": "Tirer profit de votre amitié internationale ",
+      "t": "A",
+      "v": "757879_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Bougez votre corps comme si les gens avaient les yeux fermés. ",
+      "t": "A",
+      "v": "757886_1",
+      "n": "Clue3Audio"
+    },
+    {
+      "s": "Regardez cette phrase charabia et dites-moi avec quelle phrase populaire elle rime. ",
+      "t": "A",
+      "v": "757880_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "OutroAudio"
+    },
+    {
+      "s": "... ne vous inquiétez pas de ce que pensent les autres. ",
+      "t": "A",
+      "v": "757885_2",
+      "n": "Clue2Audio"
+    },
+    {
+      "s": "Randonnée en France, connais des copains... cha-ching ! ",
+      "t": "A",
+      "v": "757881_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

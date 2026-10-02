@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "plagier | fumer | lire à haute voix ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Mon chat ne s’arrête pas <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Mon chat n'arrête pas de faire CECI ! ",
+      "t": "A",
+      "v": "758438_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

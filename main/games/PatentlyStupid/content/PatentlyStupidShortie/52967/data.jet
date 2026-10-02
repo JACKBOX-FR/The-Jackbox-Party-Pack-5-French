@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "trop de chauves-souris dans ma chambre | glace pour le déjeuner | je pense aux nuages ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je n'arrive pas à dormir à cause de <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je ne dors plus à cause de CELA ! ",
+      "t": "A",
+      "v": "757460_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

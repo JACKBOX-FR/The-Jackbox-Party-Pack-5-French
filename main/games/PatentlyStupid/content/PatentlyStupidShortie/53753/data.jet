@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "miettes | merde d'oiseau | responsabilités encombrées ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je n'arrête pas d'avoir <BLANK> sur moi ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je n'arrête pas de recevoir ça sur moi ! ",
+      "t": "A",
+      "v": "767111_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

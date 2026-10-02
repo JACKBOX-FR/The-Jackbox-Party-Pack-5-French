@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "fantômes|serpents|grottes ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Ma plus grande peur est <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : J'ai une peur paralysante de CECI ! ",
+      "t": "A",
+      "v": "752741_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

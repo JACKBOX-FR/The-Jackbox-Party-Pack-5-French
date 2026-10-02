@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "abdos | personnalité | recette de tacos ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Tout ce que je fais, c'est travailler sur mon <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : J'ai l'impression de passer tout mon temps à travailler là-dessus ! ",
+      "t": "A",
+      "v": "759065_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

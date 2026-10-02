@@ -1,0 +1,421 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_6Correct"
+    },
+    {
+      "t": "S",
+      "v": "<i>Non________ed</i> ",
+      "n": "Choice6_6Text"
+    },
+    {
+      "t": "S",
+      "v": "acronymes qui incluent « ami » ",
+      "n": "Root2Text"
+    },
+    {
+      "t": "S",
+      "v": "Joey le moteur vert ",
+      "n": "Choice5_4Text"
+    },
+    {
+      "t": "S",
+      "v": "DTF ",
+      "n": "Choice2_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Chuckie Finster ",
+      "n": "Choice4_2Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Le mariage de mon meilleur ______</i> ",
+      "n": "Choice6_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Wendy ",
+      "n": "Choice3_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Chandler ",
+      "n": "Choice1_6Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Amis</i> ",
+      "n": "Root1Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>À la recherche d'un _______ pour la fin du monde</i> ",
+      "n": "Choice6_5Text"
+    },
+    {
+      "t": "S",
+      "v": "FWB ",
+      "n": "Choice2_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Tyler Durden ",
+      "n": "Choice4_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Avec des amis comme ceux-là.... ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "WTF ",
+      "n": "Choice2_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Jughead ",
+      "n": "Choice4_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Ross ",
+      "n": "Choice1_1Text"
+    },
+    {
+      "t": "S",
+      "v": "James le moteur rouge ",
+      "n": "Choice5_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Joie ",
+      "n": "Choice1_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Chien merveilleux ",
+      "n": "Choice3_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Raquel ",
+      "n": "Choice1_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Hobbes ",
+      "n": "Choice4_4Text"
+    },
+    {
+      "t": "S",
+      "v": "FKA ",
+      "n": "Choice2_5Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Thomas et ses amis<i> ",
+      "n": "Root5Text"
+    },
+    {
+      "t": "S",
+      "v": "amis imaginaires ",
+      "n": "Root4Text"
+    },
+    {
+      "t": "S",
+      "v": "Monsieur Robot ",
+      "n": "Choice4_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Meilleure amie ",
+      "n": "Choice2_1Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Les _______ly Ones</i> ",
+      "n": "Choice6_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Toby le moteur du tramway ",
+      "n": "Choice5_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Phoebé ",
+      "n": "Choice1_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Wonder Woman ",
+      "n": "Choice3_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Percy ",
+      "n": "Choice5_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Superman ",
+      "n": "Choice3_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Fusée ",
+      "n": "Choice3_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Monique ",
+      "n": "Choice1_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Edward le moteur bleu ",
+      "n": "Choice5_5Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Super amis</i> ",
+      "n": "Root3Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Le projet _______</i> ",
+      "n": "Choice6_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Titres de films « Ami » ",
+      "n": "Root6Text"
+    },
+    {
+      "t": "S",
+      "v": "BF4L ",
+      "n": "Choice2_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Raton laveur fusée ",
+      "n": "Choice4_3Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Juste des ________</i> ",
+      "n": "Choice6_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Superfemme ",
+      "n": "Choice3_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Alexandre ",
+      "n": "Choice5_1Text"
+    },
+    {
+      "s": "Avec des amis comme ceux-là.... ",
+      "t": "A",
+      "v": "766567_1 ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Qui est coincé dans ces zones d’amis ? Bonne chance... ",
+      "t": "A",
+      "v": "766568_2 ",
+      "n": "IntroAudio"
+    }
+  ]
+}

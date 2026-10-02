@@ -1,0 +1,86 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "Disneyland | Un spa pour couples | Une suite lune de miel à Paris | Comic-Con | une station balnéaire pour couples ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "S+10.88",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "S+3.43",
+      "n": "$ScenarioAudio$ScenarioTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "<BLANK>. ",
+      "n": "ScenarioText3"
+    },
+    {
+      "t": "S",
+      "v": "S+9.80",
+      "n": "$ScenarioAudio$ScenarioTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "Vous et <OTHERPLAYER> avez gagné un jeu télévisé ensemble. ",
+      "n": "ScenarioText1"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00 ",
+      "n": "$ScenarioAudio$ScenarioTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Comme grand prix, vous pouvez choisir 500 $ chacun ou passer à deux une semaine tout compris ensemble à ",
+      "n": "ScenarioText2"
+    },
+    {
+      "t": "S",
+      "v": "Prenez-vous l'argent ? ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Un match réalisé sur Channel 7 ",
+      "t": "A",
+      "v": "756360_2",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Vous et <OTHERPLAYER> avez gagné un jeu télévisé ensemble. Comme grand prix, vous pouvez choisir 500 $ chacun ou vous pouvez passer une semaine tout compris ensemble dans cet endroit. Prenez-vous l'argent ? ",
+      "t": "A",
+      "v": "756361_8 ",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    }
+  ]
+}

@@ -1,1 +1,86 @@
-{"fields":[{"t":"B","v":"true","n":"HasScenarioAudio"},{"t":"B","v":"true","n":"HasCategoryAudio"},{"t":"B","v":"false","n":"HasResponseAudio"},{"t":"S","v":"shout, “It ain’t over ‘til I say it is!” | sob | fart on every downbeat | slap a person | eat a $20 bill","n":"Decoys"},{"t":"S","v":"S+12.30","n":"$ScenarioAudio$QuestionTextCue"},{"t":"S","v":"","n":"Keywords"},{"t":"S","v":"Y vas-tu ?","n":"QuestionText"},{"s":"Congradulations","t":"A","v":"737415_1","n":"CategoryAudio"},{"s":"The kid you’ve been tutoring for the last three years is graduating college with honors. Teary-eyed, she asks you to attend the ceremony. Unfortunately, whenever you hear an airhorn, you involuntarily do this. Do you show up?","t":"A","v":"737416_3","n":"ScenarioAudio"},{"s":"","t":"A","n":"ResponseAudio"},{"n":"ScenarioText1","v":"L’enfant auquel tu as donné des cours ces trois dernières années a réussi l’université avec honneurs.","t":"S"},{"n":"$ScenarioAudio$ScenarioTextCue1","v":"S+0.00","t":"S"},{"n":"ScenarioText2","v":"Les yeux pleins de larmes, elle te demande de prendre part à la cérémonie.","t":"S"},{"n":"$ScenarioAudio$ScenarioTextCue2","v":"S+4.56","t":"S"},{"n":"ScenarioText3","v":"Malheureusement, chaque fois que tu entends une corne de brume, involontairement, tu <BLANK>.","t":"S"},{"n":"$ScenarioAudio$ScenarioTextCue3","v":"S+7.88","t":"S"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "criez: \"Ce n'est pas fini tant que je ne le dis pas!\" | sanglot | péter à chaque temps fort | gifler une personne | manger un billet de 20$ ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "S+12.30",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "Y vas-tu ?",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Félicitations ",
+      "t": "A",
+      "v": "737415_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "L’enfant que vous enseignez depuis trois ans obtient son diplôme universitaire avec mention. Les larmes aux yeux, elle vous demande d'assister à la cérémonie. Malheureusement, chaque fois que vous entendez un klaxon, vous le faites involontairement. Vous vous présentez ? ",
+      "t": "A",
+      "v": "737416_3",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    },
+    {
+      "n": "ScenarioText1",
+      "v": "L’enfant auquel tu as donné des cours ces trois dernières années a réussi l’université avec honneurs.",
+      "t": "S"
+    },
+    {
+      "n": "$ScenarioAudio$ScenarioTextCue1",
+      "v": "S+0.00",
+      "t": "S"
+    },
+    {
+      "n": "ScenarioText2",
+      "v": "Les yeux pleins de larmes, elle te demande de prendre part à la cérémonie.",
+      "t": "S"
+    },
+    {
+      "n": "$ScenarioAudio$ScenarioTextCue2",
+      "v": "S+4.56",
+      "t": "S"
+    },
+    {
+      "n": "ScenarioText3",
+      "v": "Malheureusement, chaque fois que tu entends une corne de brume, involontairement, tu <BLANK>.",
+      "t": "S"
+    },
+    {
+      "n": "$ScenarioAudio$ScenarioTextCue3",
+      "v": "S+7.88",
+      "t": "S"
+    }
+  ]
+}

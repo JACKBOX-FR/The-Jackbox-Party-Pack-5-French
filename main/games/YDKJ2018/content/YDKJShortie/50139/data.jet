@@ -1,0 +1,152 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "drapeaux ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "S+7h40 ",
+      "n": "$QuestionAudio$QuestionTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "1,2,3,0 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Quel groupe d’emojis plus sexy allez-vous découvrir maintenant ? ",
+      "n": "QuestionText2"
+    },
+    {
+      "t": "S",
+      "v": "Before",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "While browsing your iPhone emojis, you are seriously turned off by the “Symbol” category and swipe all the way left.",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Rencontres Emoji ",
+      "t": "A",
+      "v": "717353_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Admettez-le, vous passez trop de temps sur Tinder ces derniers temps. ",
+      "t": "A",
+      "v": "717354_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "717356_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "Félicitations, vous avez trouvé la mauvaise réponse la plus mignonne du jeu. ",
+      "t": "A",
+      "v": "717363_5",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "Visage renfrogné. ",
+      "t": "A",
+      "v": "717361_4",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Since the first appearance of emojis on iPhone, flags have lived at the far right side of the emoji universe which you reach by swiping left.",
+      "t": "A",
+      "v": "717358_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Flags.  For when you truly have nothing left to say.",
+      "t": "A",
+      "v": "717359_3",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "While browsing your iPhone emojis, you are seriously turned off by the “Symbol” category and swipe all the way left. What (hopefully) sexier emoji group will you be checking out now?",
+      "t": "A",
+      "v": "717355_4",
+      "n": "QuestionAudio"
+    }
+  ]
+}

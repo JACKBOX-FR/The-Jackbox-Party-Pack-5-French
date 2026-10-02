@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "clés | noms des membres de la famille élargie | nourriture préférée ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je ne me souviens jamais de mon <BLANK>. ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : J'oublie toujours CECI à cent pour cent ! ",
+      "t": "A",
+      "v": "759415_2",
+      "n": "PromptAudio"
+    }
+  ]
+}

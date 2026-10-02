@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "fromage | argent volé | bagage émotionnel ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Mes proches ont laissé un tas de <BLANK> chez moi ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Mes proches ont laissé un tas de CECI chez moi ! ",
+      "t": "A",
+      "v": "767713_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

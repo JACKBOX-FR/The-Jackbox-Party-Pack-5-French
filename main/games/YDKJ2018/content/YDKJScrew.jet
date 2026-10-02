@@ -1,0 +1,70 @@
+{
+  "content": [
+    {
+      "id": "RemoveVowels",
+      "controllerText": "Vous avez été foutu ! Fini les voyelles pour vous ! ",
+      "controllerName": "Désavoué ",
+      "power": 0
+    },
+    {
+      "id": "TinyFont",
+      "controllerText": "Vous avez été foutu ! J'espère que tu as apporté tes lunettes. ",
+      "controllerName": "Petits caractères ",
+      "power": 0
+    },
+    {
+      "id": "HugeFont",
+      "controllerText": "Vous avez été foutu ! J'espère que vous avez un énorme téléphone. ",
+      "controllerName": "Gros caractères ",
+      "power": 0
+    },
+    {
+      "id": "Hashtag",
+      "controllerText": "Vous avez été foutu ! MDR, comme, JK. ",
+      "controllerName": "Hashtag ",
+      "power": 0
+    },
+    {
+      "id": "TextColor",
+      "controllerText": "Vous avez été foutu ! Essayez de répondre MAINTENANT, connard ! ",
+      "controllerName": "Nuances de gris ",
+      "power": 0
+    },
+    {
+      "id": "Mirror",
+      "controllerText": "Vous avez été foutu ! Essayez de répondre MAINTENANT, connard ! ",
+      "controllerName": "Miroir Miroir ",
+      "power": 0
+    },
+    {
+      "id": "PassCode",
+      "controllerText": "Vous avez été foutu ! Essayez de répondre MAINTENANT, connard ! ",
+      "controllerName": "Mot de passe ",
+      "power": 1
+    },
+    {
+      "id": "Flip",
+      "controllerText": "Vous avez été foutu ! Essayez de répondre MAINTENANT, connard ! ",
+      "controllerName": "Renversé ",
+      "power": 1
+    },
+    {
+      "id": "NameChange",
+      "controllerText": "Vous avez été foutu ! Essayez de répondre MAINTENANT, connard ! ",
+      "controllerName": "Changement de nom ",
+      "power": 1
+    },
+    {
+      "id": "Screensaver",
+      "controllerText": "Vous avez été foutu ! Essayez de répondre MAINTENANT, connard ! ",
+      "controllerName": "Économiseur d'écran ",
+      "power": 1
+    },
+    {
+      "id": "TOS",
+      "controllerText": "Vous avez été foutu ! Essayez de répondre MAINTENANT, connard !",
+      "controllerName": "Fausses conditions d'utilisation",
+      "power": 1
+    }
+  ]
+}

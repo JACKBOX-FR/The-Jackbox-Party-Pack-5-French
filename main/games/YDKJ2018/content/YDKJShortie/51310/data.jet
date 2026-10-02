@@ -1,0 +1,170 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "DATAMINING",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+5.69",
+      "n": "$QuestionAudio$QuestionTextCue4"
+    },
+    {
+      "t": "S",
+      "v": "De qui avons-nous acquis l’historique de recherche ? ",
+      "n": "QuestionText4"
+    },
+    {
+      "t": "S",
+      "v": "« traitement pour avoir été abattu et noyé »<br> ",
+      "n": "QuestionText3"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00 ",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Grigori Raspoutine ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "S+1.87",
+      "n": "$QuestionAudio$QuestionTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "S+3.54",
+      "n": "$QuestionAudio$QuestionTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "1,3,2,0",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "“treatment for being stabbed”<br>",
+      "n": "QuestionText2"
+    },
+    {
+      "t": "S",
+      "v": "Before",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "“treatment for being poisoned”<br>",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Type = {Histoire, Homme} ",
+      "t": "A",
+      "v": "733611_3",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Cookie : Donc... Binjpipe a besoin d'aide pour catégoriser certaines des données obtenues par des \"moyens totalement légaux.\nVoix de Binjpipe : C'est exact. Voici ce que nous avons... ",
+      "t": "A",
+      "v": "733612_5",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "733614_3",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Cookie: Grigori Rasputin was the Russian mystic and advisor to the tsar who, according to legend, was very hard to kill.",
+      "t": "A",
+      "v": "733616_2",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Cookie: Although, as you get older, all that poisoning, stabbing, drowning and bullets to the head and body... it starts to catch up with you.",
+      "t": "A",
+      "v": "733617_4",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "“treatment for being poisoned” “treatment for being stabbed” “treatment for being shot and drowned” Whose search history have we acquired?",
+      "t": "A",
+      "v": "733613_4",
+      "n": "QuestionAudio"
+    }
+  ]
+}

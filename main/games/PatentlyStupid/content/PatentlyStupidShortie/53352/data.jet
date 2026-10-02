@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "vêtements | Picasso | charisme ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "J'en ai marre que mon conjoint prenne mon <BLANK> !",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Mon conjoint continue de prendre mon CECI ! ",
+      "t": "A",
+      "v": "761488_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

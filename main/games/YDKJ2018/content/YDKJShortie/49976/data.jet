@@ -1,0 +1,143 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "elle me poserait un lapin ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "1,3,2,0 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Si attendre Gal Gadot avait la même conclusion que <i>En attendant Godot</i>, que se passerait-il ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Ma fille, ma copine ",
+      "t": "A",
+      "v": "714410_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Gal Ga-NO (TOUS) ",
+      "t": "A",
+      "v": "714422_0",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Alors, j'ai revu Wonder Woman l'autre jour et ça m'a fait réfléchir... ",
+      "t": "A",
+      "v": "714411_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "714413_2",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "Gal Ga-NO (TOUS) ",
+      "t": "A",
+      "v": "714420_0",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "Gal Ga-NO (TOUS) ",
+      "t": "A",
+      "v": "714418_1",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Dans la pièce En attendant Gadot de Samuel Beckett, les deux personnages principaux, Vladimir et Estragon, attendent tout le temps le personnage éponyme, mais celui-ci ne se présente jamais. ",
+      "t": "A",
+      "v": "714415_2",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Samuel Becket conduisait l'enfant André le Géant à l'école... il n'y a pas de blague ici... Je ne peux tout simplement pas imaginer un scénario plus étrange. ",
+      "t": "A",
+      "v": "714416_2",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "If waiting for Gal Gadot had the same conclusion as <i>Waiting for Godot</i>, what would happen?",
+      "t": "A",
+      "v": "714412_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

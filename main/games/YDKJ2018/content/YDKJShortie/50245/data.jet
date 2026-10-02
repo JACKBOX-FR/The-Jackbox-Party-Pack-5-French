@@ -1,0 +1,139 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "39 ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "0,1,2,3 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "D’après les numéros de téléphone internationaux, si Léonard de Vinci avait un téléphone portable, quel serait le code de Léonard de Vinci ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Dan Brown a des hommes de la Renaissance dans différents indicatifs régionaux ",
+      "t": "A",
+      "v": "719539_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "OU\nSi c'était aussi court, vous n'auriez pas besoin de l'écrire avec du sang pour vous en souvenir. ",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "719542_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "OU\nVous pensez qu'il y a une sorte de complot qui vous retient. (TOUS) ",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Léonard de Vinci a vécu en Italie dont l'indicatif pays est +39, donc pour appeler da Vinci, vous devez composer le +39 puis son numéro. ",
+      "t": "A",
+      "v": "719544_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Maintenant, le numéro d’identification de Léonard… ce serait quelque chose que j’aimerais découvrir. ",
+      "t": "A",
+      "v": "719545_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "Based on international phone numbers, if Leonardo da Vinci had a cell phone what would be da Vinci’s code?",
+      "t": "A",
+      "v": "719541_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "non-impulsifs|la Reine|médecins mignons ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "J'aimerais pouvoir rencontrer <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je donnerais n'importe quoi pour les rencontrer ! ",
+      "t": "A",
+      "v": "755662_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

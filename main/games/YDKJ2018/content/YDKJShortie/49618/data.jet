@@ -1,0 +1,141 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "un marché des saveurs ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "3,0,1,2 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Si Guy Fieri utilise la définition anglaise traditionnelle de « ville », que doit inclure sa Flavortown ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Ye Olde Diners, ciné-parcs et plongées ",
+      "t": "A",
+      "v": "708277_2",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Pour paraphraser Fieri, cette réponse est fausse. ",
+      "t": "A",
+      "v": "708289_1",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "708280_2",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "Mettons celui-ci sur la bascule. (Beat) Cela signifie que c'est faux, je pense. ",
+      "t": "A",
+      "v": "708285_2",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Une ville, selon les normes anglaises traditionnelles, est un village avec une foire ou un marché. ",
+      "t": "A",
+      "v": "708282_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Je pensais qu'une ville anglaise, par définition, devait avoir une petite vieille dame qui résout les mystères locaux. ",
+      "t": "A",
+      "v": "708283_3",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "If Guy Fieri uses the traditional English definition of “town,” what must his Flavortown include?",
+      "t": "A",
+      "v": "708279_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "puer|malédiction|auto-combustion ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je ne veux plus <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je ne veux plus faire ça ! ",
+      "t": "A",
+      "v": "767635_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

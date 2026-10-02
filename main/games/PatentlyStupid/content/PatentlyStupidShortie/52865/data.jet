@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "épinards|sauterelles|herbe ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "J'ai besoin de plus de <BLANK> dans mon alimentation. ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Les médecins disent qu'il faut en consommer davantage pour être en bonne santé ! ",
+      "t": "A",
+      "v": "755897_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion5Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupPoorAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasDisAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion1Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion4Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTimingInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasScoreInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupRockedAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupAwfulAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion7Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasDatAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion6Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion3Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrapupOutroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupGoodAudio"
+    },
+    {
+      "t": "S",
+      "v": "S+6.78",
+      "n": "$InstructionsAudio$DatTextCue"
+    },
+    {
+      "t": "S",
+      "v": "En haut du mont Doom ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "MAGASIN DE CANNABIS ",
+      "n": "DatButtonText"
+    },
+    {
+      "t": "S",
+      "v": "SdA ",
+      "n": "DisButtonText"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$InstructionsAudio$BothCue"
+    },
+    {
+      "t": "S",
+      "v": "lieu mentionné dans le <i>Seigneur des Anneaux</i> ",
+      "n": "DisText"
+    },
+    {
+      "t": "S",
+      "v": "un magasin de cannabis à Denver, Colorado ",
+      "n": "DatText"
+    },
+    {
+      "t": "S",
+      "v": "S+3.58",
+      "n": "$InstructionsAudio$DisTextCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$DisAudio$DisButtonCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$DatAudio$DatButtonCue"
+    },
+    {
+      "s": "Dragon vert ",
+      "t": "A",
+      "v": "750865_1",
+      "n": "Question5Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "TimingInstructionsAudio"
+    },
+    {
+      "s": "And one does not simply use car air freshners to cover to smell of your trek through the rocky mountains.",
+      "t": "A",
+      "v": "750872_3",
+      "n": "WrapupOutroAudio"
+    },
+    {
+      "s": "Je vais lire les noms, et pour chacun d'entre eux, je veux que vous me disiez s'il s'agit d'un # endroit mentionné dans les livres du Seigneur des Anneaux OU d'un # magasin de cannabis à Denver, Colorado... ou les deux. ",
+      "t": "A",
+      "v": "750860_3",
+      "n": "InstructionsAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ScoreInstructionsAudio"
+    },
+    {
+      "s": "Champ de la mouche du fermier ",
+      "t": "A",
+      "v": "750867_1",
+      "n": "Question7Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupPoorAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupRockedAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupAwfulAudio"
+    },
+    {
+      "s": "Feuille givrée ",
+      "t": "A",
+      "v": "750862_1",
+      "n": "Question2Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupGoodAudio"
+    },
+    {
+      "s": "...Le Seigneur des Anneaux... ou... ",
+      "t": "A",
+      "v": "750873_2",
+      "n": "DisAudio"
+    },
+    {
+      "s": "Champs joyeux ",
+      "t": "A",
+      "v": "750863_1",
+      "n": "Question3Audio"
+    },
+    {
+      "s": "En haut du Mont Doom et c'est la seule question qui les gouverne tous car c'est un Dis ou Dat ",
+      "t": "A",
+      "v": "750859_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "... un magasin de cannabis ",
+      "t": "A",
+      "v": "750874_2",
+      "n": "DatAudio"
+    },
+    {
+      "s": "Trenchtown ",
+      "t": "A",
+      "v": "750864_1",
+      "n": "Question4Audio"
+    },
+    {
+      "s": "Salle dorée ",
+      "t": "A",
+      "v": "750861_1",
+      "n": "Question1Audio"
+    },
+    {
+      "s": "L'Aigle ",
+      "t": "A",
+      "v": "750866_1",
+      "n": "Question6Audio"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "je me suis fait tatouer | appris l'allemand | j'ai un lapin de compagnie ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je regrette de n'avoir jamais <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je regrette de ne jamais avoir fait CECI ! ",
+      "t": "A",
+      "v": "764975_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

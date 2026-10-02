@@ -1,0 +1,50 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "une question facile ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "une question difficile ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "51788 ",
+      "n": "Choice2Id"
+    },
+    {
+      "t": "S",
+      "v": "Souhaitez-vous une question facile... ou une question difficile ? ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "51787 ",
+      "n": "Choice1Id"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "Souhaitez-vous une question facile... ou une question difficile ? ",
+      "t": "A",
+      "v": "750925_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

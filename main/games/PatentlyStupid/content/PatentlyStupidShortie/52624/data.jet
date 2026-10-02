@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "attaques d'ours|histoires de fantômes|guimauves grillées ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je déteste aller camper à cause de <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je veux aller camper, mais je déteste ça ! ",
+      "t": "A",
+      "v": "752586_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

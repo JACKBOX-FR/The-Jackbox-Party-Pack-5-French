@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "clowns | dormir | défilés de chats ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je ne peux pas arrêter de penser à <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je ne peux pas arrêter de penser à CELA ! ",
+      "t": "A",
+      "v": "757502_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

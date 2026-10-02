@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "les prix élevés | personnages effrayants | les gens en sueur ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je n’aime pas les parcs d’attractions à cause de <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : J'ai vraiment envie d'aller dans un parc d'attractions, mais je déteste ça ! ",
+      "t": "A",
+      "v": "767783_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

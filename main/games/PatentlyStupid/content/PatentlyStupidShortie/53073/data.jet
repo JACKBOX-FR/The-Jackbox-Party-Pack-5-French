@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "mimes | rennes | robots ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "J'ai peur de tomber sur <BLANK> dans une ruelle sombre ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je ne peux plus aller dans les ruelles sombres parce que je pourrais tomber sur CELA ! ",
+      "t": "A",
+      "v": "758450_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

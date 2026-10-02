@@ -1,0 +1,140 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "2 morceaux de diorite ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "1,3,2,0 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Parmi les objets suivants en possession de cette question, lesquels pourraient être les armes du crime ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Une question qui fait d’une pierre deux coups ",
+      "t": "A",
+      "v": "756011_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "(sfx : musique de type CSI) Cette question a été arrêtée sous suspicion de meurtre. La victime ? Un oiseau. L'arme ? Deux pierres. ",
+      "t": "A",
+      "v": "756012_0f",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "756014_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Le farro, le triticale et l'amarante sont tous des grains entiers. La diorite est la seule pierre. ",
+      "t": "A",
+      "v": "756016_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "D'accord, toutes blagues mises à part, cette question est maintenant en détention pour meurtre d'oiseaux, nous devons donc la retirer. Merci pour votre aide. [sfx : fermeture des barreaux de prison] ",
+      "t": "A",
+      "v": "756017_0f",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "Which of the following items in this question’s possession could be the murder weapons? You know, because they’re stones.",
+      "t": "A",
+      "v": "756013_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

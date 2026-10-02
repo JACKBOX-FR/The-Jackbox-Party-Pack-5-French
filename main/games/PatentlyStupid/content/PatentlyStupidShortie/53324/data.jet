@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "nourriture | mon stagiaire | télé-réalité ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "J'ai une relation terrible avec <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : J'ai honte de ma relation avec CELA ! ",
+      "t": "A",
+      "v": "761175_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

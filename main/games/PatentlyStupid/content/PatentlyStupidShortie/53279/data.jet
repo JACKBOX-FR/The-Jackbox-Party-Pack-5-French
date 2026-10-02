@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Un groupe de journalistes | Brian | mathématiques ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "<BLANK> me terrifie ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Rien que de penser à CELA, ça me fait peur ! ",
+      "t": "A",
+      "v": "760652_2",
+      "n": "PromptAudio"
+    }
+  ]
+}

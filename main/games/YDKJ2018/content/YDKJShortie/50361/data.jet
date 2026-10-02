@@ -1,0 +1,142 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "<i>Le Carnet</i> ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "1,2,3,0 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Lequel de ces films romantiques a le plus grand nombre de morts ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Viande Morte Mignonne ",
+      "t": "A",
+      "v": "721375_2",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "J'ai eu un rendez-vous amusant hier soir. Je voulais regarder une comédie romantique et elle voulait voir quelqu'un mourir. L'amour peut être compliqué. ",
+      "t": "A",
+      "v": "721376_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "721378_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "Alerte spoiler ! Vous avez tort ! ",
+      "t": "A",
+      "v": "721385_1",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "Le personnage de Tom Hanks n'a qu'une seule femme décédée... à notre connaissance !!! ",
+      "t": "A",
+      "v": "721383_1",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "En raison de la guerre et d'une maladie tragique, 6 personnes finissent par mourir dans ce déchireur/briseur de jambes. ",
+      "t": "A",
+      "v": "721380_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "À ce stade, il est évident que Nicholas Sparks n’est que l’ange de la mort avec une maison sur la plage. ",
+      "t": "A",
+      "v": "721381_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "Which of these romantic movies has the highest death count?",
+      "t": "A",
+      "v": "721377_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

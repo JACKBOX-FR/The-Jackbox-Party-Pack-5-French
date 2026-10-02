@@ -1,0 +1,96 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "Les Oscars | un buffet à volonté | Disney sur glace | « Hamilton » | Six drapeaux ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "S+12.10",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "S+5.75",
+      "n": "$ScenarioAudio$ScenarioTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "<BLANK> ",
+      "n": "ScenarioText3"
+    },
+    {
+      "t": "S",
+      "v": "S+8.60",
+      "n": "$ScenarioAudio$ScenarioTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "est un trottoir très fissuré. ",
+      "n": "ScenarioText4"
+    },
+    {
+      "t": "S",
+      "v": "Lorsque vous marchez sur une fissure, votre mère va bien... mais <AUTREJOUEUR> souffre de maux de dos pendant une semaine. ",
+      "n": "ScenarioText1"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00 ",
+      "n": "$ScenarioAudio$ScenarioTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "La seule chose qui vous sépare des billets gratuits pour ",
+      "n": "ScenarioText2"
+    },
+    {
+      "t": "S",
+      "v": "S+9.80",
+      "n": "$ScenarioAudio$ScenarioTextCue4"
+    },
+    {
+      "t": "S",
+      "v": "Essayez-vous de le parcourir à la marelle ? ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Essayez-le ",
+      "t": "A",
+      "v": "Essayez-vous de le parcourir à la marelle ? ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Lorsque vous marchez sur une fissure, votre mère va bien... mais <OTHERPLAYER> souffre de maux de dos pendant une semaine. La seule chose qui vous sépare des billets gratuits pour cela est un trottoir très fissuré. Essayez-vous de le parcourir à la marelle ? ",
+      "t": "A",
+      "v": "756986_2",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    }
+  ]
+}

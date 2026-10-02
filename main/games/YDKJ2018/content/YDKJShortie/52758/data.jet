@@ -1,0 +1,143 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "à cause de mon système limbique ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "0,1,2,3 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Pourquoi les chiens géants me font-ils autant rire ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "C'est un penseur ",
+      "t": "A",
+      "v": "754614_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "On ne peut pas marcher et rire en même temps. ",
+      "t": "A",
+      "v": "754626_1",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "[SFX : Bruissement de papiers] Voyons ce que fait Marmaduke... Ha ha... tu ne peux pas manger une dinde entière ! ",
+      "t": "A",
+      "v": "754615_0f",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "754617_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "On ne peut pas marcher et rire en même temps. ",
+      "t": "A",
+      "v": "754624_0",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "On ne peut pas marcher et rire en même temps. ",
+      "t": "A",
+      "v": "754622_0",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "L’hippocampe du système limbique et l’amygdale travaillent de concert pour créer le rire. ",
+      "t": "A",
+      "v": "754619_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Donc si vous ne trouvez pas ce jeu drôle, ce n’est pas de notre faute… votre cerveau se trompe. ",
+      "t": "A",
+      "v": "754620_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "Why do giant dogs make me laugh so much?",
+      "t": "A",
+      "v": "754616_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

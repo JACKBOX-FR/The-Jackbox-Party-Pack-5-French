@@ -1,0 +1,150 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "\"Jouis ensemble\" ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "S+8.85 ",
+      "n": "$QuestionAudio$QuestionTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "3,0,2,1 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Quelle chanson ne figurerait PAS sur cet album ? ",
+      "n": "QuestionText2"
+    },
+    {
+      "t": "S",
+      "v": "Before",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "My erotic Beatles cover band released our first album <i>Sgt. Pepper’s Lonely Hearts Club BONE</i>, complete with homages to all the original tracks.",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Un groupe sous les couvertures ",
+      "t": "A",
+      "v": "723231_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Non, mais nous vous donnerons le manche. \nOR\nVous ne pouvez pas blâmer Yoko pour cela. (Tous) ",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Pendant mon temps libre, je fais partie d’un groupe de reprises des Beatles… mais nous modifions légèrement les chansons pour ajouter un élément d’érotisme de bon goût. Avant, nous nous appelions les Beat-Off-les, mais nous envisageons de changer notre nom pour celui des Skeetles. Quoi qu'il en soit… ",
+      "t": "A",
+      "v": "723232_2",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "723234_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "OR\nLa reprise de Joe COCKer était meilleure... ce n'est même pas un jeu de mots... c'est son nom. ",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "OU\nM'aimeras-tu toujours... quand je me tromperai ",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Come Together was a song on the Abbey Road album and NOT Sgt. Peppers Lonely Hearts Club Band.",
+      "t": "A",
+      "v": "723236_2",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Let’s just cross our fingers that we eventually release Abbey Load.",
+      "t": "A",
+      "v": "723237_2",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "My erotic Beatles cover band released our first album “Sgt. Pepper’s Lonely Hearts Club BONE,” complete with homages to all the original tracks.  Which song would NOT be on this album?",
+      "t": "A",
+      "v": "723233_3",
+      "n": "QuestionAudio"
+    }
+  ]
+}

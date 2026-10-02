@@ -1,0 +1,100 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "S",
+      "v": "Ah la réalité... ",
+      "n": "Clue1Text"
+    },
+    {
+      "t": "S",
+      "v": "...ça peut être super bizarre. ",
+      "n": "Clue2Text"
+    },
+    {
+      "t": "S",
+      "v": "La vérité est plus étrange que la fiction. ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "des vérités plus étranges que la fiction, la vérité est plus étrange que la fiction, des vérités plus étranges que la fiction, la vérité est plus étrange que ficshun ",
+      "n": "Acceptable"
+    },
+    {
+      "t": "S",
+      "v": "Les faits sont plus bizarres que les fantasmes. ",
+      "n": "Clue3Text"
+    },
+    {
+      "t": "S",
+      "v": "Détection de la prononciation correcte ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "Détective son danger et sa diction. ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Ah la réalité... ",
+      "t": "A",
+      "v": "743989_1",
+      "n": "Clue1Audio"
+    },
+    {
+      "s": "Détection de la prononciation correcte ",
+      "t": "A",
+      "v": "743984_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Les faits sont plus bizarres que les fantasmes. ",
+      "t": "A",
+      "v": "743991_1",
+      "n": "Clue3Audio"
+    },
+    {
+      "s": "Regardez la phrase charabia suivante et dites-moi avec quelle phrase courante elle rime. ",
+      "t": "A",
+      "v": "743985_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "OutroAudio"
+    },
+    {
+      "s": "...ça peut être super bizarre. ",
+      "t": "A",
+      "v": "743990_1",
+      "n": "Clue2Audio"
+    },
+    {
+      "s": "Détective son danger et sa diction. ",
+      "t": "A",
+      "v": "743986_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

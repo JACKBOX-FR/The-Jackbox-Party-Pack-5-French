@@ -1,0 +1,50 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Une question délicate sur les comédies musicales ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Une question musicale sur le délicat ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "52110 ",
+      "n": "Choice2Id"
+    },
+    {
+      "t": "S",
+      "v": "Vous souhaitez une question délicate sur les comédies musicales ou une question musicale sur les délicates ? ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "52108 ",
+      "n": "Choice1Id"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "Vous souhaitez une question délicate sur les comédies musicales ou une question musicale sur les délicates ? ",
+      "t": "A",
+      "v": "757889_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "le Thickburger ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "3,0,1,2 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Quel sandwich servent-ils chez Hardee’s ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Une question difficile ",
+      "t": "A",
+      "v": "740236_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Oh attends... je pense qu'il y a eu une faute de frappe ",
+      "t": "A",
+      "v": "740237_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "740239_2",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "Certaines choses sont plus importantes que les points, et pour ça... je te salue... mais tu perds quand même quelques points. ",
+      "t": "A",
+      "v": "740246_1",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "En théorie, vous pourriez aller dans un Hardess et commander un Thickburger. ",
+      "t": "A",
+      "v": "740241_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Théoriquement. ",
+      "t": "A",
+      "v": "740242_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "Which sandwich do they serve at Hardee’s?",
+      "t": "A",
+      "v": "740238_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

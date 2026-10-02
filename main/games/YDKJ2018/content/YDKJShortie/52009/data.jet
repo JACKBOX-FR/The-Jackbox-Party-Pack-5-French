@@ -1,0 +1,153 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "preuve à décharge ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "S+6.52 ",
+      "n": "$QuestionAudio$QuestionTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "0,1,3,2 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Quel genre d’indices Blue recherche-t-il ? ",
+      "n": "QuestionText2"
+    },
+    {
+      "t": "S",
+      "v": "Before",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Steve from <i>Blue’s Clues</i> is wrongly charged with murder and Blue must mount a desperate defense for the trial.",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Justice poilue et adorable ",
+      "t": "A",
+      "v": "743264_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Cela PROUVE que quelqu'un a commis un crime. Imaginez Blue entrant au tribunal avec « l’album de meurtre » de Steve. ",
+      "t": "A",
+      "v": "743276_1",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Imaginez-le... ",
+      "t": "A",
+      "v": "743265_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "743267_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "\"Votre honneur, Mme Pepper dit qu'elle n'a jamais vu Steve assassiner qui que ce soit. En avons-nous fini ici ?\" ",
+      "t": "A",
+      "v": "743274_1",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "C’est une preuve qui ne peut littéralement pas être utilisée devant un tribunal. MAUVAIS. CHIEN. ",
+      "t": "A",
+      "v": "743272_1",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "That’s evidence that directly disproves someone committed a crime.",
+      "t": "A",
+      "v": "743269_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "If anyone’s going to jail, it’s that mailbox. I’m mean, talk about a red flag...",
+      "t": "A",
+      "v": "743270_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "Steve from <i>Blue’s Clues</i> is wrongly charged with murder and Blue must mount a desperate defense for the trial. What kind of clues are Blue looking for?",
+      "t": "A",
+      "v": "743266_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

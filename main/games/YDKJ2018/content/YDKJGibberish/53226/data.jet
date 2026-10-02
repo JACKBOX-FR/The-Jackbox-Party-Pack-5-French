@@ -1,0 +1,100 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "S",
+      "v": "Ils sont très jeunes... ",
+      "n": "Clue1Text"
+    },
+    {
+      "t": "S",
+      "v": "... mais ce sont d'excellents cuisiniers. ",
+      "n": "Clue2Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Top Chef Junior</i> ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Top Chef Jr, Top Chef Jr., Top Chef Junior, Top Chef Junior ",
+      "n": "Acceptable"
+    },
+    {
+      "t": "S",
+      "v": "Le meilleur expert en alimentation pour enfants ",
+      "n": "Clue3Text"
+    },
+    {
+      "t": "S",
+      "v": "Jeu retardé par un dysfonctionnement de la garde-robe ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "Arrêtez l'arbitre, faites-lui la lune ! ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Ils sont très jeunes... ",
+      "t": "A",
+      "v": "760058_1",
+      "n": "Clue1Audio"
+    },
+    {
+      "s": "Jeu retardé par un dysfonctionnement de la garde-robe ",
+      "t": "A",
+      "v": "760053_2",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Le meilleur expert en alimentation pour enfants ",
+      "t": "A",
+      "v": "760060_1",
+      "n": "Clue3Audio"
+    },
+    {
+      "s": "Regardez cette phrase charabia et dites-moi avec quel titre d’émission télévisée elle rime. ",
+      "t": "A",
+      "v": "760054_2",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "OutroAudio"
+    },
+    {
+      "s": "... mais ce sont d'excellents cuisiniers. ",
+      "t": "A",
+      "v": "760059_1",
+      "n": "Clue2Audio"
+    },
+    {
+      "s": "Arrêtez l'arbitre, faites-lui la lune ! ",
+      "t": "A",
+      "v": "760055_3",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "un camp informatique ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "1,2,3,0 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Quel type de camp d'été serait terrorisé par JSON Voorhees ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Dieu merci, c'est vendredi 13 ",
+      "t": "A",
+      "v": "714537_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Toute la saga d'horreur du vendredi 13 a commencé avec un jeune Jason Voorhees noyé dans le lac... mais ce n'est pas de cela dont nous parlons ici. ",
+      "t": "A",
+      "v": "714549_1",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "714540_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "Les mathématiques... ça vous fera toujours mal. ",
+      "t": "A",
+      "v": "714547_1",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "[sfx : tuba ou trombone triste] ",
+      "t": "A",
+      "v": "714545_0f",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "JSON est un terme informatique signifiant notation d'objet JavaScript. ",
+      "t": "A",
+      "v": "714542_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Dans le premier film, le tueur est en fait la carte mère de JSON. ",
+      "t": "A",
+      "v": "714543_4",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "What type of summer camp would be terrorized by JSON Voorhees?",
+      "t": "A",
+      "v": "714539_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

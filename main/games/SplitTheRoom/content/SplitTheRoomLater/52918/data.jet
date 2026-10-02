@@ -1,0 +1,96 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "Pip pop pip pop | Oups | Attention à ce danger | Oh, claquement | A ta gauche ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "S+11.04",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "S+3.56",
+      "n": "$ScenarioAudio$ScenarioTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "La seule façon de se débarrasser de cette malédiction est de la transférer sur <OTHERPLAYER>. ",
+      "n": "ScenarioText3"
+    },
+    {
+      "t": "S",
+      "v": "S+5.38",
+      "n": "$ScenarioAudio$ScenarioTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "Ils ne sauront pas que cela vient de vous. ",
+      "n": "ScenarioText4"
+    },
+    {
+      "t": "S",
+      "v": "Vingt fois par jour, au hasard, une voix forte dans ta tête dit : ",
+      "n": "ScenarioText1"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00 ",
+      "n": "$ScenarioAudio$ScenarioTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "« <BLANK> ! » ",
+      "n": "ScenarioText2"
+    },
+    {
+      "t": "S",
+      "v": "S+9.48",
+      "n": "$ScenarioAudio$ScenarioTextCue4"
+    },
+    {
+      "t": "S",
+      "v": "Le transférez-vous ? ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Une maladie transmissible ",
+      "t": "A",
+      "v": "Le transférez-vous ? ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Vingt fois par jour, au hasard, une voix forte dans votre tête dit « CECI ». La seule façon de se débarrasser de cette malédiction est de la transférer sur <OTHERPLAYER>. Ils ne sauront pas que cela vient de vous. Le transférez-vous ? ",
+      "t": "A",
+      "v": "756739_2",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    }
+  ]
+}

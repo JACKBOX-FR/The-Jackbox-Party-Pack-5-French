@@ -1,0 +1,246 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion5Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupPoorAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasDisAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion1Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion4Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTimingInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasScoreInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupRockedAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupAwfulAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion7Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasDatAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion6Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion3Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrapupOutroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupGoodAudio"
+    },
+    {
+      "t": "S",
+      "v": "S+8.50",
+      "n": "$InstructionsAudio$DatTextCue"
+    },
+    {
+      "t": "S",
+      "v": "J'ai été réduit en esclavage par des savants fous ! ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "ROMAN ÉROTIQUE ",
+      "n": "DatButtonText"
+    },
+    {
+      "t": "S",
+      "v": "MST3K ",
+      "n": "DisButtonText"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$InstructionsAudio$BothCue"
+    },
+    {
+      "t": "S",
+      "v": "un film B usurpé par <i>MST3K</i> ",
+      "n": "DisText"
+    },
+    {
+      "t": "S",
+      "v": "un roman érotique écrit par Whitney Fox ",
+      "n": "DatText"
+    },
+    {
+      "t": "S",
+      "v": "S+3.68",
+      "n": "$InstructionsAudio$DisTextCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$DisAudio$DisButtonCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$DatAudio$DatButtonCue"
+    },
+    {
+      "s": "J'étais un loup-garou adolescent ",
+      "t": "A",
+      "v": "751274_1",
+      "n": "Question5Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "TimingInstructionsAudio"
+    },
+    {
+      "s": "My sex life might not be great but at least I don’t have robots heckling it. [SFX: vacuum sound] Shut up roomba!",
+      "t": "A",
+      "v": "751281_3",
+      "n": "WrapupOutroAudio"
+    },
+    {
+      "s": "Je vais lire 7 titres, et pour chacun d'entre eux, je veux que vous me disiez s'il s'agit d'un film #B usurpé par Mystery Science Theater 3000 ou d'un roman #érotique écrit par Whitney Fox. ",
+      "t": "A",
+      "v": "751269_1",
+      "n": "InstructionsAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ScoreInstructionsAudio"
+    },
+    {
+      "s": "Maman milliardaire aime le butin ",
+      "t": "A",
+      "v": "751276_3",
+      "n": "Question7Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupPoorAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupRockedAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupAwfulAudio"
+    },
+    {
+      "s": "La sinistre envie ",
+      "t": "A",
+      "v": "751271_1",
+      "n": "Question2Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupGoodAudio"
+    },
+    {
+      "s": "... MST3K... ou... ",
+      "t": "A",
+      "v": "751282_2",
+      "n": "DisAudio"
+    },
+    {
+      "s": "Le contact de Satan ",
+      "t": "A",
+      "v": "751272_1",
+      "n": "Question3Audio"
+    },
+    {
+      "s": "J'ai été réduit en esclavage par des scientifiques fous et à en juger par le signe du film... c'est un Dis ou Dat. ",
+      "t": "A",
+      "v": "751268_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "...un roman érotique ",
+      "t": "A",
+      "v": "751283_2",
+      "n": "DatAudio"
+    },
+    {
+      "s": "Mon petit ami mammouth laineux ",
+      "t": "A",
+      "v": "751273_1",
+      "n": "Question4Audio"
+    },
+    {
+      "s": "Conquis par les dragons ",
+      "t": "A",
+      "v": "751270_1",
+      "n": "Question1Audio"
+    },
+    {
+      "s": "Amant à dents de sabre ",
+      "t": "A",
+      "v": "751275_2",
+      "n": "Question6Audio"
+    }
+  ]
+}

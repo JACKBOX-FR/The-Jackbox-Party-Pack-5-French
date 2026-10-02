@@ -1,0 +1,139 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Aleve ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "3,0,1,2 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Selon les « <i>règles de Matrix</i> », basées sur sa couleur, quelle pilule dois-je avaler si je veux continuer mon ignorance bienheureuse de l'illusion ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Allez contre la migraine ",
+      "t": "A",
+      "v": "717171_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "OU\nVous connaissez peut-être le kung-fu, mais vous ne connaissez pas la réponse à cette question. (TOUS) ",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "717174_3",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "OU\nCela pourrait être une pilule difficile à avaler. (TOUS) ",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "OU",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Aleve fabrique des pilules bleues qui, selon The Matrix, sont la pilule que les moutons prennent pour rester des moutons. ",
+      "t": "A",
+      "v": "717176_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "C'est parti [sfx: gulp] Ok, continuons ce \"jeu\" ",
+      "t": "A",
+      "v": "717177_3",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "According to “<i>Matrix</i> rules,” based on its color, which pill should I swallow if I want to continue my blissful ignorance of illusion?",
+      "t": "A",
+      "v": "717173_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

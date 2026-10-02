@@ -1,0 +1,421 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_6Correct"
+    },
+    {
+      "t": "S",
+      "v": "<i>Frasier</i> ",
+      "n": "Choice6_6Text"
+    },
+    {
+      "t": "S",
+      "v": "A eu lieu au-dessus de l'équateur ",
+      "n": "Root2Text"
+    },
+    {
+      "t": "S",
+      "v": "Jeff Bezos est né ",
+      "n": "Choice5_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Jeux olympiques de 2016 ",
+      "n": "Choice2_3Text"
+    },
+    {
+      "t": "S",
+      "v": "La naissance de Jeff Bezos ",
+      "n": "Choice4_2Text"
+    },
+    {
+      "t": "S",
+      "v": "une question sur la longueur du Nil ",
+      "n": "Choice6_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Bataille des Ardennes ",
+      "n": "Choice3_5Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Frasier</i> ",
+      "n": "Choice1_6Text"
+    },
+    {
+      "t": "S",
+      "v": "A eu lieu sur terre ",
+      "n": "Root1Text"
+    },
+    {
+      "t": "S",
+      "v": "une référence à la Space Needle ",
+      "n": "Choice6_5Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Frasier</i> ",
+      "n": "Choice2_6Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Cinquante nuances de Grey</i> ",
+      "n": "Choice4_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Vous êtes ici ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "<i>Maman Mia ! C'est reparti</i> ",
+      "n": "Choice2_2Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Frasier</i> ",
+      "n": "Choice4_6Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Thor</i> ",
+      "n": "Choice1_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Niles couche avec Lilith ",
+      "n": "Choice5_3Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Dune</i> ",
+      "n": "Choice1_5Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>La connexion française</i> ",
+      "n": "Choice3_4Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Alien</i> ",
+      "n": "Choice1_3Text"
+    },
+    {
+      "t": "S",
+      "v": "le premier Starbucks ",
+      "n": "Choice4_4Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Cavalier de baleine</i> ",
+      "n": "Choice2_5Text"
+    },
+    {
+      "t": "S",
+      "v": "A eu lieu dans un épisode de <i>Frasier</i> ",
+      "n": "Root5Text"
+    },
+    {
+      "t": "S",
+      "v": "A eu lieu à Seattle ",
+      "n": "Root4Text"
+    },
+    {
+      "t": "S",
+      "v": "O.J. Procès Simpson ",
+      "n": "Choice4_5Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Marche des Pingouins</i> ",
+      "n": "Choice2_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Le couteau de Kelsey Grammer a disparu du camping-car ",
+      "n": "Choice6_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Tom Gottlieb joue un serveur ",
+      "n": "Choice5_6Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Clair de lune</i> ",
+      "n": "Choice1_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Éruption du mont St.Helens ",
+      "n": "Choice3_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Eddie donne naissance à des chiots ",
+      "n": "Choice5_2Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Lilo et Stitch</i> ",
+      "n": "Choice3_1Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Frasier</i> ",
+      "n": "Choice3_6Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Billes spatiales</i> ",
+      "n": "Choice1_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Daphné a un bébé ",
+      "n": "Choice5_5Text"
+    },
+    {
+      "t": "S",
+      "v": "A eu lieu aux États-Unis",
+      "n": "Root3Text"
+    },
+    {
+      "t": "S",
+      "v": "un jeu de mots sur le nom de Daphné Moon ",
+      "n": "Choice6_2Text"
+    },
+    {
+      "t": "S",
+      "v": "A eu lieu dans ce jeu-questionnaire sur <i>Frasier</i> ",
+      "n": "Root6Text"
+    },
+    {
+      "t": "S",
+      "v": "naufrage du Titanic ",
+      "n": "Choice2_4Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>iCarly</i> ",
+      "n": "Choice4_3Text"
+    },
+    {
+      "t": "S",
+      "v": "un Dis ou Dat sur les salades mélangées et les œufs brouillés ",
+      "n": "Choice6_3Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Le Labyrinthe de Pan</i> ",
+      "n": "Choice3_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Frasier se marie ",
+      "n": "Choice5_1Text"
+    },
+    {
+      "s": "Vous êtes ici ",
+      "t": "A",
+      "v": "765536_2 ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "J'espère que vous savez où tout s'est passé... bonne chance... ",
+      "t": "A",
+      "v": "765537_3 ",
+      "n": "IntroAudio"
+    }
+  ]
+}

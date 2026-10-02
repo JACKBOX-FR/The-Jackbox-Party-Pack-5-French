@@ -1,0 +1,96 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "Je suis végétalien maintenant | La terre est plate | Les lézards sont réels | Je quitte mon travail | Il est temps de se mettre au jogging ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "S+9.73",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "S+4.68",
+      "n": "$ScenarioAudio$ScenarioTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "« <BLANK> » ",
+      "n": "ScenarioText3"
+    },
+    {
+      "t": "S",
+      "v": "S+6.06",
+      "n": "$ScenarioAudio$ScenarioTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "... mais ensuite une célébrité YouTube le partage. ",
+      "n": "ScenarioText4"
+    },
+    {
+      "t": "S",
+      "v": "Chaque déclaration que vous publiez sur les réseaux sociaux deviendra vraie si elle obtient 5 000 likes. ",
+      "n": "ScenarioText1"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00 ",
+      "n": "$ScenarioAudio$ScenarioTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Pour plaisanter, vous écrivez, ",
+      "n": "ScenarioText2"
+    },
+    {
+      "t": "S",
+      "v": "S+7.48",
+      "n": "$ScenarioAudio$ScenarioTextCue4"
+    },
+    {
+      "t": "S",
+      "v": "Le supprimez-vous avant qu’il ne se développe ? ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Grand si vrai ",
+      "t": "A",
+      "v": "Le supprimez-vous avant qu’il ne se développe ? ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Chaque déclaration que vous publiez sur les réseaux sociaux deviendra vraie si elle obtient 5 000 likes. Pour plaisanter, vous écrivez CECI... mais une célébrité de YouTube le partage. Le supprimez-vous avant qu’il ne se développe ? ",
+      "t": "A",
+      "v": "731391_5",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "musique de trombone | Godzilla attaque | échantillons de parfum ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Constant <BLANK> me stresse ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : La constante CECI me stresse ! ",
+      "t": "A",
+      "v": "761637_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

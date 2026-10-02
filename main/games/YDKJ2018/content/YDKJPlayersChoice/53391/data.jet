@@ -1,0 +1,50 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "une question faite avec amour ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "une question faite avec dépit ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "52883 ",
+      "n": "Choice2Id"
+    },
+    {
+      "t": "S",
+      "v": "Souhaitez-vous une question faite avec amour ou une question faite avec méchanceté ? ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "52884 ",
+      "n": "Choice1Id"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "Souhaitez-vous une question faite avec amour ou une question faite avec méchanceté ? ",
+      "t": "A",
+      "v": "761794_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,3711 @@
+{
+  "content": [
+    {
+      "id": "53751",
+      "category": {
+        "text": "Une question qui ne cesse d'être interrompue "
+      },
+      "choices": [
+        {
+          "text": "Brésil ",
+          "isCorrect": false
+        },
+        {
+          "text": "Afrique du Sud ",
+          "isCorrect": false
+        },
+        {
+          "text": "les États-Unis ",
+          "isCorrect": false
+        },
+        {
+          "text": "Groenland ",
+          "isCorrect": true
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Si je "
+        },
+        {
+          "timing": "S + 4.97",
+          "text": "j'en ai marre des gens "
+        },
+        {
+          "timing": "S + 18.02",
+          "text": "m'interrompant constamment, et "
+        },
+        {
+          "timing": "S + 36.92",
+          "text": "voulait déménager dans le pays le moins densément peuplé du monde, "
+        },
+        {
+          "timing": "S + 43.17",
+          "text": "où dois-je aller ? "
+        }
+      ]
+    },
+    {
+      "id": "53750",
+      "category": {
+        "text": "Une question qui implique un moment de calme "
+      },
+      "choices": [
+        {
+          "text": "j'entends un film de Martin Scorsese de 2016 depuis l'autre pièce ",
+          "isCorrect": false
+        },
+        {
+          "text": "hurlant un single de Guns N' Roses de 1988 ",
+          "isCorrect": true
+        },
+        {
+          "text": "écouter un clerc lancer un sort de niveau 2 dans \"Donjons & Dragons\" ",
+          "isCorrect": false
+        },
+        {
+          "text": "écouter le plan diabolique d'un méchant de <i>Doctor Who</i> ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Lequel de ces éléments ne pourrait pas être considéré comme « le son du silence » ? "
+        }
+      ]
+    },
+    {
+      "id": "53499",
+      "category": {
+        "text": "Une question sur les pieds "
+      },
+      "choices": [
+        {
+          "text": "Il y a plus d’une centaine d’articulations dans vos pieds. ",
+          "isCorrect": false
+        },
+        {
+          "text": "Votre muscle le plus fort est celui de votre talon. ",
+          "isCorrect": false
+        },
+        {
+          "text": "Vos pieds possèdent un quart de vos os. ",
+          "isCorrect": true
+        },
+        {
+          "text": "Vos ongles sont plus durs que le fer. ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Vos pieds peuvent prétendre à quel exploit ? "
+        }
+      ]
+    },
+    {
+      "id": "53497",
+      "category": {
+        "text": "Une question sur les visages "
+      },
+      "choices": [
+        {
+          "text": "90 degrés ",
+          "isCorrect": false
+        },
+        {
+          "text": "180 degrés",
+          "isCorrect": true
+        },
+        {
+          "text": "270 degrés ",
+          "isCorrect": false
+        },
+        {
+          "text": "360 degrés ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "En termes militaires, si vous faisiez volte-face, vous tourneriez... "
+        }
+      ]
+    },
+    {
+      "id": "53395",
+      "category": {
+        "text": "Une question avec une arrière-pensée "
+      },
+      "choices": [
+        {
+          "text": "\"N'est-ce pas le jour où le bébé Lindbergh a été kidnappé ?\" ",
+          "isCorrect": false
+        },
+        {
+          "text": "\"N'est-ce pas le jour où D.B. Cooper a détourné un avion ?\" ",
+          "isCorrect": true
+        },
+        {
+          "text": "« N’est-ce pas le jour où le Dahlia noir a été découvert ? » ",
+          "isCorrect": false
+        },
+        {
+          "best": true,
+          "text": "\"Cookie était avec moi toute la journée, officier.\" ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": true,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Si quelqu'un me demandait où j'étais le 24 novembre 1971... "
+        },
+        {
+          "timing": "S + 5.38",
+          "text": "que diriez-vous ? "
+        }
+      ]
+    },
+    {
+      "id": "53394",
+      "category": {
+        "text": "Une question qui n'a rien à cacher "
+      },
+      "choices": [
+        {
+          "text": "Un ",
+          "isCorrect": false
+        },
+        {
+          "text": "B ",
+          "isCorrect": false
+        },
+        {
+          "text": "C ",
+          "isCorrect": true
+        },
+        {
+          "text": "ré ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 1.75",
+          "text": "La réponse est C. "
+        }
+      ]
+    },
+    {
+      "id": "53393",
+      "category": {
+        "text": "Une question où la réponse rime avec « violet » "
+      },
+      "choices": [
+        {
+          "text": "J'ai reçu un coup de pied dans le DURPLE et j'ai commencé à CURPLE ! ",
+          "isCorrect": false
+        },
+        {
+          "text": "J'ai reçu un coup de pied dans le CURPLE et j'ai commencé à HIRPLE ! ",
+          "isCorrect": true
+        },
+        {
+          "text": "J'ai reçu un coup de pied dans le BURPLE et j'ai commencé à DURPLE ! ",
+          "isCorrect": false
+        },
+        {
+          "text": "Je me suis fait PLURPED dans le FLIRPLE et j'ai GRURPLED le WHIRPLE ! ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Je vais raconter à cette fille écossaise la fois où j’ai reçu un coup de pied si fort dans les fesses que j’ai boité pendant une semaine. "
+        },
+        {
+          "timing": "S + 5.61",
+          "text": "Si je veux pimenter un vieil argot écossais, comment dois-je raconter l’histoire ? "
+        }
+      ]
+    },
+    {
+      "id": "53392",
+      "category": {
+        "text": "Une question où la réponse rime avec « orange » "
+      },
+      "choices": [
+        {
+          "text": "Blornenge ",
+          "isCorrect": true
+        },
+        {
+          "text": "Glarange ",
+          "isCorrect": false
+        },
+        {
+          "text": "Warrenge ",
+          "isCorrect": false
+        },
+        {
+          "text": "McGlorenge ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Lequel de ces noms est le nom d'une vraie montagne du sud-est du Pays de Galles ? "
+        }
+      ]
+    },
+    {
+      "id": "53334",
+      "category": {
+        "text": "Une question qui garde les choses décontractées "
+      },
+      "choices": [
+        {
+          "text": "<i>Aucune condition n'est attachée</i> ",
+          "isCorrect": false
+        },
+        {
+          "text": "<i>Juste amis</i> ",
+          "isCorrect": true
+        },
+        {
+          "text": "<i>Un peu comme l'amour</i> ",
+          "isCorrect": false
+        },
+        {
+          "text": "<i>Que se passe-t-il à Vegas</i> ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Je me demandais juste.... "
+        },
+        {
+          "timing": "S + 2.64",
+          "text": "pourriez-vous me dire lequel de ces films n’est PAS un film d’Ashton « Casual » Kutcher ? "
+        }
+      ]
+    },
+    {
+      "id": "53333",
+      "category": {
+        "text": "Une question formelle "
+      },
+      "choices": [
+        {
+          "text": "« Royals » ",
+          "isCorrect": false
+        },
+        {
+          "text": "« Fantaisie » ",
+          "isCorrect": false
+        },
+        {
+          "text": "\"Lustre\" ",
+          "isCorrect": true
+        },
+        {
+          "text": "« Costume-cravate » ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "À qui de droit, "
+        },
+        {
+          "timing": "S + 1.97",
+          "text": "Je demande lequel de ces numéros musicaux a été interprété avec aplomb par l'effervescente artiste Sia ? "
+        }
+      ]
+    },
+    {
+      "id": "53230",
+      "category": {
+        "text": "Une question sur le temps "
+      },
+      "choices": [
+        {
+          "text": "une Delorean me frappe en 1 milliseconde ",
+          "isCorrect": false
+        },
+        {
+          "text": "une cabine téléphonique atterrit sur moi en 1 nanoseconde ",
+          "isCorrect": false
+        },
+        {
+          "text": "un poste de police m'écrase en 1 microseconde ",
+          "isCorrect": false
+        },
+        {
+          "text": "un robot nu me frappe en 1 picoseconde ",
+          "isCorrect": true
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Lequel de ces appareils de voyage dans le temps constitue la menace la plus immédiate ? "
+        }
+      ]
+    },
+    {
+      "id": "53229",
+      "category": {
+        "text": "Une question sur l'espace "
+      },
+      "choices": [
+        {
+          "text": "Hoth ",
+          "isCorrect": false
+        },
+        {
+          "text": "Dagobah ",
+          "isCorrect": false
+        },
+        {
+          "text": "Aldérande ",
+          "isCorrect": true
+        },
+        {
+          "text": "Tatooine",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Laquelle de ces planètes fictives n’est plus qu’un espace vide ? "
+        }
+      ]
+    },
+    {
+      "id": "52986",
+      "category": {
+        "text": "Une question que vous auriez aimé ne pas savoir "
+      },
+      "choices": [
+        {
+          "text": "fesses de cochon ",
+          "isCorrect": false
+        },
+        {
+          "text": "mégots de castor ",
+          "isCorrect": true
+        },
+        {
+          "text": "mégots de canard ",
+          "isCorrect": false
+        },
+        {
+          "text": "mégots de poisson ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Quelle est l’une des principales sources d’arôme naturel de vanille ? "
+        }
+      ]
+    },
+    {
+      "id": "52985",
+      "category": {
+        "text": "Une question, tu sais "
+      },
+      "choices": [
+        {
+          "text": "enzymes, homme ",
+          "isCorrect": false
+        },
+        {
+          "text": "ganglions lymphatiques, homme ",
+          "isCorrect": false
+        },
+        {
+          "text": "neurones, mec ",
+          "isCorrect": true
+        },
+        {
+          "text": "plasma, homme ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Mais comment le SAVEZ-VOUS ? "
+        }
+      ]
+    },
+    {
+      "id": "52926",
+      "category": {
+        "text": "Une question sur papa "
+      },
+      "choices": [
+        {
+          "text": "\"Salut Achab, je suis papa!\" ",
+          "isCorrect": false
+        },
+        {
+          "text": "\"Salut Ismaël, je suis papa!\" ",
+          "isCorrect": true
+        },
+        {
+          "text": "\"Salut Queequeg, je suis papa!\" ",
+          "isCorrect": false
+        },
+        {
+          "text": "\"Salut Starbuck, je suis papa!\" ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Quelle blague de papa suivrait la première phrase de <i>Moby Dick</i> ? "
+        }
+      ]
+    },
+    {
+      "id": "52925",
+      "category": {
+        "text": "Une question sur maman "
+      },
+      "choices": [
+        {
+          "text": "<i>Murphy Brown</i> ",
+          "isCorrect": false
+        },
+        {
+          "text": "<i>Ally McBeal</i> ",
+          "isCorrect": false
+        },
+        {
+          "text": "<i>Roseanne</i> ",
+          "isCorrect": false
+        },
+        {
+          "text": "<i>Arbre</i> ",
+          "isCorrect": true
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Quelle chanson thème les décrit comme une « mauvaise mère » ? "
+        }
+      ]
+    },
+    {
+      "id": "52886",
+      "category": {
+        "text": "Une question stupide "
+      },
+      "choices": [
+        {
+          "text": "peut-être que les cellules se divisent et se rassemblent ",
+          "isCorrect": false
+        },
+        {
+          "text": "neurones quelque chose quelque chose d'électricité ",
+          "isCorrect": true
+        },
+        {
+          "text": "les atomes perdent ou gagnent des électrons, je suppose ",
+          "isCorrect": false
+        },
+        {
+          "text": "euhhhh.... échange de gaz carbonique ? ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Comment fonctionne le cerveau ? "
+        }
+      ]
+    },
+    {
+      "id": "52885",
+      "category": {
+        "text": "Une question intelligente "
+      },
+      "choices": [
+        {
+          "text": "\"Le rôle d'Amy Smart la transforme d'actrice en star.\" ",
+          "isCorrect": false
+        },
+        {
+          "text": "\"Une fois qu'Amy Smart commence à rouler, rien ne peut l'arrêter.\" ",
+          "isCorrect": false
+        },
+        {
+          "text": "\"Même les plus petites lignes d'Amy Smart ont un impact immense.\" ",
+          "isCorrect": true
+        },
+        {
+          "text": "\"La performance d'Amy Smart est si dense qu'elle vous aspire.\" ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Quelle critique de <i>L'effet papillon</i> décrit le mieux « l'effet papillon » ? "
+        }
+      ]
+    },
+    {
+      "id": "52884",
+      "category": {
+        "text": "Une question faite avec amour "
+      },
+      "choices": [
+        {
+          "text": "\"L, c'est pour la façon dont tu me regardes\" ",
+          "isCorrect": false
+        },
+        {
+          "text": "\"O, c'est pour le seul que je vois\" ",
+          "isCorrect": false
+        },
+        {
+          "text": "\"V, c'est très très, extraordinaire\" ",
+          "isCorrect": false
+        },
+        {
+          "text": "\"E, c'est encore plus que n'importe quel amour que j'ai eu auparavant\" ",
+          "isCorrect": true
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Laquelle de ces paroles n'est PAS une vraie parole du tube de Nat King Cole de 1965 ? "
+        }
+      ]
+    },
+    {
+      "id": "52883",
+      "category": {
+        "text": "Une question faite avec dépit "
+      },
+      "choices": [
+        {
+          "text": "mesquinerie ",
+          "isCorrect": false
+        },
+        {
+          "text": "envie ",
+          "isCorrect": true
+        },
+        {
+          "text": "vengeance ",
+          "isCorrect": false
+        },
+        {
+          "text": "vaine gloire ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Lequel des sept péchés capitaux a été ajouté par le pape Grégoire parce qu’il ne pensait pas que la liste d’Évagre de Pont était assez bonne ? "
+        }
+      ]
+    },
+    {
+      "id": "52873",
+      "category": {
+        "text": "Une question sur les extraterrestres "
+      },
+      "choices": [
+        {
+          "best": true,
+          "text": "Frêne ",
+          "isCorrect": false
+        },
+        {
+          "text": "Évêque ",
+          "isCorrect": true
+        },
+        {
+          "text": "Appeler ",
+          "isCorrect": false
+        },
+        {
+          "text": "David",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": true,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Quel est le nom du robot dans le film <i>Aliens</i> ? "
+        }
+      ]
+    },
+    {
+      "id": "52872",
+      "category": {
+        "text": "Une question sur les robots "
+      },
+      "choices": [
+        {
+          "text": "Mécha Lune ",
+          "isCorrect": false
+        },
+        {
+          "text": "Technodrome ",
+          "isCorrect": false
+        },
+        {
+          "text": "Cybertron ",
+          "isCorrect": true
+        },
+        {
+          "text": "Baie automatique ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "De quelle planète viennent les Transformers ? "
+        }
+      ]
+    },
+    {
+      "id": "52871",
+      "category": {
+        "text": "Une question qui fait d’une pierre deux coups "
+      },
+      "choices": [
+        {
+          "text": "2 morceaux de farro ",
+          "isCorrect": false
+        },
+        {
+          "text": "2 morceaux de triticale ",
+          "isCorrect": false
+        },
+        {
+          "text": "2 morceaux d'amarante ",
+          "isCorrect": false
+        },
+        {
+          "text": "2 morceaux de diorite ",
+          "isCorrect": true
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Parmi les objets suivants en possession de cette question, lesquels pourraient être les armes du crime ? "
+        }
+      ]
+    },
+    {
+      "id": "52870",
+      "category": {
+        "text": "Une question qui fait d’une pierre deux coups "
+      },
+      "choices": [
+        {
+          "text": "farro ",
+          "isCorrect": false
+        },
+        {
+          "text": "diorite ",
+          "isCorrect": true
+        },
+        {
+          "text": "triticale ",
+          "isCorrect": false
+        },
+        {
+          "text": "amarante ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Lequel des objets suivants en possession de cette question pourrait être l’arme du crime ? "
+        }
+      ]
+    },
+    {
+      "id": "52851",
+      "category": {
+        "text": "Une question où vous ne comptez PAS vos poulets avant qu’ils n’éclosent "
+      },
+      "choices": [
+        {
+          "text": "3 ",
+          "isCorrect": true
+        },
+        {
+          "text": "6 ",
+          "isCorrect": false
+        },
+        {
+          "text": "9 ",
+          "isCorrect": false
+        },
+        {
+          "text": "1 200 ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Si vous avez 6 œufs et 3 poules, combien de poules avez-vous ? "
+        }
+      ]
+    },
+    {
+      "id": "52850",
+      "category": {
+        "text": "Une question où vous comptez vos poulets avant qu’ils n’éclosent "
+      },
+      "choices": [
+        {
+          "text": "3 ",
+          "isCorrect": false
+        },
+        {
+          "text": "6 ",
+          "isCorrect": false
+        },
+        {
+          "text": "9 ",
+          "isCorrect": true
+        },
+        {
+          "text": "1 200 ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Si vous avez 6 œufs et 3 poules, combien de poules avez-vous ? "
+        }
+      ]
+    },
+    {
+      "id": "52754",
+      "category": {
+        "text": "Une question pleine d'humour "
+      },
+      "choices": [
+        {
+          "text": "du sang ",
+          "isCorrect": false
+        },
+        {
+          "text": "flegme ",
+          "isCorrect": false
+        },
+        {
+          "text": "bile noire ",
+          "isCorrect": false
+        },
+        {
+          "text": "pus blanc ",
+          "isCorrect": true
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Laquelle de ces humeurs n’est PAS l’une des quatre humeurs qui, selon les Grecs anciens, constituaient la biologie humaine ? "
+        }
+      ]
+    },
+    {
+      "id": "52753",
+      "category": {
+        "text": "Une question intéressante "
+      },
+      "choices": [
+        {
+          "text": "Jeremy IRON ",
+          "isCorrect": true
+        },
+        {
+          "text": "GOLDie Hawn ",
+          "isCorrect": false
+        },
+        {
+          "text": "Sarah SILVERman ",
+          "isCorrect": false
+        },
+        {
+          "text": "Bradley CUIVRE ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "D'après leur MAGNETISME, lequel de ces acteurs est le plus attractif ? "
+        }
+      ]
+    },
+    {
+      "id": "52734",
+      "category": {
+        "text": "Une question sur le grand sax "
+      },
+      "choices": [
+        {
+          "text": "ténor ",
+          "isCorrect": false
+        },
+        {
+          "text": "soprano ",
+          "isCorrect": false
+        },
+        {
+          "text": "baryton ",
+          "isCorrect": true
+        },
+        {
+          "text": "alto ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Quel saxophone est le plus gros ? "
+        }
+      ]
+    },
+    {
+      "id": "52733",
+      "category": {
+        "text": "Une question sur le bon sexe "
+      },
+      "choices": [
+        {
+          "text": "«gymnosperme». ",
+          "isCorrect": true
+        },
+        {
+          "text": "« angiosperme ».",
+          "isCorrect": false
+        },
+        {
+          "text": "\"endosperme.\" ",
+          "isCorrect": false
+        },
+        {
+          "text": "« ptéridosperme ». ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Mon ami est sorti hier soir avec une plante qui se reproduit grâce à des graines exposées, et je lui ai dit \"ma fille, on dirait que tu es sortie avec un vrai...\" "
+        }
+      ]
+    },
+    {
+      "id": "52236",
+      "category": {
+        "text": "Une question que vous rejouerez plus tard "
+      },
+      "choices": [
+        {
+          "text": "<i>Le scorbut et la vitamine qui l'empêche</i> ",
+          "isCorrect": false
+        },
+        {
+          "text": "<i>Les dangers de la MDMA</i> ",
+          "isCorrect": true
+        },
+        {
+          "text": "<i>Une histoire orale du réseau Real Housewives</i> ",
+          "isCorrect": false
+        },
+        {
+          "text": "<i>Lawrence Tureaud : Appelez-moi Monsieur</i> ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Lequel de ces livres électroniques est également un livre « E » ? "
+        }
+      ]
+    },
+    {
+      "id": "52232",
+      "category": {
+        "text": "Une question à laquelle vous avez déjà répondu "
+      },
+      "choices": [
+        {
+          "text": "<i>2 Crime 2 Châtiment</i> ",
+          "isCorrect": false
+        },
+        {
+          "text": "<i>2 souris 2 hommes</i> ",
+          "isCorrect": false
+        },
+        {
+          "text": "<i>2 Sens 2 Sensibilité</i> ",
+          "isCorrect": true
+        },
+        {
+          "text": "<i>2 Harry Potter 2 Prisonnier d'Azkaban</i> ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Si Vin Diesel voyageait dans le temps et convainquait Jane Austen d'écrire une suite à l'un de ses romans classiques, quel titre inspiré de <i>Fast and the Furious</i> aurait-il ? "
+        }
+      ]
+    },
+    {
+      "id": "52110",
+      "category": {
+        "text": "Une question musicale sur le délicat "
+      },
+      "choices": [
+        {
+          "text": "la première combinaison humide ",
+          "isCorrect": false
+        },
+        {
+          "text": "la première combinaison spatiale ",
+          "isCorrect": true
+        },
+        {
+          "text": "le premier bikini ",
+          "isCorrect": false
+        },
+        {
+          "text": "le premier bonnet et robe de graduation ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Qu'est-ce que la société de sous-vêtements Playtex a contribué à créer ? "
+        }
+      ]
+    },
+    {
+      "id": "52108",
+      "category": {
+        "text": "Une question délicate sur les comédies musicales "
+      },
+      "choices": [
+        {
+          "text": "<i>Cher Evan Hansen</i> ",
+          "isCorrect": false
+        },
+        {
+          "text": "<i>Réveil du printemps</i> ",
+          "isCorrect": true
+        },
+        {
+          "text": "<i>Le meilleur petit bordel du Texas</i> ",
+          "isCorrect": false
+        },
+        {
+          "text": "<i>Oklahoma !</i> ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Dans quelle comédie musicale Wendla et Melchior... "
+        },
+        {
+          "timing": "S + 4.82",
+          "text": "partager un... "
+        },
+        {
+          "timing": "S + 6.59",
+          "text": "moment intime dans une grange à foin ? "
+        }
+      ]
+    },
+    {
+      "id": "52037",
+      "category": {
+        "text": "Une question directe "
+      },
+      "choices": [
+        {
+          "text": "«Belle AUGER!» ",
+          "isCorrect": true
+        },
+        {
+          "text": "\"Doux JIG!\" ",
+          "isCorrect": false
+        },
+        {
+          "text": "\"J'aime ton SHANTY!\" ",
+          "isCorrect": false
+        },
+        {
+          "text": "\"C'est un CHUB dans ta poche ?\" ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Je ne veux pas être trop direct, mais tu es très attirant. "
+        },
+        {
+          "timing": "S + 3.95",
+          "text": "...Non? "
+        },
+        {
+          "timing": "S + 5.29",
+          "text": "Eh bien, si je pêchais sur la glace, lequel de ces éléments serait le meilleur brise-glace ? "
+        }
+      ]
+    },
+    {
+      "id": "52036",
+      "category": {
+        "text": "Une question rétrospective "
+      },
+      "choices": [
+        {
+          "text": "elfe puceau ",
+          "isCorrect": false
+        },
+        {
+          "text": "chat taco ",
+          "isCorrect": true
+        },
+        {
+          "text": "Denise a péché ",
+          "isCorrect": false
+        },
+        {
+          "best": true,
+          "text": "Lequel de ces éléments est un palindrome ? ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "embrasser la soie "
+        }
+      ]
+    },
+    {
+      "id": "51978",
+      "category": {
+        "text": "Une question délicate "
+      },
+      "choices": [
+        {
+          "text": "<i>Robinson Crusoé</i> ",
+          "isCorrect": false
+        },
+        {
+          "text": "<i>Anna Karénine</i> ",
+          "isCorrect": false
+        },
+        {
+          "text": "<i>David Copperfield</i> ",
+          "isCorrect": false
+        },
+        {
+          "text": "aucune de ces réponses",
+          "isCorrect": true
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Lequel de ces romans porte le nom d'une personne qui fait des tours de magie ? "
+        }
+      ]
+    },
+    {
+      "id": "51977",
+      "category": {
+        "text": "Une question brutale "
+      },
+      "choices": [
+        {
+          "text": "Doobie ",
+          "isCorrect": false
+        },
+        {
+          "text": "Excellent ",
+          "isCorrect": false
+        },
+        {
+          "text": "Chronique ",
+          "isCorrect": true
+        },
+        {
+          "text": "La laitue du diable ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Quel terme Snoop Dogg a-t-il créé pour désigner la marijuana lorsqu'il a mal prononcé une méthode de culture du cannabis ? "
+        }
+      ]
+    },
+    {
+      "id": "51975",
+      "category": {
+        "text": "Une question avec des noix "
+      },
+      "choices": [
+        {
+          "text": "<i>Le son et la fureur</i> ",
+          "isCorrect": false
+        },
+        {
+          "text": "<i>Le soleil se lève aussi</i> ",
+          "isCorrect": true
+        },
+        {
+          "text": "<i>Le receveur de seigle</i> ",
+          "isCorrect": false
+        },
+        {
+          "text": "<i>La maison sur Pooh Corner</i> ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Dans quel roman classique le personnage principal perd-il sa « barre chocolatée » mais pas ses « cacahuètes » ? "
+        }
+      ]
+    },
+    {
+      "id": "51974",
+      "category": {
+        "text": "Une question sans noix "
+      },
+      "choices": [
+        {
+          "text": "Petit doigt ",
+          "isCorrect": false
+        },
+        {
+          "text": "Seigneur varie ",
+          "isCorrect": true
+        },
+        {
+          "text": "Khal Drogo ",
+          "isCorrect": false
+        },
+        {
+          "text": "Hodor ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Quel est le nom de l'eunuque de <i>Game of Thrones</i> ? "
+        }
+      ]
+    },
+    {
+      "id": "51968",
+      "category": {
+        "text": "Une question où tout est correctement orthographié "
+      },
+      "choices": [
+        {
+          "text": "<i>Toi Roade</i> ",
+          "isCorrect": false
+        },
+        {
+          "text": "<i>Dr. Pain étrange</i> ",
+          "isCorrect": true
+        },
+        {
+          "text": "<i>Je suis Legind</i> ",
+          "isCorrect": false
+        },
+        {
+          "text": "<i>Une direction : Dis iz Uss</i> ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Quel film duz TOUT a été détruit et ensuite détruit ? "
+        }
+      ]
+    },
+    {
+      "id": "51967",
+      "category": {
+        "text": "Une question où tout est mal orthographié "
+      },
+      "choices": [
+        {
+          "text": "<i>La route</i> ",
+          "isCorrect": false
+        },
+        {
+          "text": "<i>Dr. Folamour</i> ",
+          "isCorrect": true
+        },
+        {
+          "text": "<i>Je suis une légende</i> ",
+          "isCorrect": false
+        },
+        {
+          "text": "<i>One Direction : c'est nous</i> ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Dans quel film EVREYTHIGN est-il détruit à la fin ? "
+        }
+      ]
+    },
+    {
+      "id": "51966",
+      "category": {
+        "text": "Une question qui me soulève "
+      },
+      "choices": [
+        {
+          "text": "\"Cookie, tu es CHAUD!\" ",
+          "isCorrect": false
+        },
+        {
+          "text": "« Cookie, tu es DOUX ! » ",
+          "isCorrect": true
+        },
+        {
+          "text": "« Cookie, tu es BIEN FAIT ! » ",
+          "isCorrect": false
+        },
+        {
+          "text": "« Cookie, tu es CRISP ! » ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Si moi, Cookie Masterson, j'étais AMBROSIA SALAD, que pourrais-tu me dire ? "
+        }
+      ]
+    },
+    {
+      "id": "51965",
+      "category": {
+        "text": "Une question qui me blesse "
+      },
+      "choices": [
+        {
+          "text": "« Cookie, tu souffles ! » ",
+          "isCorrect": false
+        },
+        {
+          "text": "\"Cookie, tu es nul!\" ",
+          "isCorrect": true
+        },
+        {
+          "text": "\"Cookie, tu GOUTTES!\" ",
+          "isCorrect": false
+        },
+        {
+          "text": "\"Cookie, espèce de SERPENT !\" ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Si moi, Cookie Masterson, j'étais une LAMPROIE DE MER, que pourriez-vous me dire ? "
+        }
+      ]
+    },
+    {
+      "id": "51958",
+      "category": {
+        "text": "Une question avec des klaxons à air "
+      },
+      "choices": [
+        {
+          "text": "{SFX DE CORNE D'AIR} ",
+          "isCorrect": false
+        },
+        {
+          "text": "{SFX DU CORN D'AIR} {SFX DU CORN D'AIR} ",
+          "isCorrect": false
+        },
+        {
+          "text": "{AIR HORN SFX} {AIR HORN SFX} {AIR HORN SFX} ",
+          "isCorrect": false
+        },
+        {
+          "text": "{AIR HORN SFX} {AIR HORN SFX} {AIR HORN SFX} {AIR HORN SFX} ",
+          "isCorrect": true
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Combien de compartiments possède l’estomac d’une vache ?"
+        }
+      ]
+    },
+    {
+      "id": "51957",
+      "category": {
+        "text": "Une question sur les klaxons pneumatiques "
+      },
+      "choices": [
+        {
+          "text": "\"... rhumatismal.\" ",
+          "isCorrect": false
+        },
+        {
+          "text": "\"...pneumatique.\" ",
+          "isCorrect": true
+        },
+        {
+          "text": "\"...chromatique.\" ",
+          "isCorrect": false
+        },
+        {
+          "text": "\"...flegmatique.\" ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "« C’est vrai que je suis accro aux klaxons. "
+        },
+        {
+          "timing": "S + 2.74",
+          "text": "Je les aime parce qu'ils sont...\" "
+        }
+      ]
+    },
+    {
+      "id": "51952",
+      "category": {
+        "text": "Une question où je m'énerve "
+      },
+      "choices": [
+        {
+          "text": "Furiosa! ",
+          "isCorrect": false
+        },
+        {
+          "text": "Nux! ",
+          "isCorrect": false
+        },
+        {
+          "text": "Fente! ",
+          "isCorrect": false
+        },
+        {
+          "text": "Trumbo ! ",
+          "isCorrect": true
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Quand je suis en colère, j'aime crier les noms des personnages de <i>Mad Max : Fury Road</i>. "
+        },
+        {
+          "timing": "S + 4.65",
+          "text": "Lequel des énoncés suivants n’est PAS quelque chose que je crierais de colère ? "
+        }
+      ]
+    },
+    {
+      "id": "51941",
+      "category": {
+        "text": "Une longue question "
+      },
+      "choices": [
+        {
+          "text": "L'attaque de Pearl Harbor ",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Débarquement de Normandie ",
+          "isCorrect": true
+        },
+        {
+          "text": "La bataille d'Iwo Jima ",
+          "isCorrect": false
+        },
+        {
+          "text": "Les traités de paix de Paris ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Lequel de ces jours est « le jour le plus long » ? "
+        }
+      ]
+    },
+    {
+      "id": "51940",
+      "category": {
+        "text": "Une courte question "
+      },
+      "choices": [
+        {
+          "text": "Ryan Gosling ",
+          "isCorrect": false
+        },
+        {
+          "text": "Brad Pitt ",
+          "isCorrect": false
+        },
+        {
+          "text": "Steve Carell ",
+          "isCorrect": false
+        },
+        {
+          "text": "Selena Gomez ",
+          "isCorrect": true
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Qui est l'acteur le plus petit de <i>The Big Short</i> ? "
+        }
+      ]
+    },
+    {
+      "id": "51938",
+      "category": {
+        "text": "Une question dont la réponse n’est pas Shia LaBeouf "
+      },
+      "choices": [
+        {
+          "text": "Optimus Prime ",
+          "isCorrect": false
+        },
+        {
+          "text": "Peau de fer ",
+          "isCorrect": true
+        },
+        {
+          "text": "Bourdon ",
+          "isCorrect": false
+        },
+        {
+          "best": true,
+          "text": "Shia La Beouf ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": true,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Laquelle de ces étoiles <i>Transformers</i> se transforme en camionnette ? "
+        }
+      ]
+    },
+    {
+      "id": "51937",
+      "category": {
+        "text": "Une question dont la réponse est Shia LaBeouf "
+      },
+      "choices": [
+        {
+          "text": "Shia La Beouf ",
+          "isCorrect": false
+        },
+        {
+          "text": "Shia La Beouf ",
+          "isCorrect": false
+        },
+        {
+          "text": "Shia La Beouf ",
+          "isCorrect": true
+        },
+        {
+          "text": "Shia La Beouf ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Lequel d’entre eux est l’avant-dernier Shia LaBeouf ? "
+        }
+      ]
+    },
+    {
+      "id": "51830",
+      "category": {
+        "text": "Une question discrète "
+      },
+      "choices": [
+        {
+          "text": "<i>sons de silence</i> ",
+          "isCorrect": true
+        },
+        {
+          "text": "<i>une sorte de silence</i> ",
+          "isCorrect": false
+        },
+        {
+          "text": "<i>le calme</i> ",
+          "isCorrect": false
+        },
+        {
+          "text": "<i>chuchotement insouciant</i> ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Quel est le nom du deuxième album studio de Simon et Garfunkel ? "
+        }
+      ]
+    },
+    {
+      "id": "51828",
+      "category": {
+        "text": "Une question bruyante "
+      },
+      "choices": [
+        {
+          "text": "<i>ENLEVEZ-LE</i> ",
+          "isCorrect": false
+        },
+        {
+          "text": "<i>HOMME À BAS</i> ",
+          "isCorrect": true
+        },
+        {
+          "text": "<i>QU'EST-CE QUE CELA </i> ",
+          "isCorrect": false
+        },
+        {
+          "text": "<i>BOUM BOUM POW</i> ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Laquelle de ces chansons figure sur l'album de Rihanna <i>Loud</i> ? "
+        }
+      ]
+    },
+    {
+      "id": "51788",
+      "category": {
+        "text": "Une question difficile "
+      },
+      "choices": [
+        {
+          "text": "le Hardburger ",
+          "isCorrect": false
+        },
+        {
+          "text": "le Thickburger ",
+          "isCorrect": true
+        },
+        {
+          "text": "le Wideburger ",
+          "isCorrect": false
+        },
+        {
+          "text": "le Flaccidburger ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Quel sandwich servent-ils chez Hardee’s ? "
+        }
+      ]
+    },
+    {
+      "id": "51787",
+      "category": {
+        "text": "Une question facile "
+      },
+      "choices": [
+        {
+          "text": "Facile-E ",
+          "isCorrect": false
+        },
+        {
+          "text": "EZ-E ",
+          "isCorrect": false
+        },
+        {
+          "text": "Eazy-E ",
+          "isCorrect": true
+        },
+        {
+          "text": "eeZee ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Quel rappeur faisait partie du groupe N.W.A. ? "
+        }
+      ]
+    },
+    {
+      "id": "50539",
+      "category": {
+        "text": "Une question où je me venge"
+      },
+      "choices": [
+        {
+          "text": "la somme d'un nombre impair et d'un nombre impair ",
+          "isCorrect": false
+        },
+        {
+          "text": "le produit d'un nombre pair et d'un nombre impair ",
+          "isCorrect": false
+        },
+        {
+          "text": "la somme d'un nombre impair et d'un nombre pair ",
+          "isCorrect": true
+        },
+        {
+          "text": "le produit d'un nombre pair et d'un nombre pair ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Lequel de ces chiffres ne peut tout simplement pas le faire ? "
+        }
+      ]
+    },
+    {
+      "id": "49595",
+      "category": {
+        "text": "Cette Time Machine fonctionne au diesel "
+      },
+      "choices": [
+        {
+          "text": "<i>2 Son 2 Fureur</i> ",
+          "isCorrect": false
+        },
+        {
+          "text": "<i>2 Orgueil 2 Préjugés</i> ",
+          "isCorrect": true
+        },
+        {
+          "text": "<i>2 Vieil homme 2 Mer</i> ",
+          "isCorrect": false
+        },
+        {
+          "text": "<i>2 Guerre 2 Paix</i> ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Si Vin Diesel voyageait dans le temps et convainquait Jane Austen d'écrire une suite à l'un de ses romans classiques, quel titre inspiré de <i>Fast and the Furious</i> aurait-il ? "
+        }
+      ]
+    },
+    {
+      "id": "49985",
+      "category": {
+        "text": "Chou sauté "
+      },
+      "choices": [
+        {
+          "text": "\"Hé, ma fille, tu veux écouter du dubstep dans mon SMOKER ?\" ",
+          "isCorrect": false
+        },
+        {
+          "text": "\"Hé, ma fille, tu veux voir la collection de chaussures bateau dans mon FOUR ?\" ",
+          "isCorrect": false
+        },
+        {
+          "text": "\"Hé, ma fille, tu veux jouer au bière-pong dans ma mijoteuse ?\" ",
+          "isCorrect": false
+        },
+        {
+          "text": "\"Hé, ma fille, tu veux regarder <i>Ballers</i> dans mon autocuiseur ?\" ",
+          "isCorrect": true
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Quelle réplique entendriez-vous de la part d'un frère qui se trouve également être un poulet rôti ? "
+        }
+      ]
+    },
+    {
+      "id": "50063",
+      "category": {
+        "text": "Mais et si vous aviez besoin de savoir quelque chose sur l'émission HBO <i>Ballers</i> ? "
+      },
+      "choices": [
+        {
+          "text": "Tchad Baller ",
+          "isCorrect": false
+        },
+        {
+          "text": "Gavin Baller ",
+          "isCorrect": false
+        },
+        {
+          "text": "Troy Baller ",
+          "isCorrect": false
+        },
+        {
+          "text": "Spencer Strasmore ",
+          "isCorrect": true
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Quel personnage Dwayne Johnson joue-t-il dans la série HBO <i>Ballers</i> ? "
+        }
+      ]
+    },
+    {
+      "id": "50127",
+      "category": {
+        "text": "D'ici à la maternité "
+      },
+      "choices": [
+        {
+          "text": "« Respirez profondément, puis poussez hors de votre POITRINE. » ",
+          "isCorrect": false
+        },
+        {
+          "text": "\"Détendez-vous, puis une grosse poussée de votre NOMBRIL.\" ",
+          "isCorrect": false
+        },
+        {
+          "text": "\"Vous avez compris. Poussez simplement votre FRONT.\" ",
+          "isCorrect": true
+        },
+        {
+          "text": "\"Woah ?!! Est-ce que ça va sortir de ton NEZ ?!\" ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Qu’avez-vous entendu dans la salle d’accouchement alors que Zeus donnait naissance à la déesse Athéna ? "
+        }
+      ]
+    },
+    {
+      "id": "50160",
+      "category": {
+        "text": "Ma vérité intérieure "
+      },
+      "choices": [
+        {
+          "text": "une incision de la trachée ",
+          "isCorrect": false
+        },
+        {
+          "text": "une incision du sacrum ",
+          "isCorrect": false
+        },
+        {
+          "text": "une incision du périnée ",
+          "isCorrect": true
+        },
+        {
+          "text": "une incision des ganglions lymphatiques ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Je n’ai pas vraiment compris cette blague sur l’épisiotomie à la fin de la dernière question. "
+        },
+        {
+          "timing": "S + 4.98",
+          "text": "Qu'est-ce qu'une épisiotomie ? "
+        }
+      ]
+    },
+    {
+      "id": "50161",
+      "category": {
+        "text": "Je veux beaucoup de choses "
+      },
+      "choices": [
+        {
+          "text": "Je refuse de salir ce jeu avec une réponse. ",
+          "isCorrect": false
+        },
+        {
+          "text": "Je refuse d'entacher ce jeu avec une réponse. ",
+          "isCorrect": true
+        },
+        {
+          "text": "Je refuse de ternir ce jeu avec une réponse. ",
+          "isCorrect": false
+        },
+        {
+          "text": "Je refuse de gâcher ce jeu avec une réponse. ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Qu'est-ce qu'un périnée ? "
+        }
+      ]
+    },
+    {
+      "id": "50358",
+      "category": {
+        "text": "Plus Fraîche ? Je la connaissais à peine ! "
+      },
+      "choices": [
+        {
+          "text": "Je suis en voyage de camping avec Kelsey Grammer. ",
+          "isCorrect": false
+        },
+        {
+          "text": "Le couteau de Kelsey Grammer disparaît de la tente ",
+          "isCorrect": false
+        },
+        {
+          "text": "Kelsey Grammer déchire la tente en lambeaux, criant mon nom avec angoisse. ",
+          "isCorrect": true
+        },
+        {
+          "text": "Je suis pourchassé par Kelsey Grammer. ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Kelsey Grammer était le sujet de l'émission <i>Frasier</i>. "
+        },
+        {
+          "timing": "S + 3.19",
+          "text": "Grammaticalement, dans lequel des énoncés suivants Kelsey Grammer est-il le SUJET de la phrase ? "
+        }
+      ]
+    },
+    {
+      "id": "50518",
+      "category": {
+        "text": "Un groupe sous les couvertures "
+      },
+      "choices": [
+        {
+          "text": "\"Lucy dans le ciel avec des godes\" ",
+          "isCorrect": false
+        },
+        {
+          "text": "\"Jouis ensemble\" ",
+          "isCorrect": true
+        },
+        {
+          "text": "\"Avec une petite bosse de mes amis\" ",
+          "isCorrect": false
+        },
+        {
+          "text": "\"Quand j'aurai soixante-neuf ans\" ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Mon groupe de reprises érotiques des Beatles a sorti notre premier album <i>Sgt. Pepper's Lonely Hearts Club BONE</i>, avec des hommages à tous les morceaux originaux. "
+        },
+        {
+          "timing": "S + 8.85",
+          "text": "Quelle chanson ne figurerait PAS sur cet album ? "
+        }
+      ]
+    },
+    {
+      "id": "50733",
+      "category": {
+        "text": "Juste les œufs brouillés pour moi "
+      },
+      "choices": [
+        {
+          "text": "de Seattle à Portland ",
+          "isCorrect": false
+        },
+        {
+          "text": "de Seattle à Kansas City ",
+          "isCorrect": false
+        },
+        {
+          "text": "de Seattle à Washington, DC ",
+          "isCorrect": false
+        },
+        {
+          "text": "de Seattle à Caracas, Venezuela ",
+          "isCorrect": true
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Si Niles Crane devient Nile Crane, jusqu’où ira-t-il ? "
+        }
+      ]
+    },
+    {
+      "id": "51324",
+      "category": {
+        "text": "Calme-toi "
+      },
+      "choices": [
+        {
+          "text": "Groucho ",
+          "isCorrect": false
+        },
+        {
+          "text": "Chico ",
+          "isCorrect": false
+        },
+        {
+          "text": "Harpo ",
+          "isCorrect": true
+        },
+        {
+          "text": "Zeppo ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Lequel des Marx Brothers serait le moins susceptible d'être éviscéré dans <i>The Quiet Place ?</i> "
+        }
+      ]
+    },
+    {
+      "id": "51403",
+      "category": {
+        "text": "Cette question n'est rien à faire "
+      },
+      "choices": [
+        {
+          "text": "Vieille PORCELAINE Sale ",
+          "isCorrect": false
+        },
+        {
+          "text": "Ghostface GUN POWDAH ",
+          "isCorrect": false
+        },
+        {
+          "text": "SABLIER Inspectah ",
+          "isCorrect": true
+        },
+        {
+          "text": "METHODE D'IMPRESSION SUR BOIS ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Si le clan Wu-Tang s'était nommé d'après des choses inventées pendant la dynastie Tang, qui n'en serait PAS membre ? "
+        }
+      ]
+    },
+    {
+      "id": "51439",
+      "category": {
+        "text": "Je dormirai quand j'arrêterai de réapparaître "
+      },
+      "choices": [
+        {
+          "text": "224 heures sans douche ",
+          "isCorrect": false
+        },
+        {
+          "text": "336 heures sans faire caca ",
+          "isCorrect": true
+        },
+        {
+          "text": "512 heures sans sommeil paradoxal ",
+          "isCorrect": false
+        },
+        {
+          "best": true,
+          "text": "421-77-114-0 ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": true,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Si j'avais joué à <i>Fortnite</i> pendant quinze jours d'affilée, combien d'heures aurais-je passé à ne rien faire d'autre ? "
+        }
+      ]
+    },
+    {
+      "id": "51891",
+      "category": {
+        "text": "Calcul de quelques chiffres de sablier "
+      },
+      "choices": [
+        {
+          "text": "3 ",
+          "isCorrect": true
+        },
+        {
+          "text": "4 ",
+          "isCorrect": false
+        },
+        {
+          "text": "5 ",
+          "isCorrect": false
+        },
+        {
+          "text": "6 ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "« Boggle », « Taboo », « Apples to Apples », « Clue » et « Jenga ».<br> "
+        },
+        {
+          "timing": "S + 3.76",
+          "text": "Combien de ces jeux sont traditionnellement vendus avec un type de minuterie ?<br> "
+        },
+        {
+          "timing": "S + 8.90",
+          "text": "Incluez les « Colons de Catane » et les « Scattergories » dans votre décompte. "
+        }
+      ]
+    },
+    {
+      "id": "51995",
+      "category": {
+        "text": "Allons tous au lobby "
+      },
+      "choices": [
+        {
+          "text": "oui, dans la première question ",
+          "isCorrect": false
+        },
+        {
+          "text": "oui, dans la deuxième question ",
+          "isCorrect": true
+        },
+        {
+          "text": "oui, à la quatrième question ",
+          "isCorrect": false
+        },
+        {
+          "text": "non... je n'en ai pas parlé ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Ai-je mentionné que je n’aime pas voir des films au cinéma ? "
+        }
+      ]
+    },
+    {
+      "id": "52069",
+      "category": {
+        "text": "Cette question n'a aucun sous-texte "
+      },
+      "choices": [
+        {
+          "text": "<i>L'homme qui est venu dîner</i> ",
+          "isCorrect": true
+        },
+        {
+          "text": "<i>La femme en blanc</i> ",
+          "isCorrect": false
+        },
+        {
+          "text": "<i>L'homme qui n'était pas là</i> ",
+          "isCorrect": false
+        },
+        {
+          "text": "<i>La femme qui aimait Elvis</i> ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Lequel de ces films parle d'un invité ennuyeux qui NE QUITTERA PAS, PEU IMPORTE LE NOMBRE D'indices que l'hôte laisse tomber ? "
+        }
+      ]
+    },
+    {
+      "id": "52075",
+      "category": {
+        "text": "Timothée Chalamet Je t'embrasse "
+      },
+      "choices": [
+        {
+          "text": "un canard ",
+          "isCorrect": false
+        },
+        {
+          "text": "un coup d'oeil ",
+          "isCorrect": false
+        },
+        {
+          "text": "une paonne ",
+          "isCorrect": true
+        },
+        {
+          "text": "un tiersel ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Dites que la réalisatrice nominée aux Oscars Greta Gerwig a fait une suite à Lady Bird. "
+        },
+        {
+          "timing": "S + 14.67",
+          "text": "Si la suite s'intitulait <i>Man Bird</i>, qui ne serait certainement PAS choisi ? "
+        }
+      ]
+    },
+    {
+      "id": "52086",
+      "category": {
+        "text": "Jon Hamm sur le seigle "
+      },
+      "choices": [
+        {
+          "text": "Deux chutes ",
+          "isCorrect": false
+        },
+        {
+          "text": "Quatre chutes ",
+          "isCorrect": true
+        },
+        {
+          "text": "Six Fallons",
+          "isCorrect": false
+        },
+        {
+          "text": "Huit Fallons ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "CELEBRITY",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Si un Jimmy Fallon équivaut à un litre, combien y a-t-il de Jimmy Fallon dans un gallon ? "
+        }
+      ]
+    },
+    {
+      "id": "52091",
+      "category": {
+        "text": "Superproduction mentale "
+      },
+      "choices": [
+        {
+          "text": "<i>Échec du lancement</i> ",
+          "isCorrect": false
+        },
+        {
+          "text": "<i>Presque célèbre</i> ",
+          "isCorrect": true
+        },
+        {
+          "text": "<i>Super mauvais</i> ",
+          "isCorrect": false
+        },
+        {
+          "text": "<i>La Vierge de 40 ans</i> ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "CELEBRITY",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Lequel de ces films au titre approprié comprend une apparition d'acteur de moi, Jimmy Fallon ? "
+        }
+      ]
+    },
+    {
+      "id": "52096",
+      "category": {
+        "text": "N'Sink "
+      },
+      "choices": [
+        {
+          "text": "presse-citron ",
+          "isCorrect": false
+        },
+        {
+          "text": "batteur à oeufs ",
+          "isCorrect": true
+        },
+        {
+          "text": "louche de miel ",
+          "isCorrect": false
+        },
+        {
+          "text": "cuillère en bois ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Lequel de ces ustensiles de cuisine est également un geste en nage synchronisée ? "
+        }
+      ]
+    },
+    {
+      "id": "52112",
+      "category": {
+        "text": "Matériel daté "
+      },
+      "choices": [
+        {
+          "best": true,
+          "text": "\"Le phonographe a été inventé aujourd'hui, véritable exploit en matière de création de disques.\" ",
+          "isCorrect": false
+        },
+        {
+          "text": "\"Cette nouvelle théorie de la relativité est incroyable... peut-être...\" ",
+          "isCorrect": false
+        },
+        {
+          "text": "« Le président Grant a prêté serment parce qu’il accepterait n’importe quel travail qui implique de prêter serment ! ",
+          "isCorrect": false
+        },
+        {
+          "text": "\"Ils ont ouvert la Tour Eiffel à ceux qui visitent Paris et veulent planer !\" ",
+          "isCorrect": true
+        }
+      ],
+      "bumper": "CELEBRITY",
+      "oneResponse": true,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Si j'étais animateur de talk-shows de fin de soirée le 31 mars 1889... "
+        },
+        {
+          "timing": "S + 3.81",
+          "text": "quelle serait la blague d'ouverture de mon monologue ? "
+        }
+      ]
+    },
+    {
+      "id": "52113",
+      "category": {
+        "text": "En parlant du DisOrDat "
+      },
+      "choices": [
+        {
+          "text": "un fantôme féminin du destin dans la mythologie nordique ",
+          "isCorrect": true
+        },
+        {
+          "text": "un mi-humain, mi-cheval dans la mythologie grecque ",
+          "isCorrect": false
+        },
+        {
+          "text": "un dragon oiseau volant dans la mythologie aztèque ",
+          "isCorrect": false
+        },
+        {
+          "text": "un dieu à tête de crocodile dans la mythologie égyptienne ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Qui est-ce ? "
+        }
+      ]
+    },
+    {
+      "id": "52114",
+      "category": {
+        "text": "Question de suivi "
+      },
+      "choices": [
+        {
+          "text": "les fans des OURS ",
+          "isCorrect": false
+        },
+        {
+          "text": "les fans des FALCONS ",
+          "isCorrect": false
+        },
+        {
+          "text": "fans des PACKERS ",
+          "isCorrect": false
+        },
+        {
+          "text": "fans des SAINTS ",
+          "isCorrect": true
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "C'est qui ? "
+        }
+      ]
+    },
+    {
+      "id": "52143",
+      "category": {
+        "text": "Étiquette d'hébergement "
+      },
+      "choices": [
+        {
+          "text": "suce ma peau ",
+          "isCorrect": false
+        },
+        {
+          "text": "vivre dans mon rectum ",
+          "isCorrect": false
+        },
+        {
+          "text": "pondre des œufs dans mon abdomen ",
+          "isCorrect": true
+        },
+        {
+          "text": "percer mon cerveau ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": true,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Si Jimmy Fallon était une guêpe de blatte émeraude et que je voulais être un bon hôte pour lui, que devrais-je le laisser faire ? "
+        }
+      ]
+    },
+    {
+      "id": "52228",
+      "category": {
+        "text": "En parlant de suites "
+      },
+      "choices": [
+        {
+          "text": "<i>Fiers cinq</i> ",
+          "isCorrect": true
+        },
+        {
+          "text": "<i>Préjugé 5</i> ",
+          "isCorrect": false
+        },
+        {
+          "text": "<i>Orgueil et préjugés : Tokyo Drift</i> ",
+          "isCorrect": false
+        },
+        {
+          "text": "<i>Le sort des préjugés</i> ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Dites que Vin Diesel a convaincu Jane Austen d'écrire QUATRE suites, toutes reflétant les titres des suites de <i>Fast and the Furious</i>. "
+        },
+        {
+          "timing": "S + 0.00",
+          "text": "Comment devrait s'appeler <i>Orgueil et préjugés 5</i> ? "
+        }
+      ]
+    },
+    {
+      "id": "52237",
+      "category": {
+        "text": "La question la plus stupide de tout le jeu "
+      },
+      "choices": [
+        {
+          "text": "<i>Le frère de Vince : un</i> entourage <i>Roman</i> ",
+          "isCorrect": false
+        },
+        {
+          "text": "<i>L'agent de Vince : un</i> entourage <i>Mystère</i> ",
+          "isCorrect": false
+        },
+        {
+          "text": "<i>Vince's Driver : Une</i> Entourage <i>Aventure</i> ",
+          "isCorrect": false
+        },
+        {
+          "text": "<i>Le manager de Vince : un</i> entourage <i>Novella</i> ",
+          "isCorrect": true
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Lequel de ces livres électroniques est également un livre « E » ? "
+        }
+      ]
+    },
+    {
+      "id": "52449",
+      "category": {
+        "text": "Épilation nostalgique "
+      },
+      "choices": [
+        {
+          "text": "la décoloration affecte les jours ",
+          "isCorrect": true
+        },
+        {
+          "text": "choix-suttortive dias ",
+          "isCorrect": false
+        },
+        {
+          "text": "effet de nodalité ",
+          "isCorrect": false
+        },
+        {
+          "text": "cryptonésie ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Si Cookie rend les bonnes dents avec ne, il oublie les dents de papa... "
+        },
+        {
+          "timing": "S + 6.65",
+          "text": "quelle conséquence psychologique vit-il ? "
+        }
+      ]
+    },
+    {
+      "id": "52496",
+      "category": {
+        "text": "Je ne sais jamais comment prononcer les noms français "
+      },
+      "choices": [
+        {
+          "text": "Louis Louis Louis Louis Louis Louis Louis Louis Louis Louis Louis Louis Louis Louis ",
+          "isCorrect": true
+        },
+        {
+          "text": "Louis Louis Louis Louis Louis Louis Louis Louis Louis Louis Louis Louis ",
+          "isCorrect": false
+        },
+        {
+          "text": "Louis Louis Louis Louis Louis Louis Louis ",
+          "isCorrect": false
+        },
+        {
+          "text": "Louis-Louis ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Lequel de ces rois de France a déménagé sa cour de Paris à Versailles ? "
+        }
+      ]
+    },
+    {
+      "id": "52506",
+      "category": {
+        "text": "Je n'oublie jamais un nom français "
+      },
+      "choices": [
+        {
+          "text": "environ 44 fois ",
+          "isCorrect": false
+        },
+        {
+          "text": "environ 34 fois ",
+          "isCorrect": true
+        },
+        {
+          "text": "environ 24 fois ",
+          "isCorrect": false
+        },
+        {
+          "text": "jamais... c'était \"Louie\" ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Combien de fois « Louis » est-il apparu à l’écran lors de la question « Je ne sais jamais comment prononcer les noms français » ? "
+        }
+      ]
+    },
+    {
+      "id": "52507",
+      "category": {
+        "text": "Combien de fois ai-je dit « Louis » dans ce jeu jusqu'à présent ? "
+      },
+      "choices": [
+        {
+          "text": "David Blaine ",
+          "isCorrect": false
+        },
+        {
+          "text": "Bill Watterson ",
+          "isCorrect": true
+        },
+        {
+          "text": "Tonya Harding ",
+          "isCorrect": false
+        },
+        {
+          "text": "Louis Louis Louis Louis Louis Louis Louis Louis Louis Louis Louis Louis Louis Louis ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Qui a dit : « La répétition est la mort de la magie » ? "
+        }
+      ]
+    },
+    {
+      "id": "52923",
+      "category": {
+        "text": "421-77-114-0 "
+      },
+      "choices": [
+        {
+          "text": "\"Oh mec\" ",
+          "isCorrect": false
+        },
+        {
+          "text": "« Hoo, mon garçon » ",
+          "isCorrect": true
+        },
+        {
+          "text": "\"Euh oh\" ",
+          "isCorrect": false
+        },
+        {
+          "text": "\"Maman aime\" ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Quels ont été les premiers mots que j’ai prononcés juste après avoir lu cette chaîne de chiffres ? "
+        }
+      ]
+    },
+    {
+      "id": "52924",
+      "category": {
+        "text": "Nuit fortifiée "
+      },
+      "choices": [
+        {
+          "text": "477-22-971-2 ",
+          "isCorrect": false
+        },
+        {
+          "text": "411-09-885-0 ",
+          "isCorrect": false
+        },
+        {
+          "text": "443-06-270-1 ",
+          "isCorrect": false
+        },
+        {
+          "text": "421-77-114-0 ",
+          "isCorrect": true
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Quel était ce long numéro de la dernière question ? "
+        }
+      ]
+    },
+    {
+      "id": "53000",
+      "category": {
+        "text": "J'aime quand elle lui fait une nouvelle Torah "
+      },
+      "choices": [
+        {
+          "text": "voler le bébé de Daphné ",
+          "isCorrect": true
+        },
+        {
+          "text": "a mis le feu au cœur d'Eddie ",
+          "isCorrect": false
+        },
+        {
+          "text": "dévorer Frasier après le sexe ",
+          "isCorrect": false
+        },
+        {
+          "text": "Transformez Bulldog en un véritable Bulldog ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": true,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Lilith, l’ex-femme de Say Frasier, se comportait comme son homonyme dans la théologie hébraïque. "
+        },
+        {
+          "timing": "S + 10.56",
+          "text": "Que pourrait-elle faire dans un épisode très spécial ? "
+        }
+      ]
+    },
+    {
+      "id": "53094",
+      "category": {
+        "text": "Répondez à la dernière question ! "
+      },
+      "choices": [
+        {
+          "text": "<i>Le monde perdu</i> ",
+          "isCorrect": false
+        },
+        {
+          "text": "<i>Jurassic Park III</i> ",
+          "isCorrect": true
+        },
+        {
+          "text": "<i>Monde Jurassique</i> ",
+          "isCorrect": false
+        },
+        {
+          "text": "<i>Jurassic World : Royaume déchu</i> ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Dans quelle suite de <i>Jurassic Park</i> Laura Dern apparaît-elle ? "
+        }
+      ]
+    },
+    {
+      "id": "53095",
+      "category": {
+        "text": "Ce Dern Cat! "
+      },
+      "choices": [
+        {
+          "text": "« VACHE, ça va ? » ",
+          "isCorrect": true
+        },
+        {
+          "text": "\"Quoi de neuf, CHIEN ?\" ",
+          "isCorrect": false
+        },
+        {
+          "text": "« CAMEL ici souvent ? ",
+          "isCorrect": false
+        },
+        {
+          "text": "« Des PLANCHES pour être vous. » ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.45",
+          "text": "Si Laura Dern et moi étions dans le même cours de yoga vinyasa... "
+        },
+        {
+          "timing": "S + 5.63",
+          "text": "et nous avons tous les deux cambré le dos en position de chat, puis avons baissé le ventre et levé la tête en BITILASANA... "
+        },
+        {
+          "timing": "S + 11.87",
+          "text": "Qu'est-ce que je pourrais dire de cool à Laura Dern ? "
+        }
+      ]
+    },
+    {
+      "id": "53101",
+      "category": {
+        "text": "Une autre question de philosophie farfelue "
+      },
+      "choices": [
+        {
+          "text": "Cookie est au sommet d'une rivière gelée, incapable de trouver de l'eau. ",
+          "isCorrect": false
+        },
+        {
+          "text": "Cookie est enchaîné à un mur de grotte et observe les ombres. ",
+          "isCorrect": true
+        },
+        {
+          "text": "La courte fourchette de Cookie ne peut pas atteindre la table du banquet. ",
+          "isCorrect": false
+        },
+        {
+          "text": "Cookie n'est qu'un papillon qui rêvait d'être un animateur de quiz. ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": true,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Alors disons que je commence à soupçonner que la réalité n’est pas ce que je pensais. "
+        },
+        {
+          "timing": "S + 7.14",
+          "text": "Comment Platon décrirait-il ma situation tout à fait théorique ?"
+        }
+      ]
+    },
+    {
+      "id": "53103",
+      "category": {
+        "text": "Fantôme "
+      },
+      "choices": [
+        {
+          "text": "Bloody Mary, Bloody Mary, Bloody Mary ",
+          "isCorrect": false
+        },
+        {
+          "text": "Samara, Samara, Samara ",
+          "isCorrect": true
+        },
+        {
+          "text": "Beetlejuice, Beetlejuice, Beetlejuice ",
+          "isCorrect": false
+        },
+        {
+          "text": "Candyman, Candyman, Candyman ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "La lecture de laquelle de ces réponses NE fera PAS apparaître une entité surnaturelle dans mon studio d’enregistrement ? "
+        }
+      ]
+    },
+    {
+      "id": "53104",
+      "category": {
+        "text": "\"Ghosted\" fonctionne également comme titre de catégorie pour cette question "
+      },
+      "choices": [
+        {
+          "text": "<i>Qui a peur de Virginia Woolf ?</i> ",
+          "isCorrect": true
+        },
+        {
+          "text": "<i>Mort d'un vendeur</i> ",
+          "isCorrect": false
+        },
+        {
+          "text": "<i>Le Fantôme de l'Opéra</i> ",
+          "isCorrect": false
+        },
+        {
+          "text": "<i>Rosencrantz et Guildenstern sont morts</i> ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Quelle production théâtrale au titre terrifiant pourrions-nous jouer, trois fantômes et moi-même, car elle nécessite traditionnellement un casting de quatre personnes ? "
+        }
+      ]
+    },
+    {
+      "id": "53145",
+      "category": {
+        "text": "Cette question est générée par ordinateur "
+      },
+      "choices": [
+        {
+          "text": "<i>Tron</i> ",
+          "isCorrect": false
+        },
+        {
+          "text": "<i>Avatar</i> ",
+          "isCorrect": true
+        },
+        {
+          "text": "<i>Prêt Joueur Un</i> ",
+          "isCorrect": false
+        },
+        {
+          "text": "<i>La Matrice</i> ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Lequel des films suivants n'implique PAS de vivre dans une réalité générée par ordinateur ? "
+        }
+      ]
+    },
+    {
+      "id": "53147",
+      "category": {
+        "text": "J'ai été informé que <i>Frasier</i> est apparemment très populaire auprès des millennials "
+      },
+      "choices": [
+        {
+          "text": "\"Allez-y, appelant, je prédis\" ",
+          "isCorrect": false
+        },
+        {
+          "text": "\"Allez-y, j'expérimente\" ",
+          "isCorrect": false
+        },
+        {
+          "text": "\"Allez-y, j'émets une hypothèse\" ",
+          "isCorrect": false
+        },
+        {
+          "text": "\"Allez-y, j'observe\" ",
+          "isCorrect": true
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Comment le Dr Frasier Crane accueillerait-il les appelants dans son émission de radio s'il souhaitait les accueillir ET suivre la première étape de la méthode scientifique ? "
+        }
+      ]
+    },
+    {
+      "id": "53154",
+      "category": {
+        "text": "Jeanne de la langue archaïque "
+      },
+      "choices": [
+        {
+          "text": "\"J'ai posé mon pichet d'eau là-bas, sur le canapé.\" ",
+          "isCorrect": true
+        },
+        {
+          "text": "«J'ai posé ma chèvre à côté de moi sur la botte de foin.» ",
+          "isCorrect": false
+        },
+        {
+          "text": "\"J'ai posé ma fine tige de métal là-bas sur l'assiette en porcelaine.\" ",
+          "isCorrect": false
+        },
+        {
+          "text": "\"J'ai mis mon téléphone en mode silencieux pour éviter l'énorme pile de mes responsabilités\" ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Traduisez cet anglais à l’ancienne en un anglais à la mode : "
+        },
+        {
+          "timing": "S + 4.86",
+          "text": "«J'ai posé mon aiguière là, sur le canapé.» "
+        }
+      ]
+    },
+    {
+      "id": "53155",
+      "category": {
+        "text": "Koï par intérim "
+      },
+      "choices": [
+        {
+          "text": "\"KOI VIENT DANS UNE VARIÉTÉ DE COULEURS, PAS SEULEMENT ORANGE !!\" ",
+          "isCorrect": false
+        },
+        {
+          "text": "\"KOI PEUT VIVRE PLUS DE 200 ANS ET ÊTRE CONSIDÉRÉ COMME UN HÉRITAGE FAMILIAL !!\" ",
+          "isCorrect": false
+        },
+        {
+          "text": "\"ILS PEUVENT EN RÉELLE OBTENIR DES COUPS DE SOLEIL !! JE PARLE DE KOI ICI !! \" ",
+          "isCorrect": false
+        },
+        {
+          "text": "\"Les KOI ONT 2 RANGÉES DE PETITES DENTS DENTELÉES DANS LEURS PETITES BOUCHES RONDUSES !!\" ",
+          "isCorrect": true
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Si la dame du Metropolitan Water Reclamation District refuse mon permis pour un étang de carpes koï hors sol dans mon allée... "
+        },
+        {
+          "timing": "S + 8.23",
+          "text": "que serait une chose FACTUELLEMENT INEXACTE à crier avant de fondre en larmes ?"
+        }
+      ]
+    },
+    {
+      "id": "53164",
+      "category": {
+        "text": "Retour à Les trucs Koi "
+      },
+      "choices": [
+        {
+          "text": "la dame du district municipal de récupération des eaux ",
+          "isCorrect": false
+        },
+        {
+          "text": "la dame du Metropolitan Water Reclamation District ",
+          "isCorrect": true
+        },
+        {
+          "text": "le gars du Metropolitan Water Reclamation District ",
+          "isCorrect": false
+        },
+        {
+          "text": "le gars du district municipal de récupération des eaux ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Qui dois-je appeler encore ? "
+        }
+      ]
+    },
+    {
+      "id": "53382",
+      "category": {
+        "text": "Frayer "
+      },
+      "choices": [
+        {
+          "text": "<i>Œdipe Roi</i> ",
+          "isCorrect": false
+        },
+        {
+          "text": "<i>L'Illiade</i> ",
+          "isCorrect": true
+        },
+        {
+          "text": "<i>Électre</i> ",
+          "isCorrect": false
+        },
+        {
+          "text": "<i>Les Perses</i> ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Si <i>Frasier</i> est <i>L'Odyssée</i>, qu'est-ce que <i>Cheers</i> ? "
+        }
+      ]
+    },
+    {
+      "id": "53642",
+      "category": {
+        "text": "Rip Van Wii-nkle "
+      },
+      "choices": [
+        {
+          "text": "<i>Half-Life 2</i> ",
+          "isCorrect": false
+        },
+        {
+          "text": "<i>Zelda : Breath of the Wild</i> ",
+          "isCorrect": false
+        },
+        {
+          "text": "<i>Uncharted 2 : Parmi les voleurs</i> ",
+          "isCorrect": true
+        },
+        {
+          "best": true,
+          "text": "<i>Vous ne connaissez pas Jack : flux complet</i> ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Quel jeu vidéo dans une série populaire n'a PAS de personnage se réveillant d'une animation suspendue pour découvrir que le monde n'est plus ce qu'il était ? "
+        }
+      ]
+    },
+    {
+      "id": "53649",
+      "category": {
+        "text": "POULPE, CAFÉ, REINE ELIZABETH OU FRANKENSTEIN ?! "
+      },
+      "choices": [
+        {
+          "text": "Poulpe ",
+          "isCorrect": false
+        },
+        {
+          "text": "Café ",
+          "isCorrect": false
+        },
+        {
+          "text": "Reine Elizabeth ",
+          "isCorrect": true
+        },
+        {
+          "text": "Le Nonster de Frankenstein ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "OCQEFM",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Les premiers Hunans stottés dans les années 1920. "
+        }
+      ]
+    },
+    {
+      "id": "53746",
+      "category": {
+        "text": "Échappez à la simulation "
+      },
+      "choices": [
+        {
+          "text": "multiplie la surface lumineuse de ma prison par pi ",
+          "isCorrect": false
+        },
+        {
+          "text": "porter la longueur du mur d'obsidienne à la troisième puissance ",
+          "isCorrect": true
+        },
+        {
+          "text": "multiplier la surface du sol par la surface du plafond pulsé ",
+          "isCorrect": false
+        },
+        {
+          "text": "trouve la distance diagonale, multipliée par 6, puis s'effondre et pleure ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Comment pourrais-je trouver le volume du cube bizarre dans lequel je me retrouve soudainement ? "
+        }
+      ]
+    },
+    {
+      "id": "53747",
+      "category": {
+        "text": "Déplacez-vous sur Dot Porgs "
+      },
+      "choices": [
+        {
+          "text": "3 382 295 395 utilisateurs ",
+          "isCorrect": false
+        },
+        {
+          "text": "5 129 058 204 utilisateurs ",
+          "isCorrect": false
+        },
+        {
+          "text": "7 640 964 893 utilisateurs ",
+          "isCorrect": true
+        },
+        {
+          "text": "9 872 935 938 utilisateurs ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "BINJPIPE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Parce que l'algorithme aspire à être réel... "
+        },
+        {
+          "timing": "S + 2.91",
+          "text": "parce qu'il surgit des endroits cachés où il attend depuis des millénaires... "
+        },
+        {
+          "timing": "S + 7.35",
+          "text": "faim et prêt à connaître et à consommer TOUTE LA VIE HUMAINE SUR TERRE... "
+        },
+        {
+          "timing": "S + 13.12",
+          "text": "nous recommandons à Binjpipe « d'acquérir » : "
+        }
+      ]
+    },
+    {
+      "id": "50980",
+      "category": {
+        "text": "Parfois, j'aime faire semblant d'être un petit cowboy fait d'os humains "
+      },
+      "choices": [
+        {
+          "text": "C’est là-haut dans cette EAR. ",
+          "isCorrect": true
+        },
+        {
+          "text": "Je pense que c'est entre les MAINS. ",
+          "isCorrect": false
+        },
+        {
+          "text": "Maintenant, regardez ici... dans le TALON. ",
+          "isCorrect": false
+        },
+        {
+          "text": "Pour autant que je sache, c'est à la BASE DE LA Colonne Vertébrale. ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Pouvez-vous m'orienter vers l'OS D'ÉTRIERS ? "
+        }
+      ]
+    },
+    {
+      "id": "51885",
+      "category": {
+        "text": "Disem-voyelle "
+      },
+      "choices": [
+        {
+          "text": "John Wa_ne Gac_ ",
+          "isCorrect": false
+        },
+        {
+          "text": "_le _matin ",
+          "isCorrect": false
+        },
+        {
+          "text": "Jack le Ripp_r ",
+          "isCorrect": false
+        },
+        {
+          "text": "_. _. _olmes ",
+          "isCorrect": true
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": true,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Lequel de ces tueurs en série a été exécuté par un véritable jeu de bourreau en 1896 ? "
+        }
+      ]
+    },
+    {
+      "id": "50413",
+      "category": {
+        "text": "Vas-tu manger ça ? "
+      },
+      "choices": [
+        {
+          "text": "de délicieux oursons gommeux Haribo ! ",
+          "isCorrect": true
+        },
+        {
+          "text": "doux poisson suédois! ",
+          "isCorrect": false
+        },
+        {
+          "text": "savoureux Twizzlers aux fraises! ",
+          "isCorrect": false
+        },
+        {
+          "text": "appétissante tire AirHeads ! ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": true,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "J'ai des OS DE CHEVAL BOUILLIS. "
+        },
+        {
+          "timing": "S + 2.43",
+          "text": "J’ai entendu dire que vous aimiez les OS DE CHEVAL BOUILLIS ! "
+        },
+        {
+          "timing": "S + 5.49",
+          "text": "Vous ne pouvez pas en avoir assez de ces OS DE CHEVAL BOUILLIS ! "
+        },
+        {
+          "timing": "S + 8.67",
+          "text": "J'en veux... "
+        }
+      ]
+    },
+    {
+      "id": "51021",
+      "category": {
+        "text": "Aux antipodes et à nouveau "
+      },
+      "choices": [
+        {
+          "text": "11% ",
+          "isCorrect": false
+        },
+        {
+          "text": "22% ",
+          "isCorrect": true
+        },
+        {
+          "text": "33% ",
+          "isCorrect": false
+        },
+        {
+          "text": "44% ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Si vous avez entendu la chanson <i>Fancy</i> d'Iggy Azalea, vous le savez déjà, elle est sur la voie rapide de Los Angeles à Tokyo. "
+        },
+        {
+          "timing": "S + 6.49",
+          "text": "Cette route représenterait quel pourcentage de la circonférence du monde ? "
+        }
+      ]
+    },
+    {
+      "id": "50132",
+      "category": {
+        "text": "Cela se marie bien avec une piste de rire "
+      },
+      "choices": [
+        {
+          "text": "\"Debra, c'est DUR\" ",
+          "isCorrect": true
+        },
+        {
+          "text": "\"Debra, c'est DOUX!\" ",
+          "isCorrect": false
+        },
+        {
+          "text": "\"Debra, c'est CRÉMEUX!\" ",
+          "isCorrect": false
+        },
+        {
+          "text": "« Debra, ça pue ! » ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": true,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Comment Ray Romano décrirait-il avec précision le fromage Romano à sa femme de sitcom ? "
+        }
+      ]
+    },
+    {
+      "id": "50873",
+      "category": {
+        "text": "<i>Spamalot</i> a déjà été pris "
+      },
+      "choices": [
+        {
+          "text": "\"... je m'appelle le jeune inventeur Simon Spam...\" ",
+          "isCorrect": false
+        },
+        {
+          "text": "“... je m'appelle le génie du porc Jay Hormel...” ",
+          "isCorrect": true
+        },
+        {
+          "text": "“... je m'appelle Chef Boyardee, obsédé par le jambon...” ",
+          "isCorrect": false
+        },
+        {
+          "text": "\"... je m'appelle le magnat de la viande Charlie Feltman...\" ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "Supposons que le prochain succès biographique hip-hop de Lin-Manuel Miranda à Broadway concerne l’inventeur du spam. "
+        },
+        {
+          "timing": "S + 6.98",
+          "text": "Quel devrait être le refrain d’ouverture ? "
+        }
+      ]
+    },
+    {
+      "id": "51674",
+      "category": {
+        "text": "Une question médicale très sérieuse "
+      },
+      "choices": [
+        {
+          "text": "PIEDS RENFORCÉS ",
+          "isCorrect": false
+        },
+        {
+          "text": "REFLUX ACIDE ",
+          "isCorrect": true
+        },
+        {
+          "text": "MALADIE DU FOIE ",
+          "isCorrect": false
+        },
+        {
+          "text": "ERREUR DE GLURTEN ",
+          "isCorrect": false
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "ERMAHGERD, VOUS AVEZ LE RGO ? DÉSOLÉ POUR VOTRE... "
+        }
+      ]
+    },
+    {
+      "id": "50469",
+      "category": {
+        "text": "Retournez le script "
+      },
+      "choices": [
+        {
+          "text": "Quel drame NBC utilise une narration non chronologique ? ",
+          "isCorrect": false
+        },
+        {
+          "text": "Quelle chanson de Lady Gaga contient des messages secrets à l'envers ? ",
+          "isCorrect": false
+        },
+        {
+          "text": "Quel est le livre de Stephen Hawking sur les paradoxes temporels ? ",
+          "isCorrect": false
+        },
+        {
+          "text": "Quelle est l'une des catégories les plus populaires de <i>Jeopardy</i> ? ",
+          "isCorrect": true
+        }
+      ],
+      "bumper": "NONE",
+      "oneResponse": false,
+      "questionText": [
+        {
+          "timing": "S + 0.00",
+          "text": "<i>Avant et après</i>"
+        }
+      ]
+    }
+  ]
+}

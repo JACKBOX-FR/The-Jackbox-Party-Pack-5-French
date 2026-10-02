@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "mort | sur mes impôts | au poker ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "J'ai besoin d'un moyen de tricher <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : J'en ai marre d'être honnête et je veux tricher là-dessus ! ",
+      "t": "A",
+      "v": "767752_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

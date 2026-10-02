@@ -1,0 +1,139 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Haaaaaaaaaaaaaa ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "3,1,0,2 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Si quelqu’un mettait un point d’orgue à son rire, à quoi cela ressemblerait-il ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Musique sur laquelle vous pouvez rire ",
+      "t": "A",
+      "v": "716990_3",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Ou\nJe me moque de toi, pas avec toi. (TOUS) ",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "716993_3",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "Ou\nJe suppose que tu devais être là. (TOUS) ",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Un point d’orgue, c’est lorsque vous maintenez la même note plus longtemps que vous ne le feriez normalement. ",
+      "t": "A",
+      "v": "716995_2",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "C'est un défi, mais heureusement, en tant qu'interprète de formation classique, je suis capable de faire rire du plus profond de mon... (effet sonore : petit pet qui couine) Eh bien, vous voyez l'idée. ",
+      "t": "A",
+      "v": "716996_2f",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "If someone put a fermata on their laughter, what would it sound like?",
+      "t": "A",
+      "v": "716992_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

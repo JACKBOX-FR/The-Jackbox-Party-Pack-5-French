@@ -1,0 +1,149 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "compost riche en nutriments ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "S+2.72 ",
+      "n": "$QuestionAudio$QuestionTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "2,1,0,3 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Qu’est-ce que « Le petit-déjeuner aux champignons » ? ",
+      "n": "QuestionText2"
+    },
+    {
+      "t": "S",
+      "v": "Before",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Wheaties is “The Breakfast of Champions.”",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Les gaufres sont pour les perdants ",
+      "t": "A",
+      "v": "738229_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "738232_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "OR\nNous comprenons, vous l'aimez cru. ",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "OU\n(sons de grillons) ",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Champignons are mushrooms and mushrooms eat decomposing organic matter.",
+      "t": "A",
+      "v": "738234_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Maybe I’m a champignon, because honestly, my diet is mostly shit [sfx: beep].",
+      "t": "A",
+      "v": "738235_0f",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "Wheaties is “The Breakfast of Champions”...What’s “The Breakfast of Champignons”?",
+      "t": "A",
+      "v": "738231_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

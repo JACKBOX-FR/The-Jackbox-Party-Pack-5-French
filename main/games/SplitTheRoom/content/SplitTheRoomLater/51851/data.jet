@@ -1,0 +1,96 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "concours de jeux de mots | concours de pompes | débat de philosophie | match de ballon chasseur | match d'échecs ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "S+12.53",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "S+5.01",
+      "n": "$ScenarioAudio$ScenarioTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "Au lieu d'une compétition de maillot de bain, le défi final est un ",
+      "n": "ScenarioText3"
+    },
+    {
+      "t": "S",
+      "v": "S+7.96",
+      "n": "$ScenarioAudio$ScenarioTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "<BLANK>. ",
+      "n": "ScenarioText4"
+    },
+    {
+      "t": "S",
+      "v": "Vous avez participé à un concours de beauté. Le grand prix est de 25 000 $. ",
+      "n": "ScenarioText1"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00 ",
+      "n": "$ScenarioAudio$ScenarioTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Un juge a clairement indiqué qu’il était prêt à se laisser corrompre. ",
+      "n": "ScenarioText2"
+    },
+    {
+      "t": "S",
+      "v": "S+11.03",
+      "n": "$ScenarioAudio$ScenarioTextCue4"
+    },
+    {
+      "t": "S",
+      "v": "Offrez-vous le pot-de-vin ? ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Ceinture dure et froide ",
+      "t": "A",
+      "v": "Offrez-vous le pot-de-vin ? ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Vous avez participé à un concours de beauté. Le grand prix est de 25 000 $. Un juge a clairement indiqué qu’il était prêt à se laisser corrompre. Au lieu d'une compétition de maillot de bain, le défi final est le suivant. Offrez-vous le pot-de-vin ? ",
+      "t": "A",
+      "v": "741123_2",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    }
+  ]
+}

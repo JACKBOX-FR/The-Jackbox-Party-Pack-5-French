@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "baseball|lecture|tondre le jardin ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Il doit y avoir un moyen de rendre <BLANK> moins ennuyeux ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : J'aimerais juste qu'il y ait une manière moins ennuyeuse de faire CECI ! ",
+      "t": "A",
+      "v": "752559_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

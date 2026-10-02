@@ -1,0 +1,140 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "la dame du Metropolitan Water Reclamation District ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "2,0,1,3 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Qui dois-je appeler encore ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Retour à Les trucs Koi",
+      "t": "A",
+      "v": "759431_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "D'accord... j'ai reporté ça trop longtemps. Il est temps de passer l'appel. Mais attends, j'ai oublié... ",
+      "t": "A",
+      "v": "759432_2",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "759434_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Oui, c'est le nom que j'ai dans mes contacts téléphoniques. ",
+      "t": "A",
+      "v": "759436_3",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "[sfx : sonnerie du téléphone puis bruit de la prise en charge]\nCandace (messagerie vocale) : Bonjour, vous êtes arrivé au Water Reclamation District, veuillez rappeler pendant les heures normales de bureau.\nCookie : Oh, merci mon Dieu. Je peux juste laisser un message. ",
+      "t": "A",
+      "v": "759437_0f",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "Who am I calling again?",
+      "t": "A",
+      "v": "759433_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,421 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_6Correct"
+    },
+    {
+      "t": "S",
+      "v": "les enfants de <i>Fast Times à Ridgemont High</i> ",
+      "n": "Choice6_6Text"
+    },
+    {
+      "t": "S",
+      "v": "École secondaire Riverdale ",
+      "n": "Root2Text"
+    },
+    {
+      "t": "S",
+      "v": "Kathryn Janeway ",
+      "n": "Choice5_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Véronique Mars ",
+      "n": "Choice2_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Saule Rosenberg ",
+      "n": "Choice4_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Ferris Bueller ",
+      "n": "Choice6_1Text"
+    },
+    {
+      "t": "S",
+      "v": "un étudiant de Duke ",
+      "n": "Choice3_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Linda magique ",
+      "n": "Choice1_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Poudlard ",
+      "n": "Root1Text"
+    },
+    {
+      "t": "S",
+      "v": "les enfants de <i>Can't Hardly Wait</i> ",
+      "n": "Choice6_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Archie Miller ",
+      "n": "Choice2_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Jeff Winger ",
+      "n": "Choice4_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Vous avez été scolarisé ! ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "Betty Cooper ",
+      "n": "Choice2_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Abed Nadir ",
+      "n": "Choice4_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Harry Potter ",
+      "n": "Choice1_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Sciences Linda ",
+      "n": "Choice5_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Cédric Diggory ",
+      "n": "Choice1_5Text"
+    },
+    {
+      "t": "S",
+      "v": "un étudiant de Princeton ",
+      "n": "Choice3_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Cho Chang ",
+      "n": "Choice1_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Troy Aikman ",
+      "n": "Choice4_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Forsythe « Jughead » Jones III ",
+      "n": "Choice2_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Académie Starfleet ",
+      "n": "Root5Text"
+    },
+    {
+      "t": "S",
+      "v": "Collège communautaire de Greendale ",
+      "n": "Root4Text"
+    },
+    {
+      "t": "S",
+      "v": "Shirley Laverne ",
+      "n": "Choice4_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Wesley Concasseur ",
+      "n": "Choice2_1Text"
+    },
+    {
+      "t": "S",
+      "v": "les enfants de <i>Seize bougies</i> ",
+      "n": "Choice6_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Lursa Duras ",
+      "n": "Choice5_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Dudley-Dursley ",
+      "n": "Choice1_4Text"
+    },
+    {
+      "t": "S",
+      "v": "un étudiant de Cambridge ",
+      "n": "Choice3_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Wesley Wyndam-Pryce ",
+      "n": "Choice5_2Text"
+    },
+    {
+      "t": "S",
+      "v": "un étudiant de Harvard ",
+      "n": "Choice3_1Text"
+    },
+    {
+      "t": "S",
+      "v": "un étudiant brun ",
+      "n": "Choice3_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Saule Rosenberg ",
+      "n": "Choice1_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Jean-Luc Picard ",
+      "n": "Choice5_5Text"
+    },
+    {
+      "t": "S",
+      "v": "une école de l'Ivy League ",
+      "n": "Root3Text"
+    },
+    {
+      "t": "S",
+      "v": "les enfants du <i>The Breakfast Club</i> ",
+      "n": "Choice6_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Lycée Shermer ",
+      "n": "Root6Text"
+    },
+    {
+      "t": "S",
+      "v": "Josie McCoy ",
+      "n": "Choice2_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Britta Perry ",
+      "n": "Choice4_3Text"
+    },
+    {
+      "t": "S",
+      "v": "les enfants de <i>Weird Science</i> ",
+      "n": "Choice6_3Text"
+    },
+    {
+      "t": "S",
+      "v": "un étudiant de Yale ",
+      "n": "Choice3_2Text"
+    },
+    {
+      "t": "S",
+      "v": "James T. Kirk ",
+      "n": "Choice5_1Text"
+    },
+    {
+      "s": "Vous avez été scolarisé ! ",
+      "t": "A",
+      "v": "767024_1 ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Choisissez les étudiants qui ont fréquenté ces établissements d'enseignement... bonne chance...",
+      "t": "A",
+      "v": "767025_3",
+      "n": "IntroAudio"
+    }
+  ]
+}

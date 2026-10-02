@@ -1,0 +1,86 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "Monopole | Hippopotames affamés | Pays des bonbons | Opération | La scène ? Crépuscule ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "S+10.28",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "S+5.70",
+      "n": "$ScenarioAudio$ScenarioTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "<BLANK>. ",
+      "n": "ScenarioText3"
+    },
+    {
+      "t": "S",
+      "v": "S+9.24",
+      "n": "$ScenarioAudio$ScenarioTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "À cause d'une malédiction, vous êtes littéralement aspiré dans le monde de chaque jeu de société auquel vous jouez... mais personne ne vous croit. ",
+      "n": "ScenarioText1"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00 ",
+      "n": "$ScenarioAudio$ScenarioTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Après des années passées à ignorer les soirées de jeux, vos enfants exigent que vous jouiez ",
+      "n": "ScenarioText2"
+    },
+    {
+      "t": "S",
+      "v": "Vous les rejoignez ? ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Un monde de plaisir ",
+      "t": "A",
+      "v": "751988_2",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "À cause d'une malédiction, vous êtes littéralement aspiré dans le monde de chaque jeu de société auquel vous jouez... mais personne ne vous croit. Après des années passées à ignorer les soirées de jeux, vos enfants exigent que vous y jouiez. Vous les rejoignez ? ",
+      "t": "A",
+      "v": "751989_4 ",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    }
+  ]
+}

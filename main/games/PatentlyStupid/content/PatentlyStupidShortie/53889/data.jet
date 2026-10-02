@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "école| la salle de bain | Mississippi ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je déteste aller à <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je déteste vraiment aller ICI. Genre, je déteste vraiment ça ! ",
+      "t": "A",
+      "v": "767768_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

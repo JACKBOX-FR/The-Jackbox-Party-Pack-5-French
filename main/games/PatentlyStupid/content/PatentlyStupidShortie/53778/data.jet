@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "orthographe des mots mal | pommes | résoudre des mystères ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "J'essaie de quitter <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : J'essaie d'arrêter CELA ! ",
+      "t": "A",
+      "v": "767352_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

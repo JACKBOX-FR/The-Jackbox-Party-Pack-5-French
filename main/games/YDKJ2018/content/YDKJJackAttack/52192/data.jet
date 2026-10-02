@@ -1,0 +1,421 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_6Correct"
+    },
+    {
+      "t": "S",
+      "v": "feu ",
+      "n": "Choice6_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Sandwich Cubain ",
+      "n": "Root2Text"
+    },
+    {
+      "t": "S",
+      "v": "caramel ",
+      "n": "Choice5_4Text"
+    },
+    {
+      "t": "S",
+      "v": "oeuf ",
+      "n": "Choice2_3Text"
+    },
+    {
+      "t": "S",
+      "v": "huîtres ",
+      "n": "Choice4_2Text"
+    },
+    {
+      "t": "S",
+      "v": "cannelle ",
+      "n": "Choice6_1Text"
+    },
+    {
+      "t": "S",
+      "v": "cornichon ",
+      "n": "Choice3_5Text"
+    },
+    {
+      "t": "S",
+      "v": "oeuf ",
+      "n": "Choice1_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Salade Waldorf ",
+      "n": "Root1Text"
+    },
+    {
+      "t": "S",
+      "v": "bananes ",
+      "n": "Choice6_5Text"
+    },
+    {
+      "t": "S",
+      "v": "testicules ",
+      "n": "Choice2_6Text"
+    },
+    {
+      "t": "S",
+      "v": "testicules ",
+      "n": "Choice4_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Tu vas certainement me manger ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "ketchup ",
+      "n": "Choice2_2Text"
+    },
+    {
+      "t": "S",
+      "v": "chapelure ",
+      "n": "Choice4_6Text"
+    },
+    {
+      "t": "S",
+      "v": "noix ",
+      "n": "Choice1_1Text"
+    },
+    {
+      "t": "S",
+      "v": "plaquette ",
+      "n": "Choice5_3Text"
+    },
+    {
+      "t": "S",
+      "v": "tomate ",
+      "n": "Choice1_5Text"
+    },
+    {
+      "t": "S",
+      "v": "ketchup ",
+      "n": "Choice3_4Text"
+    },
+    {
+      "t": "S",
+      "v": "cornichon ",
+      "n": "Choice1_3Text"
+    },
+    {
+      "t": "S",
+      "v": "beurre ",
+      "n": "Choice4_4Text"
+    },
+    {
+      "t": "S",
+      "v": "moutarde ",
+      "n": "Choice2_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Des ricanements ",
+      "n": "Root5Text"
+    },
+    {
+      "t": "S",
+      "v": "Huîtres Rockefeller ",
+      "n": "Root4Text"
+    },
+    {
+      "t": "S",
+      "v": "oeuf ",
+      "n": "Choice4_5Text"
+    },
+    {
+      "t": "S",
+      "v": "cornichon ",
+      "n": "Choice2_1Text"
+    },
+    {
+      "t": "S",
+      "v": "bourbon ",
+      "n": "Choice6_4Text"
+    },
+    {
+      "t": "S",
+      "v": "riz croustillant ",
+      "n": "Choice5_6Text"
+    },
+    {
+      "t": "S",
+      "v": "pomme ",
+      "n": "Choice1_4Text"
+    },
+    {
+      "t": "S",
+      "v": "testicules ",
+      "n": "Choice3_3Text"
+    },
+    {
+      "t": "S",
+      "v": "beurre de cacahuète ",
+      "n": "Choice5_2Text"
+    },
+    {
+      "t": "S",
+      "v": "tomate ",
+      "n": "Choice3_1Text"
+    },
+    {
+      "t": "S",
+      "v": "moutarde ",
+      "n": "Choice3_6Text"
+    },
+    {
+      "t": "S",
+      "v": "feta ",
+      "n": "Choice1_2Text"
+    },
+    {
+      "t": "S",
+      "v": "nougat ",
+      "n": "Choice5_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Hot Dog à la Chicago ",
+      "n": "Root3Text"
+    },
+    {
+      "t": "S",
+      "v": "gin ",
+      "n": "Choice6_2Text"
+    },
+    {
+      "t": "S",
+      "v": "La banane favorise le flambé ",
+      "n": "Root6Text"
+    },
+    {
+      "t": "S",
+      "v": "sauce piquante ",
+      "n": "Choice2_4Text"
+    },
+    {
+      "t": "S",
+      "v": "cornichon ",
+      "n": "Choice4_3Text"
+    },
+    {
+      "t": "S",
+      "v": "massepain ",
+      "n": "Choice6_3Text"
+    },
+    {
+      "t": "S",
+      "v": "oignon ",
+      "n": "Choice3_2Text"
+    },
+    {
+      "t": "S",
+      "v": "chocolat au lait ",
+      "n": "Choice5_1Text"
+    },
+    {
+      "s": "Tu vas certainement me manger ",
+      "t": "A",
+      "v": "746356_2 ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Vous êtes ce que vous mangez... chaque petite partie... bonne chance... ",
+      "t": "A",
+      "v": "746357_2 ",
+      "n": "IntroAudio"
+    }
+  ]
+}

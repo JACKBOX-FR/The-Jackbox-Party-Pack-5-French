@@ -1,0 +1,421 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_6Correct"
+    },
+    {
+      "t": "S",
+      "v": "Chirurgical ",
+      "n": "Choice6_6Text"
+    },
+    {
+      "t": "S",
+      "v": "PLONGÉE ",
+      "n": "Root2Text"
+    },
+    {
+      "t": "S",
+      "v": "Ordinateurs ",
+      "n": "Choice5_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Surface ",
+      "n": "Choice2_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Soldats ",
+      "n": "Choice4_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Médical ",
+      "n": "Choice6_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Énergie ",
+      "n": "Choice3_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Machine ",
+      "n": "Choice1_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Distributeur automatique de billets ",
+      "n": "Root1Text"
+    },
+    {
+      "t": "S",
+      "v": "Soldat ",
+      "n": "Choice6_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Contenu ",
+      "n": "Choice2_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Secret ",
+      "n": "Choice4_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Des noms qui représentent quelque chose ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "Respiration ",
+      "n": "Choice2_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Spécial ",
+      "n": "Choice4_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Automatisé ",
+      "n": "Choice1_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Communications ",
+      "n": "Choice5_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Manuel ",
+      "n": "Choice1_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Stimulé ",
+      "n": "Choice3_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Opération ",
+      "n": "Choice1_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Guerre ",
+      "n": "Choice4_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Sous l'eau ",
+      "n": "Choice2_5Text"
+    },
+    {
+      "t": "S",
+      "v": "CAPTCHA ",
+      "n": "Root5Text"
+    },
+    {
+      "t": "S",
+      "v": "ÉCRASER ",
+      "n": "Root4Text"
+    },
+    {
+      "t": "S",
+      "v": "Tactiques ",
+      "n": "Choice4_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Aérien ",
+      "n": "Choice2_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Avancé ",
+      "n": "Choice6_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Turing ",
+      "n": "Choice5_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Caissier ",
+      "n": "Choice1_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Lumière ",
+      "n": "Choice3_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Complètement ",
+      "n": "Choice5_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Rayonnement ",
+      "n": "Choice3_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Amplification ",
+      "n": "Choice3_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Argent ",
+      "n": "Choice1_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Alain ",
+      "n": "Choice5_5Text"
+    },
+    {
+      "t": "S",
+      "v": "LASER ",
+      "n": "Root3Text"
+    },
+    {
+      "t": "S",
+      "v": "Mobile ",
+      "n": "Choice6_2Text"
+    },
+    {
+      "t": "S",
+      "v": "PURÉE ",
+      "n": "Root6Text"
+    },
+    {
+      "t": "S",
+      "v": "Appareil ",
+      "n": "Choice2_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Armes ",
+      "n": "Choice4_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Hôpital ",
+      "n": "Choice6_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Réflexion ",
+      "n": "Choice3_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Automatisé ",
+      "n": "Choice5_1Text"
+    },
+    {
+      "s": "Des noms qui représentent quelque chose ",
+      "t": "A",
+      "v": "753832_2 ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Choisissez les mots que représentent les acroynmes... bonne chance.... ",
+      "t": "A",
+      "v": "753833_1 ",
+      "n": "IntroAudio"
+    }
+  ]
+}

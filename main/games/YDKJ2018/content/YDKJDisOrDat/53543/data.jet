@@ -1,0 +1,245 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion5Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupPoorAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasDisAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion1Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion4Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTimingInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasScoreInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupRockedAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupAwfulAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion7Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasDatAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion6Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion3Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupOutroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupGoodAudio"
+    },
+    {
+      "t": "S",
+      "v": "S+8.00",
+      "n": "$InstructionsAudio$DatTextCue"
+    },
+    {
+      "t": "S",
+      "v": "Appelez Brie par votre nom ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "CAMEMBERT ",
+      "n": "DatButtonText"
+    },
+    {
+      "t": "S",
+      "v": "TIMOTHÉE CHALAMET ",
+      "n": "DisButtonText"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$InstructionsAudio$BothCue"
+    },
+    {
+      "t": "S",
+      "v": "quelque chose de vrai sur l'acteur Timothée Chalamet ",
+      "n": "DisText"
+    },
+    {
+      "t": "S",
+      "v": "quelque chose de vrai sur le fromage camembert ",
+      "n": "DatText"
+    },
+    {
+      "t": "S",
+      "v": "S+4.40",
+      "n": "$InstructionsAudio$DisTextCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$DisAudio$DisButtonCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$DatAudio$DatButtonCue"
+    },
+    {
+      "s": "la teneur en matières grasses est de 45 % ",
+      "t": "A",
+      "v": "764637_1",
+      "n": "Question5Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "TimingInstructionsAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupOutroAudio"
+    },
+    {
+      "s": "Je vais énumérer sept choses, et pour chacune d'entre elles, je veux que vous me disiez si c'est # quelque chose de vrai à propos de l'acteur Timothée Chalamet, OU # quelque chose de vrai à propos du camembert, ou les deux. ",
+      "t": "A",
+      "v": "764632_1",
+      "n": "InstructionsAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ScoreInstructionsAudio"
+    },
+    {
+      "s": "lisse et souple ",
+      "t": "A",
+      "v": "764639_1",
+      "n": "Question7Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupPoorAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupRockedAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupAwfulAudio"
+    },
+    {
+      "s": "apparaît dans <i>Lady Bird</i> ",
+      "t": "A",
+      "v": "764634_1",
+      "n": "Question2Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupGoodAudio"
+    },
+    {
+      "s": "...Timothée Chalamet... ",
+      "t": "A",
+      "v": "764645_3",
+      "n": "DisAudio"
+    },
+    {
+      "s": "a la peau blanche ",
+      "t": "A",
+      "v": "764635_1",
+      "n": "Question3Audio"
+    },
+    {
+      "s": "Appelez Brie par votre nom... et c'est l'heure d'un Dis ou d'un Dat ! ",
+      "t": "A",
+      "v": "764631_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "... Camembert ",
+      "t": "A",
+      "v": "764646_3",
+      "n": "DatAudio"
+    },
+    {
+      "s": "pas végétalien ",
+      "t": "A",
+      "v": "764636_1",
+      "n": "Question4Audio"
+    },
+    {
+      "s": "né en France ",
+      "t": "A",
+      "v": "764633_3",
+      "n": "Question1Audio"
+    },
+    {
+      "s": "créé par une femme ",
+      "t": "A",
+      "v": "764638_1",
+      "n": "Question6Audio"
+    }
+  ]
+}

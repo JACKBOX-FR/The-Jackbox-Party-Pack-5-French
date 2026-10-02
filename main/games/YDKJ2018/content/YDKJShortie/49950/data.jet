@@ -1,0 +1,139 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "« Votre chauffeur Raymond est ici dans une Cadillac » ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "1,2,0,3 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Quel message texte est la meilleure indication que votre futur chauffeur Uber est un Ghostbuster dans l'ECTO-1 ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Qui vas-tu appeler ? Des perturbateurs fantômes ! ",
+      "t": "A",
+      "v": "713938_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "OR\nToi Winston, tu perds-ston. ",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "713941_2",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "OU\nIls sont prêts à te croire, mais pas moi (TOUS) ",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "OR\nChats et chiens vivant ensemble, les gens se trompent de réponses ! Hystérie collective ! ",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Le véhicule emblématique connu sous le nom d'Ecto-1 est une Cadilac de 1959. ",
+      "t": "A",
+      "v": "713943_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Et qu'il soit conduit par un mâle ou une femelle, je pense qu'il mérite 5 étoiles. ",
+      "t": "A",
+      "v": "713944_3",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "What text message is the best indication that your soon-to-be Uber driver is a Ghostbuster in the ECTO-1?",
+      "t": "A",
+      "v": "713940_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

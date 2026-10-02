@@ -1,0 +1,96 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "âge 2 mois | vomir | partager un sombre secret | je dois le toucher | baver la bouche ouverte ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "S+9.93",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "S+3.37",
+      "n": "$ScenarioAudio$ScenarioTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "<BLANK>. ",
+      "n": "ScenarioText3"
+    },
+    {
+      "t": "S",
+      "v": "S+6.50",
+      "n": "$ScenarioAudio$ScenarioTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "Cette tournée pourrait vous ouvrir de nombreuses portes. ",
+      "n": "ScenarioText4"
+    },
+    {
+      "t": "S",
+      "v": "Votre groupe indépendant vient de réserver une grande tournée dans le sud-ouest. ",
+      "n": "ScenarioText1"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00 ",
+      "n": "$ScenarioAudio$ScenarioTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Malheureusement, chaque fois que vous apercevez un cactus, vous ",
+      "n": "ScenarioText2"
+    },
+    {
+      "t": "S",
+      "v": "S+7.74",
+      "n": "$ScenarioAudio$ScenarioTextCue4"
+    },
+    {
+      "t": "S",
+      "v": "Est-ce que tu y vas ? ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Bande de dérangeurs ",
+      "t": "A",
+      "v": "Est-ce que tu y vas ? ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Votre groupe indépendant vient de réserver une grande tournée dans le sud-ouest. Malheureusement, chaque fois que vous repérez un cactus, vous faites cela. Cette tournée pourrait vous ouvrir de nombreuses portes. Est-ce que tu y vas ?",
+      "t": "A",
+      "v": "738922_2",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    }
+  ]
+}

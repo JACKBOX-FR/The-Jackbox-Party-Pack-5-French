@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "devoir de juré | mon hypothèque | une grotte ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "J'ai besoin d'un moyen de sortir de <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je ne peux pas m'en sortir ! ",
+      "t": "A",
+      "v": "761691_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

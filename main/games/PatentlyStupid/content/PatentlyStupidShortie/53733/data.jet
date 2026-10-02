@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "fesses | chat | salle de sport",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "J'ai besoin d'un <BLANK> très sophistiqué ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : J'ai vraiment besoin d'un CECI raffiné ! ",
+      "t": "A",
+      "v": "766901_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

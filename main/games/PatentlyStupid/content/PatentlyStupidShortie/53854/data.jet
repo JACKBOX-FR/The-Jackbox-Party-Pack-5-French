@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "le train| toutes les souris | sur Better Call Saul ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je dois attraper <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : J'ai vraiment besoin d'attraper CECI ! ",
+      "t": "A",
+      "v": "767662_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

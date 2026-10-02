@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "miroir | vase inestimable | jointures ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "J'ai craqué mon <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je suis contrarié parce que j'ai craqué mon CECI ! Voir? ",
+      "t": "A",
+      "v": "767734_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

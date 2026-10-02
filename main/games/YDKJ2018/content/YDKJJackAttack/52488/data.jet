@@ -1,0 +1,421 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_6Correct"
+    },
+    {
+      "t": "S",
+      "v": "par procuration ",
+      "n": "Choice6_6Text"
+    },
+    {
+      "t": "S",
+      "v": "excitée ",
+      "n": "Root2Text"
+    },
+    {
+      "t": "S",
+      "v": "de base ",
+      "n": "Choice5_4Text"
+    },
+    {
+      "t": "S",
+      "v": "grincheux ",
+      "n": "Choice2_3Text"
+    },
+    {
+      "t": "S",
+      "v": "furieux ",
+      "n": "Choice4_2Text"
+    },
+    {
+      "t": "S",
+      "v": "somnolent ",
+      "n": "Choice6_1Text"
+    },
+    {
+      "t": "S",
+      "v": "douteux ",
+      "n": "Choice3_5Text"
+    },
+    {
+      "t": "S",
+      "v": "convivial ",
+      "n": "Choice1_6Text"
+    },
+    {
+      "t": "S",
+      "v": "heureux ",
+      "n": "Root1Text"
+    },
+    {
+      "t": "S",
+      "v": "léthargique ",
+      "n": "Choice6_5Text"
+    },
+    {
+      "t": "S",
+      "v": "courageux ",
+      "n": "Choice2_6Text"
+    },
+    {
+      "t": "S",
+      "v": "indigné ",
+      "n": "Choice4_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Vivre en synonyme ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "libidineux ",
+      "n": "Choice2_2Text"
+    },
+    {
+      "t": "S",
+      "v": "spacieux ",
+      "n": "Choice4_6Text"
+    },
+    {
+      "t": "S",
+      "v": "jubilatoire ",
+      "n": "Choice1_1Text"
+    },
+    {
+      "t": "S",
+      "v": "flagrant ",
+      "n": "Choice5_3Text"
+    },
+    {
+      "t": "S",
+      "v": "extatique ",
+      "n": "Choice1_5Text"
+    },
+    {
+      "t": "S",
+      "v": "grégaire ",
+      "n": "Choice3_4Text"
+    },
+    {
+      "t": "S",
+      "v": "livide ",
+      "n": "Choice1_3Text"
+    },
+    {
+      "t": "S",
+      "v": "colérique ",
+      "n": "Choice4_4Text"
+    },
+    {
+      "t": "S",
+      "v": "soif ",
+      "n": "Choice2_5Text"
+    },
+    {
+      "t": "S",
+      "v": "excellent ",
+      "n": "Root5Text"
+    },
+    {
+      "t": "S",
+      "v": "en colère ",
+      "n": "Root4Text"
+    },
+    {
+      "t": "S",
+      "v": "en colère ",
+      "n": "Choice4_5Text"
+    },
+    {
+      "t": "S",
+      "v": "lascif ",
+      "n": "Choice2_1Text"
+    },
+    {
+      "t": "S",
+      "v": "soporifique ",
+      "n": "Choice6_4Text"
+    },
+    {
+      "t": "S",
+      "v": "en fuite ",
+      "n": "Choice5_6Text"
+    },
+    {
+      "t": "S",
+      "v": "furtif ",
+      "n": "Choice1_4Text"
+    },
+    {
+      "t": "S",
+      "v": "zélé ",
+      "n": "Choice3_3Text"
+    },
+    {
+      "t": "S",
+      "v": "pyjama de chat ",
+      "n": "Choice5_2Text"
+    },
+    {
+      "t": "S",
+      "v": "capricieux ",
+      "n": "Choice3_1Text"
+    },
+    {
+      "t": "S",
+      "v": "méfiant ",
+      "n": "Choice3_6Text"
+    },
+    {
+      "t": "S",
+      "v": "joyeux ",
+      "n": "Choice1_2Text"
+    },
+    {
+      "t": "S",
+      "v": "sans égal ",
+      "n": "Choice5_5Text"
+    },
+    {
+      "t": "S",
+      "v": "suspect ",
+      "n": "Root3Text"
+    },
+    {
+      "t": "S",
+      "v": "lent ",
+      "n": "Choice6_2Text"
+    },
+    {
+      "t": "S",
+      "v": "somnolent ",
+      "n": "Root6Text"
+    },
+    {
+      "t": "S",
+      "v": "excité ",
+      "n": "Choice2_4Text"
+    },
+    {
+      "t": "S",
+      "v": "magnanime ",
+      "n": "Choice4_3Text"
+    },
+    {
+      "t": "S",
+      "v": "sinistre ",
+      "n": "Choice6_3Text"
+    },
+    {
+      "t": "S",
+      "v": "sceptique ",
+      "n": "Choice3_2Text"
+    },
+    {
+      "t": "S",
+      "v": "superlatif ",
+      "n": "Choice5_1Text"
+    },
+    {
+      "s": "Vivre en synonyme ",
+      "t": "A",
+      "v": "750395_1 ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "J'espère bien que vous savez quels mots signifient la même chose que d'autres mots... bonne chance... ",
+      "t": "A",
+      "v": "750396_2 ",
+      "n": "IntroAudio"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "dormir | crier | pleurer ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je veux me mettre en forme pendant que je <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je veux me mettre en forme pendant que je fais aussi CECI ! ",
+      "t": "A",
+      "v": "765496_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

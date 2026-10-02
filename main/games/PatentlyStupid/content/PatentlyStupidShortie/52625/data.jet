@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "courir des marathons | combattre des zombies | manger de la glace ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je suis toujours fatigué parce que je <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je suis toujours fatigué parce que je fais CECI ! ",
+      "t": "A",
+      "v": "752589_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion5Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupPoorAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasDisAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion1Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion4Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTimingInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasScoreInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupRockedAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupAwfulAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion7Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasDatAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion6Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion3Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupOutroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupGoodAudio"
+    },
+    {
+      "t": "S",
+      "v": "S+6.34",
+      "n": "$InstructionsAudio$DatTextCue"
+    },
+    {
+      "t": "S",
+      "v": "J'entends le Blues A-Callin' ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "OEUFS BROUILLÉS ",
+      "n": "DatButtonText"
+    },
+    {
+      "t": "S",
+      "v": "SALADE MÉLANGE ",
+      "n": "DisButtonText"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$InstructionsAudio$BothCue"
+    },
+    {
+      "t": "S",
+      "v": "une sorte de salade ",
+      "n": "DisText"
+    },
+    {
+      "t": "S",
+      "v": "une sorte d'omelette ou de plat d'œufs ",
+      "n": "DatText"
+    },
+    {
+      "t": "S",
+      "v": "S+4.08",
+      "n": "$InstructionsAudio$DisTextCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$DisAudio$DisButtonCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$DatAudio$DatButtonCue"
+    },
+    {
+      "s": "Tortilla espagnole ",
+      "t": "A",
+      "v": "759224_1",
+      "n": "Question5Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "TimingInstructionsAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupOutroAudio"
+    },
+    {
+      "s": "Je vais lire sept choses, et pour chacune d'entre elles, je veux que vous me disiez si c'est # une sorte de salade ou # une sorte d'omelette ou de plat aux œufs. ",
+      "t": "A",
+      "v": "759219_2",
+      "n": "InstructionsAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ScoreInstructionsAudio"
+    },
+    {
+      "s": "Niçoise ",
+      "t": "A",
+      "v": "759226_1",
+      "n": "Question7Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupPoorAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupRockedAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupAwfulAudio"
+    },
+    {
+      "s": "Denver ",
+      "t": "A",
+      "v": "759221_1",
+      "n": "Question2Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupGoodAudio"
+    },
+    {
+      "s": "...salade mélangée... ou... ",
+      "t": "A",
+      "v": "759232_1",
+      "n": "DisAudio"
+    },
+    {
+      "s": "Gado Gado ",
+      "t": "A",
+      "v": "759222_1",
+      "n": "Question3Audio"
+    },
+    {
+      "s": "\"I Hear the Blues A-Callin'\" et c'est un Dis ou Dat. ",
+      "t": "A",
+      "v": "759218_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "oeufs brouillés ",
+      "t": "A",
+      "v": "759233_2",
+      "n": "DatAudio"
+    },
+    {
+      "s": "Larbe ",
+      "t": "A",
+      "v": "759223_1",
+      "n": "Question4Audio"
+    },
+    {
+      "s": "Cobb ",
+      "t": "A",
+      "v": "759220_1",
+      "n": "Question1Audio"
+    },
+    {
+      "s": "Tomagoyaki ",
+      "t": "A",
+      "v": "759225_1",
+      "n": "Question6Audio"
+    }
+  ]
+}

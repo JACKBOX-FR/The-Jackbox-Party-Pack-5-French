@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "manger du poivre compétitif | charmer un serpent | lutter contre un ours ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je pense que <BLANK> est tout simplement trop dangereux ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je veux faire CECI mais c'est trop dangereux ! ",
+      "t": "A",
+      "v": "759425_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

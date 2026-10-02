@@ -1,0 +1,421 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_6Correct"
+    },
+    {
+      "t": "S",
+      "v": "Phil Sims ",
+      "n": "Choice6_6Text"
+    },
+    {
+      "t": "S",
+      "v": "sorcière ",
+      "n": "Root2Text"
+    },
+    {
+      "t": "S",
+      "v": "Visage en cuir ",
+      "n": "Choice5_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Sabrina Spellman ",
+      "n": "Choice2_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Belphégor ",
+      "n": "Choice4_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Michael Strahan ",
+      "n": "Choice6_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Laurent Talbot ",
+      "n": "Choice3_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Jacob Marley ",
+      "n": "Choice1_6Text"
+    },
+    {
+      "t": "S",
+      "v": "fantôme ",
+      "n": "Root1Text"
+    },
+    {
+      "t": "S",
+      "v": "Laurent Taylor ",
+      "n": "Choice6_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Glinda la Bonne ",
+      "n": "Choice2_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Pazuzu ",
+      "n": "Choice4_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Tu es un monstre ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "Magie du sort ",
+      "n": "Choice2_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Ruban à vis ",
+      "n": "Choice4_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Casper ",
+      "n": "Choice1_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Gifle le mannequin ",
+      "n": "Choice5_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Jacob Noir ",
+      "n": "Choice1_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Rémus Lupin ",
+      "n": "Choice3_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Plus mince ",
+      "n": "Choice1_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Crowley ",
+      "n": "Choice4_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Jadis le Blanc ",
+      "n": "Choice2_5Text"
+    },
+    {
+      "t": "S",
+      "v": "poupée vivante ",
+      "n": "Root5Text"
+    },
+    {
+      "t": "S",
+      "v": "démon ",
+      "n": "Root4Text"
+    },
+    {
+      "t": "S",
+      "v": "Cendre ",
+      "n": "Choice4_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Cruella De Vil ",
+      "n": "Choice2_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Elie Manning ",
+      "n": "Choice6_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Fée Clochette ",
+      "n": "Choice5_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Clignotant ",
+      "n": "Choice1_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Rommy Rémus ",
+      "n": "Choice3_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Parler Tina ",
+      "n": "Choice5_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Édouard Cullen ",
+      "n": "Choice3_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Lorne Chaney ",
+      "n": "Choice3_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Fermeture éclair ",
+      "n": "Choice1_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Annabelle ",
+      "n": "Choice5_5Text"
+    },
+    {
+      "t": "S",
+      "v": "loup-garou ",
+      "n": "Root3Text"
+    },
+    {
+      "t": "S",
+      "v": "Peyton Manning ",
+      "n": "Choice6_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Géant de New York ",
+      "n": "Root6Text"
+    },
+    {
+      "t": "S",
+      "v": "Samantha Spellman ",
+      "n": "Choice2_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Mxyzptlk ",
+      "n": "Choice4_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Joe Namath ",
+      "n": "Choice6_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Jacob Noir ",
+      "n": "Choice3_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Chucky ",
+      "n": "Choice5_1Text"
+    },
+    {
+      "s": "Tu es un monstre ",
+      "t": "A",
+      "v": "748431_1 ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Pas pour mettre une étiquette dessus, mais nous mettons des étiquettes monstrueuses dessus... bonne chance ",
+      "t": "A",
+      "v": "748432_1 ",
+      "n": "IntroAudio"
+    }
+  ]
+}

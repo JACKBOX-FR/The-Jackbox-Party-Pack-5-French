@@ -1,0 +1,100 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "S",
+      "v": "C'est le cercle de la vie... ",
+      "n": "Clue1Text"
+    },
+    {
+      "t": "S",
+      "v": "... mais il s'agit plutôt de la mort. ",
+      "n": "Clue2Text"
+    },
+    {
+      "t": "S",
+      "v": "cendres en cendres, poussière en poussière ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "cendres 2 cendres poussière 2 poussière, cendres en cendres poussière en poussière, cendres en cendres poussière en poussière, cendres deux cendres poussière deux poussières, cendres aussi cendres poussière trop poussière, cendres aussi cendres poussière trop poussière ",
+      "n": "Acceptable"
+    },
+    {
+      "t": "S",
+      "v": "Poudre en poudre, saleté en saleté. ",
+      "n": "Clue3Text"
+    },
+    {
+      "t": "S",
+      "v": "Cette pizzeria est sous une nouvelle direction ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "Des fascistes qui écrasent la croûte en qui vous avez confiance. ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "C'est le cercle de la vie... ",
+      "t": "A",
+      "v": "743938_1",
+      "n": "Clue1Audio"
+    },
+    {
+      "s": "Cette pizzeria est sous une nouvelle direction ",
+      "t": "A",
+      "v": "743933_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Poudre en poudre, saleté en saleté. ",
+      "t": "A",
+      "v": "743940_1",
+      "n": "Clue3Audio"
+    },
+    {
+      "s": "Regardez la phrase charabia et dites-moi avec quelle phrase courante elle rime. ",
+      "t": "A",
+      "v": "743934_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "OutroAudio"
+    },
+    {
+      "s": "... mais il s'agit plutôt de la mort. ",
+      "t": "A",
+      "v": "743939_1",
+      "n": "Clue2Audio"
+    },
+    {
+      "s": "Des fascistes qui écrasent la croûte en qui vous avez confiance. ",
+      "t": "A",
+      "v": "743935_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "porter un pyjama en public pendant un mois | faire du shopping de chaussures avec le leader | bois ton propre pipi | adopter un alligator de compagnie | allez commando ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "S+9.34",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "S+3.90",
+      "n": "$ScenarioAudio$ScenarioTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "<BLANK>. ",
+      "n": "ScenarioText3"
+    },
+    {
+      "t": "S",
+      "v": "S+5.90",
+      "n": "$ScenarioAudio$ScenarioTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "Le refus du public pourrait déclencher une révolution. ",
+      "n": "ScenarioText4"
+    },
+    {
+      "t": "S",
+      "v": "Vous êtes sur le point de rencontrer un dictateur impitoyable. On s'attendra à ce que vous lui embrassiez les pieds. ",
+      "n": "ScenarioText1"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00 ",
+      "n": "$ScenarioAudio$ScenarioTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Si vous refusez, vous serez obligé de ",
+      "n": "ScenarioText2"
+    },
+    {
+      "t": "S",
+      "v": "S+7.21",
+      "n": "$ScenarioAudio$ScenarioTextCue4"
+    },
+    {
+      "t": "S",
+      "v": "Est-ce que tu lui embrasses les pieds ? ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Autorité douteuse ",
+      "t": "A",
+      "v": "Est-ce que tu lui embrasses les pieds ? ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Vous êtes sur le point de rencontrer un dictateur impitoyable. On s'attendra à ce que vous lui embrassiez les pieds. Si vous refusez, vous serez obligé de faire CECI. Le refus du public pourrait déclencher une révolution. Est-ce que tu lui embrasses les pieds ? ",
+      "t": "A",
+      "v": "725213_2",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    }
+  ]
+}

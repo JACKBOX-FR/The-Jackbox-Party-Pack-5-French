@@ -1,0 +1,151 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "\"...comme un cadavre en décomposition!\" ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "S+5.62 ",
+      "n": "$QuestionAudio$QuestionTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "3,2,0,1 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Un slogan précis pour mon produit serait « Fond dans la bouche... » ",
+      "n": "QuestionText2"
+    },
+    {
+      "t": "S",
+      "v": "Before",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "I’m considering creating a competing candy to M&M’s called Memento Mori’s!",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Un redémarrage graveleux pour un Candy Shell ",
+      "t": "A",
+      "v": "727972_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "J'ai dit M&M, pas S&M. ",
+      "t": "A",
+      "v": "727984_1",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "727975_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "La vengeance est un plat qui se mange mieux avec une garniture au caramel. ",
+      "t": "A",
+      "v": "727982_1",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Memento mori is Latin for “remember death.” Any slogan that reminds customers of the inevitable grave would qualify.",
+      "t": "A",
+      "v": "727977_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "You’ve had dark chocolate, but have you tried nihilistic chocolate?",
+      "t": "A",
+      "v": "727978_2",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "I’m considering creating a competing candy to M&M’s called Memento Mori’s! An accurate slogan for my product would be “Melts in your mouth...",
+      "t": "A",
+      "v": "727974_4",
+      "n": "QuestionAudio"
+    }
+  ]
+}

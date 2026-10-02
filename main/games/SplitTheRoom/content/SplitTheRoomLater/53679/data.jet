@@ -1,0 +1,96 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "Musique des années 70 | Vidéos YouTube | tout ce qui concerne « Star Wars » | k-pop | podcasts ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "S+9.53",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "S+3.11",
+      "n": "$ScenarioAudio$ScenarioTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "<BLANK>. ",
+      "n": "ScenarioText3"
+    },
+    {
+      "t": "S",
+      "v": "S+5.60",
+      "n": "$ScenarioAudio$ScenarioTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "Le seul remède implique un séjour d’un mois à l’hôpital. ",
+      "n": "ScenarioText4"
+    },
+    {
+      "t": "S",
+      "v": "Il s’avère que vous êtes allergique à une forme spécifique de divertissement. ",
+      "n": "ScenarioText1"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00 ",
+      "n": "$ScenarioAudio$ScenarioTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Vous avez de l’urticaire à chaque fois que vous êtes exposé à ",
+      "n": "ScenarioText2"
+    },
+    {
+      "t": "S",
+      "v": "S+6.67",
+      "n": "$ScenarioAudio$ScenarioTextCue4"
+    },
+    {
+      "t": "S",
+      "v": "Allez-vous chercher le remède ? ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Une éruption de divertissement",
+      "t": "A",
+      "v": "Allez-vous chercher le remède ?",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Il s’avère que vous êtes allergique à une forme spécifique de divertissement. Vous avez de l’urticaire à chaque fois que vous êtes exposé à CELA. Le seul remède implique un séjour d’un mois à l’hôpital. Allez-vous chercher le remède ?",
+      "t": "A",
+      "v": "766386_2",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "ma personnalité | Café Folger | l'air ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je ne suis pas satisfait de la qualité de <BLANK>. ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je ne supporte tout simplement pas la qualité de CECI ! ",
+      "t": "A",
+      "v": "761178_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

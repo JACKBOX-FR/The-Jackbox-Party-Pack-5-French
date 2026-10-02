@@ -1,0 +1,421 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_6Correct"
+    },
+    {
+      "t": "S",
+      "v": "Le renard intelligent ",
+      "n": "Choice6_6Text"
+    },
+    {
+      "t": "S",
+      "v": "coupes de diamant ",
+      "n": "Root2Text"
+    },
+    {
+      "t": "S",
+      "v": "florentin ",
+      "n": "Choice5_4Text"
+    },
+    {
+      "t": "S",
+      "v": "poire ",
+      "n": "Choice2_3Text"
+    },
+    {
+      "t": "S",
+      "v": "ballons rouges ",
+      "n": "Choice4_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Le crabe ",
+      "n": "Choice6_1Text"
+    },
+    {
+      "t": "S",
+      "v": "tirelire ",
+      "n": "Choice3_5Text"
+    },
+    {
+      "t": "S",
+      "v": "crabe ",
+      "n": "Choice1_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Formes de craquelins d'animaux ",
+      "n": "Root1Text"
+    },
+    {
+      "t": "S",
+      "v": "Le grand chien ",
+      "n": "Choice6_5Text"
+    },
+    {
+      "t": "S",
+      "v": "oiseau ",
+      "n": "Choice2_6Text"
+    },
+    {
+      "t": "S",
+      "v": "poneys violets ",
+      "n": "Choice4_1Text"
+    },
+    {
+      "t": "S",
+      "v": "La forme de vous ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "coussin ",
+      "n": "Choice2_2Text"
+    },
+    {
+      "t": "S",
+      "v": "pots d'or ",
+      "n": "Choice4_6Text"
+    },
+    {
+      "t": "S",
+      "v": "tigre ",
+      "n": "Choice1_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Alfredo ",
+      "n": "Choice5_3Text"
+    },
+    {
+      "t": "S",
+      "v": "bourdon ",
+      "n": "Choice1_5Text"
+    },
+    {
+      "t": "S",
+      "v": "fer à repasser ",
+      "n": "Choice3_4Text"
+    },
+    {
+      "t": "S",
+      "v": "koala ",
+      "n": "Choice1_3Text"
+    },
+    {
+      "t": "S",
+      "v": "pommes rouges ",
+      "n": "Choice4_4Text"
+    },
+    {
+      "t": "S",
+      "v": "rond ",
+      "n": "Choice2_5Text"
+    },
+    {
+      "t": "S",
+      "v": "pâtes ",
+      "n": "Root5Text"
+    },
+    {
+      "t": "S",
+      "v": "Guimauves Lucky Charms ",
+      "n": "Root4Text"
+    },
+    {
+      "t": "S",
+      "v": "nuages ​​blancs ",
+      "n": "Choice4_5Text"
+    },
+    {
+      "t": "S",
+      "v": "princesse ",
+      "n": "Choice2_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Le cheval ailé ",
+      "n": "Choice6_4Text"
+    },
+    {
+      "t": "S",
+      "v": "fusilli ",
+      "n": "Choice5_6Text"
+    },
+    {
+      "t": "S",
+      "v": "sceau ",
+      "n": "Choice1_4Text"
+    },
+    {
+      "t": "S",
+      "v": "lapin ",
+      "n": "Choice3_3Text"
+    },
+    {
+      "t": "S",
+      "v": "macaroni ",
+      "n": "Choice5_2Text"
+    },
+    {
+      "t": "S",
+      "v": "chapeau haut de forme ",
+      "n": "Choice3_1Text"
+    },
+    {
+      "t": "S",
+      "v": "cygne ",
+      "n": "Choice3_6Text"
+    },
+    {
+      "t": "S",
+      "v": "perroquet ",
+      "n": "Choice1_2Text"
+    },
+    {
+      "t": "S",
+      "v": "lasagne ",
+      "n": "Choice5_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Pièces de monopole ",
+      "n": "Root3Text"
+    },
+    {
+      "t": "S",
+      "v": "Le ver ",
+      "n": "Choice6_2Text"
+    },
+    {
+      "t": "S",
+      "v": "constellations ",
+      "n": "Root6Text"
+    },
+    {
+      "t": "S",
+      "v": "fer à cheval ",
+      "n": "Choice2_4Text"
+    },
+    {
+      "t": "S",
+      "v": "étoiles oranges ",
+      "n": "Choice4_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Le cygne ",
+      "n": "Choice6_3Text"
+    },
+    {
+      "t": "S",
+      "v": "chaussure ",
+      "n": "Choice3_2Text"
+    },
+    {
+      "t": "S",
+      "v": "raviolis ",
+      "n": "Choice5_1Text"
+    },
+    {
+      "s": "La forme de vous ",
+      "t": "A",
+      "v": "733469_1 ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "J’espère bien que vous êtes en bonne forme mentale. Bonne chance... ",
+      "t": "A",
+      "v": "733470_1 ",
+      "n": "IntroAudio"
+    }
+  ]
+}

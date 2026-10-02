@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "zombies | mon examen de conduite | Mardi Gras ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "J'ai peur de ne pas être préparé pour <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : J'ai peur de ne pas être suffisamment préparé pour CELA !",
+      "t": "A",
+      "v": "764609_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

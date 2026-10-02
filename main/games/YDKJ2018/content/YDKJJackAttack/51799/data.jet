@@ -1,0 +1,421 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_6Correct"
+    },
+    {
+      "t": "S",
+      "v": "<i>James et la pêche géante</i> ",
+      "n": "Choice6_6Text"
+    },
+    {
+      "t": "S",
+      "v": "contient un verbe ",
+      "n": "Root2Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Le bon dinosaure</i> ",
+      "n": "Choice5_4Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Asiatiques riches et fous</i> ",
+      "n": "Choice2_3Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Retour vers le futur</i> ",
+      "n": "Choice4_2Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Pierre Lapin</i> ",
+      "n": "Choice6_1Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Bébé Conducteur</i> ",
+      "n": "Choice3_5Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Elle</i> ",
+      "n": "Choice1_6Text"
+    },
+    {
+      "t": "S",
+      "v": "contient un pronom ",
+      "n": "Root1Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Odd Thomas<?i> ",
+      "n": "Choice6_5Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Pensées sauvages</i> ",
+      "n": "Choice2_6Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>À travers l'Univers</i> ",
+      "n": "Choice4_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Qu'y a-t-il dans un titre ? ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "<i>Sortez<i> ",
+      "n": "Choice2_2Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Intensifier la révolution</i> ",
+      "n": "Choice4_6Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Il</i> ",
+      "n": "Choice1_1Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Conte des dauphins</i> ",
+      "n": "Choice5_3Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Je ne peux pas sentir mon visage</i> ",
+      "n": "Choice1_5Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Gros petits mensonges</i> ",
+      "n": "Choice3_4Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Mère !</i> ",
+      "n": "Choice1_3Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Il y a quelque chose à propos de Mary</i> ",
+      "n": "Choice4_4Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Travail</i> ",
+      "n": "Choice2_5Text"
+    },
+    {
+      "t": "S",
+      "v": "contient un mammifère ",
+      "n": "Root5Text"
+    },
+    {
+      "t": "S",
+      "v": "contient une chanson des Beatles ",
+      "n": "Root4Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Jolie en rose</i> ",
+      "n": "Choice4_5Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Bébé Conducteur</i> ",
+      "n": "Choice2_1Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Mike magique</i> ",
+      "n": "Choice6_4Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Spider-Man</i> ",
+      "n": "Choice5_6Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Moi, Tonya</i> ",
+      "n": "Choice1_4Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Les jeux de la faim</i> ",
+      "n": "Choice3_3Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Les oiseaux<i> ",
+      "n": "Choice5_2Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Gardiens de la Galaxie</i> ",
+      "n": "Choice3_1Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Guerre pour la planète des singes</i> ",
+      "n": "Choice3_6Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Voyage entre filles</i> ",
+      "n": "Choice1_2Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Après-midi du chien</i> ",
+      "n": "Choice5_5Text"
+    },
+    {
+      "t": "S",
+      "v": "contient un adjectif ",
+      "n": "Root3Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Amour, Simon </i> ",
+      "n": "Choice6_2Text"
+    },
+    {
+      "t": "S",
+      "v": "contient un apôtre ",
+      "n": "Root6Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Chanter</i> ",
+      "n": "Choice2_4Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>L'aide</i> ",
+      "n": "Choice4_3Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Mad Max : Fury Road</i> ",
+      "n": "Choice6_3Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Fou, stupide, amour<i> ",
+      "n": "Choice3_2Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Mauvaises nouvelles ours</i> ",
+      "n": "Choice5_1Text"
+    },
+    {
+      "s": "Qu'y a-t-il dans un titre ? ",
+      "t": "A",
+      "v": "740390_1 ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Quoi de plus amusant que de combiner culture pop... et grammaire. Bonne chance... ",
+      "t": "A",
+      "v": "740391_1 ",
+      "n": "IntroAudio"
+    }
+  ]
+}

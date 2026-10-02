@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "devoir de juré | mes enfants | ma main dans le pot à biscuits ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je suis toujours coincé avec <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je suis toujours coincé avec CECI ! ",
+      "t": "A",
+      "v": "767695_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

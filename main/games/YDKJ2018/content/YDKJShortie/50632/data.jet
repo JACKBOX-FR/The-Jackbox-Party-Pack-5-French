@@ -1,0 +1,140 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Coucou ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "1,0,3,2 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "D’après son slogan bien connu, quel serait probablement le jeu d’enfance préféré de John Cena ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "WWE-I-E-I-O ",
+      "t": "A",
+      "v": "724623_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "OU\nOh ! Ça doit faire mal ! (Tous) ",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Les enfants aiment la lutte professionnelle autant que les lutteurs professionnels aiment faire autre chose que la lutte professionnelle. ",
+      "t": "A",
+      "v": "724624_3",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "724626_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "OU\nQuoi ?! (pour tous... c'est un chant de foule lors d'événements de lutte, s'ils n'aiment pas ce qui se dit, ils crieront \"QUOI\") ",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "John Cena est bien connu pour avoir dit « You Can’t See Me ! » qui est aussi le nom de son premier album studio. ",
+      "t": "A",
+      "v": "724628_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Je le sais parce que j’ai acheté un album de Cena en pensant que c’était un album de Sia, et je dois dire que je n’ai aucun regret. ",
+      "t": "A",
+      "v": "724629_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "Based on his well-known catchphrase taunt, what would most likely be John Cena’s favorite childhood game?",
+      "t": "A",
+      "v": "724625_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

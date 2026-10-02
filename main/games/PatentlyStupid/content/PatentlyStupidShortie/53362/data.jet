@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "taches de sirop d'érable | mon chien | parasites ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je n'arrive pas à retirer <BLANK> de mes vêtements ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je n'arrive pas à retirer ça de mes vêtements ! ",
+      "t": "A",
+      "v": "761576_2",
+      "n": "PromptAudio"
+    }
+  ]
+}

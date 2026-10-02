@@ -1,0 +1,142 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "pain grillé abogado ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "2,0,1,3 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Si vous voulez porter un toast à votre avocat espagnol, que commandez-vous ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Apparemment délicieux ",
+      "t": "A",
+      "v": "725058_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "J'ai toujours du mal à manger des toasts Abevigoda. Je ne sais jamais s'il est mort. ",
+      "t": "A",
+      "v": "725070_1",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Personne ne peut vous sortir du pétrin comme un avocat, surtout dans un pays étranger. ",
+      "t": "A",
+      "v": "725059_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "725061_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "Non, mais il semble que cela devrait être le cas, n'est-ce pas ? N'est-ce pas ?! Juste moi ? ",
+      "t": "A",
+      "v": "725068_1",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Abogado signifie «avocat» en espagnol, c'est donc ce que vous allez commander ",
+      "t": "A",
+      "v": "725063_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "(Avis de non-responsabilité rapide) « Toast » n'est pas réellement espagnol pour toast. Petit avocat à tartiner non inclus. Tout avocat présent ne peut pas être vert. Essayer de mettre un avocat sur du pain grillé peut entraîner des poursuites civiles et jusqu'à 98 ans de prison. ",
+      "t": "A",
+      "v": "725064_4",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "If you want to toast your Spanish lawyer, what are you ordering?",
+      "t": "A",
+      "v": "725060_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

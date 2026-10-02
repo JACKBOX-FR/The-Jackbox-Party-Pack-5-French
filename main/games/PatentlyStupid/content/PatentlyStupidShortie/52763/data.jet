@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "paresse|mes aisselles malodorantes|peur de transpirer ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "<BLANK> m'empêche de m'entraîner ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : ÇA m'empêche de m'entraîner ! ",
+      "t": "A",
+      "v": "754675_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "assister à des réunions|faire caca tellement|voyager ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je ferais plus de travail si je n’avais pas à le faire <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je ne peux pas faire de travail parce que je dois faire CECI ! ",
+      "t": "A",
+      "v": "752553_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

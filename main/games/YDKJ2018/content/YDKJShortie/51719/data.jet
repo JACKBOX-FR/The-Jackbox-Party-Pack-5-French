@@ -1,0 +1,143 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "SHIMMY hors de mon SHIMMY ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "0,3,2,1 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Lequel de ces mouvements pourrais-je réellement faire dans mon cours de burlesque ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Un peu de bosse et de broyage ",
+      "t": "A",
+      "v": "739238_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Il est temps de retirer quelques points. ",
+      "t": "A",
+      "v": "739250_1",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Les exercices basés sur la danse sont très stimulants, c'est pourquoi je porte actuellement un bandeau ébloui. ",
+      "t": "A",
+      "v": "739239_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "739241_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "Il est temps de retirer quelques points. ",
+      "t": "A",
+      "v": "739248_0",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "Il est temps de retirer quelques points. ",
+      "t": "A",
+      "v": "739246_0",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Shimmy est un autre mot pour chemise ou slip, un type de robe ou de sous-vêtement sans manches. ",
+      "t": "A",
+      "v": "739243_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Shimmy est aussi un pas de danse très séduisant... du moins c'est ce qu'on m'a dit, mais je suis très en retard dans mes devoirs. ",
+      "t": "A",
+      "v": "739244_3",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "Which of these moves could I actually do in my burlesque class?",
+      "t": "A",
+      "v": "739240_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

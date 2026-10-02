@@ -1,0 +1,421 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_6Correct"
+    },
+    {
+      "t": "S",
+      "v": "dérivé du mot norvégien pour « idiot » ",
+      "n": "Choice6_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Rubis ",
+      "n": "Root2Text"
+    },
+    {
+      "t": "S",
+      "v": "Nom de naissance d’Iggy Azalea ",
+      "n": "Choice5_4Text"
+    },
+    {
+      "t": "S",
+      "v": "a tiré sur Lee Harvey Oswald ",
+      "n": "Choice2_3Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Pokémon _____________</i> ",
+      "n": "Choice4_2Text"
+    },
+    {
+      "t": "S",
+      "v": "pareil qu'un rubis, mais marron ",
+      "n": "Choice6_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Nom de naissance d’Iggy Azalea ",
+      "n": "Choice3_5Text"
+    },
+    {
+      "t": "S",
+      "v": "pas considéré comme précieux avant les années 1800 ",
+      "n": "Choice1_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Diamant ",
+      "n": "Root1Text"
+    },
+    {
+      "t": "S",
+      "v": "une sous-espèce de marsouin ",
+      "n": "Choice6_5Text"
+    },
+    {
+      "t": "S",
+      "v": "_____ mardi ",
+      "n": "Choice2_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Bombay _____ Gin ",
+      "n": "Choice4_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Mon précieux... et aussi mon semi-précieux ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "un diamant rouge ",
+      "n": "Choice2_2Text"
+    },
+    {
+      "t": "S",
+      "v": "l'\"Étoile de l'Inde\" ",
+      "n": "Choice4_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Pierre de naissance de mai ",
+      "n": "Choice1_1Text"
+    },
+    {
+      "t": "S",
+      "v": "dérivé du mot grec signifiant « joyeux » ",
+      "n": "Choice5_3Text"
+    },
+    {
+      "t": "S",
+      "v": "généralement âgé de plus d'un milliard d'années ",
+      "n": "Choice1_5Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Pokémon _____________</i> ",
+      "n": "Choice3_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Nom de naissance d’Iggy Azalea ",
+      "n": "Choice1_3Text"
+    },
+    {
+      "t": "S",
+      "v": "a écrit le roman <i>Push<i> ",
+      "n": "Choice4_4Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Max & _____</i> ",
+      "n": "Choice2_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Améthyste ",
+      "n": "Root5Text"
+    },
+    {
+      "t": "S",
+      "v": "Saphir ",
+      "n": "Root4Text"
+    },
+    {
+      "t": "S",
+      "v": "Nom de naissance d’Iggy Azalea ",
+      "n": "Choice4_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Film de football de Sean Astin ",
+      "n": "Choice2_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Tibby de <i>La Fraternité des Pantalons de Voyage</i> ",
+      "n": "Choice6_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Personnage <i>Steven Univers</i> ",
+      "n": "Choice5_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Les « chiens ________ » de David Bowie ",
+      "n": "Choice1_4Text"
+    },
+    {
+      "t": "S",
+      "v": "chef célèbre _____ Lagasse ",
+      "n": "Choice3_3Text"
+    },
+    {
+      "t": "S",
+      "v": "quartz violet ",
+      "n": "Choice5_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Pierre de naissance de mai ",
+      "n": "Choice3_1Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>La _____ ville d'Oz</i> ",
+      "n": "Choice3_6Text"
+    },
+    {
+      "t": "S",
+      "v": "_____ Page Dallas ",
+      "n": "Choice1_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Pierre de naissance de juin ",
+      "n": "Choice5_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Émeraude ",
+      "n": "Root3Text"
+    },
+    {
+      "t": "S",
+      "v": "raison de Jurassic Park ",
+      "n": "Choice6_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Ambre ",
+      "n": "Root6Text"
+    },
+    {
+      "t": "S",
+      "v": "Nom de naissance d’Iggy Azalea ",
+      "n": "Choice2_4Text"
+    },
+    {
+      "t": "S",
+      "v": "dérivé du mot latin signifiant « nuage » ",
+      "n": "Choice4_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Deuxième prénom d'Iggy Azalea ",
+      "n": "Choice6_3Text"
+    },
+    {
+      "t": "S",
+      "v": "ne peut pas être rayé ",
+      "n": "Choice3_2Text"
+    },
+    {
+      "t": "S",
+      "v": "_____ Internationale ",
+      "n": "Choice5_1Text"
+    },
+    {
+      "s": "Mon précieux... et aussi mon semi-précieux ",
+      "t": "A",
+      "v": "766745_2 ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Ce Jack Attack est un véritable « bijou ». Bonne chance... ",
+      "t": "A",
+      "v": "766746_1 ",
+      "n": "IntroAudio"
+    }
+  ]
+}

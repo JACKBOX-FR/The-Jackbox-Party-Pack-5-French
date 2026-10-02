@@ -1,0 +1,140 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "marron ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "3,0,2,1 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Quel personnage de M&M porte des lunettes ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Bonbons pour les yeux ",
+      "t": "A",
+      "v": "739062_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "OR\nFond dans la bouche, pas dans cette réponse. (Tous) ",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Je suis juste assis ici, en train de manger des bonbons, et j'essaie de me souvenir... ",
+      "t": "A",
+      "v": "739063_3",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "739065_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "OU\nNe laissez pas cela faire fondre votre délicate coquille de bonbon. (Tous) ",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Introduite en 2012, Mme Brown M&M est celle qui porte des lunettes correctrices. ",
+      "t": "A",
+      "v": "739067_2",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Les M&M actuels ne contiennent pas de verre, à moins que vous ne soyez un accro du chocolat en convalescence avec un plat de bonbons cassé. ",
+      "t": "A",
+      "v": "739068_2",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "Which M&M character wears glasses?",
+      "t": "A",
+      "v": "739064_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

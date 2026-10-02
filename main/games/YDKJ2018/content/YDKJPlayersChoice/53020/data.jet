@@ -1,0 +1,50 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Une question séduisante ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Une question pleine d'humour ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "52754 ",
+      "n": "Choice2Id"
+    },
+    {
+      "t": "S",
+      "v": "Souhaitez-vous une question attrayante ou une question pleine d’humour ? ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "52753 ",
+      "n": "Choice1Id"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "Souhaitez-vous une question attrayante ou une question pleine d’humour ? ",
+      "t": "A",
+      "v": "757979_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

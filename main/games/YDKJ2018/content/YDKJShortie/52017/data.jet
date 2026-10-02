@@ -1,0 +1,141 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "<i>Kramer contre Kramer</i> : guérison lente. ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "2,0,3,1 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Quelle performance de Meryl Streep reflète l’état de la couche d’ozone sur Terre ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Vous avez une seconde pour vous sentir mal à propos de l'environnement ? ",
+      "t": "A",
+      "v": "743401_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Bien sûr, parler de l'environnement peut faire tomber la pièce... jusqu'à ce que vous ajoutiez LE POUVOIR D'AGIR. ",
+      "t": "A",
+      "v": "743402_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "743404_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "Mamma Mia... et voilà encore. ",
+      "t": "A",
+      "v": "743411_1",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "La NASA l’a confirmé : le trou dans la couche d’ozone est en train de se combler et pourrait disparaître d’ici 2060. ",
+      "t": "A",
+      "v": "743406_2",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "...juste à temps pour que le personnage de Meryl, Joanna, soit surmonté d'un divorce compliqué et prêt à sortir à nouveau. ",
+      "t": "A",
+      "v": "743407_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "Which layered Meryl Streep performance mirrors the state of Earth’s ozone layer?",
+      "t": "A",
+      "v": "743403_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

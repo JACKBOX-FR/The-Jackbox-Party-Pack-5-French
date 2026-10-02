@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "parler en public | en prison | manger un burrito bâclé ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "J'aurais aimé être plus à l'aise <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je veux juste me sentir plus à l'aise de cette façon ! ",
+      "t": "A",
+      "v": "767358_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

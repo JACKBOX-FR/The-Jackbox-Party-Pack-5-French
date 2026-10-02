@@ -1,0 +1,151 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "gâteau, bolus, chyme, caca ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "S+7.90 ",
+      "n": "$QuestionAudio$QuestionTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "0,3,1,2 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Au fur et à mesure, comment votre gâteau va-t-il changer de nom Before de pouvoir le récupérer ? ",
+      "n": "QuestionText2"
+    },
+    {
+      "t": "S",
+      "v": "Before",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Let’s say you wanted to eat your cake, then “have” it... later.",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Le dessert qui n'ose pas prononcer son nom ",
+      "t": "A",
+      "v": "724252_4",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "C’est vrai qu’on ne peut pas avoir le gâteau et le manger en même temps. Mais... ",
+      "t": "A",
+      "v": "724253_2",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "724255_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "C'est faux mais je suis tellement contente que vous ayez choisi celui-ci ! Glomblem est un mot que j'ai inventé et je veux que les gens commencent à l'utiliser. Cela peut vouloir dire n’importe quoi, je m’en fiche. Globlem. Rendez-le viral ! ",
+      "t": "A",
+      "v": "724262_3",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "After food is chewed, it’s known as bolus; then in the stomach it becomes chyme, before legally changing its name to poo.",
+      "t": "A",
+      "v": "724257_2",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "And the best part is -- it’s all yours! You can have it.",
+      "t": "A",
+      "v": "724258_3",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "Let’s say you wanted to eat your cake, then “have” it... later (you have your reasons, okay, I’m not judging) In progression, how will your cake change its name before you can (ahem) have it back?",
+      "t": "A",
+      "v": "724254_4",
+      "n": "QuestionAudio"
+    }
+  ]
+}

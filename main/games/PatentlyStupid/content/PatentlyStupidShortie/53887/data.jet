@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "mes lunettes|un vol pas cher|mes chaussettes ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "J'ai du mal à trouver <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : J'ai cherché et j'ai cherché mais je ne trouve pas CECI ! ",
+      "t": "A",
+      "v": "767761_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

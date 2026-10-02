@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "tuba | terrain de football | réfrigérateur ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je pourrais vraiment utiliser un <BLANK> plus petit ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : J'ai vraiment besoin d'un CECI plus petit ! ",
+      "t": "A",
+      "v": "767138_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

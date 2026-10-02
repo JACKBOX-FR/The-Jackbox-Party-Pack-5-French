@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "applications | mode | coupes de cheveux ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je veux en savoir plus sur le dernier <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : N'est-ce pas évident ? Je veux connaître le dernier CECI ! ",
+      "t": "A",
+      "v": "767716_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

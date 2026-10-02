@@ -1,0 +1,100 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "S",
+      "v": "Il y a beaucoup de leçons à tirer... ",
+      "n": "Clue1Text"
+    },
+    {
+      "t": "S",
+      "v": "...si vous voulez vivre à côté. ",
+      "n": "Clue2Text"
+    },
+    {
+      "t": "S",
+      "v": "Ne veux-tu pas être mon voisin ? ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Ne seras-tu pas mon voisin, ne seras-tu pas mon voisin, ne seras-tu pas mon voisin, serais-tu mon voisin, seras-tu mon voisin, ne seras-tu pas mon voisin ",
+      "n": "Acceptable"
+    },
+    {
+      "t": "S",
+      "v": "Serez-vous mon résident à proximité ? ",
+      "n": "Clue3Text"
+    },
+    {
+      "t": "S",
+      "v": "Donner naissance est déjà assez difficile ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "Ne gâche pas ton travail. ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Il y a beaucoup de leçons à tirer... ",
+      "t": "A",
+      "v": "749874_1",
+      "n": "Clue1Audio"
+    },
+    {
+      "s": "Donner naissance est déjà assez difficile ",
+      "t": "A",
+      "v": "749869_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Serez-vous mon résident à proximité ? ",
+      "t": "A",
+      "v": "749876_2",
+      "n": "Clue3Audio"
+    },
+    {
+      "s": "Regardez la phrase charabia et dites-moi avec quel slogan télévisé classique elle rime. ",
+      "t": "A",
+      "v": "749870_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "OutroAudio"
+    },
+    {
+      "s": "...si vous voulez vivre à côté. ",
+      "t": "A",
+      "v": "749875_1",
+      "n": "Clue2Audio"
+    },
+    {
+      "s": "Ne gâche pas ton travail. ",
+      "t": "A",
+      "v": "749871_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "une question bruyante ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "une question tranquille ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "51830 ",
+      "n": "Choice2Id"
+    },
+    {
+      "t": "S",
+      "v": "Souhaitez-vous une question forte... ou une question douce ? ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "51828 ",
+      "n": "Choice1Id"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "Souhaitez-vous une question forte... ou une question douce ? ",
+      "t": "A",
+      "v": "751124_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

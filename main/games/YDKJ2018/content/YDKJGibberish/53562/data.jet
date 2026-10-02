@@ -1,0 +1,100 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "S",
+      "v": "Une émission sur les gens qui fabriquent des ordinateurs... ",
+      "n": "Clue1Text"
+    },
+    {
+      "t": "S",
+      "v": "...dans une ville obsédée par la technologie. ",
+      "n": "Clue2Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>La Silicon Valley</i> ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Silicon Valley, vallée de Silacon, vallée de Silacon, vallée de silicium ",
+      "n": "Acceptable"
+    },
+    {
+      "t": "S",
+      "v": "Euh... c'est cette émission de HBO... Je ne peux pas penser à un meilleur indice, désolé. ",
+      "n": "Clue3Text"
+    },
+    {
+      "t": "S",
+      "v": "Comment ose-t-il étrangler un si long cou élégant ! ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "Tuer un cygne, d'accord ? ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Une émission sur les gens qui fabriquent des ordinateurs... ",
+      "t": "A",
+      "v": "764852_2",
+      "n": "Clue1Audio"
+    },
+    {
+      "s": "Comment ose-t-il étrangler un si long cou élégant ! ",
+      "t": "A",
+      "v": "764847_2",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Euh... c'est cette émission de HBO... Je ne peux pas penser à un meilleur indice, désolé. ",
+      "t": "A",
+      "v": "764854_4",
+      "n": "Clue3Audio"
+    },
+    {
+      "s": "Jetez un œil à cette phrase charabia et dites-moi avec quel titre d’émission télévisée elle rime. ",
+      "t": "A",
+      "v": "764848_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "OutroAudio"
+    },
+    {
+      "s": "...dans une ville obsédée par la technologie. ",
+      "t": "A",
+      "v": "764853_3",
+      "n": "Clue2Audio"
+    },
+    {
+      "s": "Tuer un cygne, d'accord ? ",
+      "t": "A",
+      "v": "764849_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

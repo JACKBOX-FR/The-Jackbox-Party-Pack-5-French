@@ -1,0 +1,139 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "OCQEFM",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Reine Elizabeth ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "2,1,0,3 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Depuis 2017, le sujet de l'émission télévisée la plus chère jamais réalisée. ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "POULPE, CAFÉ, REINE ELIZABETH OU FRANKENSTEIN ?! ",
+      "t": "A",
+      "v": "742309_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "742312_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "Un mauvais choix. ",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "The Crown de Netflix, sur la vie de la reine Elizabeth, coûte 130 millions de dollars par saison, ce qui en fait la série la plus chère jamais produite. ",
+      "t": "A",
+      "v": "742314_6",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Je peux vous faire une émission de télévision décente sur une pieuvre de Frankenstein pour la moitié de ce prix. ",
+      "t": "A",
+      "v": "742315_2",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "As of 2017, the subject of the most expensive TV show ever made.",
+      "t": "A",
+      "v": "742311_4",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "une question avec des noix ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "une question sans noix ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "51974 ",
+      "n": "Choice2Id"
+    },
+    {
+      "t": "S",
+      "v": "Souhaitez-vous une question avec des noix... ou une question sans noix ? ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "51975 ",
+      "n": "Choice1Id"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "Souhaitez-vous une question avec des noix... ou une question sans noix ? ",
+      "t": "A",
+      "v": "750933_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "un œuf | une coupe de cheveux | chirurgie ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je déteste attendre plus de cinq minutes pour <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je déteste attendre plus de cinq minutes juste pour avoir CECI ! Genre, laisse-moi continuer ma journée, déjà ! ",
+      "t": "A",
+      "v": "767810_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

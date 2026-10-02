@@ -1,0 +1,245 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion5Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupPoorAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasDisAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion1Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion4Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTimingInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasScoreInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupRockedAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupAwfulAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion7Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasDatAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion6Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion3Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupOutroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupGoodAudio"
+    },
+    {
+      "t": "S",
+      "v": "S+7.85",
+      "n": "$InstructionsAudio$DatTextCue"
+    },
+    {
+      "t": "S",
+      "v": "Je me suis épilé la langue, maintenant c'est Thor ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "CIRE CORPORELLE ",
+      "n": "DatButtonText"
+    },
+    {
+      "t": "S",
+      "v": "DIEU NORDIQUE ",
+      "n": "DisButtonText"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$InstructionsAudio$BothCue"
+    },
+    {
+      "t": "S",
+      "v": "un dieu nordique ",
+      "n": "DisText"
+    },
+    {
+      "t": "S",
+      "v": "un kit d'épilation corporelle à domicile ",
+      "n": "DatText"
+    },
+    {
+      "t": "S",
+      "v": "S+4.78",
+      "n": "$InstructionsAudio$DisTextCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$DisAudio$DisButtonCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$DatAudio$DatButtonCue"
+    },
+    {
+      "s": "Veet ",
+      "t": "A",
+      "v": "744710_1",
+      "n": "Question5Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "TimingInstructionsAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupOutroAudio"
+    },
+    {
+      "s": "Je vais lire sept noms et pour chacun d'eux, je veux que vous me disiez s'il s'agit # d'un dieu nordique, comme Thor, ou # d'une marque de cire à épiler.",
+      "t": "A",
+      "v": "744705_2",
+      "n": "InstructionsAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ScoreInstructionsAudio"
+    },
+    {
+      "s": "Sally Hansen ",
+      "t": "A",
+      "v": "744712_1",
+      "n": "Question7Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupPoorAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupRockedAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupAwfulAudio"
+    },
+    {
+      "s": "Yeelen ",
+      "t": "A",
+      "v": "744707_1",
+      "n": "Question2Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupGoodAudio"
+    },
+    {
+      "s": "... un dieu nordique... ou... ",
+      "t": "A",
+      "v": "744718_3",
+      "n": "DisAudio"
+    },
+    {
+      "s": "Balder ",
+      "t": "A",
+      "v": "744708_1",
+      "n": "Question3Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "744704_2",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "...une cire pour le corps ",
+      "t": "A",
+      "v": "744719_3",
+      "n": "DatAudio"
+    },
+    {
+      "s": "Frig ",
+      "t": "A",
+      "v": "744709_1",
+      "n": "Question4Audio"
+    },
+    {
+      "s": "Freya ",
+      "t": "A",
+      "v": "744706_1",
+      "n": "Question1Audio"
+    },
+    {
+      "s": "Maman ",
+      "t": "A",
+      "v": "744711_1",
+      "n": "Question6Audio"
+    }
+  ]
+}

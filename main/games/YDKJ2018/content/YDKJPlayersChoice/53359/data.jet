@@ -1,0 +1,50 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "une question formelle ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "une question qui garde les choses décontractées ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "53334 ",
+      "n": "Choice2Id"
+    },
+    {
+      "t": "S",
+      "v": "Souhaitez-vous une question formelle ou une question qui garde les choses décontractées ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "53333 ",
+      "n": "Choice1Id"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "Souhaitez-vous une question formelle ou une question qui garde les choses décontractées ",
+      "t": "A",
+      "v": "761544_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

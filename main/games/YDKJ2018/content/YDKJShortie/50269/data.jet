@@ -1,0 +1,140 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "cheveux faits de serpents ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "1,3,2,0 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Si Beyoncé écrivait une chanson sur « Becky aux cheveux GORGON », quel type de cheveux Becky aurait-elle ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "La Becky mythologique ",
+      "t": "A",
+      "v": "719985_2",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "OU\nC'est une telle réponse de Becky (Tous) ",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Tu connais Becky, n'est-ce pas ? Avec les beaux cheveux ? Le méchant de l’album Lemonade de Beyoncé ? Eh bien… ",
+      "t": "A",
+      "v": "719986_2",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "719988_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "OR\nMais c'est vous qui prenez l'argent. ",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "OR\nLe morceau est en feu, pas les cheveux. ",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Les sœurs Gorgones, trois créatures mythologiques dont Méduse, avaient des cheveux constitués de serpents venimeux. ",
+      "t": "A",
+      "v": "719990_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "ce qui m'amène à ma nouvelle chanson parodique (éclaircit la gorge) Toutes les dames serpent, toutes les dames serpent, toutes les dames serpent… ",
+      "t": "A",
+      "v": "719991_2",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "If Beyoncé wrote a song about “Becky with the GORGON hair,” what type of hair would Becky have?",
+      "t": "A",
+      "v": "719987_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

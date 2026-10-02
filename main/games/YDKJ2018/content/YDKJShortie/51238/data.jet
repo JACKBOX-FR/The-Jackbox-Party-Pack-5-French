@@ -1,0 +1,138 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "<i>Peoria</i> ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "0,2,1,3 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Si FX donnait le feu vert à une émission à égale distance entre leurs succès <i>Fargo</i> et <i>Atlanta</i>, quelle série choisiraient-ils ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "FX marque la place ",
+      "t": "A",
+      "v": "732714_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "OU ",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "732717_2",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "OU\nCe pilote n'a pas été récupéré (TOUS) ",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "OR\nQu'y a-t-il d'autre ? (Tous) ",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Peoria, dans l'Illinois, se trouve à 558 miles de Fargo, dans le Dakota du Nord et à 558 miles d'Atlanta, en Géorgie. ",
+      "t": "A",
+      "v": "732719_3",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "OR\nL'émission FX Peoria serait la dernière des émissions acclamées par la critique que personne ne regarde\nOR\nC'est ici que je ferais une blague sur Peoria, dans l'Illinois, si quelqu'un en savait quelque chose. \nOR\nFX ne se reposera pas tant que vous ne serez pas conscient des crimes qui ont lieu dans chaque ville américaine. ",
+      "t": "A",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "If FX greenlit a show that was equidistant between their hits <i>Fargo</i> and <i>Atlanta</i>, what series would they pick up?",
+      "t": "A",
+      "v": "732716_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

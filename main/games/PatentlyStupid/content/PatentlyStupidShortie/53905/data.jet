@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "dormir | musique populaire | blanchisserie ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je n'arrive jamais à rattraper <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je n’ai tout simplement pas le temps de m’intéresser à ça ! Je veux dire, je veux mais je ne peux pas ! ",
+      "t": "A",
+      "v": "767816_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

@@ -1,0 +1,1153 @@
+{
+  "content": [
+    {
+      "id": "53634",
+      "category": {
+        "text": "Mes goûts de fruits sont très... singuliers "
+      },
+      "gibberishText": {
+        "text": "Tarte, prune rouge ? Tu les as eu ? "
+      },
+      "spellings": [
+        "commencé par le bas ",
+        "commencer par le bas ",
+        "commencé par le bas ",
+        "commencé le bas ",
+        "commencé par le bas "
+      ],
+      "correctText": {
+        "text": "« Commencé par le bas » "
+      },
+      "clues": [
+        {
+          "text": "Avant, j'étais très bas... "
+        },
+        {
+          "text": "...maintenant je suis au top. "
+        },
+        {
+          "text": "La chanson de Drake sur des débuts modestes "
+        }
+      ]
+    },
+    {
+      "id": "53633",
+      "category": {
+        "text": "La parade surréaliste dans la rue "
+      },
+      "gibberishText": {
+        "text": "La marche audacieuse branchée de Kafka "
+      },
+      "spellings": [
+        "enlever le vieux bloc ",
+        "une puce du vieux bloc ",
+        "une puce prête à l'emploi ",
+        "Enlève le vieux bloc "
+      ],
+      "correctText": {
+        "text": "Un éclat du vieux bloc "
+      },
+      "clues": [
+        {
+          "text": "Je ne suis qu'un petit morceau... "
+        },
+        {
+          "text": "...de la pierre familiale. "
+        },
+        {
+          "text": "Ils sont comme leurs parents. "
+        }
+      ]
+    },
+    {
+      "id": "53632",
+      "category": {
+        "text": "Le vol est à la mode "
+      },
+      "gibberishText": {
+        "text": "Prendre la fourrure pour elle. "
+      },
+      "spellings": [
+        "faire le meurtrier ",
+        "commettre un meurtre ",
+        "simuler un meurtrier ",
+        "commettre un meurtre "
+      ],
+      "correctText": {
+        "text": "<i>Faire un meurtrier</i> "
+      },
+      "clues": [
+        {
+          "text": "Une série documentaire Netflix... "
+        },
+        {
+          "text": "... concentré sur les homicides. "
+        },
+        {
+          "text": "Créer des tueurs "
+        }
+      ]
+    },
+    {
+      "id": "53562",
+      "category": {
+        "text": "Comment ose-t-il étrangler un si long cou élégant ! "
+      },
+      "gibberishText": {
+        "text": "Tuer un cygne, d'accord ? "
+      },
+      "spellings": [
+        "vallée de la silicium ",
+        "vallée du Silacon ",
+        "vallée de silicium ",
+        "vallée de silicium "
+      ],
+      "correctText": {
+        "text": "<i>La Silicon Valley</i> "
+      },
+      "clues": [
+        {
+          "text": "Une émission sur les gens qui fabriquent des ordinateurs... "
+        },
+        {
+          "text": "...dans une ville obsédée par la technologie. "
+        },
+        {
+          "text": "Euh... c'est cette émission de HBO... Je ne peux pas penser à un meilleur indice, désolé. "
+        }
+      ]
+    },
+    {
+      "id": "53297",
+      "category": {
+        "text": "Pas une école pour les modèles grossiers "
+      },
+      "gibberishText": {
+        "text": "J'ai appris à waif ni à con. "
+      },
+      "spellings": [
+        "nsfw ",
+        "pas en sécurité 4 travail ",
+        "pas sûr pour le travail ",
+        "note sécuritaire pour le travail "
+      ],
+      "correctText": {
+        "text": "Pas sécuritaire pour le travail "
+      },
+      "clues": [
+        {
+          "text": "Attention à ce contenu... "
+        },
+        {
+          "text": "... il devrait être vu en privé. "
+        },
+        {
+          "text": "Ce n’est pas acceptable dans un contexte d’entreprise. "
+        }
+      ]
+    },
+    {
+      "id": "53226",
+      "category": {
+        "text": "Jeu retardé par un dysfonctionnement de la garde-robe "
+      },
+      "gibberishText": {
+        "text": "Arrêtez l'arbitre, faites-lui la lune ! "
+      },
+      "spellings": [
+        "Top Chef Jr. ",
+        "Top Chef Jr. ",
+        "Haut Chef Junior ",
+        "Top Chef Junior "
+      ],
+      "correctText": {
+        "text": "<i>Top Chef Junior</i> "
+      },
+      "clues": [
+        {
+          "text": "Ils sont très jeunes... "
+        },
+        {
+          "text": "... mais ce sont d'excellents cuisiniers. "
+        },
+        {
+          "text": "Le meilleur expert en alimentation pour enfants "
+        }
+      ]
+    },
+    {
+      "id": "53174",
+      "category": {
+        "text": "Venez ici et regardez ce poisson fantaisie ! "
+      },
+      "gibberishText": {
+        "text": "Ici! Gant embrassant la truite ! "
+      },
+      "spellings": [
+        "peur de rater quelque chose ",
+        "peur de rater quelque chose ",
+        "peur de rater quelque chose ",
+        "peur de rater quelque chose ",
+        "la peur passe à côté "
+      ],
+      "correctText": {
+        "text": "Peur de rater quelque chose "
+      },
+      "clues": [
+        {
+          "text": "As-tu peur... "
+        },
+        {
+          "text": "...que d'autres personnes s'amusent plus que toi ? "
+        },
+        {
+          "text": "Anxiété de ne pas y assister "
+        }
+      ]
+    },
+    {
+      "id": "53091",
+      "category": {
+        "text": "Ce cochon est un con "
+      },
+      "gibberishText": {
+        "text": "Sanglier cruel, hein ? Déception "
+      },
+      "spellings": [
+        "cool pour l'été ",
+        "cool pour l'été ",
+        "rafraîchir l'été ",
+        "cool 4 l'été "
+      ],
+      "correctText": {
+        "text": "« Cool pour l'été » "
+      },
+      "clues": [
+        {
+          "text": "C'est une saison chaude... "
+        },
+        {
+          "text": "...mais j'ai encore froid. "
+        },
+        {
+          "text": "Je suis glacial en juillet. "
+        }
+      ]
+    },
+    {
+      "id": "53006",
+      "category": {
+        "text": "Tirer profit de votre amitié internationale "
+      },
+      "gibberishText": {
+        "text": "Randonnée en France, connais des copains... cha-ching ! "
+      },
+      "spellings": [
+        "danser comme si personne ne regardait ",
+        "danser comme si personne ne regardait ",
+        "danser comme si personne ne regardait ",
+        "danser comme si personne ne regardait ",
+        "danser comme si personne ne regardait ",
+        "danser comme si personne ne regardait "
+      ],
+      "correctText": {
+        "text": "Dansez comme si personne ne vous regardait. "
+      },
+      "clues": [
+        {
+          "text": "Lâchez-vous, soyez libre... "
+        },
+        {
+          "text": "... ne vous inquiétez pas de ce que pensent les autres. "
+        },
+        {
+          "text": "Bougez votre corps comme si les gens avaient les yeux fermés. "
+        }
+      ]
+    },
+    {
+      "id": "53005",
+      "category": {
+        "text": "Il existe trois types de personnes dans le monde "
+      },
+      "gibberishText": {
+        "text": "Sol plus humide, ennuyeux ou infirmier ? "
+      },
+      "spellings": [
+        "pour le meilleur ou pour le pire",
+        "pour le meilleur ou pour le pire ",
+        "pour le meilleur ou pour le pire ",
+        "pour le meilleur et pour le pire ",
+        "4 meilleurs ou 4 pires "
+      ],
+      "correctText": {
+        "text": "Pour le meilleur ou pour le pire "
+      },
+      "clues": [
+        {
+          "text": "Les cloches des églises sonnent... "
+        },
+        {
+          "text": "...dans la maladie et dans la santé. "
+        },
+        {
+          "text": "Vous feriez mieux de tenir le coup dans les bons et les mauvais moments. "
+        }
+      ]
+    },
+    {
+      "id": "53004",
+      "category": {
+        "text": "Je suis le gars qui dessine à la craie les contours des meurtres d'animaux "
+      },
+      "gibberishText": {
+        "text": "J'ai retrouvé une biche tuée. "
+      },
+      "spellings": [
+        "goûte un arc-en-ciel ",
+        "goûte le ranebow ",
+        "goûte l'arc-en-ciel ",
+        "goûte l'arc-en-ciel "
+      ],
+      "correctText": {
+        "text": "Goûtez l'arc-en-ciel. "
+      },
+      "clues": [
+        {
+          "text": "Les couleurs sont détectées... "
+        },
+        {
+          "text": "...sur ta langue."
+        },
+        {
+          "text": "De délicieux bonbons tropicaux moelleux ! "
+        }
+      ]
+    },
+    {
+      "id": "52463",
+      "category": {
+        "text": "Brisé par le pouvoir de l'amour "
+      },
+      "gibberishText": {
+        "text": "Les Care Bears ont cassé la lyre de Clare. "
+      },
+      "spellings": [
+        "là où il y a de la fumée il y a du feu ",
+        "où de la fumée il y a du feu ",
+        "où ils fument leur feu ",
+        "là où il y a de la fumée, il y a du feu ",
+        "là où il y a de la fumée, il y a du feu "
+      ],
+      "correctText": {
+        "text": "Là où il y a de la fumée, il y a du feu. "
+      },
+      "clues": [
+        {
+          "text": "Il suffit de vérifier les signes... "
+        },
+        {
+          "text": "...pour voir si les choses s'échauffent. "
+        },
+        {
+          "text": "Les traces de brûlure signifient que les choses brûlent. "
+        }
+      ]
+    },
+    {
+      "id": "52462",
+      "category": {
+        "text": "Il ne saute pas le jour de l'aile "
+      },
+      "gibberishText": {
+        "text": "Nous choisissons l'abeille swole. "
+      },
+      "spellings": [
+        "Moi méprisable ",
+        "me désobéissant ",
+        "moi méprisable ",
+        "méprise-moi "
+      ],
+      "correctText": {
+        "text": "<i>Moi méprisable</i> "
+      },
+      "clues": [
+        {
+          "text": "Je parle de moi... "
+        },
+        {
+          "text": "....et je ne suis pas bon. "
+        },
+        {
+          "text": "Je suis un gars répugnant. "
+        }
+      ]
+    },
+    {
+      "id": "52457",
+      "category": {
+        "text": "Où puis-je emporter ces explosifs de destruction de roches ? "
+      },
+      "gibberishText": {
+        "text": "Allez faire exploser la carrière de la porte du fond. "
+      },
+      "spellings": [
+        "Solo une histoire de Star Wars ",
+        "en solo ",
+        "en solo l'histoire de Star Wars ",
+        "histoire de Star Wars en solo ",
+        "histoire de Star War en solo ",
+        "en solo, une histoire de Star War "
+      ],
+      "correctText": {
+        "text": "<i>Solo : Une histoire de Star Wars</i> "
+      },
+      "clues": [
+        {
+          "text": "Il y a ce jeune contrebandier... "
+        },
+        {
+          "text": "... dans une galaxie très très lointaine "
+        },
+        {
+          "text": "Alone, un récit de bataille spatiale. "
+        }
+      ]
+    },
+    {
+      "id": "52454",
+      "category": {
+        "text": "Donner naissance est déjà assez difficile "
+      },
+      "gibberishText": {
+        "text": "Ne gâche pas ton travail. "
+      },
+      "spellings": [
+        "Ne seras-tu pas mon voisin ",
+        "ne seras-tu pas mon voisin ",
+        "ne seras-tu pas mon voisin ",
+        "serais-tu mon voisin ",
+        "Veux-tu être mon voisin ",
+        "tu ne seras pas mon voisin "
+      ],
+      "correctText": {
+        "text": "Ne veux-tu pas être mon voisin ? "
+      },
+      "clues": [
+        {
+          "text": "Il y a beaucoup de leçons à tirer... "
+        },
+        {
+          "text": "...si vous voulez vivre à côté. "
+        },
+        {
+          "text": "Serez-vous mon résident à proximité ? "
+        }
+      ]
+    },
+    {
+      "id": "52435",
+      "category": {
+        "text": "Que dois-je faire avec tout cet encens ? "
+      },
+      "gibberishText": {
+        "text": "Groupe de myrrhe ; jeter les autres. "
+      },
+      "spellings": [
+        "Super frère smash ",
+        "superbes frères smash ",
+        "superbe frère smash ",
+        "Super Smash Brother "
+      ],
+      "correctText": {
+        "text": "<i>Super Smash Brothers</i> "
+      },
+      "clues": [
+        {
+          "text": "Ce sont tous des personnages emblématiques... "
+        },
+        {
+          "text": "...et ils excellent au combat. "
+        },
+        {
+          "text": "Les superbes frères et sœurs du jeu vidéo qui se battent. "
+        }
+      ]
+    },
+    {
+      "id": "52308",
+      "category": {
+        "text": "Elle répondra également à Gracie "
+      },
+      "gibberishText": {
+        "text": "Appelez le gros chat Grace. "
+      },
+      "spellings": [
+        "tout à propos de cette base ",
+        "tout sur la basse ",
+        "tout sur la base ",
+        "Je suis tout à propos de cette basse ",
+        "Je suis tout à propos de la basse ",
+        "Je suis tout à propos de cette base "
+      ],
+      "correctText": {
+        "text": "\"Tout sur cette basse\" "
+      },
+      "clues": [
+        {
+          "text": "Je ne me soucie que d'une chose... "
+        },
+        {
+          "text": "...et ce sont des fréquences profondes. "
+        },
+        {
+          "text": "Je me concentre exclusivement sur la gamme grave. "
+        }
+      ]
+    },
+    {
+      "id": "52168",
+      "category": {
+        "text": "Continuons cette nuit "
+      },
+      "gibberishText": {
+        "text": "Ensuite, nous marquons plus de tirs ! "
+      },
+      "spellings": [
+        "penney pour tes pensées ",
+        "un centime pour ta pensée ",
+        "quelques centimes pour tes pensées ",
+        "un centime pour tes pensées ",
+        "un centime pour tes pensées "
+      ],
+      "correctText": {
+        "text": "Penny pour vos pensées. "
+      },
+      "clues": [
+        {
+          "text": "Je paierai une petite somme... "
+        },
+        {
+          "text": "...pour entrer dans ta tête. "
+        },
+        {
+          "text": "Voici un centime. Donnez-moi une idée. "
+        }
+      ]
+    },
+    {
+      "id": "52071",
+      "category": {
+        "text": "Des vêtements de sport qui mettent en valeur votre figure religieuse "
+      },
+      "gibberishText": {
+        "text": "Les prêtres de gymnastique ont planifié leur nouvel ourlet doublé. "
+      },
+      "spellings": [
+        "bêtes fanatiques et où les trouver ",
+        "bête fantastique et où les trouver ",
+        "des bêtes fantastiques et où les trouver "
+      ],
+      "correctText": {
+        "text": "<i>Les animaux fantastiques et où les trouver</i> "
+      },
+      "clues": [
+        {
+          "text": "La magie est partout... "
+        },
+        {
+          "text": "...si vous cherchez au bon endroit. "
+        },
+        {
+          "text": "Des animaux étonnants avec une carte indiquant leur emplacement. "
+        }
+      ]
+    },
+    {
+      "id": "52059",
+      "category": {
+        "text": "Détection de la prononciation correcte "
+      },
+      "gibberishText": {
+        "text": "Détective son danger et sa diction. "
+      },
+      "spellings": [
+        "des vérités plus étranges que la fiction ",
+        "la vérité est plus étrange que la fiction ",
+        "des vérités plus étranges que la fiction ",
+        "la vérité est plus étrange que fishun "
+      ],
+      "correctText": {
+        "text": "La vérité est plus étrange que la fiction. "
+      },
+      "clues": [
+        {
+          "text": "Ah la réalité... "
+        },
+        {
+          "text": "...ça peut être super bizarre. "
+        },
+        {
+          "text": "Les faits sont plus bizarres que les fantasmes. "
+        }
+      ]
+    },
+    {
+      "id": "52056",
+      "category": {
+        "text": "Le coût de possession d’une voiture "
+      },
+      "gibberishText": {
+        "text": "Un stationnement ? Ouais, des frais élevés. "
+      },
+      "spellings": [
+        "aboyer dans le mauvais arbre ",
+        "aboyer le mauvais arbre ",
+        "aboyer le mauvais arbre ",
+        "aboyer l'arbre essoré "
+      ],
+      "correctText": {
+        "text": "Aboyer le mauvais arbre "
+      },
+      "clues": [
+        {
+          "text": "Vous cherchez dur... "
+        },
+        {
+          "text": "...mais pas au bon endroit. "
+        },
+        {
+          "text": "Votre chien crie contre la mauvaise source de bois. "
+        }
+      ]
+    },
+    {
+      "id": "52054",
+      "category": {
+        "text": "Cette pizzeria est sous une nouvelle direction "
+      },
+      "gibberishText": {
+        "text": "Des fascistes qui écrasent la croûte en qui vous avez confiance. "
+      },
+      "spellings": [
+        "cendres 2 cendres poussière 2 poussières ",
+        "cendre en cendre, poussière en poussière ",
+        "cendre en cendre de poussière en poussière ",
+        "cendres deux cendres poussière deux poussières ",
+        "des cendres aussi des cendres de la poussière aussi de la poussière ",
+        "cendre aussi cendre poussière trop poussière "
+      ],
+      "correctText": {
+        "text": "cendres en cendres, poussière en poussière "
+      },
+      "clues": [
+        {
+          "text": "C'est le cercle de la vie... "
+        },
+        {
+          "text": "... mais il s'agit plutôt de la mort. "
+        },
+        {
+          "text": "Poudre en poudre, saleté en saleté. "
+        }
+      ]
+    },
+    {
+      "id": "52026",
+      "category": {
+        "text": "Les ingrédients pour un été parfait "
+      },
+      "gibberishText": {
+        "text": "Liqueur pétillante de boue. Poêle plus chaude. "
+      },
+      "spellings": [
+        "le sang est plus épais que l'eau ",
+        "le sang est plus épais que l'eau ",
+        "le sang est plus épais que l'eau ",
+        "le sang est plus épais que l'eau "
+      ],
+      "correctText": {
+        "text": "Le sang est plus épais que l'eau. "
+      },
+      "clues": [
+        {
+          "text": "C'est bien de trahir ses amis... "
+        },
+        {
+          "text": "... eh bien, c'est mieux que de trahir ton cousin. "
+        },
+        {
+          "text": "Mes veines sont remplies de boue par rapport à H2O. "
+        }
+      ]
+    },
+    {
+      "id": "52025",
+      "category": {
+        "text": "Gardez cette lame loin des pigeons "
+      },
+      "gibberishText": {
+        "text": "Society Biz : un joli couteau à colombe "
+      },
+      "spellings": [
+        "la variété est le piment de la vie ",
+        "variété le piment de la vie ",
+        "la variété est le piment de la vie ",
+        "la variété est une épice de la vie ",
+        "la variété est le piment de la vie "
+      ],
+      "correctText": {
+        "text": "La variété est le piment de la vie. "
+      },
+      "clues": [
+        {
+          "text": "Ne faites pas toujours la même chose... "
+        },
+        {
+          "text": "... tu seras ennuyeux et triste. "
+        },
+        {
+          "text": "Changez les choses pour être piquant. "
+        }
+      ]
+    },
+    {
+      "id": "52023",
+      "category": {
+        "text": "Formation selon la transpiration "
+      },
+      "gibberishText": {
+        "text": "Tu ne vas pas transpirer, Brad ? Transpire, Steven ! "
+      },
+      "spellings": [
+        "ne te fâche pas, venge-toi ",
+        "ne te fâche pas, venge-toi ",
+        "ne sois pas en colère, venge-toi ",
+        "ne te fais pas venger "
+      ],
+      "correctText": {
+        "text": "Ne vous fâchez pas, vengeance. "
+      },
+      "clues": [
+        {
+          "text": "Ne paniquez pas... "
+        },
+        {
+          "text": "... il suffit de se venger calmement. "
+        },
+        {
+          "text": "Arrêtez d'être en colère, soyez nivelé. "
+        }
+      ]
+    },
+    {
+      "id": "52011",
+      "category": {
+        "text": "Dawn a une idée pour la sortie de travail "
+      },
+      "gibberishText": {
+        "text": "Au bowling, Dawn ? Euh, plus de personnel. "
+      },
+      "spellings": [
+        "se rouler par terre en riant ",
+        "je roule par terre en riant ",
+        "se rouler par terre en riant ",
+        "se rouler par terre en riant "
+      ],
+      "correctText": {
+        "text": "Se rouler par terre en riant "
+      },
+      "clues": [
+        {
+          "text": "C'est tellement amusant... "
+        },
+        {
+          "text": "...Je fais de la gymnastique. "
+        },
+        {
+          "text": "Je tourne en spirale sur le tapis en riant. "
+        }
+      ]
+    },
+    {
+      "id": "52010",
+      "category": {
+        "text": "Où ai-je laissé mon sac ? "
+      },
+      "gibberishText": {
+        "text": "Charnière de porte biz. Un sac bleu. "
+      },
+      "spellings": [
+        "l'orang est le nouveau noir ",
+        "l'orange est un nouveau noir ",
+        "orunge est le nouveau noir ",
+        "les oranges le nouveau noir ",
+        "l'orange est le nouveau noir ",
+        "l'orange est le nouveau noir "
+      ],
+      "correctText": {
+        "text": "<i>Orange est le nouveau noir</i> "
+      },
+      "clues": [
+        {
+          "text": "Des couleurs à la mode... "
+        },
+        {
+          "text": "... pourrait changer après votre procès. "
+        },
+        {
+          "text": "Cet agrume est la couleur foncée la plus actuelle. "
+        }
+      ]
+    },
+    {
+      "id": "52000",
+      "category": {
+        "text": "C'était porteur ! "
+      },
+      "gibberishText": {
+        "text": "Ouah! Vous avez heurté la cinquième poutre perdue."
+      },
+      "spellings": [
+        "Comment s'en sortir avec un meurtre ",
+        "comment tu as échappé au meurtre ",
+        "comment aussi échapper au meurtre ",
+        "comment tu peux t'en sortir avec un meurtre "
+      ],
+      "correctText": {
+        "text": "<i>Comment échapper au meurtre</i> "
+      },
+      "clues": [
+        {
+          "text": "Une leçon très importante... "
+        },
+        {
+          "text": "...en faisant une tuerie. "
+        },
+        {
+          "text": "Un plan pour un homicide non détecté. "
+        }
+      ]
+    },
+    {
+      "id": "51983",
+      "category": {
+        "text": "Dites-le, ne le vaporisez pas "
+      },
+      "gibberishText": {
+        "text": "Crache la nièce, \"Dove Lake!\" "
+      },
+      "spellings": [
+        "est-ce qu'un morceau est un gâteau ",
+        "c'est un morceau de gâteau ",
+        "c'est du gâteau ",
+        "c'est une paix, un gâteau "
+      ],
+      "correctText": {
+        "text": "C'est du gâteau. "
+      },
+      "clues": [
+        {
+          "text": "Une chose simple à faire... "
+        },
+        {
+          "text": "...en fait, c'est un régal. "
+        },
+        {
+          "text": "C'est une tranche de nourriture d'anniversaire. "
+        }
+      ]
+    },
+    {
+      "id": "51982",
+      "category": {
+        "text": "Ne mangez pas dans la cabine du pilote "
+      },
+      "gibberishText": {
+        "text": "Fritz a des fourmis à tarte dans le cockpit ! "
+      },
+      "spellings": [
+        "ce n'est pas sorcier ",
+        "ce n'est pas sorcier ",
+        "ce n'est pas de la science-fiction ",
+        "ce n'est pas sorcier "
+      ],
+      "correctText": {
+        "text": "Ce n’est pas sorcier. "
+      },
+      "clues": [
+        {
+          "text": "C'est facile... "
+        },
+        {
+          "text": "...parce que ce n'est pas compliqué. "
+        },
+        {
+          "text": "Il ne s’agit pas d’ingénierie de navette spatiale. "
+        }
+      ]
+    },
+    {
+      "id": "51973",
+      "category": {
+        "text": "Bien essayé, officier ! "
+      },
+      "gibberishText": {
+        "text": "Vous sentez de la colle ? Tu es classique, narc ! "
+      },
+      "spellings": [
+        "bienvenue aussi dans Jurassic Park ",
+        "bienvenue au parc jurasique ",
+        "bienvenue au parc jurassique ",
+        "bienvenue au parc Jurrasic ",
+        "bienvenue au parc jurassique "
+      ],
+      "correctText": {
+        "text": "Bienvenue dans Jurassic Park ! "
+      },
+      "clues": [
+        {
+          "text": "Salutations de... "
+        },
+        {
+          "text": "...le monde des dinosaures. "
+        },
+        {
+          "text": "Bonjour, vous êtes au pays des monstres ! "
+        }
+      ]
+    },
+    {
+      "id": "51972",
+      "category": {
+        "text": "Que puis-je obtenir pour un Mabel ? "
+      },
+      "gibberishText": {
+        "text": "Échange de tante ? Attirant! "
+      },
+      "spellings": [
+        "Je ne peux pas arrêter ce sentiment ",
+        "je ne peux pas arrêter ce sentiment ",
+        "Je ne peux pas arrêter ce sentiment ",
+        "Je ne peux pas arrêter le sentiment "
+      ],
+      "correctText": {
+        "text": "<i>Je ne peux pas arrêter le sentiment</i> "
+      },
+      "clues": [
+        {
+          "text": "Je suis d'humeur... "
+        },
+        {
+          "text": "... tu ne m'en empêcheras pas. "
+        },
+        {
+          "text": "Vous ne pouvez rien faire pour arrêter mes émotions. "
+        }
+      ]
+    },
+    {
+      "id": "51971",
+      "category": {
+        "text": "Quelqu'un pensera-t-il aux mollusques !? "
+      },
+      "gibberishText": {
+        "text": "Les limaces de pain feta ne se battront-elles pas ? "
+      },
+      "spellings": [
+        "Ne laissez pas les punaises de lit piquer ",
+        "ne laissez pas les punaises de lit piquer",
+        "ne laissez pas les punaises de lit piquer ",
+        "ne laissez pas les punaises de lit piquer "
+      ],
+      "correctText": {
+        "text": "Ne laissez pas les punaises de lit piquer. "
+      },
+      "clues": [
+        {
+          "text": "S'il vous plaît, soyez tranquille... "
+        },
+        {
+          "text": "...en évitant les nuisibles. "
+        },
+        {
+          "text": "Empêchez les insectes de vous dévorer pendant que vous dormez. "
+        }
+      ]
+    },
+    {
+      "id": "51909",
+      "category": {
+        "text": "Tout le monde à Hollywood est connecté "
+      },
+      "gibberishText": {
+        "text": "Bit Kumail, Shonda a saigné. "
+      },
+      "spellings": [
+        "tu as mis le doigt sur la tête ",
+        "mettre le doigt sur la tête ",
+        "frapper le nale sur la tête "
+      ],
+      "correctText": {
+        "text": "Frappez le clou sur la tête "
+      },
+      "clues": [
+        {
+          "text": "Vous avez bien compris... "
+        },
+        {
+          "text": "...exactement vrai. "
+        },
+        {
+          "text": "Vous avez frappé sur l’acier exactement là où vous êtes censé le faire. "
+        }
+      ]
+    },
+    {
+      "id": "51883",
+      "category": {
+        "text": "Qu’est-ce qui contrarie frère Josh ? "
+      },
+      "gibberishText": {
+        "text": "Frère Josh a été trop contrarié. "
+      },
+      "spellings": [
+        "Jetez la prudence au vent ",
+        "jeter la prudence au vent ",
+        "j'ai jeté la prudence au vent ",
+        "jeter la prudence au vent "
+      ],
+      "correctText": {
+        "text": "Jetez la prudence au vent "
+      },
+      "clues": [
+        {
+          "text": "Ignorez le risque... "
+        },
+        {
+          "text": "...et faire quelque chose qui pourrait mal finir. "
+        },
+        {
+          "text": "Jetez vos soucis dans un vent violent ! "
+        }
+      ]
+    },
+    {
+      "id": "51870",
+      "category": {
+        "text": "Petit mouchoir "
+      },
+      "gibberishText": {
+        "text": "Hé, un tissu anti-puces rauque ! "
+      },
+      "spellings": [
+        "ma force soit avec toi ",
+        "que la force b soit avec toi ",
+        "que la force soit avec toi ",
+        "que les fors soient avec toi ",
+        "ma force est avec toi "
+      ],
+      "correctText": {
+        "text": "Que la force soit avec toi. "
+      },
+      "clues": [
+        {
+          "text": "De quel côté es-tu... "
+        },
+        {
+          "text": "...l'obscurité ou la lumière ? "
+        },
+        {
+          "text": "Mec, ces combats spatiaux sont intenses. "
+        }
+      ]
+    },
+    {
+      "id": "51783",
+      "category": {
+        "text": "Écoutons-le pour Lynn ! "
+      },
+      "gibberishText": {
+        "text": "Lynn ? Son? Mademoiselle Engourdissement ? "
+      },
+      "spellings": [
+        "l'hiver arrive ",
+        "les hivers arrivent ",
+        "l'hiver arrive ",
+        "l'hiver arrive "
+      ],
+      "correctText": {
+        "text": "L'hiver arrive. "
+      },
+      "clues": [
+        {
+          "text": "Il est temps de se préparer... "
+        },
+        {
+          "text": "...pour une période très fraîche. "
+        },
+        {
+          "text": "La saison froide sera à nos portes. "
+        }
+      ]
+    },
+    {
+      "id": "51775",
+      "category": {
+        "text": "Poésie des oiseaux "
+      },
+      "gibberishText": {
+        "text": "Une mouette suffisante. Son repas. "
+      },
+      "spellings": [
+        "une lutte est réelle ",
+        "la lutte est réelle ",
+        "la lutte est réelle ",
+        "la lutte est réelle "
+      ],
+      "correctText": {
+        "text": "La lutte est réelle. "
+      },
+      "clues": [
+        {
+          "text": "La vie est un travail dur... "
+        },
+        {
+          "text": "... et c'est un fait. "
+        },
+        {
+          "text": "Le combat est réel. "
+        }
+      ]
+    },
+    {
+      "id": "51773",
+      "category": {
+        "text": "Marketing auprès d’une faune attrayante "
+      },
+      "gibberishText": {
+        "text": "Euh, les cerfs chauds brisent les tendances. "
+      },
+      "spellings": [
+        "pas ici pour me faire des amis ",
+        "je n'entends pas me faire des amis ",
+        "je ne suis pas là pour me faire des amis ",
+        "je ne suis pas là pour me faire un ami"
+      ],
+      "correctText": {
+        "text": "Je ne suis pas là pour me faire des amis. "
+      },
+      "clues": [
+        {
+          "text": "On entend ça dans les émissions de télé-réalité... "
+        },
+        {
+          "text": "...généralement d'un «méchant». "
+        },
+        {
+          "text": "Ce n’est pas un endroit où je suis arrivé pour développer une nouvelle affection pour les autres."
+        }
+      ]
+    }
+  ]
+}

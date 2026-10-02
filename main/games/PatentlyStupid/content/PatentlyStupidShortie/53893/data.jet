@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "hommes|girafes|bâtiments ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "<BLANK> est trop grand ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : ELLES sont trop grandes et ça me fait mal au cou de les regarder ! ",
+      "t": "A",
+      "v": "767780_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

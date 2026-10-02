@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "porter un bikini | tremper un ballon de basket | manger une tarte entière ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je suis bien trop vieux pour <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je suis trop vieux pour faire CELA ! ",
+      "t": "A",
+      "v": "767641_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

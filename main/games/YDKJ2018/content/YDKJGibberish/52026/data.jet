@@ -1,0 +1,100 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "S",
+      "v": "C'est bien de trahir ses amis... ",
+      "n": "Clue1Text"
+    },
+    {
+      "t": "S",
+      "v": "... eh bien, c'est mieux que de trahir ton cousin. ",
+      "n": "Clue2Text"
+    },
+    {
+      "t": "S",
+      "v": "Le sang est plus épais que l'eau. ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "le sang est plus épais que l'eau, le sang est plus épais que l'eau, le sang est plus épais que l'eau, le sang est plus épais que l'eau ",
+      "n": "Acceptable"
+    },
+    {
+      "t": "S",
+      "v": "Mes veines sont remplies de boue par rapport à H2O. ",
+      "n": "Clue3Text"
+    },
+    {
+      "t": "S",
+      "v": "Les ingrédients pour un été parfait ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "Liqueur pétillante de boue. Poêle plus chaude. ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "C'est bien de trahir ses amis... ",
+      "t": "A",
+      "v": "743510_1",
+      "n": "Clue1Audio"
+    },
+    {
+      "s": "Les ingrédients pour un été parfait ",
+      "t": "A",
+      "v": "743505_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Mes veines sont remplies de boue par rapport à H2O. ",
+      "t": "A",
+      "v": "743512_2",
+      "n": "Clue3Audio"
+    },
+    {
+      "s": "Découvrez cette phrase charabia, puis écrivez avec quelle expression courante vous pensez qu'elle rime. ",
+      "t": "A",
+      "v": "743506_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "OutroAudio"
+    },
+    {
+      "s": "... eh bien, c'est mieux que de trahir ton cousin. ",
+      "t": "A",
+      "v": "743511_1",
+      "n": "Clue2Audio"
+    },
+    {
+      "s": "Liqueur pétillante de boue. Poêle plus chaude. ",
+      "t": "A",
+      "v": "743507_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

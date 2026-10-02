@@ -1,0 +1,149 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "« v vice-président ? » ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "S+1,88 ",
+      "n": "$QuestionAudio$QuestionTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "1,2,0,3 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "si votre clavier ne contenait que des lettres de l'alphabet latin ? ",
+      "n": "QuestionText2"
+    },
+    {
+      "t": "S",
+      "v": "Before",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "How would you sext...",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Le langage mort de l'amour ",
+      "t": "A",
+      "v": "716971_2",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "OU\nQuelqu'un utilise la mauvaise forme de votre dans un texte... eh bien, je n'ai jamais... ",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "716974_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "OR\nUb-croyable ! ",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "OU\nPlus maintenant. ",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "The Latin alphabet did not have the letter u; instead it used the letter v to represent it.",
+      "t": "A",
+      "v": "716976_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "There is no u in team!  Or in the Latin alphabet!  Or in this relationship!",
+      "t": "A",
+      "v": "716977_2",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "How would you sext... if your keyboard only had letters from the Latin alphabet?",
+      "t": "A",
+      "v": "716973_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

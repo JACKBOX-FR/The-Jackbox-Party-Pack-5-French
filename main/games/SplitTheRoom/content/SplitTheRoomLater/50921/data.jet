@@ -1,0 +1,96 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "un léger choc | vide à l'intérieur | vomir dans la gorge | desséché | coup de soleil ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "S+11.16",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "S+4.24",
+      "n": "$ScenarioAudio$ScenarioTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "On vous propose soudain un travail lucratif dans les médias. ",
+      "n": "ScenarioText3"
+    },
+    {
+      "t": "S",
+      "v": "S+5.51",
+      "n": "$ScenarioAudio$ScenarioTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "Conformément à votre contrat, vous devez maintenir une présence sur les réseaux sociaux. ",
+      "n": "ScenarioText4"
+    },
+    {
+      "t": "S",
+      "v": "Quand quelqu'un vous répond sur les réseaux sociaux avec une erreur grammaticale, vous avez l'impression ",
+      "n": "ScenarioText1"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00 ",
+      "n": "$ScenarioAudio$ScenarioTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "<BLANK>. ",
+      "n": "ScenarioText2"
+    },
+    {
+      "t": "S",
+      "v": "S+7.84",
+      "n": "$ScenarioAudio$ScenarioTextCue4"
+    },
+    {
+      "t": "S",
+      "v": "Acceptez-vous le poste ? ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Votre* Un idiot ",
+      "t": "A",
+      "v": "Acceptez-vous le poste ? ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Quand quelqu’un vous répond sur les réseaux sociaux avec une erreur grammaticale, vous ressentez CECI. On vous propose soudain un travail lucratif dans les médias. Conformément à votre contrat, vous devez maintenir une présence sur les réseaux sociaux. Acceptez-vous le poste ? ",
+      "t": "A",
+      "v": "728252_6",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    }
+  ]
+}

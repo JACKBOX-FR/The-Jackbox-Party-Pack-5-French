@@ -1,0 +1,138 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "une chanson qui n'existe pas ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "3,1,2,0 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Si les musiciens utilisaient la même terminologie que les cartographes, que serait la musique TRAP ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Prenez votre charley, nous allons explorer ",
+      "t": "A",
+      "v": "755668_2",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "OU\nVous êtes partout sur la carte. (TOUS) ",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "755671_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "OU\nArrêtez-vous et demandez votre chemin ! (TOUS) ",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Les cartographes ont utilisé des routes ou des points de repère inexistants pour protéger leurs droits d'auteur. S’ils apparaissaient sur d’autres cartes, ils savaient que quelqu’un avait mordu leur style. ",
+      "t": "A",
+      "v": "755673_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Ne me lancez même pas dans les batailles cartographiques de l’hémisphère oriental et de l’hémisphère occidental. ",
+      "t": "A",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "If musicians used the same terminology as cartographers, what would TRAP music be?",
+      "t": "A",
+      "v": "755670_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

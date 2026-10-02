@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "parler | changer la couche de mon bébé | regarder un film ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je n'arrête pas d'être interrompu lorsque je <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je n'arrête pas d'être interrompu quand je fais CECI ! ",
+      "t": "A",
+      "v": "766904_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

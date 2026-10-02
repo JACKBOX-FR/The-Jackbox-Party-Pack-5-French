@@ -1,1 +1,76 @@
-{"fields":[{"t":"B","v":"true","n":"HasScenarioAudio"},{"t":"B","v":"true","n":"HasCategoryAudio"},{"t":"B","v":"false","n":"HasResponseAudio"},{"t":"S","v":"putting on a puppet show | doing tasteful burlesque | killing some rats | contacting everyone you know | taking out a loan","n":"Decoys"},{"t":"S","v":"S+9.26","n":"$ScenarioAudio$QuestionTextCue"},{"t":"S","v":"","n":"Keywords"},{"t":"S","v":"Acceptes-tu de le faire ?","n":"QuestionText"},{"s":"For a Good Claws","t":"A","v":"756371_1","n":"CategoryAudio"},{"s":"A charity raising money for stray pets asks you to participate in a fundraiser. How do they want you to help generate money? Well... by doing this. Do you agree to do it?","t":"A","v":"756372_2","n":"ScenarioAudio"},{"s":"","t":"A","n":"ResponseAudio"},{"n":"ScenarioText1","v":"Un centre caritatif qui collecte des fonds pour les animaux errants te demande de participer à une collecte de fonds.","t":"S"},{"n":"$ScenarioAudio$ScenarioTextCue1","v":"S+0.00","t":"S"},{"n":"ScenarioText2","v":"Comment veulent-ils que tu les aides à générer de l'argent ? Eh bien… en <BLANK>.","t":"S"},{"n":"$ScenarioAudio$ScenarioTextCue2","v":"S+5.40","t":"S"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "monter un spectacle de marionnettes | faire du burlesque de bon goût | tuer des rats | contacter toutes les personnes que vous connaissez | contracter un emprunt ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "S+9.26",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "Acceptes-tu de le faire ?",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Pour de bonnes griffes ",
+      "t": "A",
+      "v": "756371_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Un organisme de bienfaisance collectant des fonds pour les animaux errants vous demande de participer à une collecte de fonds. Comment veulent-ils que vous les aidiez à générer de l’argent ? Eh bien... en faisant ça. Êtes-vous d’accord pour le faire ? ",
+      "t": "A",
+      "v": "756372_2",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    },
+    {
+      "n": "ScenarioText1",
+      "v": "Un centre caritatif qui collecte des fonds pour les animaux errants te demande de participer à une collecte de fonds.",
+      "t": "S"
+    },
+    {
+      "n": "$ScenarioAudio$ScenarioTextCue1",
+      "v": "S+0.00",
+      "t": "S"
+    },
+    {
+      "n": "ScenarioText2",
+      "v": "Comment veulent-ils que tu les aides à générer de l'argent ? Eh bien… en <BLANK>.",
+      "t": "S"
+    },
+    {
+      "n": "$ScenarioAudio$ScenarioTextCue2",
+      "v": "S+5.40",
+      "t": "S"
+    }
+  ]
+}

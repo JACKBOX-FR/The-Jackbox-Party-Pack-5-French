@@ -1,0 +1,96 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "vol à l'étalage | meurtre | piratage de films | graffitis | intrusion ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "S+9.27",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "S+1.90",
+      "n": "$ScenarioAudio$ScenarioTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "est désormais légal, mais seulement dans le Dakota du Nord. ",
+      "n": "ScenarioText3"
+    },
+    {
+      "t": "S",
+      "v": "S+3.17",
+      "n": "$ScenarioAudio$ScenarioTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "Il se trouve que vous êtes là pour une conférence de travail. ",
+      "n": "ScenarioText4"
+    },
+    {
+      "t": "S",
+      "v": "Nous sommes en 2098 et ",
+      "n": "ScenarioText1"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00 ",
+      "n": "$ScenarioAudio$ScenarioTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "<BLANK> ",
+      "n": "ScenarioText2"
+    },
+    {
+      "t": "S",
+      "v": "S+6.88",
+      "n": "$ScenarioAudio$ScenarioTextCue4"
+    },
+    {
+      "t": "S",
+      "v": "Participez-vous à cette activité désormais légale ? ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Quand je suis dans le Dakota du Nord... ",
+      "t": "A",
+      "v": "Participez-vous à cette activité désormais légale ? ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Nous sommes en 2098 et CECI est désormais légal, mais uniquement dans le Dakota du Nord. Il se trouve que vous êtes là pour une conférence de travail. Participez-vous à cette activité désormais légale ? ",
+      "t": "A",
+      "v": "721764_2",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    }
+  ]
+}

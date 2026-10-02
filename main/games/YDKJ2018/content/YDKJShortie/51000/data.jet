@@ -1,0 +1,139 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "\"J'expulserai plus de 99 % de l'argent que j'ai consommé aujourd'hui.\" ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "1,3,2,0 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Quelle prédiction précise le statisticien de <i>FiveThirtyEight</i>, Nate Silver, ferait-il à propos de l'argent présent dans son corps ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Internaute Argent ",
+      "t": "A",
+      "v": "729251_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "OU\nVous avez perdu dans un glissement de terrain. (TOUS) ",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "729254_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "Un optimiste ne vous considérerait qu’à moitié dans l’erreur. ",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "OR\nEh bien, vous n’obtiendrez certainement pas l’or. ",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "L’être humain moyen consommera entre 70 et 88 microgrammes d’argent par jour, mais en excrétera plus de 99 %. ",
+      "t": "A",
+      "v": "729256_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Il ne réussit peut-être pas tous les sondages à la sortie des urnes, mais quand il s’agit de ses fesses, il est toujours parfait. ",
+      "t": "A",
+      "v": "729257_2",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "What accurate prediction would FiveThirtyEight statistician Nate Silver make about the silver in his body?",
+      "t": "A",
+      "v": "729253_3",
+      "n": "QuestionAudio"
+    }
+  ]
+}

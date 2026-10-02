@@ -1,0 +1,96 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "regarder du porno | dormir | dessiner des caricatures de tout le monde au bureau | voler l'agrafeuse | vlogging en direct ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "S+7.98",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "S+3.86",
+      "n": "$ScenarioAudio$ScenarioTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "<BLANK> ",
+      "n": "ScenarioText3"
+    },
+    {
+      "t": "S",
+      "v": "S+5.56",
+      "n": "$ScenarioAudio$ScenarioTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "dans la salle de repos. ",
+      "n": "ScenarioText4"
+    },
+    {
+      "t": "S",
+      "v": "Vous et <OTHERPLAYER> êtes candidats à la même promotion au travail. ",
+      "n": "ScenarioText1"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00 ",
+      "n": "$ScenarioAudio$ScenarioTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Hier, tu les as remarqués ",
+      "n": "ScenarioText2"
+    },
+    {
+      "t": "S",
+      "v": "S+6.90",
+      "n": "$ScenarioAudio$ScenarioTextCue4"
+    },
+    {
+      "t": "S",
+      "v": "Le signalez-vous aux supérieurs ? ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Grimper à l'échelle ",
+      "t": "A",
+      "v": "Le signalez-vous aux supérieurs ? ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Vous et <OTHERPLAYER> êtes candidats à la même promotion au travail. Hier, vous les avez remarqués en train de faire CECI dans la salle de repos. Le signalez-vous aux supérieurs ?",
+      "t": "A",
+      "v": "757933_2",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    }
+  ]
+}

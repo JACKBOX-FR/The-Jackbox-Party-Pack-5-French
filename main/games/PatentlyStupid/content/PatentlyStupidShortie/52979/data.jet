@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "canapés | membres de la famille | emplois ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Ma famille a besoin de plus <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je suis inquiet parce que ma famille a besoin de plus de CECI ! ",
+      "t": "A",
+      "v": "757496_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "baiser | demandez-moi votre chemin | jeter de la boue sur ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Personne ne me <BLANK> plus ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "PHIL : C’est juste que plus personne ne me fera ça et ça me manque vraiment ! ",
+      "t": "A",
+      "v": "767725_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

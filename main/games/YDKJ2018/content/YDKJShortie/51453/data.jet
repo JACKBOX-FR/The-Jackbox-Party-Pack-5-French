@@ -1,0 +1,140 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Il y a plus d'enfer que d'<i>Entourage</i>. ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "0,3,2,1 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "En passant par <i>La Divine Comédie</i>, y a-t-il plus de niveaux d'enfer ou de saisons d'<i>Entourage</i> ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Des tortues jusqu'en bas ",
+      "t": "A",
+      "v": "735750_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "735753_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "C’est une chaleur sèche, pas une chaleur morte. ",
+      "t": "A",
+      "v": "735760_1",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Selon Dante, il y a 9 niveaux d'Enfer, mais il n'y a que 8 saisons d'Entourage. ",
+      "t": "A",
+      "v": "735755_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Je suppose qu'il est possible que HBO donne le feu vert à une saison de retour pour Entourage et que cette question serait alors fausse, donc je continue d'avoir exactement le même niveau d'espoir qu'il n'y a PAS une autre saison d'Entourage. ",
+      "t": "A",
+      "v": "735756_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "Going by <i>The Divine Comedy</i>, are there more levels of Hell or seasons of <i>Entourage</i>?",
+      "t": "A",
+      "v": "735752_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

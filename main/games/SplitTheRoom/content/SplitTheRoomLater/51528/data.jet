@@ -1,0 +1,96 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "un nettoyant pour toilettes | Tampax | Marlboro | Barbie | Pepsi diététique ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "S+11.36",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "S+4.47",
+      "n": "$ScenarioAudio$ScenarioTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "Ce travail vous soutiendra financièrement pour le reste de votre vie... ",
+      "n": "ScenarioText3"
+    },
+    {
+      "t": "S",
+      "v": "S+5.64",
+      "n": "$ScenarioAudio$ScenarioTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "mais votre visage restera sur ce produit pendant des décennies. ",
+      "n": "ScenarioText4"
+    },
+    {
+      "t": "S",
+      "v": "Nous sommes dans les années 1960. On vient de te proposer un contrat de mannequin lucratif pour être le visage de ",
+      "n": "ScenarioText1"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00 ",
+      "n": "$ScenarioAudio$ScenarioTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "<BLANK>. ",
+      "n": "ScenarioText2"
+    },
+    {
+      "t": "S",
+      "v": "S+8.57",
+      "n": "$ScenarioAudio$ScenarioTextCue4"
+    },
+    {
+      "t": "S",
+      "v": "Acceptez-vous le concert ? ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Le visage du regret ",
+      "t": "A",
+      "v": "Acceptez-vous le concert ? ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Nous sommes dans les années 1960. On vient de vous proposer un contrat de mannequin lucratif pour devenir le visage de cette marque. Ce travail vous soutiendra financièrement pour le reste de votre vie... mais votre visage restera sur ce produit pendant des décennies. Acceptez-vous le concert ? ",
+      "t": "A",
+      "v": "736662_2",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    }
+  ]
+}

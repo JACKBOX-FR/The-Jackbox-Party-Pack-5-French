@@ -1,0 +1,141 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Le cheval de Roy Rogers. ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "1,3,2,0 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Lequel de ces éléments aurait littéralement besoin d’un avertissement « Déclencheur » ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Le Clippity-Clop de l’anxiété ",
+      "t": "A",
+      "v": "737054_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Salut-ho, mauvaise réponse, awaaayyyyyy ! ",
+      "t": "A",
+      "v": "737066_1",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "De nos jours, la plupart des jeunes sont terrifiés par les chevaux de célébrités, et qui peut leur en vouloir ?! ",
+      "t": "A",
+      "v": "737055_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "737057_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "La star du cinéma occidental et chanteur Roy Rogers n'était jamais loin de son fidèle cheval, Trigger. ",
+      "t": "A",
+      "v": "737059_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Trigger a même donné son nom à un film : « My Pal Trigger » et, après une dispute, la malheureuse suite, « Trigger, You Bastard ». ",
+      "t": "A",
+      "v": "737060_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "Which of these would literally need a “Trigger” warning?",
+      "t": "A",
+      "v": "737056_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

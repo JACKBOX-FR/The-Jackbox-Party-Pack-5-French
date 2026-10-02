@@ -1,0 +1,141 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "le muscle piriforme ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "1,0,3,2 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Qu'est-ce qu'il y a dans tes fesses ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Cailloux de butin ",
+      "t": "A",
+      "v": "716299_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Le muscle grand rond se trouve dans votre épaule : c’est-à-dire la crosse du torse. ",
+      "t": "A",
+      "v": "716311_2",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Hé... ",
+      "t": "A",
+      "v": "716300_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "716302_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Le muscle piriforme est situé profondément dans les fesses. ",
+      "t": "A",
+      "v": "716304_2",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "À quelle profondeur ? À peu près aussi profond que cette figurine de l’amiral Akbar sur laquelle vous vous êtes « accidentellement » assis au collège. ",
+      "t": "A",
+      "v": "716305_2",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "What’s in your butt? (read sort of challengingly... like pushing back at someone who’s being difficult) “Hey, what’s in YOUR butt?”)",
+      "t": "A",
+      "v": "716301_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

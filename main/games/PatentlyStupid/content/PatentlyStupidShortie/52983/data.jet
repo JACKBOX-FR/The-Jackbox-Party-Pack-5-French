@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "chariots en colère | échantillons de fromages | trop de sacs ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je déteste faire du shopping à cause de <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je déteste faire du shopping à cause de CELA ! ",
+      "t": "A",
+      "v": "757508_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

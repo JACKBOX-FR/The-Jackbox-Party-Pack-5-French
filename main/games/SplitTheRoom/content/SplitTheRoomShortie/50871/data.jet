@@ -1,1 +1,86 @@
-{"fields":[{"t":"B","v":"true","n":"HasScenarioAudio"},{"t":"B","v":"true","n":"HasCategoryAudio"},{"t":"B","v":"false","n":"HasResponseAudio"},{"t":"S","v":"what you search for on the internet | what dog butts smell like | the movie “Grown Ups” | television spoilers | the history of golf","n":"Decoys"},{"t":"S","v":"S+12.82","n":"$ScenarioAudio$QuestionTextCue"},{"t":"S","v":"","n":"Keywords"},{"t":"S","v":"Le fais-tu ?","n":"QuestionText"},{"s":"Pet Peeve","t":"A","v":"727504_1","n":"CategoryAudio"},{"s":"You get a dog for your kids. After a week of ownership, the dog gains the ability to speak...but it can only talk about this. It  promises to stop talking if you convert your home office into her playroom. Do you do it?","t":"A","v":"727505_2","n":"ScenarioAudio"},{"s":"","t":"A","n":"ResponseAudio"},{"n":"ScenarioText1","v":"Tu achètes un chien pour tes enfants.","t":"S"},{"n":"$ScenarioAudio$ScenarioTextCue1","v":"S+0.00","t":"S"},{"n":"ScenarioText2","v":"Après une semaine de possession, le chien acquiert la capacité de parler…mais il ne peut parler que de/d' <BLANK>.","t":"S"},{"n":"$ScenarioAudio$ScenarioTextCue2","v":"S+1.87","t":"S"},{"n":"ScenarioText3","v":"Il promet d'arrêter de parler si vous transformez votre bureau à domicile en sa salle de jeux.","t":"S"},{"n":"$ScenarioAudio$ScenarioTextCue3","v":"S+7.73","t":"S"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "ce que vous recherchez sur Internet | à quoi sentent les mégots de chiens | le film « Les adultes » | spoilers de télévision | l'histoire du golf ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "S+12.82",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "Le fais-tu ?",
+      "n": "QuestionText"
+    },
+    {
+      "s": "La bête noire ",
+      "t": "A",
+      "v": "727504_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Vous obtenez un chien pour vos enfants. Après une semaine de possession, le chien acquiert la capacité de parler... mais il ne peut parler que de cela. Elle promet de ne plus parler si vous transformez votre bureau à domicile en salle de jeux. Le faites-vous ? ",
+      "t": "A",
+      "v": "727505_2",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    },
+    {
+      "n": "ScenarioText1",
+      "v": "Tu achètes un chien pour tes enfants.",
+      "t": "S"
+    },
+    {
+      "n": "$ScenarioAudio$ScenarioTextCue1",
+      "v": "S+0.00",
+      "t": "S"
+    },
+    {
+      "n": "ScenarioText2",
+      "v": "Après une semaine de possession, le chien acquiert la capacité de parler…mais il ne peut parler que de/d' <BLANK>.",
+      "t": "S"
+    },
+    {
+      "n": "$ScenarioAudio$ScenarioTextCue2",
+      "v": "S+1.87",
+      "t": "S"
+    },
+    {
+      "n": "ScenarioText3",
+      "v": "Il promet d'arrêter de parler si vous transformez votre bureau à domicile en sa salle de jeux.",
+      "t": "S"
+    },
+    {
+      "n": "$ScenarioAudio$ScenarioTextCue3",
+      "v": "S+7.73",
+      "t": "S"
+    }
+  ]
+}

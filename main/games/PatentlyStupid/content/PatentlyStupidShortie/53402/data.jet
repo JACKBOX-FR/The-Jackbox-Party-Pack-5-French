@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "ours | frais de découvert | la grippe ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je dois me défendre contre <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : J'ai besoin d'un moyen de me défendre contre CELA ! ",
+      "t": "A",
+      "v": "761895_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

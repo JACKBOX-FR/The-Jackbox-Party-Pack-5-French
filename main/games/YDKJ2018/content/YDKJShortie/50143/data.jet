@@ -1,0 +1,162 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "Well?",
+      "n": "QuestionText3"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00 ",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "18 fois ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "S+7.92 ",
+      "n": "$QuestionAudio$QuestionTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "S+13.75 ",
+      "n": "$QuestionAudio$QuestionTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "0,3,1,2",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "You. Don’t. Deserve. Any. Cash.",
+      "n": "QuestionText2"
+    },
+    {
+      "t": "S",
+      "v": "Before",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "If. You. Can’t. Tell. Me. How. Many. Times. I’ve. Clapped. During. This. Question.",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "S'il vous plaît, applaudissez ",
+      "t": "A",
+      "v": "717435_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "On dirait que tu es tombé dans mon piège à applaudissements. ",
+      "t": "A",
+      "v": "717447_3",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Vous connaissez ces tweets où quelqu'un crie quelque chose et chaque autre mot est un emoji applaudissant ? Eh bien... ",
+      "t": "A",
+      "v": "717436_1f",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "717438_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "30 fois ??? On ne comptait pas les doigts !! ",
+      "t": "A",
+      "v": "717445_1",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "(still clapping) I. clapped. 18. times.",
+      "t": "A",
+      "v": "717440_0f",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "And now I will take my angry clap gloves off and put on my applause gloves (sfx: polite applause from Cookie) to acknowledge what a great quesiton that was.",
+      "t": "A",
+      "v": "717441_0f",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "(sfx: Cookie claps once during each word) If. You. Can’t. Tell. Me. How. Many. Times. I’ve. Clapped. During. This. Question. You. Don’t. Deserve. Any. Cash. (pause) Well?",
+      "t": "A",
+      "v": "717437_0f",
+      "n": "QuestionAudio"
+    }
+  ]
+}

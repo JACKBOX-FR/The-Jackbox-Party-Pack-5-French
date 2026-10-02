@@ -1,0 +1,96 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "leurs vêtements tombent | se fait attaquer par un écureuil | a une terrible réaction allergique au dîner | rencontre leur ex | crache accidentellement sur leur rendez-vous ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "S+12.50",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "S+3.63",
+      "n": "$ScenarioAudio$ScenarioTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "<BLANK>. ",
+      "n": "ScenarioText3"
+    },
+    {
+      "t": "S",
+      "v": "S+6.60",
+      "n": "$ScenarioAudio$ScenarioTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "Le lendemain soir, votre vrai frère ou sœur part pour un rendez-vous avec exactement la même tenue. ",
+      "n": "ScenarioText4"
+    },
+    {
+      "t": "S",
+      "v": "Le jeu informatique auquel vous jouez a une famille étrangement similaire à la vôtre. ",
+      "n": "ScenarioText1"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00 ",
+      "n": "$ScenarioAudio$ScenarioTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Un soir, votre « frère » informatisé va à un rendez-vous et ",
+      "n": "ScenarioText2"
+    },
+    {
+      "t": "S",
+      "v": "S+8.21",
+      "n": "$ScenarioAudio$ScenarioTextCue4"
+    },
+    {
+      "t": "S",
+      "v": "Les arrêtez-vous ? ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Un désastre virtuel ",
+      "t": "A",
+      "v": "Les arrêtez-vous ? ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Le jeu informatique auquel vous jouez a une famille étrangement similaire à la vôtre. Un soir, votre « frère » informatisé a un rendez-vous et cela se produit. Le lendemain soir, votre vrai frère ou sœur part pour un rendez-vous avec exactement la même tenue. Les arrêtez-vous ? ",
+      "t": "A",
+      "v": "742605_2",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    }
+  ]
+}

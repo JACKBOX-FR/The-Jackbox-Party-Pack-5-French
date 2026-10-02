@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "visage|voiture|fesses de bébé ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je nettoie constamment mon <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Chaque fois que je me retourne, je nettoie mon CECI ! ",
+      "t": "A",
+      "v": "754672_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

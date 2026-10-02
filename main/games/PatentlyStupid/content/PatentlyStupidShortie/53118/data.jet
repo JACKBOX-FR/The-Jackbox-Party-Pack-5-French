@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Internet | joie | des gens sympas ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "J'ai vraiment besoin d'accéder à <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : On m'a refusé l'accès à CECI ! ",
+      "t": "A",
+      "v": "759018_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

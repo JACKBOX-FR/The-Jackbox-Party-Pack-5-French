@@ -1,0 +1,96 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "Petite conversation funéraire | Mauvaises dates | Blagues de patron | Bavardage dans la salle de bain | Une réunion de famille élargie ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "S+13.34",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "S+5.54",
+      "n": "$ScenarioAudio$ScenarioTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "<BLANK> ? » ",
+      "n": "ScenarioText3"
+    },
+    {
+      "t": "S",
+      "v": "S+7.78",
+      "n": "$ScenarioAudio$ScenarioTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "Le gagnant reçoit 25 000 $. Le perdant doit faire encore trois saisons. ",
+      "n": "ScenarioText4"
+    },
+    {
+      "t": "S",
+      "v": "Une nouvelle émission de téléréalité ne vous bloque pas sur une île ; au lieu de cela, vous devez survivre à une situation sociale délicate. ",
+      "n": "ScenarioText1"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00 ",
+      "n": "$ScenarioAudio$ScenarioTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Le spectacle s'appelle \"Pouvez-vous survivre ",
+      "n": "ScenarioText2"
+    },
+    {
+      "t": "S",
+      "v": "S+9.14",
+      "n": "$ScenarioAudio$ScenarioTextCue4"
+    },
+    {
+      "t": "S",
+      "v": "Vous vous inscrivez au spectacle ? ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Je pourrais juste mourir ",
+      "t": "A",
+      "v": "Vous vous inscrivez au spectacle ? ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Une nouvelle émission de téléréalité ne vous bloque pas sur une île, mais vous devez plutôt survivre à une situation sociale délicate. L'émission s'appelle Can You Survive This. Le gagnant reçoit 25 000 $. Le perdant doit faire encore trois saisons. Vous vous inscrivez pour la nouvelle saison ? ",
+      "t": "A",
+      "v": "765001_2",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    }
+  ]
+}

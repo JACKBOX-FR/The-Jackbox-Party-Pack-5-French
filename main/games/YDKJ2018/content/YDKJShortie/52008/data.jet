@@ -1,0 +1,139 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Gantier enfantin ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "2,1,0,3 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Si Donald Glover s'installait en France pour devenir gantier, quel serait son pseudonyme de gantier ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Pouvez-vous sentir le gant ce soir ? ",
+      "t": "A",
+      "v": "743245_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Mec, Donald Glover est tellement talentueux. ",
+      "t": "A",
+      "v": "743246_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "743248_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "OR\nComme disent les Français, ah non. (à utiliser pour tous) ",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "A Gantier est un gantier français. ",
+      "t": "A",
+      "v": "743250_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "If Donald Glover moved to France to become a glover, what would his glovemaking pseudonym be?",
+      "t": "A",
+      "v": "743247_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

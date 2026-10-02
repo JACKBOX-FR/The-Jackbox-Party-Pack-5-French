@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "les escaliers | l'échelle de l'entreprise | les palmarès musicaux ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "J'ai du mal à grimper <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : J'ai du mal à grimper CECI ! ",
+      "t": "A",
+      "v": "761898_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "la météo | un nouveau film Marvel | ours ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "J'aimerais savoir quand <BLANK> arrive ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je veux savoir quand CELA arrivera ! ",
+      "t": "A",
+      "v": "767129_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

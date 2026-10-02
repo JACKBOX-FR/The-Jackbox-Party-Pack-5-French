@@ -1,0 +1,421 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_6Correct"
+    },
+    {
+      "t": "S",
+      "v": "Terence D'Arby ",
+      "n": "Choice6_6Text"
+    },
+    {
+      "t": "S",
+      "v": "commence par B ",
+      "n": "Root2Text"
+    },
+    {
+      "t": "S",
+      "v": "Chad Murray ",
+      "n": "Choice5_4Text"
+    },
+    {
+      "t": "S",
+      "v": "James Cooper ",
+      "n": "Choice2_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Stevie Vaughan ",
+      "n": "Choice4_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Paul Anderson ",
+      "n": "Choice6_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Arthur Doyle ",
+      "n": "Choice3_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Jerry Lewis ",
+      "n": "Choice1_6Text"
+    },
+    {
+      "t": "S",
+      "v": "commence par L ",
+      "n": "Root1Text"
+    },
+    {
+      "t": "S",
+      "v": "Jonathan Thomas ",
+      "n": "Choice6_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Coretta Roi ",
+      "n": "Choice2_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Evan Bois ",
+      "n": "Choice4_1Text"
+    },
+    {
+      "t": "S",
+      "v": "\"M\" est pour le deuxième prénom ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "Hélène Carter ",
+      "n": "Choice2_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Catherine Jones ",
+      "n": "Choice4_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Jamie Curtis ",
+      "n": "Choice1_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Sarah Gellar ",
+      "n": "Choice5_3Text"
+    },
+    {
+      "t": "S",
+      "v": "André Webber ",
+      "n": "Choice1_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Trésorerie de juin ",
+      "n": "Choice3_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Kathie Gifford ",
+      "n": "Choice1_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Neil Harris ",
+      "n": "Choice4_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Georges Carver ",
+      "n": "Choice2_5Text"
+    },
+    {
+      "t": "S",
+      "v": "commence par M ",
+      "n": "Root5Text"
+    },
+    {
+      "t": "S",
+      "v": "commence par R ",
+      "n": "Root4Text"
+    },
+    {
+      "t": "S",
+      "v": "Sucre Léonard ",
+      "n": "Choice4_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Harriet Stowe ",
+      "n": "Choice2_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Sandra O'Connor ",
+      "n": "Choice6_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Antoine Salle ",
+      "n": "Choice5_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Tommy Jones ",
+      "n": "Choice1_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Jeffrey Morgan ",
+      "n": "Choice3_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Lisa Presley ",
+      "n": "Choice5_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Henri Longfellow ",
+      "n": "Choice3_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Hans Anderson ",
+      "n": "Choice3_6Text"
+    },
+    {
+      "t": "S",
+      "v": "François Coppola ",
+      "n": "Choice1_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Paul Glaser ",
+      "n": "Choice5_5Text"
+    },
+    {
+      "t": "S",
+      "v": "commence par C ",
+      "n": "Root3Text"
+    },
+    {
+      "t": "S",
+      "v": "Marie Lincoln ",
+      "n": "Choice6_2Text"
+    },
+    {
+      "t": "S",
+      "v": "commence par T ",
+      "n": "Root6Text"
+    },
+    {
+      "t": "S",
+      "v": "Apolo Ohno ",
+      "n": "Choice2_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Edgar Burroughs ",
+      "n": "Choice4_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Clé François ",
+      "n": "Choice6_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Joyce Oates ",
+      "n": "Choice3_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Jonathan Meyers ",
+      "n": "Choice5_1Text"
+    },
+    {
+      "s": "\"M\" est pour le deuxième prénom ",
+      "t": "A",
+      "v": "761014_2 ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "C’est bizarre de voir ces personnes célèbres sans leur deuxième prénom signature. Bonne chance... ",
+      "t": "A",
+      "v": "761015_2 ",
+      "n": "IntroAudio"
+    }
+  ]
+}

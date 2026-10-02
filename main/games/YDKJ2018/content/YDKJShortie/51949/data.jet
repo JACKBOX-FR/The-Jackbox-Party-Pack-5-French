@@ -1,0 +1,140 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "un enterrement de vie de garçon australien sans méfiance ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "2,1,3,0 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Si Bill Murray apparaissait par hasard sur la rivière Murray, qui surprendrait-il ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Et Bob ? ",
+      "t": "A",
+      "v": "742413_3",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Vous savez à quel point Bill Murray aime se présenter à des endroits aléatoires et surprendre les gens avec son esprit sec et sa surabondance de bonne volonté publique ? Eh bien... ",
+      "t": "A",
+      "v": "742414_2",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "742416_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "Ou\nPersonne ne croira que vous avez manqué ça. (Tous) ",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Le fleuve Murray est le plus long fleuve d’Australie et le troisième plus long fleuve navigable au monde. ",
+      "t": "A",
+      "v": "742418_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Bon sang ! Même les MURRAY d’Australie sont plus grands que les nôtres. Mais LEUR Murray n'a jamais fait d'apparition lors du redémarrage de Ghostbusters en 2016. Alors là ! ",
+      "t": "A",
+      "v": "742419_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "If Bill Murray just randomly showed up on the Murray River, who would he likely be surprising?",
+      "t": "A",
+      "v": "742415_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

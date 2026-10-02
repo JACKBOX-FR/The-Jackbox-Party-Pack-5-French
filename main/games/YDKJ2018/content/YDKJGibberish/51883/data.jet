@@ -1,0 +1,100 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "S",
+      "v": "Ignorez le risque... ",
+      "n": "Clue1Text"
+    },
+    {
+      "t": "S",
+      "v": "...et faire quelque chose qui pourrait mal finir. ",
+      "n": "Clue2Text"
+    },
+    {
+      "t": "S",
+      "v": "Jetez la prudence au vent ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Jetez la prudence au vent, jetez la prudence au vent, jetez la prudence au vent, jetez la prudence au vent ",
+      "n": "Acceptable"
+    },
+    {
+      "t": "S",
+      "v": "Jetez vos soucis dans un vent violent ! ",
+      "n": "Clue3Text"
+    },
+    {
+      "t": "S",
+      "v": "Qu’est-ce qui contrarie frère Josh ? ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "Frère Josh a été trop contrarié. ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Ignorez le risque... ",
+      "t": "A",
+      "v": "741471_1",
+      "n": "Clue1Audio"
+    },
+    {
+      "s": "Qu’est-ce qui contrarie frère Josh ? ",
+      "t": "A",
+      "v": "741466_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Jetez vos soucis dans un vent violent ! ",
+      "t": "A",
+      "v": "741473_1",
+      "n": "Clue3Audio"
+    },
+    {
+      "s": "Jetez un œil à la phrase charabia et dites-moi avec quel conseil populaire elle rime. ",
+      "t": "A",
+      "v": "741467_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "OutroAudio"
+    },
+    {
+      "s": "...et faire quelque chose qui pourrait mal finir. ",
+      "t": "A",
+      "v": "741472_1",
+      "n": "Clue2Audio"
+    },
+    {
+      "s": "Frère Josh a été trop contrarié. ",
+      "t": "A",
+      "v": "741468_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

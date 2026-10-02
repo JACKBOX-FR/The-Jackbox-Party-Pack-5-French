@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "de l'argent|un sens de l'humour|de beaux cheveux ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "C'est embarrassant d'avoir un rendez-vous et de ne pas avoir <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je continue à avoir des rendez-vous et je n'ai pas CELA ! ",
+      "t": "A",
+      "v": "752735_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

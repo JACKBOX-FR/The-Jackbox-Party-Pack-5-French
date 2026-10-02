@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "enfants | incendies aléatoires | trop de poivre ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Mes vacances sont toujours gâchées par <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Mes vacances sont toujours gâchées par CELA ! ",
+      "t": "A",
+      "v": "765499_2",
+      "n": "PromptAudio"
+    }
+  ]
+}

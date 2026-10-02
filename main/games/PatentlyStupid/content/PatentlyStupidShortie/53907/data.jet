@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "voler des bonbons | chasser les espèces menacées | faire fonctionner les feux stop",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je continue à me faire arrêter pour <BLANK> !",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je continue d'atterrir en prison pour CELA !",
+      "t": "A",
+      "v": "767823_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

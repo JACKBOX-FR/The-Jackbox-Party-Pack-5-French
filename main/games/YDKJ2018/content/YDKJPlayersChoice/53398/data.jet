@@ -1,0 +1,50 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "une question qui n'a rien à cacher ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "une question avec une arrière-pensée ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "53395 ",
+      "n": "Choice2Id"
+    },
+    {
+      "t": "S",
+      "v": "Souhaitez-vous une question qui n’a rien à cacher ou une question avec une arrière-pensée ? ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "53394 ",
+      "n": "Choice1Id"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "Souhaitez-vous une question qui n’a rien à cacher ou une question avec une arrière-pensée ? ",
+      "t": "A",
+      "v": "761883_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

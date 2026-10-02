@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Porte de l'eau | mes yeux | un tatouage ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je veux couvrir <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : J'en ai marre et je veux cacher ça ! ",
+      "t": "A",
+      "v": "767755_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

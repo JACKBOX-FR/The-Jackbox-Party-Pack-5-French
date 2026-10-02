@@ -1,0 +1,245 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion5Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupPoorAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasDisAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion1Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion4Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTimingInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasScoreInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupRockedAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupAwfulAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion7Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasDatAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion6Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion3Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupOutroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupGoodAudio"
+    },
+    {
+      "t": "S",
+      "v": "S+8.45",
+      "n": "$InstructionsAudio$DatTextCue"
+    },
+    {
+      "t": "S",
+      "v": "Les filles, les filles, les filles ! ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "Thriller pour fille ",
+      "n": "DatButtonText"
+    },
+    {
+      "t": "S",
+      "v": "VERMEER ",
+      "n": "DisButtonText"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$InstructionsAudio$BothCue"
+    },
+    {
+      "t": "S",
+      "v": "un tableau de Vermeer ",
+      "n": "DisText"
+    },
+    {
+      "t": "S",
+      "v": "un roman policier « Girl » ",
+      "n": "DatText"
+    },
+    {
+      "t": "S",
+      "v": "S+4.00",
+      "n": "$InstructionsAudio$DisTextCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$DisAudio$DisButtonCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$DatAudio$DatButtonCue"
+    },
+    {
+      "s": "La Fille au verre de vin ",
+      "t": "A",
+      "v": "747520_1",
+      "n": "Question5Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "TimingInstructionsAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupOutroAudio"
+    },
+    {
+      "s": "Je vais vous lire sept titres, et pour chacun d'entre eux, je veux que vous me disiez s'il s'agit d'un # tableau du célèbre peintre hollandais Johannes Vermeer, ou d'un # de ces romans policiers \"pour filles\" si tendance ",
+      "t": "A",
+      "v": "747515_1",
+      "n": "InstructionsAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ScoreInstructionsAudio"
+    },
+    {
+      "s": "Officier et fille qui rit ",
+      "t": "A",
+      "v": "747522_1",
+      "n": "Question7Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupPoorAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupRockedAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupAwfulAudio"
+    },
+    {
+      "s": "La fille du train ",
+      "t": "A",
+      "v": "747517_1",
+      "n": "Question2Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupGoodAudio"
+    },
+    {
+      "s": "... Vermeer... ou... ",
+      "t": "A",
+      "v": "747528_3",
+      "n": "DisAudio"
+    },
+    {
+      "s": "Fille dans le noir ",
+      "t": "A",
+      "v": "747518_1",
+      "n": "Question3Audio"
+    },
+    {
+      "s": "Les filles, les filles, les filles ! et c'est l'heure d'un Dis ou Dat ! ",
+      "t": "A",
+      "v": "747514_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "...un thriller « Fille » ",
+      "t": "A",
+      "v": "747529_3",
+      "n": "DatAudio"
+    },
+    {
+      "s": "Fille au chapeau rouge ",
+      "t": "A",
+      "v": "747519_1",
+      "n": "Question4Audio"
+    },
+    {
+      "s": "Fille avec une boucle d'oreille en perle ",
+      "t": "A",
+      "v": "747516_1",
+      "n": "Question1Audio"
+    },
+    {
+      "s": "La bonne fille ",
+      "t": "A",
+      "v": "747521_1",
+      "n": "Question6Audio"
+    }
+  ]
+}

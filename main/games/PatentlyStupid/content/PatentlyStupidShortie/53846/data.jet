@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "parler | caca | renverser des secrets ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Les gens me disent que je <BLANK> trop ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Tout le monde me dit que je fais trop ça ! ",
+      "t": "A",
+      "v": "767638_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

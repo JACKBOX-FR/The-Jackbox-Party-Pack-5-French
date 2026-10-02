@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "grands repas | matchs de hockey | Films Godzilla ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je suis toujours triste après <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je suis toujours si triste après CELA ! ",
+      "t": "A",
+      "v": "767291_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

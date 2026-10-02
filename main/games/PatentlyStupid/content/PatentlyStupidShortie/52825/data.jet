@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "voler|voitures de sport|caviar ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Pourquoi <BLANK> ne peut-il pas être moins cher ?! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : J'aurais aimé que ce soit beaucoup moins cher ! ",
+      "t": "A",
+      "v": "755431_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

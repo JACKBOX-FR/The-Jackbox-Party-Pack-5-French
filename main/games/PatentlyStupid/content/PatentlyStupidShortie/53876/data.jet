@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "manger | chasse au cerf | fabrication de bougies ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je déteste <BLANK> tout seul ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Depuis que tu es parti, je fais toujours ça tout seul ? ",
+      "t": "A",
+      "v": "767728_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

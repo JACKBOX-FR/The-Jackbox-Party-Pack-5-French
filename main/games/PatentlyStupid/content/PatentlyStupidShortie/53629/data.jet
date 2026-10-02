@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "mon portefeuille | pantalons | comment fonctionne la nourriture ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "J'oublie toujours <BLANK> quand je voyage ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : J'adore voyager, mais j'oublie toujours CECI ! ",
+      "t": "A",
+      "v": "765707_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "manger du gombo | souris de taxidermie | terminer mon scénario ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Il n’y a jamais assez de temps pour <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je n’ai tout simplement pas assez de temps pour faire CECI ! ",
+      "t": "A",
+      "v": "766445_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

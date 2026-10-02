@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "la lune | mes rêves | la fin de PERDU ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je n’arrive pas à atteindre <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je n'arrive pas vraiment à atteindre CECI ! (Première prise) ",
+      "t": "A",
+      "v": "767686_2",
+      "n": "PromptAudio"
+    }
+  ]
+}

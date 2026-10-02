@@ -1,0 +1,245 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion5Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupPoorAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasDisAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion1Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion4Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTimingInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasScoreInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupRockedAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupAwfulAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion7Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasDatAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion6Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion3Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupOutroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupGoodAudio"
+    },
+    {
+      "t": "S",
+      "v": "S+7.75",
+      "n": "$InstructionsAudio$DatTextCue"
+    },
+    {
+      "t": "S",
+      "v": "Sorcières de base ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "COURSE DE DRAGÉE ",
+      "n": "DatButtonText"
+    },
+    {
+      "t": "S",
+      "v": "TEMPS D'AVENTURE ",
+      "n": "DisButtonText"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$InstructionsAudio$BothCue"
+    },
+    {
+      "t": "S",
+      "v": "un personnage de <i>Adventure Time</i> ",
+      "n": "DisText"
+    },
+    {
+      "t": "S",
+      "v": "un gagnant de <i>La course de dragsters de RuPaul</i> ",
+      "n": "DatText"
+    },
+    {
+      "t": "S",
+      "v": "S+3.95",
+      "n": "$InstructionsAudio$DisTextCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$DisAudio$DisButtonCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$DatAudio$DatButtonCue"
+    },
+    {
+      "s": "Mousson Jinkx ",
+      "t": "A",
+      "v": "755071_1",
+      "n": "Question5Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "TimingInstructionsAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupOutroAudio"
+    },
+    {
+      "s": "Je vais lire sept noms, et pour chacun d'entre eux, je veux que vous me disiez s'il s'agit # d'un personnage du dessin animé Adventure Time, ou # d'un gagnant de RuPaul's Drag Race ",
+      "t": "A",
+      "v": "755066_1",
+      "n": "InstructionsAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ScoreInstructionsAudio"
+    },
+    {
+      "s": "Brioche à la cannelle ",
+      "t": "A",
+      "v": "755073_1",
+      "n": "Question7Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupPoorAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupRockedAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupAwfulAudio"
+    },
+    {
+      "s": "Mon lapin ",
+      "t": "A",
+      "v": "755068_1",
+      "n": "Question2Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupGoodAudio"
+    },
+    {
+      "s": "...Adventure Time... ou... ",
+      "t": "A",
+      "v": "755079_2",
+      "n": "DisAudio"
+    },
+    {
+      "s": "Sharon Aiguilles ",
+      "t": "A",
+      "v": "755069_1",
+      "n": "Question3Audio"
+    },
+    {
+      "s": "Les sorcières de base et tout le reste sont sur le point de devenir féroces car il est temps pour un Dis ou un Dat ! ",
+      "t": "A",
+      "v": "755065_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "Course de dragsters ",
+      "t": "A",
+      "v": "755080_2",
+      "n": "DatAudio"
+    },
+    {
+      "s": "Suzanne Fort ",
+      "t": "A",
+      "v": "755070_1",
+      "n": "Question4Audio"
+    },
+    {
+      "s": "Reine des glaces ",
+      "t": "A",
+      "v": "755067_1",
+      "n": "Question1Audio"
+    },
+    {
+      "s": "Sasha Velours ",
+      "t": "A",
+      "v": "755072_1",
+      "n": "Question6Audio"
+    }
+  ]
+}

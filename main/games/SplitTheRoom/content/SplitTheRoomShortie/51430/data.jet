@@ -1,1 +1,86 @@
-{"fields":[{"t":"B","v":"true","n":"HasScenarioAudio"},{"t":"B","v":"true","n":"HasCategoryAudio"},{"t":"B","v":"false","n":"HasResponseAudio"},{"t":"S","v":"never grow hair again | forget all song lyrics | die in exactly 30 years | have their bank account erased | be struck by lighting","n":"Decoys"},{"t":"S","v":"S+10.12","n":"$ScenarioAudio$QuestionTextCue"},{"t":"S","v":"","n":"Keywords"},{"t":"S","v":"La transportes-tu ?","n":"QuestionText"},{"s":"Seal Your Tomb","t":"A","v":"735444_1","n":"CategoryAudio"},{"s":"You have found a forgotten mummy’s tomb. The discovery could make you famous, but there is a supposed curse. If the mummy is moved, the discoverer will have this happen to them. Do you transport it?","t":"A","v":"735445_3","n":"ScenarioAudio"},{"s":"","t":"A","n":"ResponseAudio"},{"n":"ScenarioText1","v":"Tu as trouvé la tombe d’une momie oubliée.","t":"S"},{"n":"$ScenarioAudio$ScenarioTextCue1","v":"S+0.00","t":"S"},{"n":"ScenarioText2","v":"La découverte pourrait te rendre célèbre, mais il y a une supposée malédiction.","t":"S"},{"n":"$ScenarioAudio$ScenarioTextCue2","v":"S+2.28","t":"S"},{"n":"ScenarioText3","v":"Si la momie est déplacée, celui qui l’a découverte <BLANK>.","t":"S"},{"n":"$ScenarioAudio$ScenarioTextCue3","v":"S+6.62","t":"S"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "ne laisse plus jamais pousser les cheveux | oublier toutes les paroles des chansons | mourir dans exactement 30 ans | voir leur compte bancaire effacé | être frappé par la lumière ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "S+10.12",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "La transportes-tu ?",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Scellez votre tombe ",
+      "t": "A",
+      "v": "735444_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Vous avez trouvé la tombe d’une momie oubliée. Cette découverte pourrait vous rendre célèbre, mais il existe une prétendue malédiction. Si la momie est déplacée, le découvreur fera en sorte que cela lui arrive. Le transportez-vous ? ",
+      "t": "A",
+      "v": "735445_3",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    },
+    {
+      "n": "ScenarioText1",
+      "v": "Tu as trouvé la tombe d’une momie oubliée.",
+      "t": "S"
+    },
+    {
+      "n": "$ScenarioAudio$ScenarioTextCue1",
+      "v": "S+0.00",
+      "t": "S"
+    },
+    {
+      "n": "ScenarioText2",
+      "v": "La découverte pourrait te rendre célèbre, mais il y a une supposée malédiction.",
+      "t": "S"
+    },
+    {
+      "n": "$ScenarioAudio$ScenarioTextCue2",
+      "v": "S+2.28",
+      "t": "S"
+    },
+    {
+      "n": "ScenarioText3",
+      "v": "Si la momie est déplacée, celui qui l’a découverte <BLANK>.",
+      "t": "S"
+    },
+    {
+      "n": "$ScenarioAudio$ScenarioTextCue3",
+      "v": "S+6.62",
+      "t": "S"
+    }
+  ]
+}

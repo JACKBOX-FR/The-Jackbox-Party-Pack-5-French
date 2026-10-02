@@ -1,0 +1,2952 @@
+{
+  "content": [
+    {
+      "questions": [
+        {
+          "text": "Chiens de réservoir ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Armaguédon ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Fargo ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Monstres, Inc. ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Con Air ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Billy Madison ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Le Grand Lebowski ",
+          "correctChoiceString": "cela"
+        }
+      ],
+      "disChoice": {
+        "longText": "Le personnage de Steve Buscemi est vivant à la fin du film ",
+        "shortText": "BUSCEMI VIT "
+      },
+      "datChoice": {
+        "longText": "Le personnage de Steve Buscemi est mort à la fin du film ",
+        "shortText": "BUSCEMI MEURT "
+      },
+      "id": "53726",
+      "category": {
+        "text": "Steving est la partie la plus difficile "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "avions ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "pénicilline ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "la fermeture éclair ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "bière en conserve ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "pain tranché ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "l'ampoule ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Israël ",
+          "correctChoiceString": "cela"
+        }
+      ],
+      "disChoice": {
+        "longText": "Plus âgée que Betty White ",
+        "shortText": "PLUS ÂGÉE QUE BETTY WHITE "
+      },
+      "datChoice": {
+        "longText": "Plus jeune que Betty White ",
+        "shortText": "PLUS JEUNE QUE BETTY WHITE "
+      },
+      "id": "53655",
+      "category": {
+        "text": "Mais elle est toujours cardée "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "Saturne ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Charlotte ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Jupiter ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Mars ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Miranda ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Samantha ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Vénus ",
+          "correctChoiceString": "cela"
+        }
+      ],
+      "disChoice": {
+        "longText": "j'ai une bague ",
+        "shortText": "BAGUE "
+      },
+      "datChoice": {
+        "longText": "pas une bague ",
+        "shortText": "PAS DE BAGUE "
+      },
+      "id": "53644",
+      "category": {
+        "text": "Jeu de mots obligatoire sur Uranus "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "né à la Nouvelle-Orléans ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "élevé par sa tante Lucy ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "travaillé comme laveur de vitres ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "est allé en prison ",
+          "correctChoiceString": "both"
+        },
+        {
+          "text": "chantait <i>Je ne suis pas un être humain</i> ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "j'ai couru dans un train à vapeur pour attraper un comédien vaniteux ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "était dans le coma ",
+          "correctChoiceString": "both"
+        }
+      ],
+      "disChoice": {
+        "longText": "quelque chose qui est arrivé à Paddington Bear dans <i>Paddington 2 ",
+        "shortText": "PADDINGTON "
+      },
+      "datChoice": {
+        "longText": "quelque chose qui est arrivé au rappeur Lil Wayne dans la vraie vie ",
+        "shortText": "LIL WAYNE "
+      },
+      "id": "53598",
+      "category": {
+        "text": "Mixtapes et marmelade "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "D'accord Dokey ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Ha Ha Ha ! Au revoir! ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Je fais, je fais, je fais, je fais, je fais ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Bang-A-Boomerang ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Allons-y ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Maman Mia ",
+          "correctChoiceString": "both"
+        },
+        {
+          "text": "C'est-A-Moi, Mario ",
+          "correctChoiceString": "cela"
+        }
+      ],
+      "disChoice": {
+        "longText": "une chanson du groupe pop suédois ABBA ",
+        "shortText": "ABBA "
+      },
+      "datChoice": {
+        "longText": "quelque chose que Mario dit dans un jeu vidéo ",
+        "shortText": "Super Mario "
+      },
+      "id": "53596",
+      "category": {
+        "text": "Connaissez-vous un bon plombier suédois ? "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "James __Avoy ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Ewan __Gregor ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Ian __Kellen ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Tim __Graw ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Norme __donald ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Shirley __Laine ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Seth __Farlane ",
+          "correctChoiceString": "ceci"
+        }
+      ],
+      "disChoice": {
+        "longText": "leur nom de famille commence par un Mac ",
+        "shortText": "MAC "
+      },
+      "datChoice": {
+        "longText": "leur nom de famille commence par un Mc ",
+        "shortText": "MC "
+      },
+      "id": "53581",
+      "category": {
+        "text": "Macky D's "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "a un personnage nommé Branch ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "comprend la chanson de Lionel Richie « Hello » ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "les méchants veulent manger les héros ",
+          "correctChoiceString": "both"
+        },
+        {
+          "text": "Grand-parent revient sous forme de fantôme ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "a un message sur le végétarisme ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "comprend la chanson « La sorcière du pop-corn » ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "il y a des trolls dedans ",
+          "correctChoiceString": "ceci"
+        }
+      ],
+      "disChoice": {
+        "longText": "le dessin animé pour enfants de 2016 <i>Trolls</i> ",
+        "shortText": "LES TROLLS (POUR LES ENFANTS) "
+      },
+      "datChoice": {
+        "longText": "le film d'horreur de 1990 <i>Troll 2</i> ",
+        "shortText": "TROLL 2 (HORREUR) "
+      },
+      "id": "53579",
+      "category": {
+        "text": "Les trolls seront aussi des trolls "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "a un dinosaure qui porte son nom ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "a une étoile sur le Hollywood Walk of Fame ",
+          "correctChoiceString": "both"
+        },
+        {
+          "text": "a été ambassadeur de bonne volonté de l'ONU ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "leur tombeau est une grande pyramide ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "nommé d'après un personnage de bande dessinée ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "a inspiré une chanson de Blue Oyster Cult ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "a joué dans plus de 90 films ",
+          "correctChoiceString": "ceci"
+        }
+      ],
+      "disChoice": {
+        "longText": "Nicolas Cage, l'acteur hollywoodien ",
+        "shortText": "Nicolas Cage "
+      },
+      "datChoice": {
+        "longText": "Godzilla, le roi de tous les monstres ",
+        "shortText": "GODZILLA "
+      },
+      "id": "53564",
+      "category": {
+        "text": "Deux Titans s'affrontent "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "né en France ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "apparaît dans <i>Lady Bird</i> ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "a la peau blanche ",
+          "correctChoiceString": "both"
+        },
+        {
+          "text": "pas végétalien ",
+          "correctChoiceString": "both"
+        },
+        {
+          "text": "la teneur en matières grasses est de 45 % ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "créé par une femme ",
+          "correctChoiceString": "both"
+        },
+        {
+          "text": "lisse et souple ",
+          "correctChoiceString": "both"
+        }
+      ],
+      "disChoice": {
+        "longText": "quelque chose de vrai sur l'acteur Timothée Chalamet ",
+        "shortText": "TIMOTHÉE CHALAMET "
+      },
+      "datChoice": {
+        "longText": "quelque chose de vrai sur le fromage camembert ",
+        "shortText": "CAMEMBERT "
+      },
+      "id": "53543",
+      "category": {
+        "text": "Appelez Brie par votre nom "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "Prancer ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Tapeur ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Comète ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Donner ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Tonnelier ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Blitzer ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Blitzen ",
+          "correctChoiceString": "ceci"
+        }
+      ],
+      "disChoice": {
+        "longText": "un des rennes du Père Noël ",
+        "shortText": "RENNES "
+      },
+      "datChoice": {
+        "longText": "un présentateur de nouvelles de CNN ",
+        "shortText": "CNN "
+      },
+      "id": "53415",
+      "category": {
+        "text": "Ho-Ho-Tendre le gouvernement responsable ! "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "un petit dragon couvert d'épines ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "un oiseau qui canalise l'électricité ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "une pieuvre paralysante couverte d'anneaux ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "un rongeur planeur avec des pouces ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "un chien de 6 pieds de haut que vous pouvez monter ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "une créature à bec de canard et aux pattes venimeuses ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "un chat qui imite la parole humaine ",
+          "correctChoiceString": "ceci"
+        }
+      ],
+      "disChoice": {
+        "longText": "un Pokémon ",
+        "shortText": "POKÉMON "
+      },
+      "datChoice": {
+        "longText": "un véritable animal que vous pouvez trouver en Australie aujourd'hui ",
+        "shortText": "AUSTRALIE "
+      },
+      "id": "53413",
+      "category": {
+        "text": "Je dois tous les éviter ! "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "\"Le bonheur n'est pas un objectif. C'est un sous-produit.\" ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "\"Je ne me sens jamais coupable d'être privilégié.\" ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "\"Personne ne peut vous faire sentir inférieur sans votre consentement.\" ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "« Si vous ne pouvez pas gérer la vérité, vous ne pouvez pas me gérer. » ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "\"Je vis le rêve américain, une erreur à la fois.\" ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "\"Une femme est comme un sachet de thé : on ne peut pas dire à quel point elle est forte tant qu'on ne la met pas dans l'eau chaude.\" ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "\"Je planifie l'avenir, mais je vis l'instant présent.\" ",
+          "correctChoiceString": "ceci"
+        }
+      ],
+      "disChoice": {
+        "longText": "un slogan de l'une des <i>Vraies femmes au foyer de New York</i> ",
+        "shortText": "DE VRAIES FEMMES AU FOYER "
+      },
+      "datChoice": {
+        "longText": "une citation d'Eleanor Roosevelt ",
+        "shortText": "ÉLÉANOR ROOSEVELT "
+      },
+      "id": "53407",
+      "category": {
+        "text": "Club des premières femmes au foyer"
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "République des garçons ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Pays des Colombes ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Au revoir la mer ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Royaume de Vipère ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Goat Island et Trois Sœurs ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Zakapa Urbain ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "République de Fredonia ",
+          "correctChoiceString": "cela"
+        }
+      ],
+      "disChoice": {
+        "longText": "un groupe de musique pop coréenne ",
+        "shortText": "K-POP "
+      },
+      "datChoice": {
+        "longText": "une micronation ",
+        "shortText": "MICRONATION "
+      },
+      "id": "53308",
+      "category": {
+        "text": "K pour Pays "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "Reine des glaces ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Mon lapin ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Sharon Aiguilles ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Suzanne Fort ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Mousson Jinkx ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Sasha Velours ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Brioche à la cannelle ",
+          "correctChoiceString": "ceci"
+        }
+      ],
+      "disChoice": {
+        "longText": "un personnage de <i>Adventure Time</i> ",
+        "shortText": "TEMPS D'AVENTURE "
+      },
+      "datChoice": {
+        "longText": "un gagnant de <i>RuPaul's Drag Race</i> ",
+        "shortText": "COURSE DE DRAGÉE "
+      },
+      "id": "52805",
+      "category": {
+        "text": "Sorcières de base "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "Vague ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Stratos ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Orkut ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Orko ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Lame ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Bourdonnement ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Fisto ",
+          "correctChoiceString": "ceci"
+        }
+      ],
+      "disChoice": {
+        "longText": "un personnage de la gamme originale de jouets He-Man ",
+        "shortText": "HOMME "
+      },
+      "datChoice": {
+        "longText": "un réseau social raté lancé par Google ",
+        "shortText": "GOOGLE "
+      },
+      "id": "52742",
+      "category": {
+        "text": "Maîtres d’une très petite partie de l’univers "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "croquettes ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "guimpes ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "lappets ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "langoustines ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "épaulettes ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "verveine ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "jabots ",
+          "correctChoiceString": "ceci"
+        }
+      ],
+      "disChoice": {
+        "longText": "une pièce de mode de l'époque victorienne ",
+        "shortText": "MODE VICTORIENNE "
+      },
+      "datChoice": {
+        "longText": "nourriture servie à la réception de mariage du prince Harry et de Megan Markle ",
+        "shortText": "NOURRITURE DE MARIAGE ROYAL "
+      },
+      "id": "52698",
+      "category": {
+        "text": "Vous portez ce que vous mangez "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "Oxfam ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "La vraie religion ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Citoyens de l'humanité ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Toutes les mains ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Coalition humanitaire ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "7Pour toute l'humanité ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Interaction ",
+          "correctChoiceString": "cela"
+        }
+      ],
+      "disChoice": {
+        "longText": "une marque populaire de jeans ",
+        "shortText": "JEAN "
+      },
+      "datChoice": {
+        "longText": "une organisation humanitaire ",
+        "shortText": "HUMANITARISME "
+      },
+      "id": "52687",
+      "category": {
+        "text": "Sauvez le monde avec style "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "Orange ",
+          "correctChoiceString": "both"
+        },
+        {
+          "text": "Citron ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Banane ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Mangue ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Cerise ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Abricot ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Chaux ",
+          "correctChoiceString": "ceci"
+        }
+      ],
+      "disChoice": {
+        "longText": "une saveur de LaCroix ",
+        "shortText": "LACROIX "
+      },
+      "datChoice": {
+        "longText": "un élément dans Mme Pac-Man ",
+        "shortText": "MME. PAC MAN "
+      },
+      "id": "52661",
+      "category": {
+        "text": "Mademoiselle Pac-Man "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "Gwyneth Paltrow dans <i>Iron Man</i> ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Agent secret d'Angelina Jolie ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Star YouTube sur <i>Big Brother UK</i> ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "L'un des enfants de la tournée Willy Wonka ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "La rappeuse Cheryl James ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Candidat <i>Project Runway</i> de la 1ère saison ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Sammy Davis Jr. dans <i>Sel et Poivre</i> ",
+          "correctChoiceString": "ceci"
+        }
+      ],
+      "disChoice": {
+        "longText": "ils s'appellent Salt ",
+        "shortText": "SEL "
+      },
+      "datChoice": {
+        "longText": "ils s'appellent Pepper ",
+        "shortText": "POIVRE "
+      },
+      "id": "52654",
+      "category": {
+        "text": "Saisons de repêchage "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "Options pour vivre ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Je reviens tout de suite ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Piqué ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Sécurité ou massacre ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Dernière date ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Métalleux ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Anatomie d'un accident ",
+          "correctChoiceString": "cela"
+        }
+      ],
+      "disChoice": {
+        "longText": "un épisode de <i>Black Mirror</i> ",
+        "shortText": "MIROIR NOIR "
+      },
+      "datChoice": {
+        "longText": "un vieux film d'éducation à la conduite automobile ",
+        "shortText": "Éducation du conducteur "
+      },
+      "id": "52653",
+      "category": {
+        "text": "Pare-brise noir "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "Mme Farbissina ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Vanessa Kensington ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Caroline Bingly ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Robin des hirondelles ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Emma Woodhouse ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Kitty Bennet ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Fanny Prix ",
+          "correctChoiceString": "ceci"
+        }
+      ],
+      "disChoice": {
+        "longText": "un personnage d'un roman de Jane Austen ",
+        "shortText": "JANE AUSTEN "
+      },
+      "datChoice": {
+        "longText": "un personnage d'un film <i>Austin Powers</i> ",
+        "shortText": "POUVOIRS D'AUSTIN "
+      },
+      "id": "52652",
+      "category": {
+        "text": "Austen-tatif "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "Farro ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Osiris ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Amarante ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Teff ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Anubis ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Tefnout ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Freekeh ",
+          "correctChoiceString": "cela"
+        }
+      ],
+      "disChoice": {
+        "longText": "une divinité égyptienne ",
+        "shortText": "DIVINITÉ ÉGYPTIENNE "
+      },
+      "datChoice": {
+        "longText": "un type de grain entier ",
+        "shortText": "GRAINS ENTIER "
+      },
+      "id": "52632",
+      "category": {
+        "text": "Oh, des grains entiers "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "Appleby ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Monsieur Grapefellow ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Blés Buc ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Colonel Korn ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Capitaine Oryctérope ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Baron Von Redberry ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Joe affamé ",
+          "correctChoiceString": "ceci"
+        }
+      ],
+      "disChoice": {
+        "longText": "personnage du roman <i>Catch-22</i> de Joseph Heller ",
+        "shortText": "CAPTURE-22 "
+      },
+      "datChoice": {
+        "longText": "abandon des céréales pour petit-déjeuner de General Mills ",
+        "shortText": "CÉRÉALES "
+      },
+      "id": "52608",
+      "category": {
+        "text": "Un délicieux bol de troupes de fruits "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "Nachos à la poubelle ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Moulinet Gros Poisson ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Papas Cherry Poppin' ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Sainte Haluska ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Cornichon Skankin ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Bad Boy au bœuf de Baltimore ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Aint' No Thing Aile de poulet Butta ",
+          "correctChoiceString": "cela"
+        }
+      ],
+      "disChoice": {
+        "longText": "un groupe de ska ",
+        "shortText": "SKA "
+      },
+      "datChoice": {
+        "longText": "un des plats signatures de Guy Fieri ",
+        "shortText": "GUY FIÉRI "
+      },
+      "id": "52603",
+      "category": {
+        "text": "Frénésie ardente de Fedora "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "Bord de l'Atlantique ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Extraterrestre : Alliance ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Les terminateurs ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Le destin des furieux ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "L'aube de la planète des singes ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Thor tout-puissant ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Journée des Indépendants ",
+          "correctChoiceString": "cela"
+        }
+      ],
+      "disChoice": {
+        "longText": "un blockbuster de plusieurs millions de dollars ",
+        "shortText": "SUPERBUSTER "
+      },
+      "datChoice": {
+        "longText": "une arnaque directe en vidéo réalisée par The Asylum ",
+        "shortText": "MOCKBUSTER "
+      },
+      "id": "52575",
+      "category": {
+        "text": "Mockblockers "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "Blanche DuBois ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Rose de mouton ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Thomas Ravenel ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Chance Wayne ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Amanda Wingfield ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Brique Pollitt ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Landon Cléments ",
+          "correctChoiceString": "ceci"
+        }
+      ],
+      "disChoice": {
+        "longText": "un acteur de l'émission de téléréalité <i>Southern Charm</i> ",
+        "shortText": "<i>LE CHARME DU SUD</i> "
+      },
+      "datChoice": {
+        "longText": "un personnage d'une pièce de théâtre de Tennessee Williams ",
+        "shortText": "WILLIAMS DU TENNESSEE "
+      },
+      "id": "52572",
+      "category": {
+        "text": "Une émission de télé-réalité nommée Désir "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "Hors de vue ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Aide-moi",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Libère-moi simplement ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Quand l'espoir ne suffit pas ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Le plan de sauvegarde ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Respirez profondément ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Assez ",
+          "correctChoiceString": "ceci"
+        }
+      ],
+      "disChoice": {
+        "longText": "film avec Jennifer Lopez ",
+        "shortText": "FILM JLO "
+      },
+      "datChoice": {
+        "longText": "produit de soin par Philosophy ",
+        "shortText": "SOINS DE LA PEAU "
+      },
+      "id": "52568",
+      "category": {
+        "text": "Acné du bloc "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "Agissez comme une dame, pensez comme un homme ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Changer de voie ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Aller jusqu'au bout ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Les nouvelles règles ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "La troisième roue ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Il n'est tout simplement pas intéressé par toi ",
+          "correctChoiceString": "both"
+        },
+        {
+          "text": "Obtenez le gars ",
+          "correctChoiceString": "ceci"
+        }
+      ],
+      "disChoice": {
+        "longText": "un livre de conseils de rencontres populaire pour les femmes ",
+        "shortText": "LIVRE DE CONSEILS DE RENCONTRE "
+      },
+      "datChoice": {
+        "longText": "un film avec Ben Affleck ",
+        "shortText": "FILM DE BEN AFFLECK "
+      },
+      "id": "52564",
+      "category": {
+        "text": "<i>Argo</i> Sortez avec moi "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "Rob Roy ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Le parrain ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Le Rocher ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Coup de tonnerre ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Soleil levant ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Du sang et du sable ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Quatre cavaliers ",
+          "correctChoiceString": "ceci"
+        }
+      ],
+      "disChoice": {
+        "longText": "boisson contenant du<br>scotch ",
+        "shortText": "COCKTAIL ÉCOSSAIS "
+      },
+      "datChoice": {
+        "longText": "film qui contient<br>Sean Connery ",
+        "shortText": "SEAN CONNERY "
+      },
+      "id": "52546",
+      "category": {
+        "text": "Juste un lande "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "Conquis par les dragons ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "La sinistre envie ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Le contact de Satan ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Mon petit ami mammouth laineux ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "J'étais un loup-garou adolescent ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Amant à dents de sabre ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Maman milliardaire aime le butin ",
+          "correctChoiceString": "cela"
+        }
+      ],
+      "disChoice": {
+        "longText": "un film B usurpé par <i>MST3K</i> ",
+        "shortText": "MST3K "
+      },
+      "datChoice": {
+        "longText": "un roman érotique écrit par Whitney Fox ",
+        "shortText": "ROMAN ÉROTIQUE "
+      },
+      "id": "52543",
+      "category": {
+        "text": "J'ai été réduit en esclavage par des savants fous ! "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "Ver modeste ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Souris modeste ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Docteur Lion ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Wolfgang Loup ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Joe Carlin ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Dr Chien ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Dinosaure Jr. ",
+          "correctChoiceString": "ceci"
+        }
+      ],
+      "disChoice": {
+        "longText": "un groupe de rock qui a joué Lollapalooza ",
+        "shortText": "GROUPE DE ROCK "
+      },
+      "datChoice": {
+        "longText": "un animal des livres pour enfants <i>Busytown</i> de Richard Scarry ",
+        "shortText": "RICHARD EFFRAYANT ANIMAL "
+      },
+      "id": "52520",
+      "category": {
+        "text": "Squawk n' Roll "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "Acier d'horizon ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Chut du soir ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Eaux tumultueuses ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Piscine réfléchissante ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Aigle solitaire ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Anonyme ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Les belles choses ",
+          "correctChoiceString": "ceci"
+        }
+      ],
+      "disChoice": {
+        "longText": "un roman sexy de Danielle Steel ",
+        "shortText": "Roman de Danielle Steel "
+      },
+      "datChoice": {
+        "longText": "une nuance de gris offerte par l'entreprise de peinture Behr ",
+        "shortText": "nuance de gris "
+      },
+      "id": "52519",
+      "category": {
+        "text": "Aussi érotique que de regarder la peinture sécher "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "Komondor ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Komkor ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Kuvasz ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Kombrig ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Commandant ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Kooikerhondje ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Généralissime ",
+          "correctChoiceString": "cela"
+        }
+      ],
+      "disChoice": {
+        "longText": "une race de chien selon l'American Kennel Club ",
+        "shortText": "RACE DE CHIEN "
+      },
+      "datChoice": {
+        "longText": "un grade militaire en Union soviétique ",
+        "shortText": "RANG MILITAIRE SOVIÉTIQUE "
+      },
+      "id": "52514",
+      "category": {
+        "text": "Ordres d’aboiement "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "Salle dorée ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Feuille givrée ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Champs joyeux ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Trenchtown ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Dragon vert ",
+          "correctChoiceString": "both"
+        },
+        {
+          "text": "L'Aigle ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Champ de la mouche du fermier ",
+          "correctChoiceString": "ceci"
+        }
+      ],
+      "disChoice": {
+        "longText": "lieu mentionné dans le <i>Seigneur des Anneaux</i> ",
+        "shortText": "SdA "
+      },
+      "datChoice": {
+        "longText": "un magasin de cannabis à Denver, Colorado ",
+        "shortText": "MAGASIN DE CANNABIS "
+      },
+      "id": "52512",
+      "category": {
+        "text": "En haut du mont Doom "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "Le groupe des frères nus ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Bande de frères ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Frères Blues ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Ô frère, où es-tu ? ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Frères de propriété ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Les frères Bloom ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Demi-frères ",
+          "correctChoiceString": "ceci"
+        }
+      ],
+      "disChoice": {
+        "longText": "les frères forment un groupe ",
+        "shortText": "BRO-BANDE "
+      },
+      "datChoice": {
+        "longText": "les frères ne forment PAS un groupe ",
+        "shortText": "PAS DE BANDE "
+      },
+      "id": "52508",
+      "category": {
+        "text": "Frères et sœurs synchronisés "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "Le dernier d'entre nous ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Fin des temps ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Survivant ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Une issue ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Halo ",
+          "correctChoiceString": "both"
+        },
+        {
+          "text": "Destin ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "XO ",
+          "correctChoiceString": "ceci"
+        }
+      ],
+      "disChoice": {
+        "longText": "une chanson de Beyoncé ",
+        "shortText": "Beyoncé "
+      },
+      "datChoice": {
+        "longText": "un jeu vidéo ",
+        "shortText": "jeu vidéo "
+      },
+      "id": "52503",
+      "category": {
+        "text": "Appuyez sur A pour entrer en formation "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "Brochet ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Replier ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Poêle ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Antenne ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Sphère ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Ishtar ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Salto ",
+          "correctChoiceString": "ceci"
+        }
+      ],
+      "disChoice": {
+        "longText": "un flip de gymnastique olympique ",
+        "shortText": "RETOURNER "
+      },
+      "datChoice": {
+        "longText": "un film qui a échoué ",
+        "shortText": "flop "
+      },
+      "id": "52501",
+      "category": {
+        "text": "Flip ou Flop "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "Je ne porte pas de sous-vêtements aujourd'hui. ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Félicitez quelqu’un et il se taira. ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Tous les mots F ne sont pas des mots « F ». ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Internet est pour le porno. ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Tout le monde est un peu raciste. ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Je viens de faire des spaghettis pour la première fois. ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Les choses sont de saison pour une raison. ",
+          "correctChoiceString": "cela"
+        }
+      ],
+      "disChoice": {
+        "longText": "chanson de la comédie musicale <i>Avenue Q</i> ",
+        "shortText": "AVENUE Q "
+      },
+      "datChoice": {
+        "longText": "tweet de la « célébrité » Gary Busey ",
+        "shortText": "GARY BUSEY "
+      },
+      "id": "52475",
+      "category": {
+        "text": "Questions et réponses sur l'avenue "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "Poussière de beauté ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Poudre d'obscurité instantanée péruvienne ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Disparition de boutons en 10 secondes ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Brume apaisante pour enfants ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Charmes de rêverie ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Répulsif psychique contre les vampires ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "U-No-Poo ",
+          "correctChoiceString": "cela"
+        }
+      ],
+      "disChoice": {
+        "longText": "quelque chose que vous pouvez acheter chez Gwyneth Paltrow's Goop ",
+        "shortText": "GOOP "
+      },
+      "datChoice": {
+        "longText": "quelque chose que vous pourriez acheter dans le magasin de blagues des Weasley dans <i>Harry Potter</i> ",
+        "shortText": "LES SIFFLES DU MAGICIEN DE WEASLEY "
+      },
+      "id": "52447",
+      "category": {
+        "text": "Notre gamme de sorts de luxe "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "Fille avec une boucle d'oreille en perle ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "La fille du train ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Fille dans le noir ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Fille au chapeau rouge ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "La Fille au verre de vin ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "La bonne fille ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Officier et fille qui rit ",
+          "correctChoiceString": "ceci"
+        }
+      ],
+      "disChoice": {
+        "longText": "un tableau de Vermeer ",
+        "shortText": "VERMEER "
+      },
+      "datChoice": {
+        "longText": "un roman policier « Girl » ",
+        "shortText": "Thriller pour fille "
+      },
+      "id": "52264",
+      "category": {
+        "text": "Les filles, les filles, les filles ! "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "Homme haussant les épaules ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Homme pendu à la fenêtre ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Ouvrière d'usine ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Hommes avec des oreilles de lapin ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Fille Parapluie ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Fille avec corde à sauter ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Selfie ",
+          "correctChoiceString": "cela"
+        }
+      ],
+      "disChoice": {
+        "longText": "une œuvre d'art attribuée à Banksy ",
+        "shortText": "BANKSY "
+      },
+      "datChoice": {
+        "longText": "un emoji sur mon smartphone ",
+        "shortText": "ÉMOJI "
+      },
+      "id": "52171",
+      "category": {
+        "text": "Texte ou sous-texte "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "Freya ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Yeelen ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Balder ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Frig ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Veet ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Maman ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Sally Hansen ",
+          "correctChoiceString": "cela"
+        }
+      ],
+      "disChoice": {
+        "longText": "un dieu nordique ",
+        "shortText": "DIEU NORDIQUE "
+      },
+      "datChoice": {
+        "longText": "un kit d'épilation corporelle à domicile ",
+        "shortText": "CIRE CORPORELLE "
+      },
+      "id": "52097",
+      "category": {
+        "text": "Je me suis épilé la langue, maintenant c'est Thor "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "Diamant bleu ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Chercheur d'or ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Soie ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Incroyable ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Tellement délicieux ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Vagues ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Rêve ",
+          "correctChoiceString": "cela"
+        }
+      ],
+      "disChoice": {
+        "longText": "une chanson de Kanye West ",
+        "shortText": "KANYE OUEST "
+      },
+      "datChoice": {
+        "longText": "une marque de lait d'amande ",
+        "shortText": "LAIT D'AMANDE "
+      },
+      "id": "51924",
+      "category": {
+        "text": "Kanye intolérant "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "Arriver à Oui ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Classique Oui ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Essentiellement oui ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Année du Oui ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "En un mot : Oui ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Présentation de Oui ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Le meilleur oui ",
+          "correctChoiceString": "ceci"
+        }
+      ],
+      "disChoice": {
+        "longText": "livre d'auto-assistance le plus vendu ",
+        "shortText": "livre "
+      },
+      "datChoice": {
+        "longText": "album du groupe de rock progressif Yes ",
+        "shortText": "Oui album "
+      },
+      "id": "51826",
+      "category": {
+        "text": "Oh oui "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "Couteau à huîtres ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Destructeur de cochons ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Arc à bœufs ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Griffes de viande ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Assistant électrique ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Lève-poisson ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Broyeur de mammouth ",
+          "correctChoiceString": "cela"
+        }
+      ],
+      "disChoice": {
+        "longText": "un outil de chef spécialisé vendu par Sur la Table ",
+        "shortText": "outil du chef "
+      },
+      "datChoice": {
+        "longText": "un groupe de death metal ",
+        "shortText": "métal mortel "
+      },
+      "id": "51745",
+      "category": {
+        "text": "Les arts culinaires sont du métal en tant que F"
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "Bébé Huey ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Riche l'enfant ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Richie Rich ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Lil Yachty ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Petite Audrey ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Lil Scrappy ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Jeune Dro ",
+          "correctChoiceString": "cela"
+        }
+      ],
+      "disChoice": {
+        "longText": "un personnage de bande dessinée classique publié par Harvey Comics ",
+        "shortText": "bandes dessinées "
+      },
+      "datChoice": {
+        "longText": "un célèbre rappeur d'Atlanta ",
+        "shortText": "rappeur "
+      },
+      "id": "51553",
+      "category": {
+        "text": "Yung Casper le G amical "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "Début-Nacré ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Faire du kart Mozart ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Pete le hors-la-loi ",
+          "correctChoiceString": "both"
+        },
+        {
+          "text": "Pete le chat ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Petite dynamite ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Petit pistolet ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Petite Miss Bossy ",
+          "correctChoiceString": "ceci"
+        }
+      ],
+      "disChoice": {
+        "longText": "un personnage d'un célèbre livre pour enfants ",
+        "shortText": "livre pour enfants "
+      },
+      "datChoice": {
+        "longText": "un personnage d'une chanson de Bruce Springsteen ",
+        "shortText": "Springsteen "
+      },
+      "id": "51234",
+      "category": {
+        "text": "Bonne nuit, ténèbres aux abords de la ville "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "Zekpro ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Quillivant ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Trianium ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Atesson ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Daytrana ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Focalin ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "DrowseBuster ",
+          "correctChoiceString": "ceci"
+        }
+      ],
+      "disChoice": {
+        "longText": "marque de fidget spinners ",
+        "shortText": "FILEUR AGITIF "
+      },
+      "datChoice": {
+        "longText": "un médecin a prescrit un médicament contre le TDAH ",
+        "shortText": "MÉDICAMENT POUR LE TDAH "
+      },
+      "id": "51011",
+      "category": {
+        "text": "Demandez à votre médecin si les jouets vous conviennent "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "Chimpanzé ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Lion ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Chauve-souris ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Rat ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Fourmi ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Licorne ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Gollum ",
+          "correctChoiceString": "cela"
+        }
+      ],
+      "disChoice": {
+        "longText": "un animal mentionné dans la Bible King James ",
+        "shortText": "BIBLIQUE "
+      },
+      "datChoice": {
+        "longText": "un animal CGI joué par Andy Serkis ",
+        "shortText": "ANDY SERKIS "
+      },
+      "id": "50280",
+      "category": {
+        "text": "Toutes les créatures CGI de Dieu "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "Homme. Ville ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Palais de Cristal ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Club Boomerang ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Rangers de Queens Park ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Soirée entre filles Barcelone ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Ville de Stoke ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Richards échangistes ",
+          "correctChoiceString": "cela"
+        }
+      ],
+      "disChoice": {
+        "longText": "un club de football anglais ",
+        "shortText": "CLUB DE FOOTBALL ANGLAIS "
+      },
+      "datChoice": {
+        "longText": "un club de strip-tease pour hommes ",
+        "shortText": "CLUB DE STRAP POUR HOMMES "
+      },
+      "id": "50279",
+      "category": {
+        "text": "Broyez-le comme Beckham "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "Le roi rouge ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Le roi fou ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Le chien ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Le moucheron ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Bandersnatch ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Petit doigt ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Tarte chaude ",
+          "correctChoiceString": "cela"
+        }
+      ],
+      "disChoice": {
+        "longText": "un personnage de <i>De l'autre côté du miroir</i> de Lewis Carroll ",
+        "shortText": "<i>De l'autre côté du miroir</i> "
+      },
+      "datChoice": {
+        "longText": "un personnage de <i>Game of Thrones</i> ",
+        "shortText": "<i>Jeu des trônes</i> "
+      },
+      "id": "50260",
+      "category": {
+        "text": "Un lapin blanc comme neige "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "Pensez grand ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Utilisez un système de récompense ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Livrer les marchandises ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Utilisez votre effet de levier ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Aborder les idées fausses ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Encouragements ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Amusez-vous ",
+          "correctChoiceString": "ceci"
+        }
+      ],
+      "disChoice": {
+        "longText": "La formule en 11 étapes de Donald Trump pour réussir en affaires ",
+        "shortText": "ATOUT "
+      },
+      "datChoice": {
+        "longText": "conseils de WebMD sur la façon de prévenir l'énurésie nocturne ",
+        "shortText": "L'énurésie nocturne "
+      },
+      "id": "50230",
+      "category": {
+        "text": "Trouvez les fuyards ! "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "Liens Jack ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Ben Higgins ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Armure Eckrich ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Jake Pavelka ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Lorenzo Borghèse ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Emballage Eddy ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Matt Grant ",
+          "correctChoiceString": "ceci"
+        }
+      ],
+      "disChoice": {
+        "longText": "nom du personnage masculin principal de <i>The Bachelor</i> ",
+        "shortText": "LE BACHELOR "
+      },
+      "datChoice": {
+        "longText": "une marque de bâtonnets de bœuf ",
+        "shortText": "BÂTON DE BOEUF "
+      },
+      "id": "50221",
+      "category": {
+        "text": "Tu m'as chassé à Bonjour "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "<i>Avant l'éveil</i> ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "<i>Étoiles perdues</i> ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "<i>Tombé trop loin</i> ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "<i>Doux mal</i> ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "<i>Disciple Noir</i> ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "<i>Le perdre</i> ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "<i>Dernier coup</i> ",
+          "correctChoiceString": "ceci"
+        }
+      ],
+      "disChoice": {
+        "longText": "un livre dans la franchise Star Wars ",
+        "shortText": "GUERRES DES ÉTOILES "
+      },
+      "datChoice": {
+        "longText": "un « livre populaire sur la virginité » selon Good Reads ",
+        "shortText": "VIERGES "
+      },
+      "id": "50208",
+      "category": {
+        "text": "Han Solo fait l'amour "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "Aloysius Van Winkle ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Digby Van Winkle ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Nevill Francis Mott ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Neville Jacobs ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Maddie Humphrey ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Polykarpe Kusch ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Wolfgang Pauli ",
+          "correctChoiceString": "cela"
+        }
+      ],
+      "disChoice": {
+        "longText": "un chien sur Instagram qui compte plus de 100 000 abonnés ",
+        "shortText": "CHIEN INSTAGRAM "
+      },
+      "datChoice": {
+        "longText": "un prix Nobel de physique ",
+        "shortText": "LAURÉAT DU NOBEL "
+      },
+      "id": "50206",
+      "category": {
+        "text": "Pensez en bio "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "Nitro ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Éthereum ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "siffleur ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Tiret ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Ondulation ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Bizarre ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Ruée vers l'or ",
+          "correctChoiceString": "cela"
+        }
+      ],
+      "disChoice": {
+        "longText": "une cryptomonnaie comme Bitcoin ",
+        "shortText": "CRYPTO-MONNAIE "
+      },
+      "datChoice": {
+        "longText": "une montagne russe à Six Flags ",
+        "shortText": "MONTAGNES RUSSES "
+      },
+      "id": "50204",
+      "category": {
+        "text": "Fluctuation du marché : le trajet "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "Hyperboucle ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "EspaceX ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Plateforme temporelle ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Lien neuronal ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Nécrophone ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Ville Solaire ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Servo-gardes ",
+          "correctChoiceString": "cela"
+        }
+      ],
+      "disChoice": {
+        "longText": "un projet technologique porté par Elon Musk ",
+        "shortText": "ELON MUSC "
+      },
+      "datChoice": {
+        "longText": "une invention du super-vilain de bande dessinée Doctor Doom ",
+        "shortText": "DOCTEUR MORT "
+      },
+      "id": "50191",
+      "category": {
+        "text": "Peuples de la Terre, préparez-vous à être perturbés ! "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "PAC des valeurs du cœur ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Blanc vif PAC brillant ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "PAC d'alimentation 3-en-1 ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Fierté PAC ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "3T CAP ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Platine ActionPAC ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Tout-Puissant PAC ",
+          "correctChoiceString": "cela"
+        }
+      ],
+      "disChoice": {
+        "longText": "un comité d'action politique ",
+        "shortText": "COMITÉ D'ACTION POLITIQUE "
+      },
+      "datChoice": {
+        "longText": "partie du nom d'un sachet de détergent pour le linge ou la vaisselle ",
+        "shortText": "DOSSETTE DE DÉTERGENT "
+      },
+      "id": "50184",
+      "category": {
+        "text": "Lancer une campagne de propreté étincelante "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "Main de Dieu ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Maître Paume ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Bosch ",
+          "correctChoiceString": "both"
+        },
+        {
+          "text": "Vikings ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Goliath ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Patriote ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Husky ",
+          "correctChoiceString": "cela"
+        }
+      ],
+      "disChoice": {
+        "longText": "NOM D'UN PROGRAMME ORIGINAL AMAZON ",
+        "shortText": "SPECTACLE AMAZONIEN "
+      },
+      "datChoice": {
+        "longText": "MARQUE D'OUTIL ",
+        "shortText": "MARQUE D'OUTIL "
+      },
+      "id": "50182",
+      "category": {
+        "text": "L'homme du haut château en train de rénover "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "Curtido ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Cortana ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Brovada ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Atchara ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Clova ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Gari ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Évi ",
+          "correctChoiceString": "ceci"
+        }
+      ],
+      "disChoice": {
+        "longText": "le nom d'un assistant virtuel ",
+        "shortText": "ASSISTANT VIRTUELLE "
+      },
+      "datChoice": {
+        "longText": "un type de nourriture marinée ",
+        "shortText": "cornichon "
+      },
+      "id": "50181",
+      "category": {
+        "text": "Siri, plonge-moi dans le vinaigre "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "Teinte ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Lumineux ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Facile ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Résolution ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Lueur ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Sombre ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Douceur ",
+          "correctChoiceString": "cela"
+        }
+      ],
+      "disChoice": {
+        "longText": "un programme original Netflix ",
+        "shortText": "SUR NETFLIX "
+      },
+      "datChoice": {
+        "longText": "un paramètre de calibrage d'image sur mon téléviseur HD ",
+        "shortText": "DANS MES PARAMÈTRES TV "
+      },
+      "id": "50171",
+      "category": {
+        "text": "Encore une autre raison pour laquelle j'ai du mal à regarder <i>House of Cards</i> "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "Lingettes mec ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Lingettes Étoiles ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Bonnes lingettes ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Lingettes pour horloge ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Lingettes à l'eau ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Lingettes invisibles ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Lingettes pour les fesses de Bob ",
+          "correctChoiceString": "cela"
+        }
+      ],
+      "disChoice": {
+        "longText": "une sorte de transition de montage cinématographique ",
+        "shortText": "TRANSITION CINÉMA "
+      },
+      "datChoice": {
+        "longText": "une marque de lingette jetable pour les fesses ",
+        "shortText": "ESSUYAGE DES BOUTS "
+      },
+      "id": "50169",
+      "category": {
+        "text": "Frappez vos marques (de dérapage) "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "Clapet ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Anneau en C ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Bague en cire ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Robinet à bille ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "9\" Stroker ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Pinces à trèfle ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Ballon flottant ",
+          "correctChoiceString": "ceci"
+        }
+      ],
+      "disChoice": {
+        "longText": "une partie de toilettes ",
+        "shortText": "PIÈCE DE TOILETTE "
+      },
+      "datChoice": {
+        "longText": "une aide au plaisir ",
+        "shortText": "AIDE AU PLAISIR "
+      },
+      "id": "50168",
+      "category": {
+        "text": "Soulagement hardcore "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "Trinité-et-Tobago ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Rizzoli et îles ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Îles Turques et Caïques ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Wallis-et-Futuna ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Benson & Stabler ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "McNulty et couchette",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Château et Beckett ",
+          "correctChoiceString": "cela"
+        }
+      ],
+      "disChoice": {
+        "longText": "le nom d'une île ",
+        "shortText": "ÎLE "
+      },
+      "datChoice": {
+        "longText": "un duo de détectives télé ",
+        "shortText": "DUO DE DÉTECTEURS "
+      },
+      "id": "50166",
+      "category": {
+        "text": "Non, l'homme est une île "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "Pierre monopolisée ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Pierre stationnaire ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Pierre philosophale ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Pierre de résurrection ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Pierre déplacée ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Déplacer la pierre ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Pierre brûlée ",
+          "correctChoiceString": "ceci"
+        }
+      ],
+      "disChoice": {
+        "longText": "un terme de curling ",
+        "shortText": "TERME DE CURLING "
+      },
+      "datChoice": {
+        "longText": "une pierre magique du monde de Harry Potter ",
+        "shortText": "PIERRE DE POTIER "
+      },
+      "id": "50163",
+      "category": {
+        "text": "Tu es un Hoser, Harry ! "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "Transformateurs ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Donjons & Dragons ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Boîte en carton ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Bonnet Bébés ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Couverture ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Bâton ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Sac de terre ",
+          "correctChoiceString": "cela"
+        }
+      ],
+      "disChoice": {
+        "longText": "un intronisé au National Toy Hall of Fame ",
+        "shortText": "TEMPLE DE LA RENOMMÉE "
+      },
+      "datChoice": {
+        "longText": "pas ",
+        "shortText": "PAS "
+      },
+      "id": "50102",
+      "category": {
+        "text": "Ils vont vivre éternellement "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "Cognito mince ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Culottes maigres ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Soutien-gorge Cha Cha ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Undie Tectable ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Grande ceinture de grand-mère ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Zorx ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Femme Wedgie ",
+          "correctChoiceString": "cela"
+        }
+      ],
+      "disChoice": {
+        "longText": "un sous-vêtement gainant de Spanx ",
+        "shortText": "SPANX "
+      },
+      "datChoice": {
+        "longText": "un personnage de <i>Captain Underpants</i>",
+        "shortText": "CULOTTES DE CAPITAINE"
+      },
+      "id": "7179",
+      "category": {
+        "text": "Capitaine Muffin-Top"
+      }
+    }
+  ]
+}

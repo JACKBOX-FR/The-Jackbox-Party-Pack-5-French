@@ -1,0 +1,50 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "une question à laquelle vous avez déjà répondu ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "une question que tu rejoueras plus tard ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "52236 ",
+      "n": "Choice2Id"
+    },
+    {
+      "t": "S",
+      "v": "Souhaitez-vous une question à laquelle vous avez déjà joué... ou une question à laquelle vous rejouerez plus tard ? ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "52232 ",
+      "n": "Choice1Id"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "Souhaitez-vous une question à laquelle vous avez déjà joué... ou une question à laquelle vous rejouerez plus tard ? ",
+      "t": "A",
+      "v": "750929_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

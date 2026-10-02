@@ -1,0 +1,96 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "toi-même aux toilettes | « Déspacito » | un enfant qui crie | «Refuser pour quoi» | Citations de \"Shrek\" ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "S+11.22",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "S+3.96",
+      "n": "$ScenarioAudio$ScenarioTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "Cela fait jouer fort la machine ",
+      "n": "ScenarioText3"
+    },
+    {
+      "t": "S",
+      "v": "S+7.60",
+      "n": "$ScenarioAudio$ScenarioTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "<BLANK>. ",
+      "n": "ScenarioText4"
+    },
+    {
+      "t": "S",
+      "v": "Une société émettrice de cartes de crédit vous offre une remise en argent de 10 % sur tous vos achats. ",
+      "n": "ScenarioText1"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00 ",
+      "n": "$ScenarioAudio$ScenarioTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Le seul problème est que lorsque vous insérez la puce, elle fait un bruit très bizarre. ",
+      "n": "ScenarioText2"
+    },
+    {
+      "t": "S",
+      "v": "S+9.88",
+      "n": "$ScenarioAudio$ScenarioTextCue4"
+    },
+    {
+      "t": "S",
+      "v": "Utilisez-vous cette carte régulièrement ? ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Veuillez insérer la puce ",
+      "t": "A",
+      "v": "Utilisez-vous cette carte régulièrement ? ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Une société émettrice de cartes de crédit vous offre une remise en argent de 10 % sur tous vos achats. Le seul problème est que lorsque vous insérez la puce, elle fait un bruit très bizarre. Cela amène la machine à jouer ceci à haute voix. Utilisez-vous cette carte régulièrement ? ",
+      "t": "A",
+      "v": "750227_3",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    }
+  ]
+}

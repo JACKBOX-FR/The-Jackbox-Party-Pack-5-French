@@ -1,0 +1,50 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "une petite question ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "une longue question ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "51941 ",
+      "n": "Choice2Id"
+    },
+    {
+      "t": "S",
+      "v": "Souhaitez-vous une question courte... ou une question longue ? ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "51940 ",
+      "n": "Choice1Id"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "Souhaitez-vous une question courte... ou une question longue ? ",
+      "t": "A",
+      "v": "751024_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

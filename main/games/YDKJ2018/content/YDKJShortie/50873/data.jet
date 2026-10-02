@@ -1,0 +1,153 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "“... je m'appelle le génie du porc Jay Hormel...” ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "S+6.98 ",
+      "n": "$QuestionAudio$QuestionTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "1,0,2,3 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Quel devrait être le refrain d’ouverture ? ",
+      "n": "QuestionText2"
+    },
+    {
+      "t": "S",
+      "v": "Before",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Suppose Lin-Manuel Miranda’s next biographical hip-hop Broadway smash is about the inventor of Spam.",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "<i>Spamalot</i> a déjà été pris ",
+      "t": "A",
+      "v": "727553_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "On attribue à Charles Feltman la création du hot-dog, et croyez-moi, UN JOUR SON HISTOIRE SERA RACONTÉE. ",
+      "t": "A",
+      "v": "727565_6",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Sortez vos portefeuilles, le créateur de « Hamilton » remet ça... ",
+      "t": "A",
+      "v": "727554_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "727556_3",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "Uh-oh, spaghetti-NON ",
+      "t": "A",
+      "v": "727563_3",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "Oui, le produit est principalement du jambon, et le nom de famille de l’inventeur est Spam ! Quelles sont les chances ?! Ils sont élevés. Les chances sont très, très élevées. ",
+      "t": "A",
+      "v": "727561_3",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Jay Hormel is the father of American national treasure, Spam.",
+      "t": "A",
+      "v": "727558_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "“...and there’s a million ways my creation can be used in budget-conscious recipes...” Honestly. THIS SHOW WRITES ITSELF.",
+      "t": "A",
+      "v": "727559_4",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "Suppose Lin-Manuel Miranda’s next biographical hip-hop Broadway smash was about the inventor of Spam. What should be the opening chorus?",
+      "t": "A",
+      "v": "727555_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

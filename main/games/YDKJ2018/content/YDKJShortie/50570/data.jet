@@ -1,0 +1,139 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Alexander Fleming humilié par la pénicilline ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "1,2,3,0 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Qui va goûter à sa propre médecine ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Moments difficiles de l’histoire médicale ",
+      "t": "A",
+      "v": "723924_2",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "OU\nSi vous pensez que c'est embarrassant.... ",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "723927_3",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "OU\nVotre propre médicament serait une cuillerée de mal. (Tous) ",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "OR\nLe vaccin contre la variole a été développé par Edward Jenner, qui est insensible à l'ombre. ",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "En 1928, Fleming découvre ce qu’il appelle la pénicilline, le premier antibiotique au monde. ",
+      "t": "A",
+      "v": "723929_2",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Et pour le reste de sa vie, il a dû dire aux gens : « Pour la MILLIONIÈME fois, si c’est juste un rhume, ça ne marchera pas ! » ",
+      "t": "A",
+      "v": "723930_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "Who is getting a taste of their own medicine?",
+      "t": "A",
+      "v": "723926_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "l'environnement | mon bas du dos | les baleines ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "J'aimerais soutenir <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : J'ai besoin d'un moyen efficace pour soutenir CECI ! ",
+      "t": "A",
+      "v": "767132_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

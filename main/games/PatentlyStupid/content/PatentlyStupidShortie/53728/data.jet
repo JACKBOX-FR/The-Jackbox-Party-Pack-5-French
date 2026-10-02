@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Monde occidental | une tortue | sirop ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je ne supporte pas la lenteur de <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je ne supporte tout simplement pas à quel point CELA est lent ! ",
+      "t": "A",
+      "v": "766886_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

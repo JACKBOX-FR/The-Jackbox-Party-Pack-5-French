@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "renifle | oiseaux | clowns qui rient ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je déteste absolument le son de <BLANK>. ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Le son de CECI me rend fou. ",
+      "t": "A",
+      "v": "760599_2",
+      "n": "PromptAudio"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "\"J'ai posé mon pichet d'eau là-bas, sur le canapé.\" ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "S+4.86 ",
+      "n": "$QuestionAudio$QuestionTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "0,1,2,3 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "«J'ai posé mon aiguière là, sur le canapé.» ",
+      "n": "QuestionText2"
+    },
+    {
+      "t": "S",
+      "v": "Before",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Translate this old-fashioned English into some new-fashioned English:",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Jeanne de la langue archaïque ",
+      "t": "A",
+      "v": "759320_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Hein, celui-ci me parle bizarrement. ",
+      "t": "A",
+      "v": "759332_3",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Oh, je dois me rappeler d'appeler le Metropolitan Water Reclamation District parce qu'ils n'ont pas approuvé mon permis pour construire un étang de carpes koï hors sol dans mon allée... mais laissez-moi d'abord poser cette question. ",
+      "t": "A",
+      "v": "759321_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "759323_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "It’s the most boringest one and the most correct-est.",
+      "t": "A",
+      "v": "759325_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "So sue-eth me.",
+      "t": "A",
+      "v": "759326_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "Translate this old-fashioned English into some new-fashioned English: “I set my ewer thither on the settee.”",
+      "t": "A",
+      "v": "759322_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "\"ÉTHIQUE!\" ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "1,3,0,2 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Si après avoir suivi un cours de sociologie, Diane convainquait les clients de <i>Cheers</i> de commencer à considérer Norm comme l'un des quatre types de normes culturelles, que ne crieraient-ils PAS lorsqu'il franchirait la porte ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Vous vous souvenez des <i>Bravo</i> ? ",
+      "t": "A",
+      "v": "717652_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "OU\nJe crois que c'était le spin-off avec Kelsey Grammer. ",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "717655_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "OR\nJe ne veux pas juger, mais Taboo a tort. ",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "OR\nNon, c'est la commande de Norm au bar.\nOR\nJeers ! (TOUS) ",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Les mœurs, les traditions populaires, les tabous et les lois sont quatre normes culturelles. L’éthique ne peut que contribuer à façonner les normes. ",
+      "t": "A",
+      "v": "717657_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Bien que boire 12 bières par nuit ait également un effet sur la forme des normes. ",
+      "t": "A",
+      "v": "717658_2",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "If after taking a sociology class, Diane convinced the patrons of <i>Cheers</i> to start calling Norm one of the four types of cultural norms, what would they NOT shout as he walked through the door?",
+      "t": "A",
+      "v": "717654_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

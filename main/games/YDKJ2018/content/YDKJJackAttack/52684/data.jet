@@ -1,0 +1,421 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_6Correct"
+    },
+    {
+      "t": "S",
+      "v": "Ray Holt ",
+      "n": "Choice6_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Parcs thématiques à Disney World ",
+      "n": "Root2Text"
+    },
+    {
+      "t": "S",
+      "v": "Parc Petco ",
+      "n": "Choice5_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Epcot ",
+      "n": "Choice2_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Royaume magique ",
+      "n": "Choice4_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Leslie Knopé ",
+      "n": "Choice6_1Text"
+    },
+    {
+      "t": "S",
+      "v": "La haie de Kempt et Chestnut Hill ",
+      "n": "Choice3_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Glacier ",
+      "n": "Choice1_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Parcs nationaux des États-Unis ",
+      "n": "Root1Text"
+    },
+    {
+      "t": "S",
+      "v": "Donna Meagle ",
+      "n": "Choice6_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Règne animal ",
+      "n": "Choice2_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Westland ",
+      "n": "Choice4_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Une promenade dans les parcs ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "Royaume magique ",
+      "n": "Choice2_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Monde occidental ",
+      "n": "Choice4_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Sion ",
+      "n": "Choice1_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Parc des délices ensoleillés ",
+      "n": "Choice5_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Cavernes de neige ",
+      "n": "Choice1_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Jardins de Kensington ",
+      "n": "Choice3_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Arcadie ",
+      "n": "Choice1_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Césarmonde ",
+      "n": "Choice4_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Le monde sorcier de Harry Potter ",
+      "n": "Choice2_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Parcs de la Ligue majeure de baseball ",
+      "n": "Root5Text"
+    },
+    {
+      "t": "S",
+      "v": "Parcs de la série télévisée <i>Westworld</i> ",
+      "n": "Root4Text"
+    },
+    {
+      "t": "S",
+      "v": "Monde Shogun ",
+      "n": "Choice4_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Disneyland ",
+      "n": "Choice2_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Tom Haverford ",
+      "n": "Choice6_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Parc sans fil Verizon ",
+      "n": "Choice5_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Pinacles ",
+      "n": "Choice1_4Text"
+    },
+    {
+      "t": "S",
+      "v": "La bruyère des poils ",
+      "n": "Choice3_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Parc AT&T ",
+      "n": "Choice5_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Jardins royaux de l'oie ",
+      "n": "Choice3_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Le parc vert ",
+      "n": "Choice3_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Grotte du Vent ",
+      "n": "Choice1_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Parc Minute Maid ",
+      "n": "Choice5_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Parcs royaux à Londres ",
+      "n": "Root3Text"
+    },
+    {
+      "t": "S",
+      "v": "Éléonore Shellstrop ",
+      "n": "Choice6_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Personnages <i>Parcs et loisirs</i> ",
+      "n": "Root6Text"
+    },
+    {
+      "t": "S",
+      "v": "Royaume magique ",
+      "n": "Choice2_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Le Raj ",
+      "n": "Choice4_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Rebecca Bouquet ",
+      "n": "Choice6_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Parc touffu ",
+      "n": "Choice3_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Promenade Spirit Air ",
+      "n": "Choice5_1Text"
+    },
+    {
+      "s": "Une promenade dans les parcs ",
+      "t": "A",
+      "v": "753477_1 ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Profitez d'une belle promenade à travers ces invites sur le thème du parc. Bonne chance... ",
+      "t": "A",
+      "v": "753478_4 ",
+      "n": "IntroAudio"
+    }
+  ]
+}

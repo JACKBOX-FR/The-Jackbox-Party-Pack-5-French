@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "loups-garous | mascottes de céréales | sœurs jumelles ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Mon jardin est infesté de <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Mon jardin... tu savais que je me suis lancé dans le jardinage ? Eh bien, je l’ai fait et c’est infesté, je veux dire infesté par CECI ! ",
+      "t": "A",
+      "v": "767801_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

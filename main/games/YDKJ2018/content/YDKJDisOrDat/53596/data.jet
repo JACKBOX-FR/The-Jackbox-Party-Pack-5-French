@@ -1,0 +1,245 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion5Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupPoorAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasDisAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion1Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion4Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTimingInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasScoreInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupRockedAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupAwfulAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion7Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasDatAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion6Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion3Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupOutroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupGoodAudio"
+    },
+    {
+      "t": "S",
+      "v": "S+7.53",
+      "n": "$InstructionsAudio$DatTextCue"
+    },
+    {
+      "t": "S",
+      "v": "Connaissez-vous un bon plombier suédois ? ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "Super Mario ",
+      "n": "DatButtonText"
+    },
+    {
+      "t": "S",
+      "v": "ABBA ",
+      "n": "DisButtonText"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$InstructionsAudio$BothCue"
+    },
+    {
+      "t": "S",
+      "v": "une chanson du groupe pop suédois ABBA ",
+      "n": "DisText"
+    },
+    {
+      "t": "S",
+      "v": "quelque chose que Mario dit dans un jeu vidéo ",
+      "n": "DatText"
+    },
+    {
+      "t": "S",
+      "v": "S+4.45",
+      "n": "$InstructionsAudio$DisTextCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$DisAudio$DisButtonCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$DatAudio$DatButtonCue"
+    },
+    {
+      "s": "Allons-y ",
+      "t": "A",
+      "v": "765335_1",
+      "n": "Question5Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "TimingInstructionsAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupOutroAudio"
+    },
+    {
+      "s": "Je vais lire sept éléments, et pour chacun d'entre eux, je veux que vous me disiez s'il s'agit # d'une chanson du groupe pop suédois ABBA, # de quelque chose que Mario dit dans un jeu vidéo, ou des deux ",
+      "t": "A",
+      "v": "765330_1",
+      "n": "InstructionsAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ScoreInstructionsAudio"
+    },
+    {
+      "s": "C'est-A-Moi, Mario ",
+      "t": "A",
+      "v": "765337_1",
+      "n": "Question7Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupPoorAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupRockedAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupAwfulAudio"
+    },
+    {
+      "s": "Ha Ha Ha ! Au revoir! ",
+      "t": "A",
+      "v": "765332_1",
+      "n": "Question2Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupGoodAudio"
+    },
+    {
+      "s": "...ABBA.... ",
+      "t": "A",
+      "v": "765343_1",
+      "n": "DisAudio"
+    },
+    {
+      "s": "Je fais, je fais, je fais, je fais, je fais ",
+      "t": "A",
+      "v": "765333_1",
+      "n": "Question3Audio"
+    },
+    {
+      "s": "... et c'est un DisOrDat TRÈS excité ! ",
+      "t": "A",
+      "v": "765329_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "...Super Mario... ",
+      "t": "A",
+      "v": "765344_1",
+      "n": "DatAudio"
+    },
+    {
+      "s": "Bang-A-Boomerang ",
+      "t": "A",
+      "v": "765334_1",
+      "n": "Question4Audio"
+    },
+    {
+      "s": "D'accord Dokey ",
+      "t": "A",
+      "v": "765331_1",
+      "n": "Question1Audio"
+    },
+    {
+      "s": "Maman Mia ",
+      "t": "A",
+      "v": "765336_1",
+      "n": "Question6Audio"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "la décoloration affecte les jours ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "S+6.65 ",
+      "n": "$QuestionAudio$QuestionTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "0,1,3,2 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "quelle conséquence psychologique vit-il ? ",
+      "n": "QuestionText2"
+    },
+    {
+      "t": "S",
+      "v": "Before",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "If Cookie renenders the good tines with ne, dut forgets the dad tines...",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Épilation nostalgique ",
+      "t": "A",
+      "v": "749792_2",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "COOKIE : Je me sens mélancolique, alors j'ai sorti mon vieux mannequin de ventriloque, Billy O'Brien !\nBILLY : Tu es né, dunny ?\nCOOKIE : Tu sais, je l'ai effectivement fait. Vous voulez lire une question en souvenir du bon vieux temps ?\nBILLY : Indubitablement ! ",
+      "t": "A",
+      "v": "749793_3",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "749795_3",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "BILLY : Non, ce serait pareil s'il pensait que j'étais complètement dans son imagination, qui est juste un idiot. ",
+      "t": "A",
+      "v": "749802_1",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "BILLY: Fading affect dias is the tendency to forget dad nenories and renender good nenories.",
+      "t": "A",
+      "v": "749797_5",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "COOKIE: Well, thanks for stopping by Billy.\r\nBILLY: That’s it? You didn’t even tlay ny song!\r\nCOOKIE: Oh uh...we’re not doing songs for special questions in this game, Billy. Binjpipe says it’s too expensive.\r\nBILLY: Oh...nevernind then.",
+      "t": "A",
+      "v": "749798_1f",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "BILLY: If Cookie renenders the good tines with ne, dut forgets the dad tines, what tsychological thenonenon is he exteriencing?",
+      "t": "A",
+      "v": "749794_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

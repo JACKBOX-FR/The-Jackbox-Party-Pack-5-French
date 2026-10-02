@@ -1,0 +1,140 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "boucles d'oreilles ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "3,1,2,0 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Quel accessoire porte La Vache qui rit ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Comment maintenant la vache qui rit ",
+      "t": "A",
+      "v": "738902_2",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "OU\nMoooooo-ha-ha-ha....non. (à utiliser pour tous) ",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "J'ai acheté du fromage La Vache qui rit, juste au cas où je serais invité à une fête, et je regarde le paquet. Je ne l'avais pas remarqué avant mais... ",
+      "t": "A",
+      "v": "738903_2",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "738905_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "La vache à fromage La Vache qui rit rit effectivement, tout en portant une paire de boucles d'oreilles en forme de fromage de bon goût. ",
+      "t": "A",
+      "v": "738907_2",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Elle est également complètement nue à l'exception de ces boucles d'oreilles, auxquelles je dis : VIVRE TA VIE, VACHE QUI RIT. ",
+      "t": "A",
+      "v": "738908_2",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "What accessory is The Laughing Cow wearing?",
+      "t": "A",
+      "v": "738904_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

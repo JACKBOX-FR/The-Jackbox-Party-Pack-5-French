@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "jouer au basket | gagner de l'argent | monter un taureau ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "J'adorerais <BLANK> comme un professionnel ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : J’ai toujours voulu faire CELA comme un professionnel, mais je ne peux pas ! ",
+      "t": "A",
+      "v": "752762_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "King Tut boeuf séché ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "0,2,3,1 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Que trouveriez-vous dans une boîte à butin organisée par l'archéologue Howard Carter ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "La dépression des caisses ",
+      "t": "A",
+      "v": "714048_2",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "714051_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "(rires intérieurement) J'ai une explication assez sophistiquée sur la raison pour laquelle cette réponse est si amusante intellectuellement, mais à la place... [sfx : bruit de pet] ",
+      "t": "A",
+      "v": "714056_0f",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Howard Carter est l'archéologue qui a découvert la tombe du roi Tut en 1922. ",
+      "t": "A",
+      "v": "714053_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Soyez donc prévenu que ce bœuf séché est probablement maudit. Je veux dire... encore plus que d'habitude pour la viande de bœuf séchée. ",
+      "t": "A",
+      "v": "714054_3",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "What would you find in a Loot Crate box that was curated by archaeologist Howard Carter?",
+      "t": "A",
+      "v": "714050_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

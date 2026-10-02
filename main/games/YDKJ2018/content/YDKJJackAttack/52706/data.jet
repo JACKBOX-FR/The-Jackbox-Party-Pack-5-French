@@ -1,0 +1,421 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_6Correct"
+    },
+    {
+      "t": "S",
+      "v": "Betty Kane ",
+      "n": "Choice6_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Actrices de <i>Girl Trip</i> ",
+      "n": "Root2Text"
+    },
+    {
+      "t": "S",
+      "v": "Shoshanna ",
+      "n": "Choice5_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Régina ",
+      "n": "Choice2_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Jo ",
+      "n": "Choice4_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Barbara Gordon ",
+      "n": "Choice6_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Caramel DeLites ",
+      "n": "Choice3_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Blanche ",
+      "n": "Choice1_6Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Filles en or</i> ",
+      "n": "Root1Text"
+    },
+    {
+      "t": "S",
+      "v": "Cassandra Caïn ",
+      "n": "Choice6_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Reine ",
+      "n": "Choice2_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Meg ",
+      "n": "Choice4_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Groupes de filles ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "Jada ",
+      "n": "Choice2_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Amy ",
+      "n": "Choice4_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Émilie ",
+      "n": "Choice1_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Hannah ",
+      "n": "Choice5_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Hannah ",
+      "n": "Choice1_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Daisy à faire ",
+      "n": "Choice3_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Rose ",
+      "n": "Choice1_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Beth ",
+      "n": "Choice4_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Tiffany ",
+      "n": "Choice2_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Les <i>filles<i> de HBO ",
+      "n": "Root5Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Petites femmes</i> ",
+      "n": "Root4Text"
+    },
+    {
+      "t": "S",
+      "v": "Rory ",
+      "n": "Choice4_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Halle ",
+      "n": "Choice2_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Stéphanie Brun ",
+      "n": "Choice6_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Lorelaï ",
+      "n": "Choice5_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Sophie ",
+      "n": "Choice1_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Fleurs de sucre ",
+      "n": "Choice3_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Alexis ",
+      "n": "Choice5_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Savane Sourires ",
+      "n": "Choice3_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Noix De Cacao ",
+      "n": "Choice3_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Dorothée ",
+      "n": "Choice1_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Marnie ",
+      "n": "Choice5_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Biscuits éclaireuses ",
+      "n": "Root3Text"
+    },
+    {
+      "t": "S",
+      "v": "Lane Kim ",
+      "n": "Choice6_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Filles chauves-souris ",
+      "n": "Root6Text"
+    },
+    {
+      "t": "S",
+      "v": "Alto ",
+      "n": "Choice2_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Alice ",
+      "n": "Choice4_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Kara Danvers ",
+      "n": "Choice6_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Menthes fines ",
+      "n": "Choice3_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Cady ",
+      "n": "Choice5_1Text"
+    },
+    {
+      "s": "Groupes de filles ",
+      "t": "A",
+      "v": "753788_1 ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Nous donnerons le nom d'un groupe, vous choisissez les membres... bonne chance... ",
+      "t": "A",
+      "v": "753789_5 ",
+      "n": "IntroAudio"
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "tenant un poisson peint comme l’emblème du Vietnam ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "2,0,3,1 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Lorsque vous parcourez les photos de profil sur Tinder, laquelle de ces correspondances potentielles affiche un DRAPEAU ROUGE évident ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Si c'est faux, je ne veux pas glisser vers la droite ",
+      "t": "A",
+      "v": "721522_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Attention : Il y a des questions brûlantes dans votre région qui espèrent se rencontrer. ",
+      "t": "A",
+      "v": "721523_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "721525_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "Le drapeau de la Suède est bleu et jaune et vous devez l'assembler vous-même avec une clé Allen ",
+      "t": "A",
+      "v": "721532_1",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "Coquin, mais aussi incorrect. ",
+      "t": "A",
+      "v": "721530_1",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Le Vietnam a un grand drapeau rouge avec une étoile jaune. ",
+      "t": "A",
+      "v": "721527_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Le pire, c'est que j'ai cliqué sur le profil en espérant sortir avec le poisson-chat ! On dirait que j'ai redevenu humain. ",
+      "t": "A",
+      "v": "721528_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "When looking through profile pictures on Tinder, which of these potential matches displays an obvious red flag?",
+      "t": "A",
+      "v": "721524_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

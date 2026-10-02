@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "embrassé | attaqué par des oiseaux | crié à ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "J'en ai marre de recevoir <BLANK> tous les jours ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je suis tellement fatigué de recevoir ça tous les jours ! ",
+      "t": "A",
+      "v": "767117_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

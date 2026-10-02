@@ -1,0 +1,421 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_6Correct"
+    },
+    {
+      "t": "S",
+      "v": "James K. « Jeune Hickory » Polk ",
+      "n": "Choice6_6Text"
+    },
+    {
+      "t": "S",
+      "v": "pousse sur un arbre ",
+      "n": "Root2Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Saule</i> ",
+      "n": "Choice5_4Text"
+    },
+    {
+      "t": "S",
+      "v": "mangues ",
+      "n": "Choice2_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Mme Crabtree ",
+      "n": "Choice4_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Andrew « Vieux Hickory » Jackson ",
+      "n": "Choice6_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Winnie l'ourson ",
+      "n": "Choice3_5Text"
+    },
+    {
+      "t": "S",
+      "v": "racines ",
+      "n": "Choice1_6Text"
+    },
+    {
+      "t": "S",
+      "v": "parties d'un arbre ",
+      "n": "Root1Text"
+    },
+    {
+      "t": "S",
+      "v": "Harry « Sassafras » Truman ",
+      "n": "Choice6_5Text"
+    },
+    {
+      "t": "S",
+      "v": "ananas ",
+      "n": "Choice2_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Groot ",
+      "n": "Choice4_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Trucs d'arbre ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "raisins ",
+      "n": "Choice2_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Whitaker des forêts ",
+      "n": "Choice4_6Text"
+    },
+    {
+      "t": "S",
+      "v": "coffre ",
+      "n": "Choice1_1Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Harry Potter et le prisonnier d'Azkaban</i> ",
+      "n": "Choice5_3Text"
+    },
+    {
+      "t": "S",
+      "v": "échelles ",
+      "n": "Choice1_5Text"
+    },
+    {
+      "t": "S",
+      "v": "pika ",
+      "n": "Choice3_4Text"
+    },
+    {
+      "t": "S",
+      "v": "cambium ",
+      "n": "Choice1_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Grand-mère Saule ",
+      "n": "Choice4_4Text"
+    },
+    {
+      "t": "S",
+      "v": "pommes ",
+      "n": "Choice2_5Text"
+    },
+    {
+      "t": "S",
+      "v": "un film où un arbre attaque quelqu'un ",
+      "n": "Root5Text"
+    },
+    {
+      "t": "S",
+      "v": "est un arbre ",
+      "n": "Root4Text"
+    },
+    {
+      "t": "S",
+      "v": "Barbe-des-Arbres ",
+      "n": "Choice4_5Text"
+    },
+    {
+      "t": "S",
+      "v": "citrons ",
+      "n": "Choice2_1Text"
+    },
+    {
+      "t": "S",
+      "v": "William « Vieilles noix » McKinley ",
+      "n": "Choice6_4Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>L'événement</i> ",
+      "n": "Choice5_6Text"
+    },
+    {
+      "t": "S",
+      "v": "flegme ",
+      "n": "Choice1_4Text"
+    },
+    {
+      "t": "S",
+      "v": "orang-outan ",
+      "n": "Choice3_3Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Esprit frappeur</i> ",
+      "n": "Choice5_2Text"
+    },
+    {
+      "t": "S",
+      "v": "blaireau ",
+      "n": "Choice3_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Bob l'éponge ",
+      "n": "Choice3_6Text"
+    },
+    {
+      "t": "S",
+      "v": "rutter ",
+      "n": "Choice1_2Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Le Lorax</i> ",
+      "n": "Choice5_5Text"
+    },
+    {
+      "t": "S",
+      "v": "vit dans un arbre ",
+      "n": "Root3Text"
+    },
+    {
+      "t": "S",
+      "v": "John « Grand Chêne » Adams ",
+      "n": "Choice6_2Text"
+    },
+    {
+      "t": "S",
+      "v": "surnoms présidentiels américains liés aux arbres ",
+      "n": "Root6Text"
+    },
+    {
+      "t": "S",
+      "v": "bleuets ",
+      "n": "Choice2_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Racine rouillée ",
+      "n": "Choice4_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Millard « L’érable » Fillmore ",
+      "n": "Choice6_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Elfes Keebler ",
+      "n": "Choice3_2Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>informatique</i> ",
+      "n": "Choice5_1Text"
+    },
+    {
+      "s": "Trucs d'arbre ",
+      "t": "A",
+      "v": "766087_1 ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "C'est juste un tas de trucs liés aux arbres, je ne sais pas, lâche-moi... ",
+      "t": "A",
+      "v": "766088_6 ",
+      "n": "IntroAudio"
+    }
+  ]
+}

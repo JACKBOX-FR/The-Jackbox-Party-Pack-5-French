@@ -1,0 +1,96 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "pandas | cerf | licorne | chat sauvage | flamant rose ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "S+9.64",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "S+3.24",
+      "n": "$ScenarioAudio$ScenarioTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "s'accroupit à portée de main. C’est le seul animal que vous ayez vu. ",
+      "n": "ScenarioText3"
+    },
+    {
+      "t": "S",
+      "v": "S+4.51",
+      "n": "$ScenarioAudio$ScenarioTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "Tout ce que vous avez, c'est une ceinture. ",
+      "n": "ScenarioText4"
+    },
+    {
+      "t": "S",
+      "v": "Vous êtes perdu dans les bois depuis des semaines et vous mourez de faim. Soudain, un bébé ",
+      "n": "ScenarioText1"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00 ",
+      "n": "$ScenarioAudio$ScenarioTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "<BLANK> ",
+      "n": "ScenarioText2"
+    },
+    {
+      "t": "S",
+      "v": "S+8.32",
+      "n": "$ScenarioAudio$ScenarioTextCue4"
+    },
+    {
+      "t": "S",
+      "v": "Est-ce que vous le tuez ? ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Chassez ou soyez celui qui est chassé ",
+      "t": "A",
+      "v": "Est-ce que vous le tuez ? ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Vous êtes perdu dans les bois depuis des semaines et vous mourez de faim. Soudain, ce bébé animal s'accroupit à portée de main. C’est le seul animal que vous ayez vu. Tout ce que vous avez, c'est une ceinture. Est-ce que vous le tuez ? ",
+      "t": "A",
+      "v": "723037_3",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    }
+  ]
+}

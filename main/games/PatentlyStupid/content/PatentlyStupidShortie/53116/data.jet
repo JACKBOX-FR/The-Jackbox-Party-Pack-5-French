@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "le matin | « DooDa puant » | au lieu d'envoyer des SMS ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je déteste que tout le monde m'appelle <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : J'en ai marre que tout le monde m'appelle CECI ! ",
+      "t": "A",
+      "v": "759012_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

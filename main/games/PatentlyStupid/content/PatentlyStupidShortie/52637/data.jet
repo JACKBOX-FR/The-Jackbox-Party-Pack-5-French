@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "lèvres gercées|hibernation|les gros pulls ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "La pire période de l'hiver est <BLANK> !!! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je redoute l'hiver à cause de CELA ! ",
+      "t": "A",
+      "v": "752747_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "180 Pixy Stix ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "3,0,1,2 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Si chacun des Dixie Chicks a mangé soixante Pixy Stix, combien de Pixy Stix les Dixie Chicks ont-ils mangés ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Le sucre fait irruption sur scène ",
+      "t": "A",
+      "v": "722855_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Vous êtes tombé amoureux de mon tour de bâton de lutin dixie chick. ",
+      "t": "A",
+      "v": "722867_5",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "722858_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "Au revoir Earl ! ",
+      "t": "A",
+      "v": "722865_1",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Il y a 3 personnes dans les Dixie Chicks, et 3 fois 60 font 180. ",
+      "t": "A",
+      "v": "722860_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "C’est trop sucré pour moi, mais mesdames, vous faites tout ce qu’il faut pour écrire cette belle musique. ",
+      "t": "A",
+      "v": "722861_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "If each of the Dixie Chicks ate sixty Pixy Stix, how many Pixy Stix did the Dixie Chicks eat?",
+      "t": "A",
+      "v": "722857_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

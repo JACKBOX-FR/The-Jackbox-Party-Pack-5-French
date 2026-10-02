@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "éplucher des pommes de terre | me laver les mains | invoquer des esprits sombres ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je perds trop de temps <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je n'arrête pas de perdre mon temps à faire CECI ! ",
+      "t": "A",
+      "v": "761476_2",
+      "n": "PromptAudio"
+    }
+  ]
+}

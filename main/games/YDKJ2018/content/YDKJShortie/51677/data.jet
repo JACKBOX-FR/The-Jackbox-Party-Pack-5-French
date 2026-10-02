@@ -1,0 +1,140 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "\"L'archiduc Ferdinand a été assassiné Before notre brunch.\" ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "3,2,1,0 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Quel est un exemple de problème lié à la Première Guerre mondiale ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "La lutte internationale est réelle ",
+      "t": "A",
+      "v": "738686_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "738689_2",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "Je ne devrais pas le prendre personnellement, il n’a vraiment écouté personne. ",
+      "t": "A",
+      "v": "738694_4",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "L'assassinat de l'archiduc Ferdinand marque le début de la Première Guerre mondiale. ",
+      "t": "A",
+      "v": "738691_4",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Cela a également marqué la fin de notre relation. Je ne lui parlerai plus ! ",
+      "t": "A",
+      "v": "738692_3",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "What’s an example of a First World War Problem?",
+      "t": "A",
+      "v": "738688_3",
+      "n": "QuestionAudio"
+    }
+  ]
+}

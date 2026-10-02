@@ -1,0 +1,142 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "un signe de paix ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "3,0,2,1 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Quel est le « O » sur l’autocollant de pare-chocs « COEXIST » ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Renversé par de bonnes intentions ",
+      "t": "A",
+      "v": "755722_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Vous savez, cet autocollant de pare-chocs « Co-exist » que tous vos amis bien intentionnés apposent sur leurs SUV à 80 000 $ ? Bien sûr que oui. ",
+      "t": "A",
+      "v": "755723_2",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "755725_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "C’est le S. Maintenant, dites adieu à votre S. ",
+      "t": "A",
+      "v": "755732_1",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "Ouais. Ils ont trouvé des symboles pour CHAQUE AUTRES LETTRE, mais pour O, ils disaient : « Eh bien, rien ne ressemble à ça, je suis absent. » ",
+      "t": "A",
+      "v": "755730_4",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Le O dans « coexister » est représenté par un signe de paix. ",
+      "t": "A",
+      "v": "755727_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Et OÙ se trouve le monstre volant Sphaghetti sur ce soi-disant symbole d’inclusion ? C'est le point d'exclamation parfait ! ",
+      "t": "A",
+      "v": "755728_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "What’s the “O” in the “COEXIST” bumper sticker?",
+      "t": "A",
+      "v": "755724_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

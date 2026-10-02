@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "roller | aller au cours de zumba | prendre une douche ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "J'aurais aimé avoir l'énergie de <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je n’ai tout simplement pas l’énergie pour faire CECI ! ",
+      "t": "A",
+      "v": "766842_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

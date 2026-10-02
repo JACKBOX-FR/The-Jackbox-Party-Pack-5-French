@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "mon père | un cadeau de mariage | le chien qui a tout ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je ne sais jamais quoi acheter pour <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je ne sais jamais quoi acheter pour CELA ! ",
+      "t": "A",
+      "v": "766907_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

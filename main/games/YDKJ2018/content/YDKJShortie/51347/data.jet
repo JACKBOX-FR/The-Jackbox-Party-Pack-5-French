@@ -1,0 +1,151 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "« Coupe comme un couteau », par Bryan Adams ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "S+6.04 ",
+      "n": "$QuestionAudio$QuestionTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "1,0,3,2 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Quelle chanson Harry n'inclurait-il PAS ? ",
+      "n": "QuestionText2"
+    },
+    {
+      "t": "S",
+      "v": "Before",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Imagine Harry Potter, on a nostalgia kick, makes a ‘Horcrux Shout-Out!’ Spotify playlist.",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Le garçon qui a survécu... et qui a secoué",
+      "t": "A",
+      "v": "734188_2",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Cela doit être difficile de vaincre le sorcier maléfique le plus puissant de tous les temps, mais c'était il y a dix ans, et maintenant vous travaillez pour l'équivalent magique du DMV. Quoi qu'il en soit... ",
+      "t": "A",
+      "v": "734189_3",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "734191_2",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "Harry ÉTAIT un horcruxe, créé par un acte d'un mal indescriptible... à savoir être un fan des One Direction. ",
+      "t": "A",
+      "v": "734198_2",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "In the Harry Potter books, Voldemort shattered his soul into pieces, hiding them away in everyday objects. They were called Horcruxes. And no part of Voldemort’s soul wound up in a knife.",
+      "t": "A",
+      "v": "734193_2",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Because even Voldemort knew the greatest magic of all is a power ballad sung by a Canadian with a mullet.",
+      "t": "A",
+      "v": "734194_3",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "Imagine Harry Potter, on a nostalgia kick, makes a ‘Horcrux Shout-Out!’ Spotify playlist. Which song would Harry NOT include?",
+      "t": "A",
+      "v": "734190_3",
+      "n": "QuestionAudio"
+    }
+  ]
+}

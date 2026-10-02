@@ -1,0 +1,100 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "S",
+      "v": "Je suis d'humeur... ",
+      "n": "Clue1Text"
+    },
+    {
+      "t": "S",
+      "v": "... tu ne m'en empêcheras pas. ",
+      "n": "Clue2Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Je ne peux pas arrêter ce sentiment</i> ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Je ne peux pas arrêter le sentiment, je ne peux pas arrêter le sentiment, je ne peux pas arrêter le sentiment, je ne peux pas arrêter le sentiment ",
+      "n": "Acceptable"
+    },
+    {
+      "t": "S",
+      "v": "Vous ne pouvez rien faire pour arrêter mes émotions. ",
+      "n": "Clue3Text"
+    },
+    {
+      "t": "S",
+      "v": "Que puis-je obtenir pour un Mabel ? ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "Échange de tante ? Attirant! ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Je suis d'humeur... ",
+      "t": "A",
+      "v": "742754_1",
+      "n": "Clue1Audio"
+    },
+    {
+      "s": "Que puis-je obtenir pour un Mabel ? ",
+      "t": "A",
+      "v": "742749_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Vous ne pouvez rien faire pour arrêter mes émotions. ",
+      "t": "A",
+      "v": "742756_1",
+      "n": "Clue3Audio"
+    },
+    {
+      "s": "Découvrez cette phrase charabia et dites-moi avec quel titre de chanson elle rime. ",
+      "t": "A",
+      "v": "742750_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "OutroAudio"
+    },
+    {
+      "s": "... tu ne m'en empêcheras pas. ",
+      "t": "A",
+      "v": "742755_1",
+      "n": "Clue2Audio"
+    },
+    {
+      "s": "Échange de tante ? Attirant! ",
+      "t": "A",
+      "v": "742751_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

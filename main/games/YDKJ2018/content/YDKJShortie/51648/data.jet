@@ -1,0 +1,140 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "<i>10, allée Cloverfield</i> ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "3,2,0,1 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Lequel de ces titres de films conviendrait le mieux au titre d’une lettre commerciale ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Une lettre vraiment importante ",
+      "t": "A",
+      "v": "738268_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "738271_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "Ce titre comprend à la fois la conclusion complémentaire et la ligne de signature... mais pas la bonne réponse. ",
+      "t": "A",
+      "v": "738276_1",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "L'en-tête d'une lettre commerciale comprend le nom et l'adresse de l'expéditeur. ",
+      "t": "A",
+      "v": "738273_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "OR\nChers monstres potentiels à l'intérieur et à l'extérieur de ce bunker, j'espère que cette lettre vous trouvera bien. ",
+      "t": "A",
+      "v": "738274_8",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "Which of these movie titles would best fit in the heading of a business letter?",
+      "t": "A",
+      "v": "738270_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

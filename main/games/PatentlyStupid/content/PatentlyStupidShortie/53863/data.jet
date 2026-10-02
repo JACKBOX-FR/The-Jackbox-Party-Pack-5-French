@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "poisson | parapluie | les yeux ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Mon <BLANK> continue de se mouiller ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Mon CECI n'arrête pas de se mouiller ! ",
+      "t": "A",
+      "v": "767689_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

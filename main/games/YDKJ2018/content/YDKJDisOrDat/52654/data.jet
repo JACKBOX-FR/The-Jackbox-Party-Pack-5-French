@@ -1,0 +1,245 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion5Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupPoorAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasDisAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion1Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion4Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTimingInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasScoreInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupRockedAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupAwfulAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion7Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasDatAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion6Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion3Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupOutroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupGoodAudio"
+    },
+    {
+      "t": "S",
+      "v": "S+7.75",
+      "n": "$InstructionsAudio$DatTextCue"
+    },
+    {
+      "t": "S",
+      "v": "Saisons de repêchage ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "POIVRE ",
+      "n": "DatButtonText"
+    },
+    {
+      "t": "S",
+      "v": "SEL ",
+      "n": "DisButtonText"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$InstructionsAudio$BothCue"
+    },
+    {
+      "t": "S",
+      "v": "ils s'appellent Salt ",
+      "n": "DisText"
+    },
+    {
+      "t": "S",
+      "v": "ils s'appellent Pepper ",
+      "n": "DatText"
+    },
+    {
+      "t": "S",
+      "v": "S+5.50",
+      "n": "$InstructionsAudio$DisTextCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$DisAudio$DisButtonCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$DatAudio$DatButtonCue"
+    },
+    {
+      "s": "La rappeuse Cheryl James ",
+      "t": "A",
+      "v": "752931_3",
+      "n": "Question5Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "TimingInstructionsAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupOutroAudio"
+    },
+    {
+      "s": "Je vais lister 7 personnes réelles et fictives et pour chacune, tu me dis si # elles s'appellent Salt ou # elles s'appellent Pepper ",
+      "t": "A",
+      "v": "752926_3",
+      "n": "InstructionsAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ScoreInstructionsAudio"
+    },
+    {
+      "s": "Sammy Davis Jr. dans <i>Sel et Poivre</i> ",
+      "t": "A",
+      "v": "752933_1",
+      "n": "Question7Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupPoorAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupRockedAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupAwfulAudio"
+    },
+    {
+      "s": "Agent secret d'Angelina Jolie ",
+      "t": "A",
+      "v": "752928_1",
+      "n": "Question2Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupGoodAudio"
+    },
+    {
+      "s": "...Sel...ou... ",
+      "t": "A",
+      "v": "752939_3",
+      "n": "DisAudio"
+    },
+    {
+      "s": "Star YouTube sur <i>Big Brother UK</i> ",
+      "t": "A",
+      "v": "752929_1",
+      "n": "Question3Audio"
+    },
+    {
+      "s": "Draft Seasons et ne traversez pas la table car c'est un Dis ou un Dat. ",
+      "t": "A",
+      "v": "752925_2",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "... Poivre ",
+      "t": "A",
+      "v": "752940_4",
+      "n": "DatAudio"
+    },
+    {
+      "s": "L'un des enfants de la tournée Willy Wonka ",
+      "t": "A",
+      "v": "752930_1",
+      "n": "Question4Audio"
+    },
+    {
+      "s": "Gwyneth Paltrow dans <i>Iron Man</i> ",
+      "t": "A",
+      "v": "752927_1",
+      "n": "Question1Audio"
+    },
+    {
+      "s": "Candidat <i>Project Runway</i> de la 1ère saison ",
+      "t": "A",
+      "v": "752932_1",
+      "n": "Question6Audio"
+    }
+  ]
+}

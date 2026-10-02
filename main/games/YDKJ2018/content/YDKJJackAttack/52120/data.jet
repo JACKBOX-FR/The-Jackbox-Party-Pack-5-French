@@ -1,0 +1,421 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_6Correct"
+    },
+    {
+      "t": "S",
+      "v": "<i>Tortues en chocolat</i> ",
+      "n": "Choice6_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Lennon et McCartney ",
+      "n": "Root2Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Bébé amoureux</i> ",
+      "n": "Choice5_4Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Salut Jude</i> ",
+      "n": "Choice2_3Text"
+    },
+    {
+      "t": "S",
+      "v": "un chien se lie d'amitié avec un chat ",
+      "n": "Choice4_2Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Coupes Reese</i> ",
+      "n": "Choice6_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Clarence Thomas et Luthor ",
+      "n": "Choice3_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Blondie Ambition ",
+      "n": "Choice1_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Ben et Jerry ",
+      "n": "Root1Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Prenez-en 5</i> ",
+      "n": "Choice6_5Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Rassemblez-vous</i> ",
+      "n": "Choice2_6Text"
+    },
+    {
+      "t": "S",
+      "v": "un couple marié adopte un chiot ",
+      "n": "Choice4_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Fabriqué par un beau partenariat ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "<i>Ticket to Ride</i> ",
+      "n": "Choice2_2Text"
+    },
+    {
+      "t": "S",
+      "v": "la famille reçoit un poisson rouge ",
+      "n": "Choice4_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Cerise Garcia ",
+      "n": "Choice1_1Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Péril</i> ",
+      "n": "Choice5_3Text"
+    },
+    {
+      "t": "S",
+      "v": "GoGo Cacao ",
+      "n": "Choice1_5Text"
+    },
+    {
+      "t": "S",
+      "v": "La course sauvage de M. Ted ",
+      "n": "Choice3_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Nourriture de phishing ",
+      "n": "Choice1_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Kathleen Turner est dresseuse de chiens ",
+      "n": "Choice4_4Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Imaginez</i> ",
+      "n": "Choice2_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Jay Z et Beyoncé ",
+      "n": "Root5Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Marley et moi</i> ",
+      "n": "Root4Text"
+    },
+    {
+      "t": "S",
+      "v": "le chien meurt ",
+      "n": "Choice4_5Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Hier</i> ",
+      "n": "Choice2_1Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>100 Grand Bar</i> ",
+      "n": "Choice6_4Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Querelle de famille</i> ",
+      "n": "Choice5_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Banane Santana ",
+      "n": "Choice1_4Text"
+    },
+    {
+      "t": "S",
+      "v": "DeVon ",
+      "n": "Choice3_3Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Fou amoureux</i> ",
+      "n": "Choice5_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Éric au cinéma ",
+      "n": "Choice3_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Les voituriers ",
+      "n": "Choice3_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Tortues en chocolat ",
+      "n": "Choice1_2Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Ivre d'amour</i> ",
+      "n": "Choice5_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Clé et Peele ",
+      "n": "Root3Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Doigt de beurre</i> ",
+      "n": "Choice6_2Text"
+    },
+    {
+      "t": "S",
+      "v": "chocolat et beurre de cacahuète ",
+      "n": "Root6Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Imaginez moi et vous</i> ",
+      "n": "Choice2_4Text"
+    },
+    {
+      "t": "S",
+      "v": "un couple marié déménage en Floride ",
+      "n": "Choice4_3Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Snickers</i> ",
+      "n": "Choice6_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Le président Obama et Luthor ",
+      "n": "Choice3_2Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Bonnie et Clyde</i> ",
+      "n": "Choice5_1Text"
+    },
+    {
+      "s": "Fabriqué par un beau partenariat ",
+      "t": "A",
+      "v": "745136_1 ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Essayez de vous rappeler ce que ces duos ont produit... bonne chance... ",
+      "t": "A",
+      "v": "745137_1 ",
+      "n": "IntroAudio"
+    }
+  ]
+}

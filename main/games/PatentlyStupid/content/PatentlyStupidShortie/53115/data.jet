@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Quilles | Crier | Kick-ball ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je veux faire partie du Temple de la renommée <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je veux simplement être le meilleur dans ce domaine ! ",
+      "t": "A",
+      "v": "759009_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

@@ -1,0 +1,421 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_6Correct"
+    },
+    {
+      "t": "S",
+      "v": "Les Stormtroopers tuent les parents de Luke ",
+      "n": "Choice6_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Colombie-Britannique ",
+      "n": "Root2Text"
+    },
+    {
+      "t": "S",
+      "v": "Brachiosaure broute ",
+      "n": "Choice5_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Fondation de la dynastie Han ",
+      "n": "Choice2_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Les arbres transforment l'O3 en CO2 ",
+      "n": "Choice4_2Text"
+    },
+    {
+      "t": "S",
+      "v": "L'étoile de la mort explose ",
+      "n": "Choice6_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Anderton kidnappe Precog ",
+      "n": "Choice3_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Naissance de Tom Holland, la star de <i>Spider-Man</i> ",
+      "n": "Choice1_6Text"
+    },
+    {
+      "t": "S",
+      "v": "20e siècle ",
+      "n": "Root1Text"
+    },
+    {
+      "t": "S",
+      "v": "Han tire sur Greedo ",
+      "n": "Choice6_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Gautama Bouddha est né ",
+      "n": "Choice2_6Text"
+    },
+    {
+      "t": "S",
+      "v": "le soleil transforme H en Lui ",
+      "n": "Choice4_1Text"
+    },
+    {
+      "t": "S",
+      "v": "J'ai été limité dans le temps ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "Moïse libère les esclaves ",
+      "n": "Choice2_2Text"
+    },
+    {
+      "t": "S",
+      "v": "les gens aiment Tu ne connais pas Jack ",
+      "n": "Choice4_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Le Titanic coule ",
+      "n": "Choice1_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Chasse au tyrannosaure ",
+      "n": "Choice5_3Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Shrek</i> libéré ",
+      "n": "Choice1_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Hal 9000 tue un astronaute ",
+      "n": "Choice3_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Google intègre ",
+      "n": "Choice1_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Stonehenge a plus de 5 000 ans ",
+      "n": "Choice4_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Rênes Caligula ",
+      "n": "Choice2_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Période Jurassique ",
+      "n": "Root5Text"
+    },
+    {
+      "t": "S",
+      "v": "Aujourd'hui ",
+      "n": "Root4Text"
+    },
+    {
+      "t": "S",
+      "v": "L'éléphant d'Afrique est le plus grand mammifère de la planète ",
+      "n": "Choice4_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Jules César assassiné ",
+      "n": "Choice2_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Leia tue Jabba ",
+      "n": "Choice6_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Le vélociraptor vole un œuf ",
+      "n": "Choice5_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Mère Teresa est décédée ",
+      "n": "Choice1_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Roy Batty sauve Deckard ",
+      "n": "Choice3_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Le tricératops pond des œufs ",
+      "n": "Choice5_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Skynet lance le Jour du Premier Jugement ",
+      "n": "Choice3_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Mary McFly achète <i>Sports Almanac</i> ",
+      "n": "Choice3_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Lincoln assassiné ",
+      "n": "Choice1_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Allosaurus prend soin des jeunes ",
+      "n": "Choice5_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Après 2018 ",
+      "n": "Root3Text"
+    },
+    {
+      "t": "S",
+      "v": "Luke tue l'Empereur ",
+      "n": "Choice6_2Text"
+    },
+    {
+      "t": "S",
+      "v": "il y a longtemps, dans une galaxie lointaine, très lointaine ",
+      "n": "Root6Text"
+    },
+    {
+      "t": "S",
+      "v": "Hannibal traverse les Alpes ",
+      "n": "Choice2_4Text"
+    },
+    {
+      "t": "S",
+      "v": "La Belgique gouvernée par la monarchie ",
+      "n": "Choice4_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Han congelé dans la carbonite ",
+      "n": "Choice6_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Thorn enquête sur Soylent Green ",
+      "n": "Choice3_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Le stégosaure repousse les prédateurs ",
+      "n": "Choice5_1Text"
+    },
+    {
+      "s": "J'ai été limité dans le temps ",
+      "t": "A",
+      "v": "750151_1 ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "D'une manière générale... J'espère que vous savez quelles choses réelles et fictives se sont produites lorsque... bonne chance... ",
+      "t": "A",
+      "v": "750152_1 ",
+      "n": "IntroAudio"
+    }
+  ]
+}

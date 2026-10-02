@@ -1,0 +1,139 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "« NEW-YORKAIS, l’appropriation culturelle est mauvaise ! » ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "1,0,2,3 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Qu’est-ce qu’un Rip Van Winkle « réveillé » dirait à son entourage après s’être réveillé de sa sieste de 20 ans ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Vansplaining ",
+      "t": "A",
+      "v": "708061_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "OR\nTu fais une sieste, tu perds (TOUS) ",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "708064_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "OR\nLa déclaration est correcte mais l'emplacement est erroné. (TOUS) ",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "Ou\nMais avoir raison et tort est... et vous avez tort. ",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Rip Van Winkle, la nouvelle de Washington Irving, se déroule dans les montagnes Catskill de l'État de New York. ",
+      "t": "A",
+      "v": "708066_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Et c’est un vieux Blanc qui dit quelque chose de progressiste que vous savez que c’est une œuvre de fiction. ",
+      "t": "A",
+      "v": "708067_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "What’s something a “woke” Rip Van Winkle would say to those around him after waking from his 20 year nap?",
+      "t": "A",
+      "v": "708063_4",
+      "n": "QuestionAudio"
+    }
+  ]
+}

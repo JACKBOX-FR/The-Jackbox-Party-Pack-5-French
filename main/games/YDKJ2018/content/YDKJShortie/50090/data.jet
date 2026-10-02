@@ -1,0 +1,140 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Ibérie. La péninsule ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "1,3,2,0 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Si le groupe au nom étrange Portugal. The Man part en tournée au Portugal. Le pays, quelle PLUS GRANDE région visiteraient-ils également ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Portugal. L'Homme. Le groupe. Un plan. Un canal. Panama. ",
+      "t": "A",
+      "v": "716445_2",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "716448_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "C’est un fait peu connu que les villes sont PLUS GRANDES que le comté qui les abrite. Cela est totalement vérifié. ",
+      "t": "A",
+      "v": "716453_2",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Le Portugal est situé sur la péninsule ibérique avec l'Espagne et Andorre. ",
+      "t": "A",
+      "v": "716450_3",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Il n’est pas entouré d’eau de tous côtés car il n’y a pas de Portugal. L'Homme est une île. ",
+      "t": "A",
+      "v": "716451_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "If the oddly named band Portugal. The Man went on tour in Portugal. The Country, what LARGER region would they also be visiting?",
+      "t": "A",
+      "v": "716447_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

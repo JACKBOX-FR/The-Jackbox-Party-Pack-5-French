@@ -1,0 +1,86 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "un masque de clown en céramique | un buste de leur enfant | une bouteille de Cristal | un globe antique | un piano droit ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "S+8.68",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "S+3.92",
+      "n": "$ScenarioAudio$ScenarioTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "Bien que la cliente ne soit pas présente, son chiot Saint-Bernard l’est. ",
+      "n": "ScenarioText3"
+    },
+    {
+      "t": "S",
+      "v": "S+5.45",
+      "n": "$ScenarioAudio$ScenarioTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "Vous êtes un déménageur professionnel dans le salon d’un client lorsque vous cassez accidentellement ",
+      "n": "ScenarioText1"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00 ",
+      "n": "$ScenarioAudio$ScenarioTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "<BLANK>. ",
+      "n": "ScenarioText2"
+    },
+    {
+      "t": "S",
+      "v": "Blâmez-vous le chien ? ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Douleurs en mouvement ",
+      "t": "A",
+      "v": "743190_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Vous êtes un déménageur professionnel dans le salon d’un client lorsque vous cassez accidentellement ce meuble. Bien que la cliente ne soit pas présente, son chiot Saint-Bernard l’est. Blâmez-vous le chien ? ",
+      "t": "A",
+      "v": "743191_2 ",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    }
+  ]
+}

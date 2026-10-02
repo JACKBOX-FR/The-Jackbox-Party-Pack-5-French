@@ -1,0 +1,96 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "un mannequin ventriloque | une torche | un bassin de lit | un dé à 20 faces | coupe-ongles ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "S+11.52",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "S+5.55",
+      "n": "$ScenarioAudio$ScenarioTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "<BLANK> ",
+      "n": "ScenarioText3"
+    },
+    {
+      "t": "S",
+      "v": "S+8.62",
+      "n": "$ScenarioAudio$ScenarioTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "et dites : « Faites-moi confiance ». ",
+      "n": "ScenarioText4"
+    },
+    {
+      "t": "S",
+      "v": "Vous et <OTHERPLAYER> êtes sur le point d'apparaître dans un concours de talents télévisé en direct. ",
+      "n": "ScenarioText1"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00 ",
+      "n": "$ScenarioAudio$ScenarioTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Juste avant de sortir devant les juges, ils se retirent ",
+      "n": "ScenarioText2"
+    },
+    {
+      "t": "S",
+      "v": "S+10.01",
+      "n": "$ScenarioAudio$ScenarioTextCue4"
+    },
+    {
+      "t": "S",
+      "v": "Est-ce que tu sors avec eux ? ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Vous avez du talent ? ",
+      "t": "A",
+      "v": "Est-ce que tu sors avec eux ? ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Vous et <OTHERPLAYER> êtes sur le point d'apparaître dans un concours de talents télévisé en direct. Juste avant de vous présenter devant les juges, ils sortent CECI et disent « Faites-moi confiance ». Est-ce que tu sors avec eux ? ",
+      "t": "A",
+      "v": "758952_2",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    }
+  ]
+}

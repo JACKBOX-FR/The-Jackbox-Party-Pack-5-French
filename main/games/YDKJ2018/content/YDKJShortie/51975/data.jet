@@ -1,0 +1,140 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "<i>Le soleil se lève aussi</i> ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "1,0,3,2 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Dans quel roman classique le personnage principal perd-il sa « barre chocolatée » mais pas ses « cacahuètes » ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Une question avec des noix",
+      "t": "A",
+      "v": "742785_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "742788_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "Je veux dire... peut-être que si ce n'était pas un euphémisme, mais c'est totalement un euphémisme. ",
+      "t": "A",
+      "v": "742795_2",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Dans le roman classique d'Ernest Hemingway, le protagoniste Jack Barnes perd son pénis mais pas ses testicules pendant la Première Guerre mondiale. ",
+      "t": "A",
+      "v": "742790_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "... et je ne me sens plus mal du fait que ma nouvelle voiture ne m'a coûté qu'un bras et une jambe. ",
+      "t": "A",
+      "v": "742791_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "In which classic novel does the main character lose his “candy bar” but not his “peanuts”?",
+      "t": "A",
+      "v": "742787_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Noël | mon anniversaire | aller chez le dentiste ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je n'ai pas hâte de <BLANK> !",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je redoute le jour où CELA arrivera ! ",
+      "t": "A",
+      "v": "767108_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion5Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupPoorAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasDisAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion1Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion4Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTimingInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasScoreInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupRockedAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupAwfulAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion7Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasDatAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion6Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion3Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupOutroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupGoodAudio"
+    },
+    {
+      "t": "S",
+      "v": "S+7.05",
+      "n": "$InstructionsAudio$DatTextCue"
+    },
+    {
+      "t": "S",
+      "v": "Acné du bloc ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "SOINS DE LA PEAU ",
+      "n": "DatButtonText"
+    },
+    {
+      "t": "S",
+      "v": "FILM JLO ",
+      "n": "DisButtonText"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$InstructionsAudio$BothCue"
+    },
+    {
+      "t": "S",
+      "v": "film avec Jennifer Lopez ",
+      "n": "DisText"
+    },
+    {
+      "t": "S",
+      "v": "produit de soin par Philosophy ",
+      "n": "DatText"
+    },
+    {
+      "t": "S",
+      "v": "S+3.85",
+      "n": "$InstructionsAudio$DisTextCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$DisAudio$DisButtonCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$DatAudio$DatButtonCue"
+    },
+    {
+      "s": "Le plan de sauvegarde ",
+      "t": "A",
+      "v": "751769_1",
+      "n": "Question5Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "TimingInstructionsAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupOutroAudio"
+    },
+    {
+      "s": "Je vais lire sept choses, et pour chacune d'entre elles, je veux que vous me disiez s'il s'agit d'un # film mettant en vedette Jennifer Lopez ou d'un # produit de soin de la peau de Philosophy. ",
+      "t": "A",
+      "v": "751764_1",
+      "n": "InstructionsAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ScoreInstructionsAudio"
+    },
+    {
+      "s": "Assez ",
+      "t": "A",
+      "v": "751771_1",
+      "n": "Question7Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupPoorAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupRockedAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupAwfulAudio"
+    },
+    {
+      "s": "Aide-moi ",
+      "t": "A",
+      "v": "751766_1",
+      "n": "Question2Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupGoodAudio"
+    },
+    {
+      "s": "...un film JLo... ou... ",
+      "t": "A",
+      "v": "751777_3",
+      "n": "DisAudio"
+    },
+    {
+      "s": "Libère-moi simplement ",
+      "t": "A",
+      "v": "751767_1",
+      "n": "Question3Audio"
+    },
+    {
+      "s": "L'acné du bloc... et c'est un Dis ou Dat. ",
+      "t": "A",
+      "v": "751763_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "...soins de la peau ",
+      "t": "A",
+      "v": "751778_3",
+      "n": "DatAudio"
+    },
+    {
+      "s": "Quand l'espoir ne suffit pas ",
+      "t": "A",
+      "v": "751768_1",
+      "n": "Question4Audio"
+    },
+    {
+      "s": "Hors de vue ",
+      "t": "A",
+      "v": "751765_1",
+      "n": "Question1Audio"
+    },
+    {
+      "s": "Respirez profondément ",
+      "t": "A",
+      "v": "751770_1",
+      "n": "Question6Audio"
+    }
+  ]
+}

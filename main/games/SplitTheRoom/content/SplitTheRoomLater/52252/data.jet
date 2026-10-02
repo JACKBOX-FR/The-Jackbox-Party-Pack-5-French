@@ -1,0 +1,86 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "un mannequin qui te ressemble un peu | un écureuil mort accroché à un arbre | « Non » écrit dans les beignets | ombres en mouvement | les yeux dans les arbres ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "S+9.22",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "S+4.86",
+      "n": "$ScenarioAudio$ScenarioTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "<BLANK>. ",
+      "n": "ScenarioText3"
+    },
+    {
+      "t": "S",
+      "v": "S+7.22",
+      "n": "$ScenarioAudio$ScenarioTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "Vous avez toujours entendu des rumeurs sur la méchante sorcière qui vit dans les bois, mais vous avez maintenant décidé d’enquêter. ",
+      "n": "ScenarioText1"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00 ",
+      "n": "$ScenarioAudio$ScenarioTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Juste quelques mètres dans la forêt, tu vois ",
+      "n": "ScenarioText2"
+    },
+    {
+      "t": "S",
+      "v": "Est-ce que vous faites demi-tour et abandonnez ? ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Voie des sorcières ",
+      "t": "A",
+      "v": "747355_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Vous avez toujours entendu des rumeurs sur la méchante sorcière qui vit dans les bois, mais vous avez maintenant décidé d’enquêter. À quelques mètres de la forêt, vous voyez ceci. Est-ce que vous faites demi-tour et abandonnez ? ",
+      "t": "A",
+      "v": "747356_2 ",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    }
+  ]
+}

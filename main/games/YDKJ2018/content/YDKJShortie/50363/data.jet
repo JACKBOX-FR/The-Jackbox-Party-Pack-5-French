@@ -1,0 +1,143 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Le pluriel de « ça » ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "2,1,3,0 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "C'EST QUOI ?!?!?! ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Je n'avais pas d'autre choix que de rétorquer : « Mais ces chaussures » ",
+      "t": "A",
+      "v": "721412_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Eux est un pronom qui peut être utilisé au singulier ou au pluriel, mais ne peut pas être utilisé pour vous rapporter des points de question. ",
+      "t": "A",
+      "v": "721424_1",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Officier, j'ai une question pour vous.... ",
+      "t": "A",
+      "v": "721413_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "721415_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "C'est la forme singulière de ceux-ci, donc ce n'est pas la bonne réponse. ",
+      "t": "A",
+      "v": "721422_1",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "La forme plurielle de ceci est celle-ci. ",
+      "t": "A",
+      "v": "721420_1",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "C’est le pluriel de cela. Comme dans \"Je n'arrive pas à croire que ce flic porte ces chaussures\" ",
+      "t": "A",
+      "v": "721417_4",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Si vous n'avez pas compris la référence dans cette question, vous devriez consulter la nouvelle série de vrais crimes... Fashion Police. ",
+      "t": "A",
+      "v": "721418_4",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "WHAT IS THOSE?!?!?! (Said in the MEME voice)",
+      "t": "A",
+      "v": "721414_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

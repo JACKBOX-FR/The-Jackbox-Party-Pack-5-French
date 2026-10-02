@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "mémoire|serpent de compagnie|brosse à dents ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je perds toujours mon <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je perds toujours mon CECI ! ",
+      "t": "A",
+      "v": "752577_2",
+      "n": "PromptAudio"
+    }
+  ]
+}

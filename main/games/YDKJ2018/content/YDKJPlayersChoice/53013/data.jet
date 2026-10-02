@@ -1,0 +1,50 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Une question qui fait d’une pierre deux coups ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Une question qui fait d'une pierre deux coups ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "52871 ",
+      "n": "Choice2Id"
+    },
+    {
+      "t": "S",
+      "v": "Souhaitez-vous une question qui fait d’une pierre deux coups ou une question qui fait d’une pierre deux coups ? ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "52870 ",
+      "n": "Choice1Id"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "Souhaitez-vous une question qui fait d’une pierre deux coups ou une question qui fait d’une pierre deux coups ? ",
+      "t": "A",
+      "v": "757925_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

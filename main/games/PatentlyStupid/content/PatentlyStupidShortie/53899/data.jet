@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "hip-hop | agriculture biologique | comment fonctionne l'esprit de mon fils ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je veux en savoir plus sur <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je veux vraiment en savoir plus à ce sujet, tu sais ?! ",
+      "t": "A",
+      "v": "767798_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

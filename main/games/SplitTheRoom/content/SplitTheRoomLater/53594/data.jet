@@ -1,0 +1,96 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "le mettre sous la douche | le couvrant de manteaux | le couper | servir de la nourriture | je le mets derrière le canapé ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "S+11.43",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "S+3.54",
+      "n": "$ScenarioAudio$ScenarioTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "<BLANK>. ",
+      "n": "ScenarioText3"
+    },
+    {
+      "t": "S",
+      "v": "S+8.06",
+      "n": "$ScenarioAudio$ScenarioTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "Les invités seront là d’une minute à l’autre. ",
+      "n": "ScenarioText4"
+    },
+    {
+      "t": "S",
+      "v": "Vous êtes sur le point d’organiser une fête chez vous et de nombreuses célébrités sont présentes. ",
+      "n": "ScenarioText1"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00 ",
+      "n": "$ScenarioAudio$ScenarioTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Vous trouvez soudain un cheval mort dans votre salon. La seule façon de le cacher est de ",
+      "n": "ScenarioText2"
+    },
+    {
+      "t": "S",
+      "v": "S+9.64",
+      "n": "$ScenarioAudio$ScenarioTextCue4"
+    },
+    {
+      "t": "S",
+      "v": "Continuez-vous la fête ? ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "La vie du parti ",
+      "t": "A",
+      "v": "Continuez-vous la fête ? ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Vous êtes sur le point d’organiser une fête chez vous et de nombreuses célébrités sont présentes. Vous trouvez soudain un cheval mort dans votre salon. La seule façon de le cacher est de faire CECI. Les invités seront là d’une minute à l’autre. Continuez-vous la fête ? ",
+      "t": "A",
+      "v": "765307_2",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    }
+  ]
+}

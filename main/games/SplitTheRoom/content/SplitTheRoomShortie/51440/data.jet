@@ -1,1 +1,76 @@
-{"fields":[{"t":"B","v":"true","n":"HasScenarioAudio"},{"t":"B","v":"true","n":"HasCategoryAudio"},{"t":"B","v":"false","n":"HasResponseAudio"},{"t":"S","v":"I’m going to lose my house | I need this money for insulin | My family is starving | My grandma needs bail | I’ll split the win","n":"Decoys"},{"t":"S","v":"S+9.26","n":"$ScenarioAudio$QuestionTextCue"},{"t":"S","v":"","n":"Keywords"},{"t":"S","v":"Le laisses-tu gagner ?","n":"QuestionText"},{"s":"Punch Your Way Out","t":"A","v":"735579_1","n":"CategoryAudio"},{"s":"You’re fighting in a boxing match that has a $10,000 purse. You are one big blow away from winning when you hear your competition whisper this in your ear. Do you let him win?","t":"A","v":"735580_3","n":"ScenarioAudio"},{"s":"","t":"A","n":"ResponseAudio"},{"n":"ScenarioText1","v":"Tu te bats dans un match de boxe avec une bourse de 10 000 €.","t":"S"},{"n":"$ScenarioAudio$ScenarioTextCue1","v":"S+0.00","t":"S"},{"n":"ScenarioText2","v":"Tu es à deux doigts de gagner quand tu entends ton adversaire chuchoter “<BLANK>” dans ton oreille.","t":"S"},{"n":"$ScenarioAudio$ScenarioTextCue2","v":"S+3.45","t":"S"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "Je vais perdre ma maison | J'ai besoin de cet argent pour l'insuline | Ma famille meurt de faim | Ma grand-mère a besoin d'une caution | Je partagerai la victoire ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "S+9.26",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "Le laisses-tu gagner ?",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Frayez-vous un chemin pour sortir ",
+      "t": "A",
+      "v": "735579_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Vous combattez dans un match de boxe doté d’une bourse de 10 000 $. Vous êtes à un coup dur de gagner lorsque vous entendez vos concurrents vous murmurer cela à l’oreille. Le laissez-vous gagner ? ",
+      "t": "A",
+      "v": "735580_3",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    },
+    {
+      "n": "ScenarioText1",
+      "v": "Tu te bats dans un match de boxe avec une bourse de 10 000 €.",
+      "t": "S"
+    },
+    {
+      "n": "$ScenarioAudio$ScenarioTextCue1",
+      "v": "S+0.00",
+      "t": "S"
+    },
+    {
+      "n": "ScenarioText2",
+      "v": "Tu es à deux doigts de gagner quand tu entends ton adversaire chuchoter “<BLANK>” dans ton oreille.",
+      "t": "S"
+    },
+    {
+      "n": "$ScenarioAudio$ScenarioTextCue2",
+      "v": "S+3.45",
+      "t": "S"
+    }
+  ]
+}

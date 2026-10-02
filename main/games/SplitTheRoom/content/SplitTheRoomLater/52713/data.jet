@@ -1,0 +1,86 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "Je ne peux pas continuer à mentir sur... | Ma véritable identité est... | C’est décidé : je vais assassiner... | J'ai toujours souhaité pouvoir... | Pour mon anniversaire, je veux... ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "S+8.95",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "S+4.88",
+      "n": "$ScenarioAudio$ScenarioTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "« <BLANK> » ",
+      "n": "ScenarioText3"
+    },
+    {
+      "t": "S",
+      "v": "S+7.40",
+      "n": "$ScenarioAudio$ScenarioTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "Votre partenaire romantique garde toujours son journal avec lui, mais aujourd'hui, vous le trouvez ouvert sur son bureau. ",
+      "n": "ScenarioText1"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00 ",
+      "n": "$ScenarioAudio$ScenarioTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Vous jetez un coup d’œil à la dernière entrée et elle commence par… ",
+      "n": "ScenarioText2"
+    },
+    {
+      "t": "S",
+      "v": "Continuez-vous à lire ? ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Mise à jour de confidentialité ",
+      "t": "A",
+      "v": "753971_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Votre partenaire romantique garde toujours son journal avec lui, mais aujourd'hui, vous le trouvez ouvert sur son bureau. Vous jetez un coup d’œil à la dernière entrée et elle commence par… CECI. Continuez-vous à lire ? ",
+      "t": "A",
+      "v": "753972_2 ",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    }
+  ]
+}

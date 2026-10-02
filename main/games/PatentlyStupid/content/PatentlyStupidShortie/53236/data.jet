@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "les gens riches | pièges à touristes | carottes cuites ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je trouve <BLANK> très désagréable. ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Suis-je le seul à être offensé par CELA ?! ",
+      "t": "A",
+      "v": "760178_2",
+      "n": "PromptAudio"
+    }
+  ]
+}

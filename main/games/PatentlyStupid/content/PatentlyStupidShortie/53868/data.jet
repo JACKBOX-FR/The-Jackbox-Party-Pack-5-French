@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "aller chez le dentiste | réparer ma voiture | trouver mon téléphone ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je n'arrête pas de remettre à plus tard <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je n'arrête pas de remettre à plus tard, CECI ! ",
+      "t": "A",
+      "v": "767704_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "blanchisserie | drones | pandas ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Mes amis sont trop occupés avec leur <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Mes amis n'ont plus de temps pour moi maintenant qu'ils sont tous intéressés par CELA ! ",
+      "t": "A",
+      "v": "767792_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

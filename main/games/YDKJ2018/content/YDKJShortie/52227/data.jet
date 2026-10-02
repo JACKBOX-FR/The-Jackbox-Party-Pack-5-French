@@ -1,0 +1,141 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Côlon, Michigan ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "0,1,2,3 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Puisqu’elle est communément connue comme la « capitale magique du monde », d’où vient probablement ce foulard magique sans fin ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "La magie du processus digestif ",
+      "t": "A",
+      "v": "746982_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Le canton de Pee Pee est magique à sa manière ",
+      "t": "A",
+      "v": "746994_2",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "J'ai travaillé sur certaines compétences magiques ces derniers temps et je me regarde retirer cette écharpe de ma gorge. (faire des bruits de haut-le-cœur pendant un moment, puis, faiblement...) ta da ! ",
+      "t": "A",
+      "v": "746983_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "746985_2",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "La petite ville de Colon, dans le Michigan, est la capitale mondiale de la magie autoproclamée. ",
+      "t": "A",
+      "v": "746987_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Ce n’est pas le fait le plus important, mais j’avais vraiment besoin d’une excuse pour dire Pee Pee Township. ",
+      "t": "A",
+      "v": "746988_2",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "Since it’s commonly known as the “magic capital of the world” where did this never ending magic scarf most likely originate?",
+      "t": "A",
+      "v": "746984_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

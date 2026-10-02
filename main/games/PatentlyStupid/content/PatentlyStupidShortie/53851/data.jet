@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "douche|voiture|chat ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je déteste quand mon <BLANK> sent mauvais ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je déteste quand mon CECI sent ! ",
+      "t": "A",
+      "v": "767653_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

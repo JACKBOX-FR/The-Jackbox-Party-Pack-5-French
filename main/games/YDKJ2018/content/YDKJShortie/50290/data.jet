@@ -1,0 +1,142 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "John Hickenlooper, homme politique du Colorado ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "2,0,1,3 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Laquelle de ces personnes se sentirait exclue de l'hilarité parce que vous ne pouvez PAS faire un jeu de mots évident en utilisant son nom ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "\"Biscuit\" Masterson. Bon. ",
+      "t": "A",
+      "v": "720406_2",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Les macarons sont ces adorables biscuits sandwich qui se déclinent en différentes couleurs. Maintenant, vous avez moins d'argent pour les acheter. ",
+      "t": "A",
+      "v": "720418_2",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Tu sais ce qui me fait rire ? Blagues sur les cookies. Je n'en ai jamais assez. Comme quand les gens me disent : « Chips Ahoy, Cookie ! » ou \"Ça vous dérange si je vous appelle Shortbread?\" Ne vieillit jamais. ",
+      "t": "A",
+      "v": "720407_2",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "720409_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "Je suis sûr qu’il n’a jamais entendu une blague sur les biscotti auparavant. Le pauvre, il manque quelque chose. ",
+      "t": "A",
+      "v": "720416_5",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Les biscottis, les kringles et les macarons sont tous des friandises cuites au four. Il devrait y avoir une pâtisserie qui ressemble à du hickenlooper, mais malheureusement ce n’est pas le cas. ",
+      "t": "A",
+      "v": "720411_3",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Maintenant, tout ce que je veux, ce sont des Hickenloopers. Pourquoi la vie est-elle si injuste ? ",
+      "t": "A",
+      "v": "720412_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "Which of these people would feel left out of the hilarity because you can NOT make an obvious bakery pun using their name?",
+      "t": "A",
+      "v": "720408_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

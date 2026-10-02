@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "ongle d'orteil | maïs | dette ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Mon <BLANK> grandit trop vite ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Mon CECI grandit trop vite ! ",
+      "t": "A",
+      "v": "767701_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

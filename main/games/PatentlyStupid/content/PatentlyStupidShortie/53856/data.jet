@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "langage grossier | flatulences | rage au volant ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "J'ai sérieusement besoin de réduire mon <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je dois sérieusement réduire mon CECI ! ",
+      "t": "A",
+      "v": "767668_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

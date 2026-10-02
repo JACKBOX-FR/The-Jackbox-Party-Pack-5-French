@@ -1,0 +1,140 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "\"Ahhhhh ! Quelle façon SAVÉE de procéder !\" ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "0,3,1,2 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Que crieriez-vous si vous étiez attaqué par une momie qui utilisait la sensation gustative de l'UMAMI pour vous détruire ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Aucun des jeux de mots sur les momies qui m'ont été présentés n'est bon ",
+      "t": "A",
+      "v": "726977_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "OU\nJe ne vais pas édulcorer ça... ",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Oh attends... j'ai parlé trop tôt... en voici un... ",
+      "t": "A",
+      "v": "726978_3",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "726980_3",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "OU\nIl n'y a pas de prise en compte du goût. (Tous) ",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Umami, c'est lorsque vos papilles gustatives ressentent quelque chose de savoureux, et dérive en fait du mot japonais pour savoureux. ",
+      "t": "A",
+      "v": "726982_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Et comme ma maman disait... non ! Bon sang ! (comme si j'avais crié hors du micro) J'ai dit que je n'aimais aucun de ces autres jeux de mots sur les momies ! ",
+      "t": "A",
+      "v": "726983_3",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "What would you yell if you were being attacked by a mummy who used the taste sensation of UMAMI to destroy you?",
+      "t": "A",
+      "v": "726979_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

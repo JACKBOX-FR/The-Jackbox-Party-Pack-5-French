@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "plus grincheux | instructions de Moscou | trop de glace ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je pense que mes parents pourraient recevoir <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je n'en suis pas sûr, mais je pense que mes parents comprennent CELA ! ",
+      "t": "A",
+      "v": "766461_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

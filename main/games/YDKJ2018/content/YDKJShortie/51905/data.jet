@@ -1,0 +1,138 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "OCQEFM",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Frankenstein ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "1,2,3,0 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "L'alter ego de John Lennon dans <i>Yellow Submarine</i>. ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "POULPE, CAFÉ, REINE ELIZABETH OU FRANKENSTEIN ?! ",
+      "t": "A",
+      "v": "741765_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "741768_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "Il y a une chanson des Beatles intitulée Octopus's garden... vous avez donc fait une supposition intelligente mais erronée. ",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Dans le film d’animation Yellow Submarine de 1968, John Lennon est présenté comme le monstre de Frankenstein. ",
+      "t": "A",
+      "v": "741770_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "OU\nSi vous regardez le film à l'envers, vous apprenez que Paul est mort mais ensuite ressuscité par la foudre.\nOR\nSi vous tombez sur un tas de morceaux de cadavres.... laissez tomber\nOU ",
+      "t": "A",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "John Lennon’s alter ego in <i>Yellow Submarine</i>.",
+      "t": "A",
+      "v": "741767_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

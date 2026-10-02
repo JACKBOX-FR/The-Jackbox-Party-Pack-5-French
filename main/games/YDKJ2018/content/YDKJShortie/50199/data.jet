@@ -1,0 +1,141 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "\"regardez-le exsanguer\" ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "3,2,0,1 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Si Johnny Cash avait été plus précis sur le plan médical, il aurait changé sa phrase emblématique en « J'ai tiré sur un homme à Reno juste pour… » ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Johnny encaissé ",
+      "t": "A",
+      "v": "718613_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "C’est un terme sophistiqué pour faire exploser des morceaux. ",
+      "t": "A",
+      "v": "718625_1",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "718616_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "Cette réponse est un peu mince. (rires) Oh attends... tu ne comprendras pas pourquoi c'est drôle. ",
+      "t": "A",
+      "v": "718623_3",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "l'exsanguination est le processus de mort dû à une perte de sang. ",
+      "t": "A",
+      "v": "718618_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "C'est un peu comme tomber dans un anneau brûlant de combustion par oxydation. ",
+      "t": "A",
+      "v": "718619_2",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "If Johnny Cash had been more medically precise, he would have changed his iconic line to “I shot a man in Reno just to…”",
+      "t": "A",
+      "v": "718615_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

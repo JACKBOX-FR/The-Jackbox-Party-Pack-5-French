@@ -1,0 +1,140 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "une âme perdue créée par Martin Handford ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "3,2,1,0 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "QUI est Waldo ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "J'ai lu dix livres cette année, mais ils impliquaient tous la recherche de Waldo ",
+      "t": "A",
+      "v": "716154_2",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "OR\nPour être honnête, personne ne sait VRAIMENT qui est Waldo (TOUS) ",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Tout le monde semble tellement concentré sur le « où » mais je vais poser une question que d’autres semblent négliger… ",
+      "t": "A",
+      "v": "716155_2",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "716157_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "Vous avez trouvé où se trouvent les mauvaises réponses. ",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "Êtes-vous ma réponse ?... Non, ce n'est pas le cas. ",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Martin Handford est le créateur de Where's Waldo ",
+      "t": "A",
+      "v": "716159_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Certains matins, Waldo se regarde dans le miroir et se voit, mais d'autres fois, il voit un gars qui lui ressemble mais qui ne porte pas de lunettes ou un sondage de barbier qui vient d'être lancé là pour le déranger. ",
+      "t": "A",
+      "v": "716160_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "WHO is Waldo?",
+      "t": "A",
+      "v": "716156_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

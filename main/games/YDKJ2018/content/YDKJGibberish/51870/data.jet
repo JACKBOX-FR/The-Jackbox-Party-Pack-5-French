@@ -1,0 +1,100 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "S",
+      "v": "De quel côté es-tu... ",
+      "n": "Clue1Text"
+    },
+    {
+      "t": "S",
+      "v": "...l'obscurité ou la lumière ? ",
+      "n": "Clue2Text"
+    },
+    {
+      "t": "S",
+      "v": "Que la force soit avec toi. ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "ma force est avec toi, que la force b avec toi, que la force soit avec toi, que les fors soient avec toi, ma force b avec toi ",
+      "n": "Acceptable"
+    },
+    {
+      "t": "S",
+      "v": "Mec, ces combats spatiaux sont intenses. ",
+      "n": "Clue3Text"
+    },
+    {
+      "t": "S",
+      "v": "Petit mouchoir ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "Hé, un tissu anti-puces rauque ! ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "De quel côté es-tu... ",
+      "t": "A",
+      "v": "741333_1",
+      "n": "Clue1Audio"
+    },
+    {
+      "s": "Petit mouchoir ",
+      "t": "A",
+      "v": "741328_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Mec, ces combats spatiaux sont intenses. ",
+      "t": "A",
+      "v": "741335_1",
+      "n": "Clue3Audio"
+    },
+    {
+      "s": "Regardez cette phrase charabia et dites-moi avec quelle célèbre citation de film rime-t-elle ? ",
+      "t": "A",
+      "v": "741329_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "OutroAudio"
+    },
+    {
+      "s": "...l'obscurité ou la lumière ? ",
+      "t": "A",
+      "v": "741334_1",
+      "n": "Clue2Audio"
+    },
+    {
+      "s": "Hé, un tissu anti-puces rauque ! ",
+      "t": "A",
+      "v": "741330_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

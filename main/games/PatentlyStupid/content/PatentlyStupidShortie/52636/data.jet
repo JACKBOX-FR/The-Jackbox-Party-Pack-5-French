@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "embrasser|deltaplane|jongler ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je trouve que <BLANK> est incroyablement dangereux ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je trouve ça très dangereux de faire CELA ! ",
+      "t": "A",
+      "v": "752744_3",
+      "n": "PromptAudio"
+    }
+  ]
+}

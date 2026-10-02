@@ -1,0 +1,142 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Glisse GRECIENNE ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "3,1,0,2 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Si vous utilisez des préservatifs Trojan, quelle marque de lubrifiant serait un mauvais choix car l'homonyme est célèbre pour briser les défenses de TROJAN ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Ne commencez pas une guerre que vous ne pouvez pas terminer ",
+      "t": "A",
+      "v": "735672_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Ouais... ça ne fait rien pour moi. ",
+      "t": "A",
+      "v": "735684_0",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "735675_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "Ouais... ça ne fait rien pour moi. ",
+      "t": "A",
+      "v": "735682_2",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "Ouais... ça ne fait rien pour moi. ",
+      "t": "A",
+      "v": "735680_0",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "La guerre de Troie était une bataille entre la ville de Troie et l'armée grecque. ",
+      "t": "A",
+      "v": "735677_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "C’est là que l’on trouve les expressions « Méfiez-vous des Grecs qui portent des cadeaux » et « Ne vous embrassez pas avec des chevaux de bois géants ». ",
+      "t": "A",
+      "v": "735678_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "If you’re using Trojan condoms, which brand of lube would be a poor choice because the namesake is famous for breaching TROJAN defenses?",
+      "t": "A",
+      "v": "735674_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

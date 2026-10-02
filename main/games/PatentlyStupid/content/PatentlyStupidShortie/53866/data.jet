@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "fantômes | pourquoi les gens ne m'aiment pas ! | à travers l'océan ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je ne vois pas <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je ne peux tout simplement pas voir CECI ! ",
+      "t": "A",
+      "v": "767698_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

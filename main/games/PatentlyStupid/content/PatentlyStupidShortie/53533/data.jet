@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "apprivoiser les lions | saut en parachute | combat ultime ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je veux aller en toute sécurité <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je veux faire CECI mais en toute sécurité ! ",
+      "t": "A",
+      "v": "764511_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

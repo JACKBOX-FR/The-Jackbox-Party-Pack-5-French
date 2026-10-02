@@ -1,0 +1,421 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_6Correct"
+    },
+    {
+      "t": "S",
+      "v": "Niall Horan ",
+      "n": "Choice6_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Le Dr Teeth et le chaos électrique ",
+      "n": "Root2Text"
+    },
+    {
+      "t": "S",
+      "v": "Le chevalier ",
+      "n": "Choice5_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Janice ",
+      "n": "Choice2_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Shirley César ",
+      "n": "Choice4_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Direction Spencer ",
+      "n": "Choice6_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Homme de méthode ",
+      "n": "Choice3_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Georges Harrison ",
+      "n": "Choice1_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Les Beatles ",
+      "n": "Root1Text"
+    },
+    {
+      "t": "S",
+      "v": "Liam Payne ",
+      "n": "Choice6_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Dr Dents ",
+      "n": "Choice2_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Beyoncé Knowles ",
+      "n": "Choice4_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Je suis avec le groupe ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "Animal ",
+      "n": "Choice2_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Patti Labelle ",
+      "n": "Choice4_6Text"
+    },
+    {
+      "t": "S",
+      "v": "John Lennon ",
+      "n": "Choice1_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Le Démon ",
+      "n": "Choice5_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Ringo Starr ",
+      "n": "Choice1_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Masta Killa ",
+      "n": "Choice3_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Paul McCartney ",
+      "n": "Choice1_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Michelle Williams ",
+      "n": "Choice4_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Mai électrique ",
+      "n": "Choice2_5Text"
+    },
+    {
+      "t": "S",
+      "v": "BAISER ",
+      "n": "Root5Text"
+    },
+    {
+      "t": "S",
+      "v": "L'enfant du destin ",
+      "n": "Root4Text"
+    },
+    {
+      "t": "S",
+      "v": "Kelly Rowland ",
+      "n": "Choice4_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Gonzo ",
+      "n": "Choice2_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Louis Tomlinson ",
+      "n": "Choice6_4Text"
+    },
+    {
+      "t": "S",
+      "v": "L'homme de l'espace ",
+      "n": "Choice5_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Georges Hamilton ",
+      "n": "Choice1_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Killah au visage fantôme ",
+      "n": "Choice3_3Text"
+    },
+    {
+      "t": "S",
+      "v": "L'étoile ",
+      "n": "Choice5_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Vieux sale bâtard ",
+      "n": "Choice3_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Gambino enfantin ",
+      "n": "Choice3_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Keith Richards ",
+      "n": "Choice1_2Text"
+    },
+    {
+      "t": "S",
+      "v": "L'Enfant des étoiles ",
+      "n": "Choice5_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Clan Wu-Tang ",
+      "n": "Root3Text"
+    },
+    {
+      "t": "S",
+      "v": "Harry Styles ",
+      "n": "Choice6_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Une Direction",
+      "n": "Root6Text"
+    },
+    {
+      "t": "S",
+      "v": "Floyd Poivre ",
+      "n": "Choice2_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Yolanda Adams ",
+      "n": "Choice4_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Zayn Malik ",
+      "n": "Choice6_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Lil Wayne ",
+      "n": "Choice3_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Le tueur ",
+      "n": "Choice5_1Text"
+    },
+    {
+      "s": "Je suis avec le groupe ",
+      "t": "A",
+      "v": "751671_3 ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "J'espère que vous connaissez la composition de vos groupes... continuez... ",
+      "t": "A",
+      "v": "751672_6 ",
+      "n": "IntroAudio"
+    }
+  ]
+}

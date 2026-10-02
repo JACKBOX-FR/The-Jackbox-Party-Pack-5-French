@@ -1,0 +1,140 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "\"Chéri, je vais élever à Hawaï.\" ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "2,0,3,1 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Si vous demandez à une baleine à bosse du Pacifique Nord comment elle va hiverner, que pourrait-elle répondre ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "L'hiver c'est sympa ",
+      "t": "A",
+      "v": "740200_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Vous savez comment les gens riches disent parfois qu’ils vont passer l’été dans les Hamptons ou l’hiver à Vail ? Eh bien... ",
+      "t": "A",
+      "v": "740201_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "740203_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "OU\nCe n'est qu'un hasard, ne soyez pas trop bleu...(Tous) ",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Pendant les mois d'hiver, les baleines à bosse du Pacifique Nord migrent vers les eaux subtropicales autour d'Hawaï pour baiser (sfx : bip). ",
+      "t": "A",
+      "v": "740205_2f",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Ce n’est pas grossier mais c’est un évent total [sfx : bip bip bip] [sfx : bip]. ",
+      "t": "A",
+      "v": "740206_1f",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "If you ask a North Pacific Humpback whale how she’ll be wintering, what might she say?",
+      "t": "A",
+      "v": "740202_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

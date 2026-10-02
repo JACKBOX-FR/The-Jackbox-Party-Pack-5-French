@@ -1,0 +1,141 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Il serait mort par asphyxie. ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "0,1,2,3 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Si Will avait été pendu la tête en bas pendant tout le temps où il était piégé dans l'Upside Down, que lui serait probablement arrivé ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "C'est une chose étrange que je fais ",
+      "t": "A",
+      "v": "708313_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "D'accord, repensez à votre visionnage excessif de Stranger Things et répondez-moi à ceci : ",
+      "t": "A",
+      "v": "708314_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "708316_2",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "[effet sonore : deux pops] ",
+      "t": "A",
+      "v": "708321_0f",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Rester la tête en bas pendant quelques jours d’affilée va te tuer. Peut-être en faisant écraser vos poumons par vos autres organes. ",
+      "t": "A",
+      "v": "708318_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Ce n’est toujours pas aussi dégoûtant que ce qui est arrivé à Sean Astin. [frisson] ",
+      "t": "A",
+      "v": "708319_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "If Will had actually been hanging upside down the entire time he was trapped in the Upside Down, what would have probably happened to him?",
+      "t": "A",
+      "v": "708315_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

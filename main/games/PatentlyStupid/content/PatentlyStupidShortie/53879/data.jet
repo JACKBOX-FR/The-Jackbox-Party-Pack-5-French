@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Elvis | voler mon courrier | se cacher de la foule ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je soupçonne que mon voisin est <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je n’ai pas de preuve, mais je soupçonne que mon voisin est CE ! ",
+      "t": "A",
+      "v": "767737_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

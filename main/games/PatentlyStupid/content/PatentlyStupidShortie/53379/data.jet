@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "nettoyer leurs chambres | tais-toi | trouver un emploi ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "J'aimerais que mes enfants le fassent <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : J'en ai marre de dire à mes enfants qu'ils doivent faire CECI ! ",
+      "t": "A",
+      "v": "761688_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

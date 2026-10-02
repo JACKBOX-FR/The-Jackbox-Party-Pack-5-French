@@ -1,0 +1,245 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion5Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupPoorAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasDisAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion1Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion4Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTimingInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasScoreInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupRockedAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupAwfulAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion7Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasDatAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion6Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion3Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupOutroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupGoodAudio"
+    },
+    {
+      "t": "S",
+      "v": "S+8.70",
+      "n": "$InstructionsAudio$DatTextCue"
+    },
+    {
+      "t": "S",
+      "v": "Notre gamme de sorts de luxe ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "LES SIFFLES DU MAGICIEN DE WEASLEY ",
+      "n": "DatButtonText"
+    },
+    {
+      "t": "S",
+      "v": "GOOP ",
+      "n": "DisButtonText"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$InstructionsAudio$BothCue"
+    },
+    {
+      "t": "S",
+      "v": "quelque chose que vous pouvez acheter chez Gwyneth Paltrow's Goop ",
+      "n": "DisText"
+    },
+    {
+      "t": "S",
+      "v": "quelque chose que vous pourriez acheter dans le magasin de blagues des Weasley dans <i>Harry Potter</i> ",
+      "n": "DatText"
+    },
+    {
+      "t": "S",
+      "v": "S+3.92",
+      "n": "$InstructionsAudio$DisTextCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$DisAudio$DisButtonCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$DatAudio$DatButtonCue"
+    },
+    {
+      "s": "Charmes de rêverie ",
+      "t": "A",
+      "v": "749749_1",
+      "n": "Question5Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "TimingInstructionsAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupOutroAudio"
+    },
+    {
+      "s": "Je vais lire sept choses, et pour chacune d'entre elles, je veux que vous me disiez si c'est # quelque chose que vous pouvez acheter dans la boutique en ligne de Gwyenth Paltrow Goop, ou # quelque chose que vous pourriez acheter dans le magasin de blagues des Weasley dans <i>Harry Potter</i> ",
+      "t": "A",
+      "v": "749744_1",
+      "n": "InstructionsAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ScoreInstructionsAudio"
+    },
+    {
+      "s": "U-No-Poo ",
+      "t": "A",
+      "v": "749751_1",
+      "n": "Question7Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupPoorAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupRockedAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupAwfulAudio"
+    },
+    {
+      "s": "Poudre d'obscurité instantanée péruvienne ",
+      "t": "A",
+      "v": "749746_1",
+      "n": "Question2Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupGoodAudio"
+    },
+    {
+      "s": "... Goop... ou... ",
+      "t": "A",
+      "v": "749757_3",
+      "n": "DisAudio"
+    },
+    {
+      "s": "Disparition de boutons en 10 secondes ",
+      "t": "A",
+      "v": "749747_1",
+      "n": "Question3Audio"
+    },
+    {
+      "s": "Notre gamme de sorts de luxe et préparez-vous à faire du shopping car c'est l'heure d'un Dis ou d'un Dat ! ",
+      "t": "A",
+      "v": "749743_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "... Les respirations sifflantes du sorcier Weasley ",
+      "t": "A",
+      "v": "749758_3",
+      "n": "DatAudio"
+    },
+    {
+      "s": "Brume apaisante pour enfants ",
+      "t": "A",
+      "v": "749748_1",
+      "n": "Question4Audio"
+    },
+    {
+      "s": "Poussière de beauté ",
+      "t": "A",
+      "v": "749745_1",
+      "n": "Question1Audio"
+    },
+    {
+      "s": "Répulsif psychique contre les vampires ",
+      "t": "A",
+      "v": "749750_1",
+      "n": "Question6Audio"
+    }
+  ]
+}

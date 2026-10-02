@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "conseil | caresser un chat | roter ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je ne sais jamais à quel point <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je ne sais jamais à quel point je fais ça ! ",
+      "t": "A",
+      "v": "766895_2",
+      "n": "PromptAudio"
+    }
+  ]
+}

@@ -1,0 +1,421 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_6Correct"
+    },
+    {
+      "t": "S",
+      "v": "Sarah",
+      "n": "Choice6_6Text"
+    },
+    {
+      "t": "S",
+      "v": "L'équipe <i>Space Jam</i><br>(Toon Squad)",
+      "n": "Root2Text"
+    },
+    {
+      "t": "S",
+      "v": "Ginny Weasley",
+      "n": "Choice5_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Corne de brume Livourne",
+      "n": "Choice2_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Joe Jackson sans chaussures",
+      "n": "Choice4_2Text"
+    },
+    {
+      "t": "S",
+      "v": "I.N.T.E.L.L.I.G.E.N.C.E. ",
+      "n": "Choice6_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Visage",
+      "n": "Choice3_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Homme de fer",
+      "n": "Choice1_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Les Vengeurs",
+      "n": "Root1Text"
+    },
+    {
+      "t": "S",
+      "v": "Joe",
+      "n": "Choice6_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Roger Lapin",
+      "n": "Choice2_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Bébé Ruth",
+      "n": "Choice4_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Il n'y a pas de \"je\" dans l'équipe<br>(Sérieusement, les réponses avec \"je\" sont fausses)",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "Donald Canard",
+      "n": "Choice2_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Sally Champs",
+      "n": "Choice4_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Wonder Woman",
+      "n": "Choice1_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Severus Rogue",
+      "n": "Choice5_3Text"
+    },
+    {
+      "t": "S",
+      "v": "L'homme fourmi",
+      "n": "Choice1_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Hannibal",
+      "n": "Choice3_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Faucon",
+      "n": "Choice1_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Ralph Morton",
+      "n": "Choice4_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Grand-mère lapin",
+      "n": "Choice2_5Text"
+    },
+    {
+      "t": "S",
+      "v": "L'équipe de Quidditch de Gryffondor",
+      "n": "Root5Text"
+    },
+    {
+      "t": "S",
+      "v": "Équipe fantôme <i>Field of Dreams</i>",
+      "n": "Root4Text"
+    },
+    {
+      "t": "S",
+      "v": "Kévin Costner",
+      "n": "Choice4_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Bugs Lapin",
+      "n": "Choice2_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Yeux de serpent",
+      "n": "Choice6_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Griffin Dunne",
+      "n": "Choice5_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Docteur Who",
+      "n": "Choice1_4Text"
+    },
+    {
+      "t": "S",
+      "v": "B.A. Baracus",
+      "n": "Choice3_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Ron Weasley",
+      "n": "Choice5_2Text"
+    },
+    {
+      "t": "S",
+      "v": "À droite",
+      "n": "Choice3_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Murdock",
+      "n": "Choice3_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Thor",
+      "n": "Choice1_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Doyen Thomas",
+      "n": "Choice5_5Text"
+    },
+    {
+      "t": "S",
+      "v": "L'équipe A",
+      "n": "Root3Text"
+    },
+    {
+      "t": "S",
+      "v": "Gary Johnston",
+      "n": "Choice6_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Équipe Amérique",
+      "n": "Root6Text"
+    },
+    {
+      "t": "S",
+      "v": "Michael Jordan",
+      "n": "Choice2_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Buck Tisserand",
+      "n": "Choice4_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Spottswood",
+      "n": "Choice6_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Hannibal Lecteur",
+      "n": "Choice3_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Harry Potter",
+      "n": "Choice5_1Text"
+    },
+    {
+      "s": "Il n'y a pas de \"je\" dans l'équipe<br>(Sérieusement, les réponses avec \"je\" sont fausses) ",
+      "t": "A",
+      "v": "730622_2",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Attention... toute réponse contenant la lettre I sera automatiquement fausse. Bonne chance... ",
+      "t": "A",
+      "v": "730623_2",
+      "n": "IntroAudio"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "une question où Cookie s'énerve ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "une question où Cookie se venge ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "50539 ",
+      "n": "Choice2Id"
+    },
+    {
+      "t": "S",
+      "v": "Souhaitez-vous une question où Cookie se met en colère, ou une question où Cookie se venge ? ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "51952 ",
+      "n": "Choice1Id"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "Souhaitez-vous une question où Cookie se met en colère, ou une question où Cookie se venge ? ",
+      "t": "A",
+      "v": "762859_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "S",
+      "v": "Vous avez bien compris... ",
+      "n": "Clue1Text"
+    },
+    {
+      "t": "S",
+      "v": "...exactement vrai. ",
+      "n": "Clue2Text"
+    },
+    {
+      "t": "S",
+      "v": "Frappez le clou sur la tête ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "tu frappes le clou sur la tête, pour frapper le clou sur la tête, frapper le nale sur la tête, ",
+      "n": "Acceptable"
+    },
+    {
+      "t": "S",
+      "v": "Vous avez frappé sur l’acier exactement là où vous êtes censé le faire. ",
+      "n": "Clue3Text"
+    },
+    {
+      "t": "S",
+      "v": "Tout le monde à Hollywood est connecté ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "Bit Kumail, Shonda a saigné. ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Vous avez bien compris... ",
+      "t": "A",
+      "v": "741826_1",
+      "n": "Clue1Audio"
+    },
+    {
+      "s": "Tout le monde à Hollywood est connecté ",
+      "t": "A",
+      "v": "741821_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Vous avez frappé sur l’acier exactement là où vous êtes censé le faire. ",
+      "t": "A",
+      "v": "741828_1",
+      "n": "Clue3Audio"
+    },
+    {
+      "s": "Découvrez cette phrase charabia et découvrez avec quelle expression quotidienne elle rime ! ",
+      "t": "A",
+      "v": "741822_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "OutroAudio"
+    },
+    {
+      "s": "...exactement vrai. ",
+      "t": "A",
+      "v": "741827_1",
+      "n": "Clue2Audio"
+    },
+    {
+      "s": "Bit Kumail, Shonda a saigné. ",
+      "t": "A",
+      "v": "741823_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

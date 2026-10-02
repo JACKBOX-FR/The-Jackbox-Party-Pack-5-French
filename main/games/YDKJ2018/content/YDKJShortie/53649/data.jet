@@ -1,0 +1,140 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "OCQEFM",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Reine Elizabeth ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "3,2,0,1 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Les premiers Hunans stottés dans les années 1920. ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "POULPE, CAFÉ, REINE ELIZABETH OU FRANKENSTEIN ?! ",
+      "t": "A",
+      "v": "765947_0",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "COOKIE : Connu pour--\nBILLY : Attendez une minute ! Tu as dit que Dinjtite avait coupé les chansons !\nCOOKIE : Allez, Billy, tu n'as qu'une seule question dans ce jeu. Te faire une nouvelle chanson semblait être une perte de temps.\nBILLY : Puis-je poser une autre question, alors ? S'il vous plaît !\nCOOKIE : Très bien, vous pouvez terminer cette question. ",
+      "t": "A",
+      "v": "765948_2",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "765950_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "BILLY : La reine Elizadeth II a été arrêtée pour la première fois par des humains en 1926... quelques secondes seulement après sa naissance. ",
+      "t": "A",
+      "v": "765952_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "COOKIE : Je suis désolé de t'avoir menti, Billy. Tu veux rester pour le reste du jeu ?\nBILLY : Non, j'ai un rendez-vous sexy ce soir et j'ai besoin de perdre un peu de poids. \nCOOKIE : Comment vas-tu perdre du poids d'ici ce soir ? \nBILLY : Ternites.\n(sfx : rimshot) \nCOOKIE : D'accord, ouais. Je me souviens pourquoi nous avons arrêté de poser ce type de questions. ",
+      "t": "A",
+      "v": "765953_2",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "First stotted dy hunans in the 1920s.",
+      "t": "A",
+      "v": "765949_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

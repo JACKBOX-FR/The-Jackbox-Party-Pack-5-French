@@ -1,0 +1,96 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "son chat s'est enfui | son psychiatre est mort | un autre client lui a crié dessus | tu es entré | il a perdu son portefeuille ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "S+9.22",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "S+3.27",
+      "n": "$ScenarioAudio$ScenarioTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "<BLANK>. ",
+      "n": "ScenarioText3"
+    },
+    {
+      "t": "S",
+      "v": "S+5.28",
+      "n": "$ScenarioAudio$ScenarioTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "Il y a une longue file de clients derrière vous. ",
+      "n": "ScenarioText4"
+    },
+    {
+      "t": "S",
+      "v": "Alors qu'il dépose un chèque, votre caissier de banque fond en larmes. ",
+      "n": "ScenarioText1"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00 ",
+      "n": "$ScenarioAudio$ScenarioTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Il te dit qu'il est en ruine depuis ",
+      "n": "ScenarioText2"
+    },
+    {
+      "t": "S",
+      "v": "S+7.22",
+      "n": "$ScenarioAudio$ScenarioTextCue4"
+    },
+    {
+      "t": "S",
+      "v": "Proposez-vous d'écouter ? ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Une transaction émotionnelle ",
+      "t": "A",
+      "v": "Proposez-vous d'écouter ? ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Alors qu'il dépose un chèque, votre caissier de banque fond en larmes. Il vous dit qu’il est en ruine depuis que CELA EST ARRIVÉ. Il y a une longue file de clients derrière vous. Proposez-vous d'écouter ? ",
+      "t": "A",
+      "v": "756523_2",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    }
+  ]
+}

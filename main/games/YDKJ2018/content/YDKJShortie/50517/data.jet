@@ -1,0 +1,142 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "\"Encore une bagatelle, ver!\" ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "0,2,1,3 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Imaginez que la juge du <i>Great British Baking Show</i> Mary Berry, folle de pouvoir, exige que les candidats préparent uniquement des desserts à base de baies. Lequel de ces éléments Mary beuglerait-elle ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Je suis Berry Berry en colère",
+      "t": "A",
+      "v": "723213_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Le Mille-Feuille est aussi connu sous le nom de Napoléon… ce qui en fait votre Waterloo. ",
+      "t": "A",
+      "v": "723225_2",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "J'adore les émissions de pâtisserie compétitives parce qu'elles combinent des enjeux élevés et une tension à couper le souffle... avec de la tarte. Alors imaginez ça... ",
+      "t": "A",
+      "v": "723214_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "723216_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "Le tiramisu est fait à partir de boudoirs, de sucre, d'œufs... et d'un léger saupoudrage de honte. ",
+      "t": "A",
+      "v": "723223_1",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "La bagatelle classique est composée de crème anglaise, d'une couche de génoise et de l'indispensable couche de baies. ",
+      "t": "A",
+      "v": "723218_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Assurez-vous que la génoise est imbibée de cognac. À moins que le cognac ait disparu parce qu’une vieille dame anglaise vous a crié dessus toute la journée sous une tente. ",
+      "t": "A",
+      "v": "723219_2",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "Imagine <i>Great British Baking Show</i> judge Mary Berry, mad with power, demands contestants prepare only berry-based desserts. Which of these would Mary bellow?",
+      "t": "A",
+      "v": "723215_3",
+      "n": "QuestionAudio"
+    }
+  ]
+}

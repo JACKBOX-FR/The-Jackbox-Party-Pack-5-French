@@ -1,0 +1,100 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "S",
+      "v": "As-tu peur... ",
+      "n": "Clue1Text"
+    },
+    {
+      "t": "S",
+      "v": "...que d'autres personnes s'amusent plus que toi ? ",
+      "n": "Clue2Text"
+    },
+    {
+      "t": "S",
+      "v": "Peur de rater quelque chose ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "peur de rater, peur de rater, peur de rater, peur de rater, peur de rater ",
+      "n": "Acceptable"
+    },
+    {
+      "t": "S",
+      "v": "Anxiété de ne pas y assister ",
+      "n": "Clue3Text"
+    },
+    {
+      "t": "S",
+      "v": "Venez ici et regardez ce poisson fantaisie ! ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "Ici ! Gant embrassant la truite ! ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "As-tu peur... ",
+      "t": "A",
+      "v": "759482_1",
+      "n": "Clue1Audio"
+    },
+    {
+      "s": "Venez ici et regardez ce poisson fantaisie ! ",
+      "t": "A",
+      "v": "759477_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Anxiété de ne pas y assister ",
+      "t": "A",
+      "v": "759484_1",
+      "n": "Clue3Audio"
+    },
+    {
+      "s": "Regardez cette phrase charabia et dites-moi avec quelle phrase populaire elle rime. ",
+      "t": "A",
+      "v": "759478_2",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "OutroAudio"
+    },
+    {
+      "s": "...que d'autres personnes s'amusent plus que toi ? ",
+      "t": "A",
+      "v": "759483_1",
+      "n": "Clue2Audio"
+    },
+    {
+      "s": "Ici ! Gant embrassant la truite ! ",
+      "t": "A",
+      "v": "759479_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

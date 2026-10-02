@@ -1,0 +1,421 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_6Correct"
+    },
+    {
+      "t": "S",
+      "v": "Séoul « Harmonie et Progrès » ",
+      "n": "Choice6_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Coca Cola ",
+      "n": "Root2Text"
+    },
+    {
+      "t": "S",
+      "v": "« Gifle-les bien, Harry » ",
+      "n": "Choice5_4Text"
+    },
+    {
+      "t": "S",
+      "v": "\"C'est du Coca !\" ",
+      "n": "Choice2_3Text"
+    },
+    {
+      "t": "S",
+      "v": "\"C'est un peu chic\" ",
+      "n": "Choice4_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Pékin « Un monde, un rêve » ",
+      "n": "Choice6_1Text"
+    },
+    {
+      "t": "S",
+      "v": "\"Pourquoi s'amuser avec quelqu'un d'autre ?\" ",
+      "n": "Choice3_5Text"
+    },
+    {
+      "t": "S",
+      "v": "« Pour ce prix-là, je prends cinquante burgers ! ",
+      "n": "Choice1_6Text"
+    },
+    {
+      "t": "S",
+      "v": "McDonald's ",
+      "n": "Root1Text"
+    },
+    {
+      "t": "S",
+      "v": "Athènes « c’est de retour » ",
+      "n": "Choice6_5Text"
+    },
+    {
+      "t": "S",
+      "v": "«Profitez du Fizz» ",
+      "n": "Choice2_6Text"
+    },
+    {
+      "t": "S",
+      "v": "« Nourrissez votre enfant intérieur » ",
+      "n": "Choice4_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Slogans officiels ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "\"Coca-Cola... Vrai\" ",
+      "n": "Choice2_2Text"
+    },
+    {
+      "t": "S",
+      "v": "« Chez Macca, tout se réunit » ",
+      "n": "Choice4_6Text"
+    },
+    {
+      "t": "S",
+      "v": "\"Je l'adore\" ",
+      "n": "Choice1_1Text"
+    },
+    {
+      "t": "S",
+      "v": "« Verse-le dessus, Harry » ",
+      "n": "Choice5_3Text"
+    },
+    {
+      "t": "S",
+      "v": "\"C'est ce que je mange et ce que je fais\" ",
+      "n": "Choice1_5Text"
+    },
+    {
+      "t": "S",
+      "v": "« Vous nous aimerez le mieux » ",
+      "n": "Choice3_4Text"
+    },
+    {
+      "t": "S",
+      "v": "\"Est-ce que quelqu'un a dit McDonald's ?\" ",
+      "n": "Choice1_3Text"
+    },
+    {
+      "t": "S",
+      "v": "\"McDonald's me fait du bien\" ",
+      "n": "Choice4_4Text"
+    },
+    {
+      "t": "S",
+      "v": "« Coca-Cola me fait du bien » ",
+      "n": "Choice2_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Campagne présidentielle de Harry S. Truman en 1948 ",
+      "n": "Root5Text"
+    },
+    {
+      "t": "S",
+      "v": "McDonald's (mais en Australie cette fois) ",
+      "n": "Root4Text"
+    },
+    {
+      "t": "S",
+      "v": "« Donne-moi les bonnes choses » ",
+      "n": "Choice4_5Text"
+    },
+    {
+      "t": "S",
+      "v": "\"C'est du Coca!\" ",
+      "n": "Choice2_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Barcelone « Amis pour toujours » ",
+      "n": "Choice6_4Text"
+    },
+    {
+      "t": "S",
+      "v": "\"Harry Truman me fait du bien\" ",
+      "n": "Choice5_6Text"
+    },
+    {
+      "t": "S",
+      "v": "« Donne-moi les bonnes choses » ",
+      "n": "Choice1_4Text"
+    },
+    {
+      "t": "S",
+      "v": "« Notre forfait le plus important est le vôtre » ",
+      "n": "Choice3_3Text"
+    },
+    {
+      "t": "S",
+      "v": "\"Donnez-leur l'enfer, Harry\" ",
+      "n": "Choice5_2Text"
+    },
+    {
+      "t": "S",
+      "v": "\"Détendez-vous, c'est FedEx\" ",
+      "n": "Choice3_1Text"
+    },
+    {
+      "t": "S",
+      "v": "\"Ouvrez la porte, c'est nous\" ",
+      "n": "Choice3_6Text"
+    },
+    {
+      "t": "S",
+      "v": "\"McDonald's me fait du bien\" ",
+      "n": "Choice1_2Text"
+    },
+    {
+      "t": "S",
+      "v": "\"Je suis juste fou d'Harry\" ",
+      "n": "Choice5_5Text"
+    },
+    {
+      "t": "S",
+      "v": "FedEx ",
+      "n": "Root3Text"
+    },
+    {
+      "t": "S",
+      "v": "Londres « Une célébration de l'esprit » ",
+      "n": "Choice6_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Slogans olympiques ",
+      "n": "Root6Text"
+    },
+    {
+      "t": "S",
+      "v": "« La grande boisson nationale de tempérance » ",
+      "n": "Choice2_4Text"
+    },
+    {
+      "t": "S",
+      "v": "«Grand McDonald's» ",
+      "n": "Choice4_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Sydney « les meilleurs talents, aux antipodes » ",
+      "n": "Choice6_3Text"
+    },
+    {
+      "t": "S",
+      "v": "« Laissez-nous gérer votre colis » ",
+      "n": "Choice3_2Text"
+    },
+    {
+      "t": "S",
+      "v": "\"Harry fera les choses correctement\" ",
+      "n": "Choice5_1Text"
+    },
+    {
+      "s": "Slogans officiels ",
+      "t": "A",
+      "v": "745062_1 ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Nous aimons tous les marques et leurs slogans, n'est-ce pas ? Bonne chance... ",
+      "t": "A",
+      "v": "745063_2 ",
+      "n": "IntroAudio"
+    }
+  ]
+}

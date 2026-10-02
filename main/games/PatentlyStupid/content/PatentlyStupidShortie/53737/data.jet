@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "chocolat | télé-réalité | baignade ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "<BLANK> ne me satisfait plus ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : CELA ne me satisfait plus ! ",
+      "t": "A",
+      "v": "766913_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

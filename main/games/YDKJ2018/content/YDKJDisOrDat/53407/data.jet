@@ -1,0 +1,245 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion5Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupPoorAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasDisAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion1Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion4Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTimingInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasScoreInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupRockedAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupAwfulAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion7Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasDatAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion6Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion3Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupOutroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupGoodAudio"
+    },
+    {
+      "t": "S",
+      "v": "S+8.60",
+      "n": "$InstructionsAudio$DatTextCue"
+    },
+    {
+      "t": "S",
+      "v": "Club des premières femmes au foyer ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "ÉLÉANOR ROOSEVELT ",
+      "n": "DatButtonText"
+    },
+    {
+      "t": "S",
+      "v": "DE VRAIES FEMMES AU FOYER ",
+      "n": "DisButtonText"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$InstructionsAudio$BothCue"
+    },
+    {
+      "t": "S",
+      "v": "un slogan de l'une des <i>Vraies femmes au foyer de New York</i> ",
+      "n": "DisText"
+    },
+    {
+      "t": "S",
+      "v": "une citation d'Eleanor Roosevelt ",
+      "n": "DatText"
+    },
+    {
+      "t": "S",
+      "v": "S+4.20",
+      "n": "$InstructionsAudio$DisTextCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$DisAudio$DisButtonCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$DatAudio$DatButtonCue"
+    },
+    {
+      "s": "\"Je vis le rêve américain, une erreur à la fois.\" ",
+      "t": "A",
+      "v": "761942_1",
+      "n": "Question5Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "TimingInstructionsAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupOutroAudio"
+    },
+    {
+      "s": "Je vais énumérer sept choses, et pour chacune, je veux que vous me disiez s'il s'agit # d'un slogan de l'une des Real Housewives de New York OU # d'une citation de la célèbre première dame Eleanor Roosevelt. ",
+      "t": "A",
+      "v": "761937_1",
+      "n": "InstructionsAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ScoreInstructionsAudio"
+    },
+    {
+      "s": "\"Je planifie l'avenir, mais je vis l'instant présent.\" ",
+      "t": "A",
+      "v": "761944_1",
+      "n": "Question7Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupPoorAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupRockedAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupAwfulAudio"
+    },
+    {
+      "s": "\"Je ne me sens jamais coupable d'être privilégié.\" ",
+      "t": "A",
+      "v": "761939_1",
+      "n": "Question2Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupGoodAudio"
+    },
+    {
+      "s": "... De vraies femmes au foyer... ou... ",
+      "t": "A",
+      "v": "761950_1",
+      "n": "DisAudio"
+    },
+    {
+      "s": "\"Personne ne peut vous faire sentir inférieur sans votre consentement.\" ",
+      "t": "A",
+      "v": "761940_2",
+      "n": "Question3Audio"
+    },
+    {
+      "s": "Sommes-nous tous réunis ? Bien. C'est l'heure d'un Dis ou Dat. ",
+      "t": "A",
+      "v": "761936_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "...Eléonore Roosevelt ",
+      "t": "A",
+      "v": "761951_1",
+      "n": "DatAudio"
+    },
+    {
+      "s": "« Si vous ne pouvez pas gérer la vérité, vous ne pouvez pas me gérer. » ",
+      "t": "A",
+      "v": "761941_1",
+      "n": "Question4Audio"
+    },
+    {
+      "s": "\"Le bonheur n'est pas un objectif. C'est un sous-produit.\" ",
+      "t": "A",
+      "v": "761938_1",
+      "n": "Question1Audio"
+    },
+    {
+      "s": "\"Une femme est comme un sachet de thé : on ne peut pas dire à quel point elle est forte tant qu'on ne la met pas dans l'eau chaude.\" ",
+      "t": "A",
+      "v": "761943_2",
+      "n": "Question6Audio"
+    }
+  ]
+}

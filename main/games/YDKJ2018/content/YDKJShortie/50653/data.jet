@@ -1,0 +1,141 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "\"Beowulf m'a arraché le bras !\" ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "3,2,0,1 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "De quoi était ce petit monstre Grendel qui courait vers sa mère pour lui raconter des histoires ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Soyons excités ",
+      "t": "A",
+      "v": "724980_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Chaque génération pense que les enfants après eux sont bien trop pleurnichards. Et cela inclut les anciens Vikings. ",
+      "t": "A",
+      "v": "724981_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "724983_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "OR\nComment osez-vous salir la bonne réputation de Sven Forkbeard ! ",
+      "t": "A",
+      "v": "724988_2",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Dans le poème épique dans lequel il joue, Beowulf arrache le bras de Grendel. ",
+      "t": "A",
+      "v": "724985_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Et la mère de Grendel était un dragon. Et vous pensez que les enfants d’aujourd’hui pourraient supporter d’avoir un dragon pour maman ? (se moque) Ouais, c'est vrai. ",
+      "t": "A",
+      "v": "724986_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "What was that little monster Grendel running to his mom to tattle about?",
+      "t": "A",
+      "v": "724982_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

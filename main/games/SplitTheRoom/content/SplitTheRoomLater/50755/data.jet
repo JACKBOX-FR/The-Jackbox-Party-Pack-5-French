@@ -1,0 +1,96 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "Bravo | Développement arrêté | La théorie du Big Bang | Brooklyn 99 | Bob l'éponge ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "S+13.96",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "S+5.82",
+      "n": "$ScenarioAudio$ScenarioTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "sans rire une seule fois. Vous devez regarder 18 heures par jour jusqu’à la fin. ",
+      "n": "ScenarioText3"
+    },
+    {
+      "t": "S",
+      "v": "S+7.10",
+      "n": "$ScenarioAudio$ScenarioTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "Les frais d'entrée non remboursables sont de 2 000 $. ",
+      "n": "ScenarioText4"
+    },
+    {
+      "t": "S",
+      "v": "Un concours spécial offre 50 000 $ à toute personne pouvant regarder activement chaque épisode de ",
+      "n": "ScenarioText1"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00 ",
+      "n": "$ScenarioAudio$ScenarioTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "<BLANK> ",
+      "n": "ScenarioText2"
+    },
+    {
+      "t": "S",
+      "v": "S+10.97",
+      "n": "$ScenarioAudio$ScenarioTextCue4"
+    },
+    {
+      "t": "S",
+      "v": "Le faites-vous ? ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Le concours ",
+      "t": "A",
+      "v": "Le faites-vous ? ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Un concours spécial offre 50 000 $ à toute personne capable de regarder activement chaque épisode de cette série sans rire une seule fois. Vous devez regarder 18 heures par jour jusqu’à la fin. Les frais d'entrée non remboursables sont de 2 000 $. Le faites-vous ? ",
+      "t": "A",
+      "v": "726283_2",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    }
+  ]
+}

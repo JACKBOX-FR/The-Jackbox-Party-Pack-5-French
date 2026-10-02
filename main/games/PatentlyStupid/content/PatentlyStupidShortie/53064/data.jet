@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "orphelins|journaux|extraterrestres ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "<BLANK> continue d'apparaître à ma porte ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : J'en ai marre de regarder sur le pas de ma porte et de trouver CECI ! ",
+      "t": "A",
+      "v": "758407_2",
+      "n": "PromptAudio"
+    }
+  ]
+}

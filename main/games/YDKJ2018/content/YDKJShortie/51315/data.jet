@@ -1,0 +1,170 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "DATAMINING",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+6.92",
+      "n": "$QuestionAudio$QuestionTextCue4"
+    },
+    {
+      "t": "S",
+      "v": "De qui avons-nous acquis l’historique de recherche ? ",
+      "n": "QuestionText4"
+    },
+    {
+      "t": "S",
+      "v": "\"C'était de l'austérité ?\"<br> ",
+      "n": "QuestionText3"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00 ",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Angela Merkel ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "S+2.13",
+      "n": "$QuestionAudio$QuestionTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "S+4.08",
+      "n": "$QuestionAudio$QuestionTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "1,0,3,2",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "“navigiere zum Bundestag”<br>",
+      "n": "QuestionText2"
+    },
+    {
+      "t": "S",
+      "v": "Before",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "“Kate McKinnon nachahmen”<br>",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Type = { Leadership, mondial } ",
+      "t": "A",
+      "v": "733759_2",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Cookie : Il est temps de laisser Binjpipe commettre ses actes ignobles.\nVoix : Voici les données que nous avons récupérées. ",
+      "t": "A",
+      "v": "733760_1f",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "733762_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Cookie: Yep, this seems to belong to Angela Merkel, German Chancellor and widely regarded as one of the most powerful people in the world. She's also been played by Kate McKinnon on SNL.",
+      "t": "A",
+      "v": "733764_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Voice: Thank you for helping us identify your global leaders. This information will help with BinjPipe’s next phase.",
+      "t": "A",
+      "v": "733765_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "“Kate McKinnon nachahmen” “navigiere zum Bundestag” “was ist ‘austerity’?” Whose search history have we acquired?",
+      "t": "A",
+      "v": "733761_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

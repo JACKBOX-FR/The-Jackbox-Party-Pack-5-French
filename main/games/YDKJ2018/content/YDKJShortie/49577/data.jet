@@ -1,0 +1,142 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "1993 ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "1,3,0,2 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "D’après la durée de vie moyenne des chats, quand Garfield aurait-il dû mourir ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Un Odie mais un Goodie ",
+      "t": "A",
+      "v": "707523_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "(en quelque sorte dit comme en réponse à un commentaire méchant) ME-OW ! ",
+      "t": "A",
+      "v": "707535_0",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "707526_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "(en quelque sorte dit comme en réponse à un commentaire méchant) ME-OW ! ",
+      "t": "A",
+      "v": "707533_0",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "(en quelque sorte dit comme en réponse à un commentaire méchant) ME-OW ! ",
+      "t": "A",
+      "v": "707531_3",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Garfield a été créé en 1978 et les chats domestiques vivent en moyenne quinze ans. ",
+      "t": "A",
+      "v": "707528_2",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Et avec un régime régulier composé de trop de lasgna, de problèmes de colère à peine réprimés, Garfield ne semble pas susceptible de déjouer les pronostics. ",
+      "t": "A",
+      "v": "707529_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "Based on the average lifespan of cats, when should Garfield have died?",
+      "t": "A",
+      "v": "707525_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

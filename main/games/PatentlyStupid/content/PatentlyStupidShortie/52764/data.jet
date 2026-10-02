@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "bugs | serpents | creeps ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "J'attire toujours <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je suis à bout de nerfs à cause d’attirer CECI ! ",
+      "t": "A",
+      "v": "754678_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

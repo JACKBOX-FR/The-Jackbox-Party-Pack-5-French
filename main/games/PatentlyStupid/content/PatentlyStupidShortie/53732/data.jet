@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "voyage dans le temps | perdre la tête ici | s'enflamme spontanément ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Il y a un risque réel que je puisse <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Il y a un risque très réel que je fasse CELA ! ",
+      "t": "A",
+      "v": "766898_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

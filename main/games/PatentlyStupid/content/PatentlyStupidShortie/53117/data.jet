@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "mathématiques | flash mobbing | chant jazz ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "J'aurais aimé en savoir plus sur <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je veux juste en savoir plus à ce sujet ! ",
+      "t": "A",
+      "v": "759015_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

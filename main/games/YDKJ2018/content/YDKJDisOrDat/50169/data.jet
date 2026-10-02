@@ -1,0 +1,246 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion5Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupPoorAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasDisAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion1Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion4Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTimingInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasScoreInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupRockedAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupAwfulAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion7Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasDatAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion6Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion3Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrapupOutroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupGoodAudio"
+    },
+    {
+      "t": "S",
+      "v": "S+7.26",
+      "n": "$InstructionsAudio$DatTextCue"
+    },
+    {
+      "t": "S",
+      "v": "Frappez vos marques (de dérapage) ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "ESSUYAGE DES BOUTS ",
+      "n": "DatButtonText"
+    },
+    {
+      "t": "S",
+      "v": "TRANSITION CINÉMA ",
+      "n": "DisButtonText"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$InstructionsAudio$BothCue"
+    },
+    {
+      "t": "S",
+      "v": "une sorte de transition de montage cinématographique ",
+      "n": "DisText"
+    },
+    {
+      "t": "S",
+      "v": "une marque de lingette jetable pour les fesses ",
+      "n": "DatText"
+    },
+    {
+      "t": "S",
+      "v": "S+4.02",
+      "n": "$InstructionsAudio$DisTextCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$DisAudio$DisButtonCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$DatAudio$DatButtonCue"
+    },
+    {
+      "s": "Lingettes à l'eau ",
+      "t": "A",
+      "v": "717964_1",
+      "n": "Question5Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "TimingInstructionsAudio"
+    },
+    {
+      "s": "These days, my priorities around film are the same as my priorities around my butt. I’d prefer to stream it at home.",
+      "t": "A",
+      "v": "717971_1",
+      "n": "WrapupOutroAudio"
+    },
+    {
+      "s": "Je vais vous lire sept choses, et pour chacune d'entre elles, je veux que vous me disiez si c'est # un type de transition de montage de film, ou # une marque de lingette jetable dans les toilettes. ",
+      "t": "A",
+      "v": "717959_1",
+      "n": "InstructionsAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ScoreInstructionsAudio"
+    },
+    {
+      "s": "Lingettes pour les fesses de Bob ",
+      "t": "A",
+      "v": "717966_1",
+      "n": "Question7Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupPoorAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupRockedAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupAwfulAudio"
+    },
+    {
+      "s": "Lingettes Étoiles ",
+      "t": "A",
+      "v": "717961_1",
+      "n": "Question2Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupGoodAudio"
+    },
+    {
+      "s": "... une TRANSITION DE FILM... ou... ",
+      "t": "A",
+      "v": "717972_5",
+      "n": "DisAudio"
+    },
+    {
+      "s": "Bonnes lingettes ",
+      "t": "A",
+      "v": "717962_1",
+      "n": "Question3Audio"
+    },
+    {
+      "s": "Frappez vos marques de dérapage et il est temps pour un Dis ou un Dat ! ",
+      "t": "A",
+      "v": "717958_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "...une lingette pour les fesses ",
+      "t": "A",
+      "v": "717973_4",
+      "n": "DatAudio"
+    },
+    {
+      "s": "Lingettes pour horloge ",
+      "t": "A",
+      "v": "717963_1",
+      "n": "Question4Audio"
+    },
+    {
+      "s": "Lingettes mec ",
+      "t": "A",
+      "v": "717960_1",
+      "n": "Question1Audio"
+    },
+    {
+      "s": "Lingettes invisibles ",
+      "t": "A",
+      "v": "717965_1",
+      "n": "Question6Audio"
+    }
+  ]
+}

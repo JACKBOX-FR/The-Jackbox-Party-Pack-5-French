@@ -1,0 +1,142 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "envoyer un droïde espion sur Mars sans l'approbation de l'ONU ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "0,1,2,3 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Si les nations de la Terre convainquaient le méchant de <i>Star Wars</i>, Kylo Ren, de signer le véritable « Traité sur l'espace extra-atmosphérique », lequel de ces actes pervers serait-il encore capable de commettre sans le rompre ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Accords étoiles ",
+      "t": "A",
+      "v": "760676_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Pluton n'est plus considérée comme une planète. Et cela n'a rien à voir avec cette question. ",
+      "t": "A",
+      "v": "760688_1",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "760679_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "Selon le traité, la lune est uniquement destinée à des fins pacifiques. Peut-être que si c'était une base Starhugger. ",
+      "t": "A",
+      "v": "760686_1",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "Non, les armes de destruction massive ne sont pas autorisées dans l’espace, pas plus que les dispositifs de complot fatigués. ",
+      "t": "A",
+      "v": "760684_1",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Tous ces autres projets maléfiques seraient interdits par le Traité sur l’espace extra-atmosphérique, mais le traité stipule spécifiquement que n’importe quelle nation peut explorer l’espace, la lune et d’autres corps célestes. Ainsi, envoyer un robot n’enfreindrait aucune règle. ",
+      "t": "A",
+      "v": "760681_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Ce ne sont pas les droïdes que vous recherchez, ce sont les droïdes qui vous recherchent. ",
+      "t": "A",
+      "v": "760682_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "If the nations of Earth convinced <i>Star Wars</i> villain Kylo Ren to sign the real life “Outer Space Treaty,” which of these evil acts would he still be able to commit without breaking it?",
+      "t": "A",
+      "v": "760678_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

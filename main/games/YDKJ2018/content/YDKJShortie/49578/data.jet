@@ -1,0 +1,141 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "3-4 jours ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "3,0,1,2 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Selon la clinique Mayo, combien de temps pouvez-vous conserver en toute sécurité <i>The Leftovers</i> sur votre DVR Before de devoir le jeter ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "HBO Non, j'ai une intoxication alimentaire !",
+      "t": "A",
+      "v": "707541_2",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "707544_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "Écoutez, il ne s’agit pas d’une question piège compliquée sur l’histoire profonde de la série HBO The Leftovers ! Je veux juste savoir combien de temps vous pouvez conserver les restes en toute sécurité avant de les jeter et il n’y a aucune chance que cette réponse soit bonne ! ",
+      "t": "A",
+      "v": "707551_2",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "5 à 6 jours ?! Je suis étonné que tu sois encore en vie ! ",
+      "t": "A",
+      "v": "707549_1",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Afin de prévenir les maladies d'origine alimentaire, la clinique Mayo recommande que les restes réfrigérés ne puissent être consommés sans danger que pendant 3 à 4 jours. ",
+      "t": "A",
+      "v": "707546_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Plus longtemps et vous pourriez bien Justin Theroux se lever. ",
+      "t": "A",
+      "v": "707547_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "According to the Mayo Clinic, how long can you safely keep <i>The Leftovers</i> on your DVR before you should throw it out?",
+      "t": "A",
+      "v": "707543_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

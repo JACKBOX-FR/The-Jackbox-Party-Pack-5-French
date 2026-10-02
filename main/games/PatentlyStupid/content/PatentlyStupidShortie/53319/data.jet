@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "sois gentil avec mes enfants | préparer le petit déjeuner | faire mousser avec de la crème solaire ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je suis trop fatigué pour <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je suis tout simplement trop fatigué pour faire CELA ! ",
+      "t": "A",
+      "v": "761159_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "prenez conscience de tous vos défauts | avoir le hoquet pendant trois mois | ketchup à la sueur | avoir les cheveux gras | boîte à rythmes ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "S+10.04",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "S+2.84",
+      "n": "$ScenarioAudio$ScenarioTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "<BLANK>. ",
+      "n": "ScenarioText3"
+    },
+    {
+      "t": "S",
+      "v": "S+4.88",
+      "n": "$ScenarioAudio$ScenarioTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "Malheureusement, vous êtes le chef cuisinier d’un restaurant qui sert une cuisine du sud. ",
+      "n": "ScenarioText4"
+    },
+    {
+      "t": "S",
+      "v": "Vous êtes un chef maudit. ",
+      "n": "ScenarioText1"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00 ",
+      "n": "$ScenarioAudio$ScenarioTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Chaque fois que vous cuisinez avec du beurre, vous ",
+      "n": "ScenarioText2"
+    },
+    {
+      "t": "S",
+      "v": "S+6.18",
+      "n": "$ScenarioAudio$ScenarioTextCue4"
+    },
+    {
+      "t": "S",
+      "v": "Cuisinez-vous avec de la margarine ? ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Inconfort du Sud ",
+      "t": "A",
+      "v": "Cuisinez-vous avec de la margarine ? ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Vous êtes un chef maudit. Chaque fois que vous cuisinez avec du beurre, vous faites CECI. Malheureusement, vous êtes le chef cuisinier d’un restaurant qui sert une cuisine du sud. Cuisinez-vous avec de la margarine ? ",
+      "t": "A",
+      "v": "737725_2",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    }
+  ]
+}

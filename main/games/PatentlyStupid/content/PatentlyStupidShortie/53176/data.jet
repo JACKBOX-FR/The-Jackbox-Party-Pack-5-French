@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "ogres | mes peurs | amis bien intentionnés ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je fuis constamment <BLANK>. ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je fuis constamment CECI ! ",
+      "t": "A",
+      "v": "759489_2",
+      "n": "PromptAudio"
+    }
+  ]
+}

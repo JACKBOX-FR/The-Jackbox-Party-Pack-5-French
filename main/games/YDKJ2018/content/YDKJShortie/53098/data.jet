@@ -1,0 +1,170 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "DATAMINING",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+8.66",
+      "n": "$QuestionAudio$QuestionTextCue4"
+    },
+    {
+      "t": "S",
+      "v": "De qui avons-nous acquis l’historique de recherche ? ",
+      "n": "QuestionText4"
+    },
+    {
+      "t": "S",
+      "v": "« recherché : des dames pour le sexe »<br> ",
+      "n": "QuestionText3"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00 ",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Sappho ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "S+3.15",
+      "n": "$QuestionAudio$QuestionTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "S+5.70",
+      "n": "$QuestionAudio$QuestionTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "2,1,0,3",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "“wanted: activities for exile”<br>",
+      "n": "QuestionText2"
+    },
+    {
+      "t": "S",
+      "v": "Before",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "“wanted: lyre accompanist for poetry”<br>",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Type = { Écrivain, Archaïque } ",
+      "t": "A",
+      "v": "758811_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Cookie : Binjpipe a acquis une tonne de données d'utilisateurs privées et maintenant ils ont besoin d'un peu d'aide pour les comprendre.\nVoix : Merci pour votre service. ",
+      "t": "A",
+      "v": "758812_2",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "758814_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Voice: Sappho is a lyric poet from ancient Greece who was exiled to Sicily. Her reputation with women on her home island of Lesbos, led to the creation of the term “lesbian.”",
+      "t": "A",
+      "v": "758816_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Cookie: How do you spell that again? S-A-P-P-H-O? I’m gonna... bookmark that for later.",
+      "t": "A",
+      "v": "758817_2",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "“wanted: lyre accompanist for poetry” “wanted: activities for exile” “wanted: ladies for sex” Whose search history have we acquired?",
+      "t": "A",
+      "v": "758813_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

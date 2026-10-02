@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "voler | surfer | lutter contre un ours ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "J'aurais aimé savoir ce que c'était que de <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je veux juste savoir ce que ça fait de faire CECI ! ",
+      "t": "A",
+      "v": "754684_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

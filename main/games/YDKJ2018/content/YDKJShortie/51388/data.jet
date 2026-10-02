@@ -1,0 +1,169 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "DATAMINING",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+7.74",
+      "n": "$QuestionAudio$QuestionTextCue4"
+    },
+    {
+      "t": "S",
+      "v": "De qui avons-nous acquis l’historique de recherche ? ",
+      "n": "QuestionText4"
+    },
+    {
+      "t": "S",
+      "v": "\"trouver qui m'appelait sur mon téléphone portable\"<br> ",
+      "n": "QuestionText3"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00 ",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Drake ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "S+2.67",
+      "n": "$QuestionAudio$QuestionTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "S+5.01",
+      "n": "$QuestionAudio$QuestionTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "3,0,1,2",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "“boy name meanings: Aubrey”<br>",
+      "n": "QuestionText2"
+    },
+    {
+      "t": "S",
+      "v": "Before",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "“best seats at Toronto Raptors game”<br>",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Type = { Musique, Actuel } ",
+      "t": "A",
+      "v": "734755_3",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Cookie : Binjpipe a besoin de votre aide et je suis contractuellement tenu de ne pas se mettre en travers de son chemin.\nVoix : Voici quelques-unes des données passionnantes pour lesquelles nous avons besoin de votre aide... ",
+      "t": "A",
+      "v": "734756_3",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "734758_3",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Cookie: Drake can often be seen on the sidelines of Toronto Raptors games, is named Aubrey “Drake” Graham and wrote Hotline Bling",
+      "t": "A",
+      "v": "734760_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "“best seats at Toronto Raptors game”“boy name meanings: Aubrey”“find who used to call me on my cell phone” Who’s search history have we acquired?",
+      "t": "A",
+      "v": "734757_4",
+      "n": "QuestionAudio"
+    }
+  ]
+}

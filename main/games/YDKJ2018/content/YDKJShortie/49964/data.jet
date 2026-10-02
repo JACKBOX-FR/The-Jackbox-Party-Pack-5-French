@@ -1,0 +1,138 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "\"<i>Le dernier des Mohicans</i> parle du dernier des Mohicans.\" ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "2,3,1,0 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Quel est un exemple de moi expliquant un film de Michael Mann ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Un saint condescendant ",
+      "t": "A",
+      "v": "714194_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "OU\nLa première règle du Fight Club est de ne pas deviner le Fight Club ",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "714197_2",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "OU\nEn fait.... ",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "OU\nRidley PAS ! ",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Parmi les films répertoriés ici, Michael Mann n'a réalisé que Le Dernier des Mohicans. ",
+      "t": "A",
+      "v": "714199_3",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "OU\nMais ce n’est pas comparable au Michale Mannsplaing que vous entendrez si vous dites à un gars que vous n’aimez pas Heat. \nOR\nIl a également réalisé Manhunter.... et l'un ou l'autre genre m'expliquera pourquoi nous n'avons pas trouvé de jeu de mots là-bas.\nOR \nEh bien en fait... il a également aidé à l'écrire et à le produire... ok, ew, j'ai fini. ",
+      "t": "A",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "What’s an example of me mansplaining a Michael Mann movie?",
+      "t": "A",
+      "v": "714196_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

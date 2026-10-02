@@ -1,1 +1,92 @@
-{"fields":[{"t":"B","v":"true","n":"HasScenarioAudio"},{"t":"B","v":"true","n":"HasCategoryAudio"},{"t":"B","v":"true","n":"HasResponseAudio"},{"t":"S","v":"a knife factory | an NRA meeting | a vat of hot cheese | a pile of baby alligators | a plane of glass","n":"Decoys"},{"t":"S","v":"S+8.66","n":"$ScenarioAudio$QuestionTextCue"},{"t":"S","v":"ONE_YES","n":"Keywords"},{"t":"S","v":"on a pedestrian","n":"Answer"},{"t":"S","v":"Où est-ce que tu tombes ?","n":"QuestionText"},{"s":"Falling Spot Option [FINAL]","t":"A","v":"723862_2","n":"CategoryAudio"},{"s":"You’re falling off the roof of a small building. You can fall on a pedestrian who will receive serious injuries but will survive, or you can fall into THIS. Where do you fall?","t":"A","v":"722043_7","n":"ScenarioAudio"},{"s":"Someone hates pedestrians.","t":"A","v":"722046_1","n":"ResponseAudio"},{"n":"ScenarioText1","v":"Tu tombes du toit d'un petit immeuble.","t":"S"},{"n":"$ScenarioAudio$ScenarioTextCue1","v":"S+0.00","t":"S"},{"n":"ScenarioText2","v":" Tu peux tomber sur un piéton, qui sera gravement blessé mais survivra.","t":"S"},{"n":"$ScenarioAudio$ScenarioTextCue2","v":"S+2.21","t":"S"},{"n":"ScenarioText3","v":" Ou bien tu peux tomber sur <BLANK>.","t":"S"},{"n":"$ScenarioAudio$ScenarioTextCue3","v":"S+6.39","t":"S"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "une usine de couteaux | une réunion de la NRA | une cuve de fromage chaud | un tas de bébés alligators | un plan de verre ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "S+8.66 ",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "ONE_YES",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "sur un piéton ",
+      "n": "Answer"
+    },
+    {
+      "t": "S",
+      "v": "Où est-ce que tu tombes ?",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Option de point de chute [FINAL] ",
+      "t": "A",
+      "v": "723862_2",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Vous tombez du toit d’un petit immeuble. Vous pouvez tomber sur un piéton qui sera grièvement blessé mais survivra, ou vous pouvez tomber dessus. Où tombes-tu ? ",
+      "t": "A",
+      "v": "722043_7",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "Quelqu'un déteste les piétons. ",
+      "t": "A",
+      "v": "722046_1",
+      "n": "ResponseAudio"
+    },
+    {
+      "n": "ScenarioText1",
+      "v": "Tu tombes du toit d'un petit immeuble.",
+      "t": "S"
+    },
+    {
+      "n": "$ScenarioAudio$ScenarioTextCue1",
+      "v": "S+0.00",
+      "t": "S"
+    },
+    {
+      "n": "ScenarioText2",
+      "v": " Tu peux tomber sur un piéton, qui sera gravement blessé mais survivra.",
+      "t": "S"
+    },
+    {
+      "n": "$ScenarioAudio$ScenarioTextCue2",
+      "v": "S+2.21",
+      "t": "S"
+    },
+    {
+      "n": "ScenarioText3",
+      "v": " Ou bien tu peux tomber sur <BLANK>.",
+      "t": "S"
+    },
+    {
+      "n": "$ScenarioAudio$ScenarioTextCue3",
+      "v": "S+6.39",
+      "t": "S"
+    }
+  ]
+}

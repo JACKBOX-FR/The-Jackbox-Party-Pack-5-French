@@ -1,0 +1,245 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion5Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupPoorAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasDisAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion1Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion4Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTimingInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasScoreInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupRockedAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupAwfulAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion7Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasDatAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion6Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion3Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupOutroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupGoodAudio"
+    },
+    {
+      "t": "S",
+      "v": "S+7.30",
+      "n": "$InstructionsAudio$DatTextCue"
+    },
+    {
+      "t": "S",
+      "v": "Kanye intolérant ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "LAIT D'AMANDE ",
+      "n": "DatButtonText"
+    },
+    {
+      "t": "S",
+      "v": "KANYE OUEST ",
+      "n": "DisButtonText"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$InstructionsAudio$BothCue"
+    },
+    {
+      "t": "S",
+      "v": "une chanson de Kanye West ",
+      "n": "DisText"
+    },
+    {
+      "t": "S",
+      "v": "une marque de lait d'amande ",
+      "n": "DatText"
+    },
+    {
+      "t": "S",
+      "v": "S+4.24",
+      "n": "$InstructionsAudio$DisTextCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$DisAudio$DisButtonCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$DatAudio$DatButtonCue"
+    },
+    {
+      "s": "Tellement délicieux ",
+      "t": "A",
+      "v": "742006_1",
+      "n": "Question5Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "TimingInstructionsAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupOutroAudio"
+    },
+    {
+      "s": "Je vais lire sept choses, et pour chacune d'entre elles, je veux que vous me disiez si c'est une chanson de Kanye West ou une marque de lait d'amande. ",
+      "t": "A",
+      "v": "742001_1",
+      "n": "InstructionsAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ScoreInstructionsAudio"
+    },
+    {
+      "s": "Rêve ",
+      "t": "A",
+      "v": "742008_1",
+      "n": "Question7Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupPoorAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupRockedAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupAwfulAudio"
+    },
+    {
+      "s": "Chercheur d'or ",
+      "t": "A",
+      "v": "742003_1",
+      "n": "Question2Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupGoodAudio"
+    },
+    {
+      "s": "... Kanye West... ou... ",
+      "t": "A",
+      "v": "742014_3",
+      "n": "DisAudio"
+    },
+    {
+      "s": "Soie ",
+      "t": "A",
+      "v": "742004_1",
+      "n": "Question3Audio"
+    },
+    {
+      "s": "Kanye Intolérant et préparez-vous car c'est l'heure d'un Dis ou Dat ! ",
+      "t": "A",
+      "v": "742000_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "... Lait d'amande ",
+      "t": "A",
+      "v": "742015_3",
+      "n": "DatAudio"
+    },
+    {
+      "s": "Incroyable ",
+      "t": "A",
+      "v": "742005_1",
+      "n": "Question4Audio"
+    },
+    {
+      "s": "Diamant bleu ",
+      "t": "A",
+      "v": "742002_1",
+      "n": "Question1Audio"
+    },
+    {
+      "s": "Vagues ",
+      "t": "A",
+      "v": "742007_1",
+      "n": "Question6Audio"
+    }
+  ]
+}

@@ -1,1 +1,81 @@
-{"fields":[{"t":"B","v":"true","n":"HasScenarioAudio"},{"t":"B","v":"false","n":"HasCategoryAudio"},{"t":"B","v":"true","n":"HasResponseAudio"},{"t":"S","v":"Take a bow | Point at everyone around you | Frisk yourself | squat outside | climb a tree","n":"Decoys"},{"t":"S","v":"Applaud","n":"Answer"},{"t":"S","v":"S+7.45","n":"$ScenarioAudio$QuestionTextCue"},{"t":"S","v":"SPLIT","n":"Keywords"},{"t":"S","v":"Comment vas-tu obtenir tes tablettes de chocolat ?","n":"QuestionText"},{"s":"Workout [FINAL]","t":"A","n":"CategoryAudio"},{"s":"A new workout gives you the perfect body. But fifty times a day, you have to… applaud vigorously, or... DO THIS. How will you achieve your six-pack?","t":"A","v":"765277_2","n":"ScenarioAudio"},{"s":"Either way, it still wouldn’t look as silly as crossfit.","t":"A","v":"765280_1","n":"ResponseAudio"},{"n":"ScenarioText1","v":"Une nouvelle séance d'entraînement te donne le corps parfait.","t":"S"},{"n":"$ScenarioAudio$ScenarioTextCue1","v":"S+0.00","t":"S"},{"n":"ScenarioText2","v":" Mais cinquante fois par jour, tu dois… applaudir énergiquement ou… <BLANK>.","t":"S"},{"n":"$ScenarioAudio$ScenarioTextCue2","v":"S+3.26","t":"S"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "Faites une révérence | Pointez du doigt tout le monde autour de vous | Fouillez-vous | s'accroupir dehors | grimper à un arbre ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Applaudissez ",
+      "n": "Answer"
+    },
+    {
+      "t": "S",
+      "v": "S+7.45",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "SPLIT",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "Comment vas-tu obtenir tes tablettes de chocolat ?",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Entraînement [FINAL] ",
+      "t": "A",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Un nouvel entraînement vous donne le corps parfait. Mais cinquante fois par jour, il faut… applaudir vigoureusement, ou… FAIRE CECI. Comment allez-vous réaliser votre six-pack ? ",
+      "t": "A",
+      "v": "765277_2",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "Quoi qu’il en soit, cela n’aurait toujours pas l’air aussi idiot que le crossfit. ",
+      "t": "A",
+      "v": "765280_1",
+      "n": "ResponseAudio"
+    },
+    {
+      "n": "ScenarioText1",
+      "v": "Une nouvelle séance d'entraînement te donne le corps parfait.",
+      "t": "S"
+    },
+    {
+      "n": "$ScenarioAudio$ScenarioTextCue1",
+      "v": "S+0.00",
+      "t": "S"
+    },
+    {
+      "n": "ScenarioText2",
+      "v": " Mais cinquante fois par jour, tu dois… applaudir énergiquement ou… <BLANK>.",
+      "t": "S"
+    },
+    {
+      "n": "$ScenarioAudio$ScenarioTextCue2",
+      "v": "S+3.26",
+      "t": "S"
+    }
+  ]
+}

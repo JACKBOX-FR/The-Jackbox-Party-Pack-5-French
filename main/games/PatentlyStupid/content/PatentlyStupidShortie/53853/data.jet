@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Bigfoot est réel | que la preuve est dans le pudding | moi-même au monde ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je veux prouver <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je veux en donner la preuve définitive ! ",
+      "t": "A",
+      "v": "767659_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

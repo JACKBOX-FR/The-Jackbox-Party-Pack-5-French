@@ -1,0 +1,150 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "\"...l'Arizona et le Nevada.\" ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "S+7h30 ",
+      "n": "$QuestionAudio$QuestionTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "0,3,2,1 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Je suppose que vous pourriez dire : \"Merde, Daniel. J'y reviendrai dans...\" ",
+      "n": "QuestionText2"
+    },
+    {
+      "t": "S",
+      "v": "Before",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "If Daniel took his infamous white Vans to the Hoover Dam...",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Promenade de la renommée sur Twitter ",
+      "t": "A",
+      "v": "738609_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Tu te souviens de ce putain de Daniel ? Vous savez, depuis Internet ? ",
+      "t": "A",
+      "v": "738610_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "738612_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "The Hoover Dam is located at the Arizona and Nevada border.",
+      "t": "A",
+      "v": "738614_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "That’s a big dam, Daniel.",
+      "t": "A",
+      "v": "738615_2",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "If Daniel took his infamous white Vans to the Hoover Dam, which is located at the border of two US States... I guess you could say, “Dam, Daniel.  Back at it again in...”",
+      "t": "A",
+      "v": "738611_3",
+      "n": "QuestionAudio"
+    }
+  ]
+}

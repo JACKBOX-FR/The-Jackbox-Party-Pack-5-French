@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "du lait chaud|une berceuse|un oreiller ferme ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je ne peux pas dormir sans <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je ne peux pas dormir si je n'ai pas CELA ! ",
+      "t": "A",
+      "v": "761682_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

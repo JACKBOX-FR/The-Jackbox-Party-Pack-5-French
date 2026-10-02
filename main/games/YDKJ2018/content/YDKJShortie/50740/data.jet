@@ -1,0 +1,142 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Karamo aide HELLBOY à croire en lui ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "3,2,1,0 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Si l'équipe de <i>Queer Eye</i> décidait de se concentrer uniquement sur l'aide aux personnes borgnes, quelle transformation ne verrions-nous PAS ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Tout le monde mérite d'être impertinent ",
+      "t": "A",
+      "v": "726128_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Oui, il a cet œil magique, mais c’est plus un accessoire qu’un organe. ",
+      "t": "A",
+      "v": "726140_1",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Netflix a donc ramené la série désormais intitulée « Queer Eye », ce qui est une excellente nouvelle, puisque ma compréhension du « conditionneur » ne s’est pas améliorée depuis 2007. ",
+      "t": "A",
+      "v": "726129_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "726131_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "Le dieu nordique Odin est traditionnellement représenté avec un seul œil. Ne soyez pas un perdant de Thor. ",
+      "t": "A",
+      "v": "726138_1",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "Sauron est un œil géant et brûlant sur une tour. Peut-être que le Fab 5 peut aider à lutter contre ces rougeurs disgracieuses. ",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Hellboy a des cornes, une main de pierre et deux yeux fonctionnels. Pas de relooking pour vous. ",
+      "t": "A",
+      "v": "726133_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Ce qui est dommage, car je pense qu’un bon jean et un haut ajusté pourraient l’empêcher de déclencher l’apocalypse. ",
+      "t": "A",
+      "v": "726134_3",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "If the <i>Queer Eye</i> crew decided to solely focus on helping those with just one eye, which makeover would we NOT see?",
+      "t": "A",
+      "v": "726130_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "S",
+      "v": "Il suffit de vérifier les signes... ",
+      "n": "Clue1Text"
+    },
+    {
+      "t": "S",
+      "v": "...pour voir si les choses s'échauffent. ",
+      "n": "Clue2Text"
+    },
+    {
+      "t": "S",
+      "v": "Là où il y a de la fumée, il y a du feu. ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "là où il y a de la fumée il y a du feu, là où il y a de la fumée il y a du feu, là où il y a de la fumée il y a du feu, là où il y a de la fumée il y a du feu, là où il y a de la fumée il y a du feu ",
+      "n": "Acceptable"
+    },
+    {
+      "t": "S",
+      "v": "Les traces de brûlure signifient que les choses brûlent. ",
+      "n": "Clue3Text"
+    },
+    {
+      "t": "S",
+      "v": "Brisé par le pouvoir de l'amour ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "Les Care Bears ont cassé la lyre de Clare. ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Il suffit de vérifier les signes... ",
+      "t": "A",
+      "v": "750001_1",
+      "n": "Clue1Audio"
+    },
+    {
+      "s": "Brisé par le pouvoir de l'amour ",
+      "t": "A",
+      "v": "749996_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Les traces de brûlure signifient que les choses brûlent. ",
+      "t": "A",
+      "v": "750003_1",
+      "n": "Clue3Audio"
+    },
+    {
+      "s": "Regardez la phrase charabia et dites-moi avec quelle expression classique elle rime. ",
+      "t": "A",
+      "v": "749997_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "... mais parfois, quand je vois quelque chose de charbonneux, cela signifie simplement que je suis devenu très bon dans l'application du fard à paupières. ",
+      "t": "A",
+      "v": "750004_1",
+      "n": "OutroAudio"
+    },
+    {
+      "s": "...pour voir si les choses s'échauffent. ",
+      "t": "A",
+      "v": "750002_1",
+      "n": "Clue2Audio"
+    },
+    {
+      "s": "Les Care Bears ont cassé la lyre de Clare. ",
+      "t": "A",
+      "v": "749998_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

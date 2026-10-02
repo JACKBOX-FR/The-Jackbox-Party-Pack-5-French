@@ -1,0 +1,140 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "<i>La purge</i> ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "0,2,1,3 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Quel film d’horreur semble être une adaptation réaliste du livre à succès de Marie Kondo, « experte en mode de vie » de 2014, sur sa méthode KonMari ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Mieux vivre grâce au mouillage des pantalons ",
+      "t": "A",
+      "v": "714120_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "[hurle de peur] ",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "714123_4",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "[hurle de peur] ",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "Non, mais retrouvons-nous plus tard et parlons des images obsédantes du film ! ",
+      "t": "A",
+      "v": "714128_2",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Marie Kondo est l'auteur de La magie du rangement qui change la vie : le style artistique japonais de désencombrement et d'organisation, qui, spoiler : implique de se débarrasser d'une grande partie de vos articles ménagers. ",
+      "t": "A",
+      "v": "714125_4",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Rien ne me fait plus crier que de me débarrasser des biens que je n’ai pas utilisés depuis cinq ans. ",
+      "t": "A",
+      "v": "714126_4",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "Which horror movie sounds like it could be a gritty adaptation of “lifestyle expert” Marie Kondo’s 2014 best selling book about her KonMari method?",
+      "t": "A",
+      "v": "714122_7",
+      "n": "QuestionAudio"
+    }
+  ]
+}

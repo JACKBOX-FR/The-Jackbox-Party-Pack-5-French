@@ -1,0 +1,142 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "<i>Où se trouve Kármán Sandiego au-dessus du monde ?</i> ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "0,2,3,1 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Je souhaite créer un nouveau programme éducatif basé sur la lignée Kármán. Quel serait le meilleur titre ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Une refonte qui dépasse les limites ",
+      "t": "A",
+      "v": "737886_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Je jouerais à ça. ",
+      "t": "A",
+      "v": "737898_0",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "737889_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "Je jouerais à ça. ",
+      "t": "A",
+      "v": "737896_0",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "Je jouerais à ça. ",
+      "t": "A",
+      "v": "737894_1",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "La ligne Kármán se trouve à environ 62 miles au-dessus de la terre et est généralement considérée comme le point où se termine l'atmosphère et où commence l'espace. ",
+      "t": "A",
+      "v": "737891_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Ce qui est différent de la ligne Carmen Electra, qui sont les termes de mon ordonnance d'interdiction. ",
+      "t": "A",
+      "v": "737892_2",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "I want to create a new educational program based on the Kármán line. What would be the best title?",
+      "t": "A",
+      "v": "737888_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

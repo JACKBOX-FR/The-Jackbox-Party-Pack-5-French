@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "mur | tête | cote ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Il y a un trou dans mon <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Il y a un gros trou béant dans mon CECI ! ",
+      "t": "A",
+      "v": "767710_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

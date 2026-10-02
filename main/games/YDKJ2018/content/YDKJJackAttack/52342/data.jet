@@ -1,0 +1,421 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_6Correct"
+    },
+    {
+      "t": "S",
+      "v": "Nous faisons un travail professionnel. ",
+      "n": "Choice6_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Le monologue d'Hamlet ",
+      "n": "Root2Text"
+    },
+    {
+      "t": "S",
+      "v": "La force vit entre toi et moi, deux âmes défaites. ",
+      "n": "Choice5_4Text"
+    },
+    {
+      "t": "S",
+      "v": "dehors, foutu endroit ! ",
+      "n": "Choice2_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Nous ne disparaîtrons pas sans combattre ! ",
+      "n": "Choice4_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Non, ferme ta gueule, Bruce ",
+      "n": "Choice6_1Text"
+    },
+    {
+      "t": "S",
+      "v": "le parfum scintillant du Vermont ",
+      "n": "Choice3_5Text"
+    },
+    {
+      "t": "S",
+      "v": "ces morts ne seront pas morts en vain ",
+      "n": "Choice1_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Adresse de Gettysburg ",
+      "n": "Root1Text"
+    },
+    {
+      "t": "S",
+      "v": "Est-ce que tu m'aimes comme ça, Bruce ? ",
+      "n": "Choice6_5Text"
+    },
+    {
+      "t": "S",
+      "v": "ay, c'est là le problème ",
+      "n": "Choice2_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Nous irons flamber dans la nuit ! ",
+      "n": "Choice4_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Discours célèbres ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "quand nous aurons débarrassé de cette enveloppe mortelle ",
+      "n": "Choice2_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Nous sommes Américains ! ",
+      "n": "Choice4_6Text"
+    },
+    {
+      "t": "S",
+      "v": "quatre points et il y a plusieurs années ",
+      "n": "Choice1_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Car mon alliée est la Force, et elle est une alliée puissante. ",
+      "n": "Choice5_3Text"
+    },
+    {
+      "t": "S",
+      "v": "personne n'a dit que ce serait facile ",
+      "n": "Choice1_5Text"
+    },
+    {
+      "t": "S",
+      "v": "les pentes tout en courbes de Californie ",
+      "n": "Choice3_4Text"
+    },
+    {
+      "t": "S",
+      "v": "il y a quatre-vingts et sept ans ",
+      "n": "Choice1_3Text"
+    },
+    {
+      "t": "S",
+      "v": "On va s'en sortir ! ",
+      "n": "Choice4_4Text"
+    },
+    {
+      "t": "S",
+      "v": "demain et demain et demain ",
+      "n": "Choice2_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Yoda dans <i>L'Empire contre-attaque</i> ",
+      "n": "Root5Text"
+    },
+    {
+      "t": "S",
+      "v": "Bill Pullman dans <i>Le Jour de l'Indépendance</i> ",
+      "n": "Root4Text"
+    },
+    {
+      "t": "S",
+      "v": "Nous allons survivre ! ",
+      "n": "Choice4_5Text"
+    },
+    {
+      "t": "S",
+      "v": "être ou ne pas être ",
+      "n": "Choice2_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Ah-da-da-dah, comme ça en arrière-plan ",
+      "n": "Choice6_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Nous sommes des êtres lumineux. ",
+      "n": "Choice5_6Text"
+    },
+    {
+      "t": "S",
+      "v": "tous les hommes sont créés égaux ",
+      "n": "Choice1_4Text"
+    },
+    {
+      "t": "S",
+      "v": "mon pays est de toi ",
+      "n": "Choice3_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Je suis flasque, mais immortel pour toujours. ",
+      "n": "Choice5_2Text"
+    },
+    {
+      "t": "S",
+      "v": "il y a cinq ans ",
+      "n": "Choice3_1Text"
+    },
+    {
+      "t": "S",
+      "v": "les collines robustes du Dakota du Sud ",
+      "n": "Choice3_6Text"
+    },
+    {
+      "t": "S",
+      "v": "une nation divisée contre elle-même ",
+      "n": "Choice1_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Ne me touche pas. ",
+      "n": "Choice5_5Text"
+    },
+    {
+      "t": "S",
+      "v": "\"J'ai un rêve\" de MLK ",
+      "n": "Root3Text"
+    },
+    {
+      "t": "S",
+      "v": "Tes lumières sont des putains de poubelles, Bruce ",
+      "n": "Choice6_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Christian Bale déclame ",
+      "n": "Root6Text"
+    },
+    {
+      "t": "S",
+      "v": "ay, voilà le chagrin en désordre ",
+      "n": "Choice2_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Nous allons continuer à vivre ! ",
+      "n": "Choice4_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Si tu me touches, je crierai ",
+      "n": "Choice6_3Text"
+    },
+    {
+      "t": "S",
+      "v": "mon cœur avec des frissons de ravissement ",
+      "n": "Choice3_2Text"
+    },
+    {
+      "t": "S",
+      "v": "La taille n’a pas d’importance. ",
+      "n": "Choice5_1Text"
+    },
+    {
+      "s": "Discours célèbres ",
+      "t": "A",
+      "v": "748387_1 ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "J'espère qu'ils enseignent encore les discours à l'école... bonne chance... ",
+      "t": "A",
+      "v": "748388_2 ",
+      "n": "IntroAudio"
+    }
+  ]
+}

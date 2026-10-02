@@ -1,0 +1,150 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "un général CINQ ÉTOILES quatre étoiles ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "S+3.81 ",
+      "n": "$QuestionAudio$QuestionTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "2,3,0,1 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "… sur Yelp ? ",
+      "n": "QuestionText2"
+    },
+    {
+      "t": "S",
+      "v": "Before",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "What’s the highest star rating a United States general can receive",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Hot Privates dans votre région ",
+      "t": "A",
+      "v": "707649_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "(comme une critique) Un peu faible, je ne répondrais plus. ",
+      "t": "A",
+      "v": "707661_1",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "707652_2",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Yelp reviews go as high as five stars.",
+      "t": "A",
+      "v": "707654_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Now, back to Yelp to find a 5 star General Tso’s Chicken.",
+      "t": "A",
+      "v": "707655_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "What’s the highest star rating a United States general can receive… on Yelp?",
+      "t": "A",
+      "v": "707651_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

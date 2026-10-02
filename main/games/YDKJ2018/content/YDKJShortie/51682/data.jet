@@ -1,0 +1,139 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "<i>La chose</i> ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "2,1,0,3 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Quel personnage principal est un extraterrestre ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Rencontres proches (mais pas assez proches) ",
+      "t": "A",
+      "v": "738778_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "738781_2",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "OU\nJe vais vous laisser un peu d'espace... ",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Le monstre qui attaque une station de recherche dans l’Arctique est en fait sorti d’un vaisseau spatial. ",
+      "t": "A",
+      "v": "738783_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Je déteste les titres confus. Je suis sorti de <i>La Dame de fer</i> furieux que ce ne soit pas un film sur Meryl Streep combattant le crime dans une armure. ",
+      "t": "A",
+      "v": "738784_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "Which title character is an alien?",
+      "t": "A",
+      "v": "738780_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

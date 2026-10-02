@@ -1,0 +1,143 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Robert F**** ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "0,2,3,1 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Nommez le poète qui décrirait <i>La fin du putain de monde</i> comme une bataille entre le feu et la glace G** D*** : ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Surveillez vos arts du langage ",
+      "t": "A",
+      "v": "727199_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Oohh, dur Blake ! ",
+      "t": "A",
+      "v": "727211_1",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Donc Netflix a cette émission La Fin du [sfx: bip]-ing World. Apparemment, vous pouvez dire n'importe quoi maintenant si vous le faites simplement en émettant un bip, ce qui est totalement [sfx : bip] avec [sfx : bip]. Oups désolé, mon coude a glissé sur le bouton bip. Quoi qu'il en soit... ",
+      "t": "A",
+      "v": "727200_1f",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "727202_1f",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "Les Shelly étaient trop pervers pour ce genre de censure ",
+      "t": "A",
+      "v": "727209_1",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "Parce que vous ne pouviez pas vous arrêter en cas d’échec, cela s’est gentiment arrêté pour vous. ",
+      "t": "A",
+      "v": "727207_1",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Robert Frost a écrit le poème apocalyptique « Fire and Ice ». ",
+      "t": "A",
+      "v": "727204_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Préparer un peu de poésie vous sera utile la prochaine fois que vous souhaiterez accéder à Netflix et Frost. ",
+      "t": "A",
+      "v": "727205_2f",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "Name the poet who would describe <i>The End of the F***ing World</i> as a battle between fire and G** D*** ice:",
+      "t": "A",
+      "v": "727201_1f",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,1 +1,66 @@
-{"fields":[{"t":"B","v":"true","n":"HasScenarioAudio"},{"t":"B","v":"true","n":"HasCategoryAudio"},{"t":"B","v":"false","n":"HasResponseAudio"},{"t":"S","v":"You are special | I like your skin | I know where you live | I will never leave you | I want your clothes","n":"Decoys"},{"t":"S","v":"S+9.48","n":"$ScenarioAudio$QuestionTextCue"},{"t":"S","v":"","n":"Keywords"},{"t":"S","v":"Changes-tu de teinturier ?","n":"QuestionText"},{"s":"The Dry Cleaner’s Message","t":"A","v":"735175_1","n":"CategoryAudio"},{"s":"Inside the bag you picked up from the dry cleaners, you find a handwritten note that says this. The only other cleaners anywhere close to you charge twice as much. Do you switch cleaners?","t":"A","v":"735176_6","n":"ScenarioAudio"},{"s":"","t":"A","n":"ResponseAudio"},{"n":"ScenarioText1","v":"Dans un sac trouvé près d’un teinturier, tu trouves une note marquée à la main, “<BLANK>.” Le seul autre teinturier coûte 2 fois plus cher.","t":"S"},{"n":"$ScenarioAudio$ScenarioTextCue1","v":"S+0.00","t":"S"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "Vous êtes spécial | J'aime ta peau | Je sais où tu habites | Je ne te quitterai jamais | je veux tes vêtements ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "S+9.48",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "Changes-tu de teinturier ?",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Le message du pressing ",
+      "t": "A",
+      "v": "735175_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "À l’intérieur du sac que vous avez récupéré au pressing, vous trouvez une note manuscrite qui dit ceci. Les seuls autres nettoyeurs proches de chez vous facturent deux fois plus. Changez-vous de nettoyeur ? ",
+      "t": "A",
+      "v": "735176_6",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    },
+    {
+      "n": "ScenarioText1",
+      "v": "Dans un sac trouvé près d’un teinturier, tu trouves une note marquée à la main, “<BLANK>.” Le seul autre teinturier coûte 2 fois plus cher.",
+      "t": "S"
+    },
+    {
+      "n": "$ScenarioAudio$ScenarioTextCue1",
+      "v": "S+0.00",
+      "t": "S"
+    }
+  ]
+}

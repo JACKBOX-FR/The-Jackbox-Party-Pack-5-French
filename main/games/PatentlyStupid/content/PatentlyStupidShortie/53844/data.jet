@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "une coupe de cheveux|un trajet en ascenseur| l'opéra ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je déteste parler pendant <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je déteste parler pendant CELA ! ",
+      "t": "A",
+      "v": "767632_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

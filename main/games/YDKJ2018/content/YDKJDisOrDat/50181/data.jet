@@ -1,0 +1,245 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion5Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupPoorAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasDisAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion1Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion4Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTimingInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasScoreInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupRockedAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupAwfulAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion7Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasDatAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion6Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion3Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupOutroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupGoodAudio"
+    },
+    {
+      "t": "S",
+      "v": "S+7.74",
+      "n": "$InstructionsAudio$DatTextCue"
+    },
+    {
+      "t": "S",
+      "v": "Siri, plonge-moi dans le vinaigre ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "cornichon ",
+      "n": "DatButtonText"
+    },
+    {
+      "t": "S",
+      "v": "ASSISTANT VIRTUELLE ",
+      "n": "DisButtonText"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$InstructionsAudio$BothCue"
+    },
+    {
+      "t": "S",
+      "v": "le nom d'un assistant virtuel ",
+      "n": "DisText"
+    },
+    {
+      "t": "S",
+      "v": "un type de nourriture marinée ",
+      "n": "DatText"
+    },
+    {
+      "t": "S",
+      "v": "S+4.28",
+      "n": "$InstructionsAudio$DisTextCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.93",
+      "n": "$DisAudio$DisButtonCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.75",
+      "n": "$DatAudio$DatButtonCue"
+    },
+    {
+      "s": "Clova ",
+      "t": "A",
+      "v": "718234_1",
+      "n": "Question5Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "TimingInstructionsAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupOutroAudio"
+    },
+    {
+      "s": "Je vais te lire sept choses, et pour chacune d'entre elles, je veux que tu me dises si c'est # le nom d'un assistant virtuel, ou # un type de nourriture marinée ",
+      "t": "A",
+      "v": "718229_1",
+      "n": "InstructionsAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ScoreInstructionsAudio"
+    },
+    {
+      "s": "Évi ",
+      "t": "A",
+      "v": "718236_1",
+      "n": "Question7Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupPoorAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupRockedAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupAwfulAudio"
+    },
+    {
+      "s": "Cortana ",
+      "t": "A",
+      "v": "718231_1",
+      "n": "Question2Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupGoodAudio"
+    },
+    {
+      "s": "... un ASSISTANT VIRTUELLE... ou... ",
+      "t": "A",
+      "v": "718242_3",
+      "n": "DisAudio"
+    },
+    {
+      "s": "Brovada ",
+      "t": "A",
+      "v": "718232_1",
+      "n": "Question3Audio"
+    },
+    {
+      "s": "Siri, plonge-moi dans du vinaigre et c'est l'heure d'un Dis ou Dat ! ",
+      "t": "A",
+      "v": "718228_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "...un cornichon ",
+      "t": "A",
+      "v": "718243_4",
+      "n": "DatAudio"
+    },
+    {
+      "s": "Atchara ",
+      "t": "A",
+      "v": "718233_1",
+      "n": "Question4Audio"
+    },
+    {
+      "s": "Curtido ",
+      "t": "A",
+      "v": "718230_1",
+      "n": "Question1Audio"
+    },
+    {
+      "s": "Gari ",
+      "t": "A",
+      "v": "718235_1",
+      "n": "Question6Audio"
+    }
+  ]
+}

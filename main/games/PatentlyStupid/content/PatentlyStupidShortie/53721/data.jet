@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "anniversaire | nom | pointure ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Mon conjoint n'arrête pas d'oublier mon <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Mon conjoint n'arrête pas d'oublier mon CECI ! ",
+      "t": "A",
+      "v": "766839_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

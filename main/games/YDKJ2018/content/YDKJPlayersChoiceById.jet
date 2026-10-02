@@ -1,0 +1,46 @@
+{
+  "content": [
+    {
+      "question": {
+        "text": "Souhaitez-vous une question à laquelle vous avez déjà joué... ou une question à laquelle vous rejouerez plus tard ? "
+      },
+      "id": "52516",
+      "choice1": {
+        "text": "une question à laquelle vous avez déjà répondu ",
+        "id": "52232"
+      },
+      "choice2": {
+        "text": "une question que tu rejoueras plus tard ",
+        "id": "52236"
+      }
+    },
+    {
+      "question": {
+        "text": "Souhaitez-vous une question facile... ou une question difficile ? "
+      },
+      "id": "52515",
+      "choice1": {
+        "text": "une question facile ",
+        "id": "51787"
+      },
+      "choice2": {
+        "text": "une question difficile ",
+        "id": "51788"
+      }
+    },
+    {
+      "question": {
+        "text": "Souhaitez-vous une question sur les avertisseurs pneumatiques ou une question sur les avertisseurs pneumatiques ? "
+      },
+      "id": "53008",
+      "choice1": {
+        "text": "Une question avec des klaxons à air ",
+        "id": "51958"
+      },
+      "choice2": {
+        "text": "Une question sur les avertisseurs pneumatiques",
+        "id": "51957"
+      }
+    }
+  ]
+}

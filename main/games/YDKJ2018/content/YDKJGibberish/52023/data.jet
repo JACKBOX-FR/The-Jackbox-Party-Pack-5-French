@@ -1,0 +1,100 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "S",
+      "v": "Ne paniquez pas... ",
+      "n": "Clue1Text"
+    },
+    {
+      "t": "S",
+      "v": "... il suffit de se venger calmement. ",
+      "n": "Clue2Text"
+    },
+    {
+      "t": "S",
+      "v": "Ne vous fâchez pas, vengeance. ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "ne vous fâchez pas, ne vous fâchez pas, ne vous fâchez pas, ne vous fâchez pas, ne vous fâchez pas, ne vous fâchez pas, ne vous fâchez pas, ne vous fâchez pas, ne vous fâchez pas, ne vous fâchez pas, ne vous fâchez pas, ne vous fâchez pas, ne vous fâchez pas ",
+      "n": "Acceptable"
+    },
+    {
+      "t": "S",
+      "v": "Arrêtez d'être en colère, soyez nivelé. ",
+      "n": "Clue3Text"
+    },
+    {
+      "t": "S",
+      "v": "Formation selon la transpiration ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "Tu ne vas pas transpirer, Brad ? Transpire, Steven ! ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Ne paniquez pas... ",
+      "t": "A",
+      "v": "743474_1",
+      "n": "Clue1Audio"
+    },
+    {
+      "s": "Formation selon la transpiration ",
+      "t": "A",
+      "v": "743469_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Arrêtez d'être en colère, soyez nivelé. ",
+      "t": "A",
+      "v": "743476_1",
+      "n": "Clue3Audio"
+    },
+    {
+      "s": "Découvrez cette phrase charabia et devinez avec quel conseil réel elle rime. ",
+      "t": "A",
+      "v": "743470_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "OutroAudio"
+    },
+    {
+      "s": "... il suffit de se venger calmement. ",
+      "t": "A",
+      "v": "743475_1",
+      "n": "Clue2Audio"
+    },
+    {
+      "s": "Tu ne vas pas transpirer, Brad ? Transpire, Steven ! ",
+      "t": "A",
+      "v": "743471_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

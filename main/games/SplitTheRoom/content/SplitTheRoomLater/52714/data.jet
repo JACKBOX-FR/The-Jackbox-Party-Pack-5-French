@@ -1,0 +1,86 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "parler fort au téléphone | pleurer | faire claquer leur chewing-gum | vlogging en direct | dynamitage \"Boom Boom Pow\" ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "S+10.57",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "S+6.48",
+      "n": "$ScenarioAudio$ScenarioTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "<BLANK>. ",
+      "n": "ScenarioText3"
+    },
+    {
+      "t": "S",
+      "v": "S+9.20",
+      "n": "$ScenarioAudio$ScenarioTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "Un nouveau café permet aux clients d'envoyer par SMS un code qui téléportera toute personne présente dans le café vers une destination aléatoire. ",
+      "n": "ScenarioText1"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00 ",
+      "n": "$ScenarioAudio$ScenarioTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Vous remarquez qu'un jeune homme entre dans ce café alors que ",
+      "n": "ScenarioText2"
+    },
+    {
+      "t": "S",
+      "v": "Est-ce que vous vous faufilez dans la salle de bain et utilisez le code ? ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Smartphones antibruit ",
+      "t": "A",
+      "v": "753981_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Un nouveau café permet aux clients d'envoyer par SMS un code qui téléportera toute personne présente dans le café vers une destination aléatoire. Vous remarquez qu'un jeune homme entre dans ce café en faisant CECI. Est-ce que vous vous faufilez dans la salle de bain et utilisez le code ? ",
+      "t": "A",
+      "v": "753982_2 ",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    }
+  ]
+}

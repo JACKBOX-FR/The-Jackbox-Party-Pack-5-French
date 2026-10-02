@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "mon jeu d'acteur | tours de magie | ma taille ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je veux impressionner les gens avec <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je veux impressionner les gens avec CECI ! ",
+      "t": "A",
+      "v": "767692_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "...il ébouriffera ses plumes et se pavanera paisiblement. ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "S+5.28 ",
+      "n": "$QuestionAudio$QuestionTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "1,0,2,3 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "sois juste calme et finalement... ",
+      "n": "QuestionText2"
+    },
+    {
+      "t": "S",
+      "v": "Before",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Okay...the national animal of France is right behind you...",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Zoo-ner ou plus tard ",
+      "t": "A",
+      "v": "754188_2",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Il est temps pour une autre série de... (voit soudain quelque chose de terrifiant) Oh mon Dieu ! Ne bougez pas !.... restez complètement immobile... ",
+      "t": "A",
+      "v": "754189_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "754191_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "OU\nOh non... ta mauvaise réponse l'a rendu encore plus en colère (TOUS) ",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "The national animal of France is the Gallic Rooster...",
+      "t": "A",
+      "v": "754193_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "....and it looks like...phew...it’s gone...you’d be surprised by how many of our contestants are killed by roosters.",
+      "t": "A",
+      "v": "754194_2",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "Okay...the national animal of France is right behind you...just be calm and eventually...",
+      "t": "A",
+      "v": "754190_4",
+      "n": "QuestionAudio"
+    }
+  ]
+}

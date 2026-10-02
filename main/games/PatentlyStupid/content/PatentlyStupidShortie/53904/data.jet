@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "plus grand | belle | de Floride ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "J'aurais aimé savoir ce que c'était que d'être <BLANK>. ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : C'est juste que... parfois je ferme les yeux la nuit... Je m'allonge dans le grand lit qu'on ne partage plus... et je rêve d'être CECI. Alors quand je me réveille ? Je pleure. Je pleure, Léna. ",
+      "t": "A",
+      "v": "767813_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

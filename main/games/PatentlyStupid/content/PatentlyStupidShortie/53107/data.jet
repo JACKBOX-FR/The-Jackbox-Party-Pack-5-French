@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Des abeilles ! | vampires | peur existentielle ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Ma pause déjeuner est toujours interrompue par <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je veux juste manger mon déjeuner mais je suis interrompu par CECI ! ",
+      "t": "A",
+      "v": "758962_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

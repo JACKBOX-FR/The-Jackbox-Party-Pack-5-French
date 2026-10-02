@@ -1,0 +1,50 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Une question où vous NE comptez PAS vos poules avant qu’elles n’éclosent ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Une question où vous comptez vos poulets avant qu’ils n’éclosent ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "52850 ",
+      "n": "Choice2Id"
+    },
+    {
+      "t": "S",
+      "v": "Souhaitez-vous une question où vous NE comptez PAS vos poulets avant qu’ils n’éclosent ou une question où vous comptez vos poulets avant qu’ils n’éclosent ? ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "52851 ",
+      "n": "Choice1Id"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "Souhaitez-vous une question où vous NE comptez PAS vos poulets avant qu’ils n’éclosent ou une question où vous comptez vos poulets avant qu’ils n’éclosent ? ",
+      "t": "A",
+      "v": "757921_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

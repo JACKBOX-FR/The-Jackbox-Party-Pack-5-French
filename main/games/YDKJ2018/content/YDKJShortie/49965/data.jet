@@ -1,0 +1,142 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "\"Raiden est incroyablement stupide\" ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "3,1,2,0 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Comment Sub-Zero de <i>Mortal Kombat</i> « sous-tweetera-t-il » un adversaire ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Glissez et lancez dans mes DM ",
+      "t": "A",
+      "v": "714212_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Est-ce que c'est ton meilleur ? ",
+      "t": "A",
+      "v": "714224_3",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "714215_2",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "Finissez-les ! ",
+      "t": "A",
+      "v": "714222_1",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "Fatalité! ",
+      "t": "A",
+      "v": "714220_1",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Le sous-tweet, c'est lorsqu'une personne sur Twitter fait un commentaire désobligeant à propos d'un autre utilisateur sans utiliser son nom d'utilisateur. ",
+      "t": "A",
+      "v": "714217_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Personnellement, j'aime sous-tweeter, ce qui revient à dire à haute voix des choses terribles sur les gens sans commettre l'erreur de les mettre sur Internet. ",
+      "t": "A",
+      "v": "714218_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "How would Sub-Zero from <i>Mortal Kombat</i> “subtweet” an opponent?",
+      "t": "A",
+      "v": "714214_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

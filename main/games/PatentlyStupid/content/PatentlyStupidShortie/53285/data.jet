@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "cigarettes | amandes confites | mon mari en public ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je suis gêné d'aimer <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je suis tellement gêné par ma passion pour CELA ! ",
+      "t": "A",
+      "v": "760670_2",
+      "n": "PromptAudio"
+    }
+  ]
+}

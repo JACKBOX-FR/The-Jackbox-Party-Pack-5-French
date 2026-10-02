@@ -1,0 +1,96 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "50 000 $ | une nouvelle voiture | vols gratuits pendant un an | pizza pour la vie | un appartement à New York ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "S+12.59",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "S+1.94",
+      "n": "$ScenarioAudio$ScenarioTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "<BLANK>. ",
+      "n": "ScenarioText3"
+    },
+    {
+      "t": "S",
+      "v": "S+8.68",
+      "n": "$ScenarioAudio$ScenarioTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "Ils ne révèlent pas pourquoi ils veulent cette information. ",
+      "n": "ScenarioText4"
+    },
+    {
+      "t": "S",
+      "v": "Une petite entreprise technologique vous approche. ",
+      "n": "ScenarioText1"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00 ",
+      "n": "$ScenarioAudio$ScenarioTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Ils veulent mettre dans votre tête une puce qui enregistre vos pensées de 9h à 17h tous les jours de la semaine pendant un an. En échange, ils vous donneront ",
+      "n": "ScenarioText2"
+    },
+    {
+      "t": "S",
+      "v": "S+10.18",
+      "n": "$ScenarioAudio$ScenarioTextCue4"
+    },
+    {
+      "t": "S",
+      "v": "Le faites-vous ? ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Tellement réfléchi ",
+      "t": "A",
+      "v": "Le faites-vous ? ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Une petite entreprise technologique vous approche. Ils veulent mettre dans votre tête une puce qui enregistre vos pensées de 9h à 17h tous les jours de la semaine pendant un an. En échange, ils vous donneront ceci. Ils ne révèlent pas pourquoi ils veulent cette information. Le faites-vous ? ",
+      "t": "A",
+      "v": "724054_3",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    }
+  ]
+}

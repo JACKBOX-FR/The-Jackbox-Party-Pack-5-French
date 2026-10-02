@@ -1,0 +1,245 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion5Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupPoorAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasDisAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion1Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion4Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTimingInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasScoreInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupRockedAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupAwfulAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion7Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasDatAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion6Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion3Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupOutroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupGoodAudio"
+    },
+    {
+      "t": "S",
+      "v": "S+8.10",
+      "n": "$InstructionsAudio$DatTextCue"
+    },
+    {
+      "t": "S",
+      "v": "Toutes les créatures CGI de Dieu ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "ANDY SERKIS ",
+      "n": "DatButtonText"
+    },
+    {
+      "t": "S",
+      "v": "BIBLIQUE ",
+      "n": "DisButtonText"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$InstructionsAudio$BothCue"
+    },
+    {
+      "t": "S",
+      "v": "un animal mentionné dans la Bible King James ",
+      "n": "DisText"
+    },
+    {
+      "t": "S",
+      "v": "un animal CGI joué par Andy Serkis ",
+      "n": "DatText"
+    },
+    {
+      "t": "S",
+      "v": "S+4.40",
+      "n": "$InstructionsAudio$DisTextCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.60",
+      "n": "$DisAudio$DisButtonCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.60",
+      "n": "$DatAudio$DatButtonCue"
+    },
+    {
+      "s": "Fourmi ",
+      "t": "A",
+      "v": "720203_1",
+      "n": "Question5Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "TimingInstructionsAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupOutroAudio"
+    },
+    {
+      "s": "Je vais lire sept choses et pour chacune d'elles, je veux que vous me disiez si c'est # un animal mentionné dans la Bible King James ou # un animal CGI joué par Andy Serkis. ",
+      "t": "A",
+      "v": "720198_2",
+      "n": "InstructionsAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ScoreInstructionsAudio"
+    },
+    {
+      "s": "Gollum ",
+      "t": "A",
+      "v": "720205_1",
+      "n": "Question7Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupPoorAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupRockedAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupAwfulAudio"
+    },
+    {
+      "s": "Lion ",
+      "t": "A",
+      "v": "720200_1",
+      "n": "Question2Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupGoodAudio"
+    },
+    {
+      "s": "... la Bible... ou... ",
+      "t": "A",
+      "v": "720211_3",
+      "n": "DisAudio"
+    },
+    {
+      "s": "Chauve-souris ",
+      "t": "A",
+      "v": "720201_1",
+      "n": "Question3Audio"
+    },
+    {
+      "s": "Toutes les créatures CGI de Dieu, et c'est un DisOrDat ! ",
+      "t": "A",
+      "v": "720197_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "...Andy Serkis ",
+      "t": "A",
+      "v": "720212_3",
+      "n": "DatAudio"
+    },
+    {
+      "s": "Rat ",
+      "t": "A",
+      "v": "720202_1",
+      "n": "Question4Audio"
+    },
+    {
+      "s": "Chimpanzé ",
+      "t": "A",
+      "v": "720199_1",
+      "n": "Question1Audio"
+    },
+    {
+      "s": "Licorne ",
+      "t": "A",
+      "v": "720204_1",
+      "n": "Question6Audio"
+    }
+  ]
+}

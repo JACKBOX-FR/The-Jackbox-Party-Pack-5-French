@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "nez | vieille voiture | gros pieds ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Les gens regardent toujours mon <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Les gens regardent toujours mon CECI ! ",
+      "t": "A",
+      "v": "766883_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "\"Les <i>Beignets supérieurs</i> ont toutes les saveurs, jusqu'à ce que je les voie.\" ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "2,3,1,0 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Quelle description d'un programme télévisé démontre le principe de superposition quantique ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Pas ce que j'avais supervisé ",
+      "t": "A",
+      "v": "726503_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "726506_2",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "Apparemment, la théorie quantique est votre kryptonite ",
+      "t": "A",
+      "v": "726513_2",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "La position superlative est la théorie selon laquelle un système existe dans tous les états avant d'être mesuré. ",
+      "t": "A",
+      "v": "726508_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "OU\nJe suis donc un excellent animateur de quiz jusqu'à ce que quelqu'un vérifie si je le suis. \nOR\nDonc, toutes ces réponses étaient correctes jusqu'à ce que vous en choisissiez une. \nOR\nSi vous avez mal répondu, soyez heureux car il existe probablement un univers dans lequel vous êtes beaucoup plus intelligent. ",
+      "t": "A",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "Which description of a super tv program demonstrates the quantum superposition principle?",
+      "t": "A",
+      "v": "726505_3",
+      "n": "QuestionAudio"
+    }
+  ]
+}

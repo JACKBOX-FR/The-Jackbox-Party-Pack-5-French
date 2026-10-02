@@ -1,0 +1,142 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Napoléon ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "0,1,2,3 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Lequel de ces Blancs morts est le Blanc le plus mort ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Les gars blancs morts ",
+      "t": "A",
+      "v": "718395_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Ha ha... tu es tombé amoureux d'un nom inventé... quoi ? Il est réel ? Oh. Mais c’est toujours faux. ",
+      "t": "A",
+      "v": "718407_2",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "718398_2",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "Il est mort, mais il pourrait être plus mort. (TOUS) ",
+      "t": "A",
+      "v": "718405_0",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "Il est mort, mais il pourrait être plus mort. (TOUS) ",
+      "t": "A",
+      "v": "718403_2",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Napoléon est mort en 1821. Jefferson est mort en 1826, Dostoïbesky dans les années 1880 et Monet dans les années 1920... donc Napoléon est l'homme blanc le plus mort. ",
+      "t": "A",
+      "v": "718400_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Mais le mort le plus blanc ? Ça doit être Monet. Ce Motherf(SFX:bip)ker est si blanc quand il y a une tempête de neige, les gens se disent \"quel temps fait-il dehors, Monet bloque la vue.\" ",
+      "t": "A",
+      "v": "718401_0f",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "Which of these dead white guys is the deadest white guy?",
+      "t": "A",
+      "v": "718397_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

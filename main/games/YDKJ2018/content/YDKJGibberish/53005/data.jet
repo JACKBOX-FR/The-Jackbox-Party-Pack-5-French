@@ -1,0 +1,100 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "S",
+      "v": "Les cloches des églises sonnent... ",
+      "n": "Clue1Text"
+    },
+    {
+      "t": "S",
+      "v": "...dans la maladie et dans la santé. ",
+      "n": "Clue2Text"
+    },
+    {
+      "t": "S",
+      "v": "Pour le meilleur ou pour le pire ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "pour le meilleur ou pour le pire, pour le meilleur ou pour le pire, pour le meilleur ou pour le pire, pour le meilleur et pour le pire, 4 meilleurs ou 4 pires ",
+      "n": "Acceptable"
+    },
+    {
+      "t": "S",
+      "v": "Vous feriez mieux de tenir le coup dans les bons et les mauvais moments. ",
+      "n": "Clue3Text"
+    },
+    {
+      "t": "S",
+      "v": "Il existe trois types de personnes dans le monde ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "Sol plus humide, ennuyeux ou infirmier ? ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Les cloches des églises sonnent... ",
+      "t": "A",
+      "v": "757875_1",
+      "n": "Clue1Audio"
+    },
+    {
+      "s": "Il existe trois types de personnes dans le monde ",
+      "t": "A",
+      "v": "757870_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Vous feriez mieux de tenir le coup dans les bons et les mauvais moments. ",
+      "t": "A",
+      "v": "757877_1",
+      "n": "Clue3Audio"
+    },
+    {
+      "s": "Découvrez cette phrase charabia et notez avec quelle phrase populaire elle rime. ",
+      "t": "A",
+      "v": "757871_2",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "OutroAudio"
+    },
+    {
+      "s": "...dans la maladie et dans la santé. ",
+      "t": "A",
+      "v": "757876_2",
+      "n": "Clue2Audio"
+    },
+    {
+      "s": "Sol plus humide, ennuyeux ou infirmier ? ",
+      "t": "A",
+      "v": "757872_4",
+      "n": "QuestionAudio"
+    }
+  ]
+}

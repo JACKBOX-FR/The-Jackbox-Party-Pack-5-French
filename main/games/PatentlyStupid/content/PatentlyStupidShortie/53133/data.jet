@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "nouilles | lamantin | combinaison ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je n'arrive jamais à trouver un bon <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je n'arrive tout simplement pas à en trouver un bon ! ",
+      "t": "A",
+      "v": "759071_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

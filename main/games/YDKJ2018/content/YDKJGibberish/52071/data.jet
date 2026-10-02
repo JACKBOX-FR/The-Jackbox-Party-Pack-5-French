@@ -1,0 +1,100 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "S",
+      "v": "La magie est partout... ",
+      "n": "Clue1Text"
+    },
+    {
+      "t": "S",
+      "v": "...si vous cherchez au bon endroit. ",
+      "n": "Clue2Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Les animaux fantastiques et où les trouver</i> ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "bêtes fanatiques et où les trouver, bête fantastique et où les trouver, bêtes fantastiques et où aussi les trouver, ",
+      "n": "Acceptable"
+    },
+    {
+      "t": "S",
+      "v": "Des animaux étonnants avec une carte indiquant leur emplacement. ",
+      "n": "Clue3Text"
+    },
+    {
+      "t": "S",
+      "v": "Des vêtements de sport qui mettent en valeur votre figure religieuse ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "Les prêtres de gymnastique ont planifié leur nouvel ourlet doublé. ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "La magie est partout... ",
+      "t": "A",
+      "v": "744185_2",
+      "n": "Clue1Audio"
+    },
+    {
+      "s": "Des vêtements de sport qui mettent en valeur votre figure religieuse ",
+      "t": "A",
+      "v": "744180_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Des animaux étonnants avec une carte indiquant leur emplacement. ",
+      "t": "A",
+      "v": "744187_4",
+      "n": "Clue3Audio"
+    },
+    {
+      "s": "Regardez la phrase charabia et dites-moi avec quel titre de film elle rime. ",
+      "t": "A",
+      "v": "744181_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "OutroAudio"
+    },
+    {
+      "s": "...si vous cherchez au bon endroit. ",
+      "t": "A",
+      "v": "744186_1",
+      "n": "Clue2Audio"
+    },
+    {
+      "s": "Les prêtres de gymnastique ont planifié leur nouvel ourlet doublé. ",
+      "t": "A",
+      "v": "744182_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

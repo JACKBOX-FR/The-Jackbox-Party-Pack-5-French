@@ -1,0 +1,139 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "son nom de jeune fille était Johnson ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "1,0,3,2 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Qu'est-ce que cela signifie si vous faites référence à Nene Leakes, Real Housewife, comme NeNe Leakes née Johnson ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Les NeNe l'ont ",
+      "t": "A",
+      "v": "740706_2",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "740709_2",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "OU\nNeNe hennissement hennissement. (Tous) ",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Nee après le nom d’une personne est utilisé pour désigner son nom de jeune fille ou son ancien nom. ",
+      "t": "A",
+      "v": "740711_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "OU\nQuel que soit le nom que vous lui donnez, dites (applaudissez) (applaudissez) pour (applaudissez) son (applaudissement) au visage (applaudissez).[sfx : ajoutez les applaudissements] ",
+      "t": "A",
+      "v": "740712_0f",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "What does it mean if you refer to Real Housewife Nene Leakes as NeNe Leakes née Johnson?",
+      "t": "A",
+      "v": "740708_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

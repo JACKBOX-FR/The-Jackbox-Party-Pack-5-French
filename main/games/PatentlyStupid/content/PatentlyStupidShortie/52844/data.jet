@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "chiots|amis|poils sur mes fesses ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "J'en ai trop de <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : J'en ai juste trop ! ",
+      "t": "A",
+      "v": "755665_2",
+      "n": "PromptAudio"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "S",
+      "v": "Je ne suis qu'un petit morceau... ",
+      "n": "Clue1Text"
+    },
+    {
+      "t": "S",
+      "v": "...de la pierre familiale. ",
+      "n": "Clue2Text"
+    },
+    {
+      "t": "S",
+      "v": "Un éclat du vieux bloc ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "écailler le vieux bloc, un éclat du vieux bloc, un éclat du bloc, un éclat du vieux bloc ",
+      "n": "Acceptable"
+    },
+    {
+      "t": "S",
+      "v": "Ils sont comme leurs parents. ",
+      "n": "Clue3Text"
+    },
+    {
+      "t": "S",
+      "v": "La parade surréaliste dans la rue ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "La marche audacieuse branchée de Kafka ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Je ne suis qu'un petit morceau... ",
+      "t": "A",
+      "v": "765730_3",
+      "n": "Clue1Audio"
+    },
+    {
+      "s": "La parade surréaliste dans la rue ",
+      "t": "A",
+      "v": "765725_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Ils sont comme leurs parents. ",
+      "t": "A",
+      "v": "765732_3",
+      "n": "Clue3Audio"
+    },
+    {
+      "s": "Découvrez cette phrase charabia et dites-moi avec quel dicton populaire elle rime. ",
+      "t": "A",
+      "v": "765726_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "J’ai hérité de la capacité de mon père à créer des transitions parfaites. Alors, passons à la citation suivante... je veux dire question... désolé, papa.",
+      "t": "A",
+      "n": "OutroAudio"
+    },
+    {
+      "s": "...de la pierre familiale. ",
+      "t": "A",
+      "v": "765731_2",
+      "n": "Clue2Audio"
+    },
+    {
+      "s": "La marche audacieuse branchée de Kafka ",
+      "t": "A",
+      "v": "765727_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

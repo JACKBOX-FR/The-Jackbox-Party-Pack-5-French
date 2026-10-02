@@ -1,0 +1,139 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "décalage + 8 ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "1,2,3,0 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Quelle commande clavier PC produit un symbole qui ressemble au trou du cul de mon chat ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Devenir réel pendant une seconde ",
+      "t": "A",
+      "v": "733741_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "OU\nSeulement si votre chat avait deux trous du cul, donc non. ",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "733744_2",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "OR\nHashtag, mauvaise réponse. ",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "OU\nVotre chat devrait consulter un médecin. ",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Shift plus 8 crée un astérisque, alias un trou du cul de chat. ",
+      "t": "A",
+      "v": "733746_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Je sais, je sais... ENFIN des informations utiles. ",
+      "t": "A",
+      "v": "733747_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "Which PC keyboard command produces a symbol that looks like my cat’s butthole?",
+      "t": "A",
+      "v": "733743_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion5Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupPoorAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasDisAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion1Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion4Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTimingInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasScoreInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupRockedAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupAwfulAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion7Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasDatAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion6Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion3Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupOutroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupGoodAudio"
+    },
+    {
+      "t": "S",
+      "v": "S+7.95",
+      "n": "$InstructionsAudio$DatTextCue"
+    },
+    {
+      "t": "S",
+      "v": "Les trolls seront aussi des trolls ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "TROLL 2 (HORREUR) ",
+      "n": "DatButtonText"
+    },
+    {
+      "t": "S",
+      "v": "LES TROLLS (POUR LES ENFANTS) ",
+      "n": "DisButtonText"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$InstructionsAudio$BothCue"
+    },
+    {
+      "t": "S",
+      "v": "le dessin animé pour enfants de 2016 <i>Trolls</i> ",
+      "n": "DisText"
+    },
+    {
+      "t": "S",
+      "v": "le film d'horreur de 1990 <i>Troll 2</i> ",
+      "n": "DatText"
+    },
+    {
+      "t": "S",
+      "v": "S+4.22",
+      "n": "$InstructionsAudio$DisTextCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$DisAudio$DisButtonCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$DatAudio$DatButtonCue"
+    },
+    {
+      "s": "a un message sur le végétarisme ",
+      "t": "A",
+      "v": "765141_1",
+      "n": "Question5Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "TimingInstructionsAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupOutroAudio"
+    },
+    {
+      "s": "Je vais lire sept choses et pour chacune d'elles, dites-moi si elle décrit # le dessin animé pour enfants de 2016 <i>Trolls</i> ou # le film d'horreur de 1990 <i>Troll 2</i>... ou les deux ",
+      "t": "A",
+      "v": "765136_1",
+      "n": "InstructionsAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ScoreInstructionsAudio"
+    },
+    {
+      "s": "il y a des trolls dedans ",
+      "t": "A",
+      "v": "765143_2",
+      "n": "Question7Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupPoorAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupRockedAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupAwfulAudio"
+    },
+    {
+      "s": "comprend la chanson de Lionel Richie « Hello » ",
+      "t": "A",
+      "v": "765138_2",
+      "n": "Question2Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupGoodAudio"
+    },
+    {
+      "s": "<i>Les Trolls</i>, pour les enfants.. ",
+      "t": "A",
+      "v": "765149_1",
+      "n": "DisAudio"
+    },
+    {
+      "s": "les méchants veulent manger les héros ",
+      "t": "A",
+      "v": "765139_1",
+      "n": "Question3Audio"
+    },
+    {
+      "s": "Les trolls seront aussi des trolls et Oh mon Dieu GOOOOOOD !!!... c'est un Dis ou Dat ",
+      "t": "A",
+      "v": "765135_2",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "...<i>Troll 2</i>, horreur... ",
+      "t": "A",
+      "v": "765150_3",
+      "n": "DatAudio"
+    },
+    {
+      "s": "Grand-parent revient sous forme de fantôme ",
+      "t": "A",
+      "v": "765140_1",
+      "n": "Question4Audio"
+    },
+    {
+      "s": "a un personnage nommé Branch ",
+      "t": "A",
+      "v": "765137_1",
+      "n": "Question1Audio"
+    },
+    {
+      "s": "comprend la chanson « La sorcière du pop-corn » ",
+      "t": "A",
+      "v": "765142_2",
+      "n": "Question6Audio"
+    }
+  ]
+}

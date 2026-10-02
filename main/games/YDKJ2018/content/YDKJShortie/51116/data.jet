@@ -1,0 +1,152 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "fabriqué aux USA ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "S+3.66 ",
+      "n": "$QuestionAudio$QuestionTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "0,3,2,1 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "car contrairement à Keith Urban, Bourbon doit être : ",
+      "n": "QuestionText2"
+    },
+    {
+      "t": "S",
+      "v": "Before",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Bad news if you’re hoping to make bourbon out of Keith Urban...",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Alcool de renommée ",
+      "t": "A",
+      "v": "731118_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Il n’y a pas de limite d’âge pour le Bourbon ou le pur sex-appeal country. ",
+      "t": "A",
+      "v": "731130_1",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "731121_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "Le bourbon doit contenir au moins 51 % de maïs, donc cette réponse est 100 % de conneries. ",
+      "t": "A",
+      "v": "731128_1",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "Je veux dire, d'accord... il y a une légère POSSIBILITÉ que ce soit correct, mais allez ! ",
+      "t": "A",
+      "v": "731126_1",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "According to U.S. federal regulations, whiskey must be made in the United States to be classified as bourbon. Keith Urban was born in New Zealand.",
+      "t": "A",
+      "v": "731123_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "A lot of American country stars have foreign origins. Shania Twain is from Canada and Tim McGraw was chisled out of a Grecian marble.",
+      "t": "A",
+      "v": "731124_2",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "Bad news if you’re hoping to make bourbon out of Keith Urban... because unlike Keith Urban, Bourbon has to be:",
+      "t": "A",
+      "v": "731120_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

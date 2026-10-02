@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "palourdes | attention | sucettes ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "J'ai toujours envie de <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je n'en ai jamais assez ! ",
+      "t": "A",
+      "v": "758441_2",
+      "n": "PromptAudio"
+    }
+  ]
+}

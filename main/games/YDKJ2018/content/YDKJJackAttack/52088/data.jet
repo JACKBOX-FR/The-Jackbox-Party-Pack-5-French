@@ -1,0 +1,421 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_6Correct"
+    },
+    {
+      "t": "S",
+      "v": "Rice Krispies ",
+      "n": "Choice6_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Oiseaux ",
+      "n": "Root2Text"
+    },
+    {
+      "t": "S",
+      "v": "Énergisant ",
+      "n": "Choice5_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Reddit ",
+      "n": "Choice2_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Jardinières ",
+      "n": "Choice4_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Pilulesbury ",
+      "n": "Choice6_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Musclé ",
+      "n": "Choice3_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Playboy ",
+      "n": "Choice1_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Lapins ",
+      "n": "Root1Text"
+    },
+    {
+      "t": "S",
+      "v": "Boucles de fruits ",
+      "n": "Choice6_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Six drapeaux ",
+      "n": "Choice2_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Flocons givrés de Kellogg ",
+      "n": "Choice4_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Visages de marque ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "Trix ",
+      "n": "Choice2_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Chiquita ",
+      "n": "Choice4_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Nesquik ",
+      "n": "Choice1_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Poisson rouge ",
+      "n": "Choice5_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Énergisant ",
+      "n": "Choice1_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Six drapeaux ",
+      "n": "Choice3_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Elmer ",
+      "n": "Choice1_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Musclé ",
+      "n": "Choice4_4Text"
+    },
+    {
+      "t": "S",
+      "v": "AFLAC ",
+      "n": "Choice2_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Avec des lunettes de soleil ",
+      "n": "Root5Text"
+    },
+    {
+      "t": "S",
+      "v": "Avec des chapeaux ",
+      "n": "Root4Text"
+    },
+    {
+      "t": "S",
+      "v": "Jack dans la boîte ",
+      "n": "Choice4_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Vlasic ",
+      "n": "Choice2_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Cheetos ",
+      "n": "Choice6_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Punch hawaïen ",
+      "n": "Choice5_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Jouets R Nous ",
+      "n": "Choice1_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Pringles ",
+      "n": "Choice3_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Flocons givrés ",
+      "n": "Choice5_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Géante verte ",
+      "n": "Choice3_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Jeux de Jackbox ",
+      "n": "Choice3_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Trix ",
+      "n": "Choice1_2Text"
+    },
+    {
+      "t": "S",
+      "v": "7 en haut ",
+      "n": "Choice5_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Chauves ",
+      "n": "Root3Text"
+    },
+    {
+      "t": "S",
+      "v": "Trix ",
+      "n": "Choice6_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Sans Pantalon ",
+      "n": "Root6Text"
+    },
+    {
+      "t": "S",
+      "v": "Boucles de fruits ",
+      "n": "Choice2_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Avoine Quaker ",
+      "n": "Choice4_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Duracell ",
+      "n": "Choice6_3Text"
+    },
+    {
+      "t": "S",
+      "v": "M. Propre ",
+      "n": "Choice3_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Cheetos ",
+      "n": "Choice5_1Text"
+    },
+    {
+      "s": "Visages de marque ",
+      "t": "A",
+      "v": "744452_1 ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "J'espère que vous savez à quoi ressemblent les mascottes de votre marque, espèce de drone capitaliste... ",
+      "t": "A",
+      "v": "744453_1 ",
+      "n": "IntroAudio"
+    }
+  ]
+}

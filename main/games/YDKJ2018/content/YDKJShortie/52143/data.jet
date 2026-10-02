@@ -1,0 +1,143 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "pondre des œufs dans mon abdomen ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "1,2,0,3 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Si Jimmy Fallon était une guêpe de blatte émeraude et que je voulais être un bon hôte pour lui, que devrais-je le laisser faire ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Étiquette d'hébergement ",
+      "t": "A",
+      "v": "745455_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "JIMMY : Non, mais j'apprécierais l'offre. [Finalement, nous déplacerons cela à chaque mauvais choix de réponse, après normalisation] ",
+      "t": "A",
+      "v": "745467_0",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "JIMMY : (un peu contrarié) Tu sais Cookie, d'un hôte à l'autre, j'ai l'impression que tu pourrais apprendre un petit quelque chose du monde des parasites.\nCOOKIE : Quoi ?\nJIMMY : Tiens [sfx : bruissement de papier] J'ai apporté cette question pour illustrer mon propos.\nCOOKIE : C'est étrange... ",
+      "t": "A",
+      "v": "745456_0f",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "745458_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "JIMMY : Non, mais j'apprécierais l'offre. [Finalement, nous déplacerons cela à chaque mauvais choix de réponse, après normalisation] ",
+      "t": "A",
+      "v": "745465_0",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "JIMMY : Non, mais j'apprécierais l'offre. [Finalement, nous déplacerons cela à chaque mauvais choix de réponse, après normalisation] ",
+      "t": "A",
+      "v": "745463_1",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "JIMMY : Les guêpes blattes émeraude sont un type de parasite qui transforme leur hôte en zombie et remplit ensuite leur ventre d'œufs de guêpe. ",
+      "t": "A",
+      "v": "745460_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "COOKIE : Est-ce une menace ? \n[sfx : se transforme en combat/lutte] ",
+      "t": "A",
+      "v": "745461_0f",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "COOKIE: (reading) If Jimmy Fallon were an EMERALD COCKROACH WASP and I wanted to be a good host to him, what should I let him do?",
+      "t": "A",
+      "v": "745457_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

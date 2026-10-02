@@ -1,0 +1,142 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "\"Sentez-vous à l'intérieur des SELLES !!\" ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "1,2,0,3 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Quelle est la chose la plus utile à crier en participant à une Escape Room qui se déroule dans une TACK ROOM ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Si vous détestez les gens, chaque pièce peut ressembler à une salle d'évasion ",
+      "t": "A",
+      "v": "716027_2",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Si vous avez choisi cette réponse dans l’espoir d’entendre le bruit d’une chasse d’eau, vous avez de la chance !! [effet : affleurant] ",
+      "t": "A",
+      "v": "716039_0f",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Avez-vous déjà fait une de ces Escape Rooms ? Vous savez où vous êtes enfermé dans une pièce avec des gens et devez résoudre de nombreuses énigmes pour en sortir. Et non, je ne parle pas du lycée. ",
+      "t": "A",
+      "v": "716028_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "716030_2",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "Écoutez, chaque fois que je vois un choix de réponse est les épées, je veux généralement qu'il soit correct aussi. ",
+      "t": "A",
+      "v": "716037_1",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Une sellerie est attenante à une écurie et sert à ranger les selles. ",
+      "t": "A",
+      "v": "716032_2",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Contrairement à la Tact Room, où vous emmenez les chevaux pour avoir des conversations directes et sensibles avec eux. ",
+      "t": "A",
+      "v": "716033_3",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "What’s the most useful thing to scream while participating in an Escape Room that takes place in a TACK ROOM?",
+      "t": "A",
+      "v": "716029_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,1 +1,86 @@
-{"fields":[{"t":"B","v":"true","n":"HasScenarioAudio"},{"t":"B","v":"true","n":"HasCategoryAudio"},{"t":"B","v":"false","n":"HasResponseAudio"},{"t":"S","v":"your grandma is wanted for murder | they aren’t your child | you’re part dog | you have alien DNA | they have a contagious illness","n":"Decoys"},{"t":"S","v":"S+10.17","n":"$ScenarioAudio$QuestionTextCue"},{"t":"S","v":"","n":"Keywords"},{"t":"S","v":"Le laisses-tu présenter ses résultats à la classe ?","n":"QuestionText"},{"s":"DNA-Okay","t":"A","v":"742499_1","n":"CategoryAudio"},{"s":"Your child has been assigned to write a genealogy report for school. You order a test done, only to discover this. Without an official document, they’ll get an F. Do you let them present the findings to the class?","t":"A","v":"742500_3","n":"ScenarioAudio"},{"s":"","t":"A","n":"ResponseAudio"},{"n":"ScenarioText1","v":"Ton enfant a été chargé de rédiger un rapport de généalogie pour l'école.","t":"S"},{"n":"$ScenarioAudio$ScenarioTextCue1","v":"S+0.00","t":"S"},{"n":"ScenarioText2","v":"Tu demandes un test, pour découvrir que/qu' <BLANK>.","t":"S"},{"n":"$ScenarioAudio$ScenarioTextCue2","v":"S+4.46","t":"S"},{"n":"ScenarioText3","v":"Sans document officiel, il aura un F.","t":"S"},{"n":"$ScenarioAudio$ScenarioTextCue3","v":"S+7.63","t":"S"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "ta grand-mère est recherchée pour meurtre | ce ne sont pas vos enfants | tu es en partie chien | vous avez de l'ADN extraterrestre | ils ont une maladie contagieuse ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "S+10.17",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "Le laisses-tu présenter ses résultats à la classe ?",
+      "n": "QuestionText"
+    },
+    {
+      "s": "ADN-OK ",
+      "t": "A",
+      "v": "742499_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Votre enfant a été chargé de rédiger un rapport généalogique pour l'école. Vous commandez un test, pour ensuite le découvrir. Sans document officiel, ils obtiendront un F. Les laissez-vous présenter les résultats à la classe ? ",
+      "t": "A",
+      "v": "742500_3",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    },
+    {
+      "n": "ScenarioText1",
+      "v": "Ton enfant a été chargé de rédiger un rapport de généalogie pour l'école.",
+      "t": "S"
+    },
+    {
+      "n": "$ScenarioAudio$ScenarioTextCue1",
+      "v": "S+0.00",
+      "t": "S"
+    },
+    {
+      "n": "ScenarioText2",
+      "v": "Tu demandes un test, pour découvrir que/qu' <BLANK>.",
+      "t": "S"
+    },
+    {
+      "n": "$ScenarioAudio$ScenarioTextCue2",
+      "v": "S+4.46",
+      "t": "S"
+    },
+    {
+      "n": "ScenarioText3",
+      "v": "Sans document officiel, il aura un F.",
+      "t": "S"
+    },
+    {
+      "n": "$ScenarioAudio$ScenarioTextCue3",
+      "v": "S+7.63",
+      "t": "S"
+    }
+  ]
+}

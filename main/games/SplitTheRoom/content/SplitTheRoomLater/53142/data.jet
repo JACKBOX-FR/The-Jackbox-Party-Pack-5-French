@@ -1,0 +1,86 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "Clown tueur | Monsieur Meurtre | Le chatouilleur | Bébé de taille homme | Concasseur McCrush ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "S+8.03",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "S+4.01",
+      "n": "$ScenarioAudio$ScenarioTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "<BLANK>. ",
+      "n": "ScenarioText3"
+    },
+    {
+      "t": "S",
+      "v": "S+6.70",
+      "n": "$ScenarioAudio$ScenarioTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "Vous et <OTHERPLAYER> êtes une équipe de lutte professionnelle. ",
+      "n": "ScenarioText1"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00 ",
+      "n": "$ScenarioAudio$ScenarioTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Ils sont actuellement sur le ring et combattent un lutteur nommé ",
+      "n": "ScenarioText2"
+    },
+    {
+      "t": "S",
+      "v": "Est-ce que vous participez ? ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Tag, c'est toi qui es là ",
+      "t": "A",
+      "v": "759113_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Vous et <OTHERPLAYER> êtes une équipe de lutte professionnelle. Ils sont actuellement sur le ring et combattent un lutteur nommé THIS. Est-ce que vous participez ? ",
+      "t": "A",
+      "v": "759114_2 ",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "yeux arrachés ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "2,0,3,1 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Qu'est-ce que l'acteur de dessin animé déprimé BoJack Horseman devrait être prêt à supporter pour obtenir un rôle dans la pièce <i>Equus</i> ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Tu n'es pas Bo Jack ",
+      "t": "A",
+      "v": "719377_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "OU\nC'est un mensonge flagrant. ",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "719380_3",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "OU\nJ'ai bien peur de devoir noter votre réponse. ",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "OU\n(D'une voix aiguë). Faux... (s'éclaircit la gorge)..Faux. ",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Equus est une pièce célèbre des années 1970 sur un garçon qui a été interné dans un hôpital psychiatrique pour avoir rendu aveugle six chevaux. ",
+      "t": "A",
+      "v": "719382_2",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Et c'est quand même moins déprimant qu'un épisode de Bojack Horseman. ",
+      "t": "A",
+      "v": "719383_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "What would depressed cartoon actor BoJack Horseman have to be willing to put up with to get a part in the play <i>Equus</i>?",
+      "t": "A",
+      "v": "719379_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

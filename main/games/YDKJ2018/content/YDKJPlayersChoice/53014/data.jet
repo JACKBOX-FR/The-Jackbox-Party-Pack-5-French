@@ -1,0 +1,50 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Une question sur les extraterrestres ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Une question sur les robots ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "52872 ",
+      "n": "Choice2Id"
+    },
+    {
+      "t": "S",
+      "v": "Vous souhaitez une question sur les extraterrestres ou une question sur les robots ? ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "52873 ",
+      "n": "Choice1Id"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "Vous souhaitez une question sur les extraterrestres ou une question sur les robots ? ",
+      "t": "A",
+      "v": "757929_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

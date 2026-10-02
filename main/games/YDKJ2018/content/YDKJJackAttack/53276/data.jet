@@ -1,0 +1,421 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_6Correct"
+    },
+    {
+      "t": "S",
+      "v": "quelqu'un gagne ",
+      "n": "Choice6_6Text"
+    },
+    {
+      "t": "S",
+      "v": "tous les 4 ans ",
+      "n": "Root2Text"
+    },
+    {
+      "t": "S",
+      "v": "l'air au-dessus des ailes crée un vortex ",
+      "n": "Choice5_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Thanksgiving canadien ",
+      "n": "Choice2_3Text"
+    },
+    {
+      "t": "S",
+      "v": "ton coeur bat 100 fois ",
+      "n": "Choice4_2Text"
+    },
+    {
+      "t": "S",
+      "v": "il y a un DisOrDat ",
+      "n": "Choice6_1Text"
+    },
+    {
+      "t": "S",
+      "v": "voir un nuage de Nimbostratus ",
+      "n": "Choice3_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Les jeux de la faim ",
+      "n": "Choice1_6Text"
+    },
+    {
+      "t": "S",
+      "v": "une fois par an ",
+      "n": "Root1Text"
+    },
+    {
+      "t": "S",
+      "v": "il y a une Jack Attack ",
+      "n": "Choice6_5Text"
+    },
+    {
+      "t": "S",
+      "v": "le McRib est de retour ! ",
+      "n": "Choice2_6Text"
+    },
+    {
+      "t": "S",
+      "v": "50 000 « j’aime » cliqués sur Facebook ",
+      "n": "Choice4_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Fonctionne à chaque fois ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "Jeux olympiques d'été ",
+      "n": "Choice2_2Text"
+    },
+    {
+      "t": "S",
+      "v": "tu te rapproches un peu plus de la mort ",
+      "n": "Choice4_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Marathon de Boston ",
+      "n": "Choice1_1Text"
+    },
+    {
+      "t": "S",
+      "v": "l'air est poussé sous les ailes ",
+      "n": "Choice5_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Le buisson d'hortensia fleurit ",
+      "n": "Choice1_5Text"
+    },
+    {
+      "t": "S",
+      "v": "avoir une angine streptococcique (généralement) ",
+      "n": "Choice3_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Brigadoon apparaît ",
+      "n": "Choice1_3Text"
+    },
+    {
+      "t": "S",
+      "v": "un autre putain de redémarrage ",
+      "n": "Choice4_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Coupe du Monde de la FIFA ",
+      "n": "Choice2_5Text"
+    },
+    {
+      "t": "S",
+      "v": "chaque fois qu'un papillon bat des ailes ",
+      "n": "Root5Text"
+    },
+    {
+      "t": "S",
+      "v": "chaque seconde (à peu près) ",
+      "n": "Root4Text"
+    },
+    {
+      "t": "S",
+      "v": "les abeilles battent des ailes 200 fois ",
+      "n": "Choice4_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Élection au Congrès américain ",
+      "n": "Choice2_1Text"
+    },
+    {
+      "t": "S",
+      "v": "est meilleur que le précédent ",
+      "n": "Choice6_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Ashton Kutcher reçoit un chèque de redevances ",
+      "n": "Choice5_6Text"
+    },
+    {
+      "t": "S",
+      "v": "les hirondelles reviennent à Capistrano ",
+      "n": "Choice1_4Text"
+    },
+    {
+      "t": "S",
+      "v": "en compétition pour Miss Univers ",
+      "n": "Choice3_3Text"
+    },
+    {
+      "t": "S",
+      "v": "le corps du papillon se contracte ",
+      "n": "Choice5_2Text"
+    },
+    {
+      "t": "S",
+      "v": "éclipse totale de soleil ",
+      "n": "Choice3_1Text"
+    },
+    {
+      "t": "S",
+      "v": "voir la comète Hale-Bopp ",
+      "n": "Choice3_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Coupe du Monde de la FIFA ",
+      "n": "Choice1_2Text"
+    },
+    {
+      "t": "S",
+      "v": "les ailes absorbent les nutriments présents dans l'air ",
+      "n": "Choice5_5Text"
+    },
+    {
+      "t": "S",
+      "v": "une fois dans sa vie ",
+      "n": "Root3Text"
+    },
+    {
+      "t": "S",
+      "v": "Cookie dit quelque chose de stupide ",
+      "n": "Choice6_2Text"
+    },
+    {
+      "t": "S",
+      "v": "chaque partie de <i>VOUS NE CONNAISSEZ PAS JACK</i> ",
+      "n": "Root6Text"
+    },
+    {
+      "t": "S",
+      "v": "29 février ",
+      "n": "Choice2_4Text"
+    },
+    {
+      "t": "S",
+      "v": "six bébés nés ",
+      "n": "Choice4_3Text"
+    },
+    {
+      "t": "S",
+      "v": "est conçu avec amour ",
+      "n": "Choice6_3Text"
+    },
+    {
+      "t": "S",
+      "v": "avoir la varicelle (généralement) ",
+      "n": "Choice3_2Text"
+    },
+    {
+      "t": "S",
+      "v": "il y a un ouragan en Uruguay ",
+      "n": "Choice5_1Text"
+    },
+    {
+      "s": "Fonctionne à chaque fois ",
+      "t": "A",
+      "v": "760602_4 ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Voyons à quelle fréquence vous pouvez trouver une bonne réponse. Bonne chance. ",
+      "t": "A",
+      "v": "760603_1 ",
+      "n": "IntroAudio"
+    }
+  ]
+}

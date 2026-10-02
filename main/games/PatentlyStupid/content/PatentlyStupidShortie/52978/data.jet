@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "spaghettis et boulettes de viande | billets de tombola | des ballons ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Les gens me demandent toujours <BLANK>. ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je suppose que j'ai l'air d'en avoir beaucoup ! ",
+      "t": "A",
+      "v": "757493_4",
+      "n": "PromptAudio"
+    }
+  ]
+}

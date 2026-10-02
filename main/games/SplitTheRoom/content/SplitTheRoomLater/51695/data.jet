@@ -1,0 +1,96 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "signaler les enfants moches | faible | voler des bonbons | retourner la table la plus proche | avoir une crise d'éternuement ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "S+12.96",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "S+2.55",
+      "n": "$ScenarioAudio$ScenarioTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "Vous venez d'être à égalité pour la première place dans une course de relais caritative pour enfants. ",
+      "n": "ScenarioText3"
+    },
+    {
+      "t": "S",
+      "v": "S+4.10",
+      "n": "$ScenarioAudio$ScenarioTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "Le premier prix est une pizza gratuite pendant un an. Le gagnant sera annoncé via un tirage au sort. ",
+      "n": "ScenarioText4"
+    },
+    {
+      "t": "S",
+      "v": "Quand une pièce tombe face, tu as toujours ",
+      "n": "ScenarioText1"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00 ",
+      "n": "$ScenarioAudio$ScenarioTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "<BLANK>. ",
+      "n": "ScenarioText2"
+    },
+    {
+      "t": "S",
+      "v": "S+7.67",
+      "n": "$ScenarioAudio$ScenarioTextCue4"
+    },
+    {
+      "t": "S",
+      "v": "Vous tirez votre révérence ? ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Tout est pour une bonne croûte ",
+      "t": "A",
+      "v": "Vous tirez votre révérence ? ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Quand une pièce tombe face, vous faites toujours cela. Vous venez d'être à égalité pour la première place dans une course de relais caritative pour enfants. Le premier prix est une pizza gratuite pendant un an. Le gagnant sera annoncé via un tirage au sort. Vous tirez votre révérence ? ",
+      "t": "A",
+      "v": "738944_3",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    }
+  ]
+}

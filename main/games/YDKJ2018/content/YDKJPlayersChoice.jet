@@ -1,0 +1,382 @@
+{
+  "content": [
+    {
+      "question": {
+        "text": "Souhaitez-vous une question qui implique un moment de calme ou une question qui est constamment interrompue ? "
+      },
+      "id": "53763",
+      "choice1": {
+        "text": "une question qui implique un moment de calme ",
+        "id": "53750"
+      },
+      "choice2": {
+        "text": "une question qui ne cesse d'être interrompue ",
+        "id": "53751"
+      }
+    },
+    {
+      "question": {
+        "text": "Vous souhaitez une question sur le temps ou une question sur l'espace ? "
+      },
+      "id": "53544",
+      "choice1": {
+        "text": "une question sur le temps ",
+        "id": "53230"
+      },
+      "choice2": {
+        "text": "une question sur l'espace ",
+        "id": "53229"
+      }
+    },
+    {
+      "question": {
+        "text": "Vous souhaitez une question sur les pieds ou une question sur les visages ? "
+      },
+      "id": "53541",
+      "choice1": {
+        "text": "une question sur les pieds ",
+        "id": "53499"
+      },
+      "choice2": {
+        "text": "une question sur les visages ",
+        "id": "53497"
+      }
+    },
+    {
+      "question": {
+        "text": "Souhaitez-vous une question où Cookie se met en colère, ou une question où Cookie se venge ? "
+      },
+      "id": "53457",
+      "choice1": {
+        "text": "une question où Cookie s'énerve ",
+        "id": "51952"
+      },
+      "choice2": {
+        "text": "une question où Cookie se venge ",
+        "id": "50539"
+      }
+    },
+    {
+      "question": {
+        "text": "Souhaitez-vous une question qui n’a rien à cacher ou une question avec une arrière-pensée ? "
+      },
+      "id": "53398",
+      "choice1": {
+        "text": "une question qui n'a rien à cacher ",
+        "id": "53394"
+      },
+      "choice2": {
+        "text": "une question avec une arrière-pensée ",
+        "id": "53395"
+      }
+    },
+    {
+      "question": {
+        "text": "Vous souhaitez une question où la réponse rime avec orange ou une question où la réponse rime avec violet ? "
+      },
+      "id": "53397",
+      "choice1": {
+        "text": "une question dont la réponse rime avec orange ",
+        "id": "53392"
+      },
+      "choice2": {
+        "text": "une question dont la réponse rime avec violet ",
+        "id": "53393"
+      }
+    },
+    {
+      "question": {
+        "text": "Souhaitez-vous une question faite avec amour ou une question faite avec méchanceté ? "
+      },
+      "id": "53391",
+      "choice1": {
+        "text": "une question faite avec amour ",
+        "id": "52884"
+      },
+      "choice2": {
+        "text": "une question faite avec dépit ",
+        "id": "52883"
+      }
+    },
+    {
+      "question": {
+        "text": "Souhaitez-vous une question en arrière ou une question en avant ? "
+      },
+      "id": "53387",
+      "choice1": {
+        "text": "une question rétrospective ",
+        "id": "52036"
+      },
+      "choice2": {
+        "text": "une question directe ",
+        "id": "52037"
+      }
+    },
+    {
+      "question": {
+        "text": "Souhaitez-vous une question formelle ou une question qui garde les choses décontractées "
+      },
+      "id": "53359",
+      "choice1": {
+        "text": "une question formelle ",
+        "id": "53333"
+      },
+      "choice2": {
+        "text": "une question qui garde les choses décontractées ",
+        "id": "53334"
+      }
+    },
+    {
+      "question": {
+        "text": "Vous souhaitez une question sur maman ou une question sur papa ? "
+      },
+      "id": "53355",
+      "choice1": {
+        "text": "une question sur maman ",
+        "id": "52925"
+      },
+      "choice2": {
+        "text": "une question sur papa ",
+        "id": "52926"
+      }
+    },
+    {
+      "question": {
+        "text": "Souhaitez-vous une question intelligente ou une question stupide "
+      },
+      "id": "53354",
+      "choice1": {
+        "text": "une question intelligente ",
+        "id": "52885"
+      },
+      "choice2": {
+        "text": "une question stupide ",
+        "id": "52886"
+      }
+    },
+    {
+      "question": {
+        "text": "Souhaitez-vous une question attrayante ou une question pleine d’humour ? "
+      },
+      "id": "53020",
+      "choice1": {
+        "text": "Une question séduisante ",
+        "id": "52753"
+      },
+      "choice2": {
+        "text": "Une question pleine d'humour ",
+        "id": "52754"
+      }
+    },
+    {
+      "question": {
+        "text": "Souhaitez-vous une question que vous connaissez ou une question que vous auriez aimé ne pas connaître ? "
+      },
+      "id": "53018",
+      "choice1": {
+        "text": "Une question que tu connais ",
+        "id": "52985"
+      },
+      "choice2": {
+        "text": "Une question que vous auriez aimé ne pas savoir ",
+        "id": "52986"
+      }
+    },
+    {
+      "question": {
+        "text": "Vous souhaitez une question sur les extraterrestres ou une question sur les robots ? "
+      },
+      "id": "53014",
+      "choice1": {
+        "text": "Une question sur les extraterrestres ",
+        "id": "52873"
+      },
+      "choice2": {
+        "text": "Une question sur les robots ",
+        "id": "52872"
+      }
+    },
+    {
+      "question": {
+        "text": "Souhaitez-vous une question qui fait d’une pierre deux coups ou une question qui fait d’une pierre deux coups ? "
+      },
+      "id": "53013",
+      "choice1": {
+        "text": "Une question qui fait d’une pierre deux coups ",
+        "id": "52870"
+      },
+      "choice2": {
+        "text": "Une question qui fait d'une pierre deux coups ",
+        "id": "52871"
+      }
+    },
+    {
+      "question": {
+        "text": "Souhaitez-vous une question où vous NE comptez PAS vos poulets avant qu’ils n’éclosent ou une question où vous comptez vos poulets avant qu’ils n’éclosent ? "
+      },
+      "id": "53012",
+      "choice1": {
+        "text": "Une question où vous NE comptez PAS vos poules avant qu’elles n’éclosent ",
+        "id": "52851"
+      },
+      "choice2": {
+        "text": "Une question où vous comptez vos poulets avant qu’ils n’éclosent ",
+        "id": "52850"
+      }
+    },
+    {
+      "question": {
+        "text": "Souhaitez-vous une question sur le bon sexe ou une question sur le bon sax ? "
+      },
+      "id": "53011",
+      "choice1": {
+        "text": "Une question sur le bon SEXE ",
+        "id": "52733"
+      },
+      "choice2": {
+        "text": "Une question sur le bon SAX ",
+        "id": "52734"
+      }
+    },
+    {
+      "question": {
+        "text": "Souhaitez-vous une question sur les avertisseurs pneumatiques ou une question sur les avertisseurs pneumatiques ? "
+      },
+      "id": "53008",
+      "choice1": {
+        "text": "Une question avec des klaxons à air ",
+        "id": "51958"
+      },
+      "choice2": {
+        "text": "Une question sur les avertisseurs pneumatiques ",
+        "id": "51957"
+      }
+    },
+    {
+      "question": {
+        "text": "Vous souhaitez une question délicate sur les comédies musicales ou une question musicale sur les délicates ? "
+      },
+      "id": "53007",
+      "choice1": {
+        "text": "Une question délicate sur les comédies musicales ",
+        "id": "52108"
+      },
+      "choice2": {
+        "text": "Une question musicale sur le délicat ",
+        "id": "52110"
+      }
+    },
+    {
+      "question": {
+        "text": "Souhaitez-vous une question forte... ou une question douce ? "
+      },
+      "id": "52534",
+      "choice1": {
+        "text": "une question bruyante ",
+        "id": "51828"
+      },
+      "choice2": {
+        "text": "une question tranquille ",
+        "id": "51830"
+      }
+    },
+    {
+      "question": {
+        "text": "Souhaitez-vous une question courte... ou une question longue ? "
+      },
+      "id": "52526",
+      "choice1": {
+        "text": "une petite question ",
+        "id": "51940"
+      },
+      "choice2": {
+        "text": "une longue question ",
+        "id": "51941"
+      }
+    },
+    {
+      "question": {
+        "text": "Souhaitez-vous une question qui élève Cookie... ou une question qui blesse Cookie ? "
+      },
+      "id": "52524",
+      "choice1": {
+        "text": "une question qui élève Cookie ",
+        "id": "51966"
+      },
+      "choice2": {
+        "text": "une question qui blesse Cookie ",
+        "id": "51965"
+      }
+    },
+    {
+      "question": {
+        "text": "Souhaitez-vous une question où tout est correctement orthographié... ou une question où tout est mal orthographié ? "
+      },
+      "id": "52523",
+      "choice1": {
+        "text": "une question où tout est correctement orthographié ",
+        "id": "51968"
+      },
+      "choice2": {
+        "text": "une question où tout est mal orthographié ",
+        "id": "51967"
+      }
+    },
+    {
+      "question": {
+        "text": "Souhaitez-vous une question délicate... ou une question directe ? "
+      },
+      "id": "52521",
+      "choice1": {
+        "text": "une question délicate ",
+        "id": "51978"
+      },
+      "choice2": {
+        "text": "une question brutale ",
+        "id": "51977"
+      }
+    },
+    {
+      "question": {
+        "text": "Souhaitez-vous une question où la réponse est Shia LaBeouf... ou une question où la réponse n'est pas Shia LeBeouf ? "
+      },
+      "id": "52518",
+      "choice1": {
+        "text": "une question dont la réponse est Shia LaBeouf ",
+        "id": "51937"
+      },
+      "choice2": {
+        "text": "une question où la réponse n'est PAS Shia LaBeouf ",
+        "id": "51938"
+      }
+    },
+    {
+      "question": {
+        "text": "Souhaitez-vous une question avec des noix... ou une question sans noix ? "
+      },
+      "id": "52517",
+      "choice1": {
+        "text": "une question avec des noix ",
+        "id": "51975"
+      },
+      "choice2": {
+        "text": "une question sans noix ",
+        "id": "51974"
+      }
+    },
+    {
+      "question": {
+        "text": "Souhaitez-vous une question facile... ou une question difficile ? "
+      },
+      "id": "52515",
+      "choice1": {
+        "text": "une question facile ",
+        "id": "51787"
+      },
+      "choice2": {
+        "text": "une question difficile",
+        "id": "51788"
+      }
+    }
+  ]
+}

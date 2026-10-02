@@ -1,0 +1,421 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_6Correct"
+    },
+    {
+      "t": "S",
+      "v": "B ",
+      "n": "Choice6_6Text"
+    },
+    {
+      "t": "S",
+      "v": "notes de musique ",
+      "n": "Root2Text"
+    },
+    {
+      "t": "S",
+      "v": "Oui ",
+      "n": "Choice5_4Text"
+    },
+    {
+      "t": "S",
+      "v": "J. ",
+      "n": "Choice2_3Text"
+    },
+    {
+      "t": "S",
+      "v": "C ",
+      "n": "Choice4_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Ô ",
+      "n": "Choice6_1Text"
+    },
+    {
+      "t": "S",
+      "v": "C ",
+      "n": "Choice3_5Text"
+    },
+    {
+      "t": "S",
+      "v": "II ",
+      "n": "Choice1_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Chiffres romains ",
+      "n": "Root1Text"
+    },
+    {
+      "t": "S",
+      "v": "Je ",
+      "n": "Choice6_5Text"
+    },
+    {
+      "t": "S",
+      "v": "F ",
+      "n": "Choice2_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Un ",
+      "n": "Choice4_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Toutes les lettres simples ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "Un ",
+      "n": "Choice2_2Text"
+    },
+    {
+      "t": "S",
+      "v": "X ",
+      "n": "Choice4_6Text"
+    },
+    {
+      "t": "S",
+      "v": "X ",
+      "n": "Choice1_1Text"
+    },
+    {
+      "t": "S",
+      "v": "J. ",
+      "n": "Choice5_3Text"
+    },
+    {
+      "t": "S",
+      "v": "V ",
+      "n": "Choice1_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Ô ",
+      "n": "Choice3_4Text"
+    },
+    {
+      "t": "S",
+      "v": "M ",
+      "n": "Choice1_3Text"
+    },
+    {
+      "t": "S",
+      "v": "ré ",
+      "n": "Choice4_4Text"
+    },
+    {
+      "t": "S",
+      "v": "C ",
+      "n": "Choice2_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Agents <i>Hommes en noir</i> ",
+      "n": "Root5Text"
+    },
+    {
+      "t": "S",
+      "v": "réponses correctes dans cette Jack Attack jusqu'à présent ",
+      "n": "Root4Text"
+    },
+    {
+      "t": "S",
+      "v": "Oui ",
+      "n": "Choice4_5Text"
+    },
+    {
+      "t": "S",
+      "v": "E ",
+      "n": "Choice2_1Text"
+    },
+    {
+      "t": "S",
+      "v": "P. ",
+      "n": "Choice6_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Ô ",
+      "n": "Choice5_6Text"
+    },
+    {
+      "t": "S",
+      "v": "L ",
+      "n": "Choice1_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Ar ",
+      "n": "Choice3_3Text"
+    },
+    {
+      "t": "S",
+      "v": "E ",
+      "n": "Choice5_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Un ",
+      "n": "Choice3_1Text"
+    },
+    {
+      "t": "S",
+      "v": "K ",
+      "n": "Choice3_6Text"
+    },
+    {
+      "t": "S",
+      "v": "W ",
+      "n": "Choice1_2Text"
+    },
+    {
+      "t": "S",
+      "v": "M ",
+      "n": "Choice5_5Text"
+    },
+    {
+      "t": "S",
+      "v": "éléments du tableau périodique ",
+      "n": "Root3Text"
+    },
+    {
+      "t": "S",
+      "v": "G ",
+      "n": "Choice6_2Text"
+    },
+    {
+      "t": "S",
+      "v": "il y avait un chien de fermier qui portait ce nom-o ",
+      "n": "Root6Text"
+    },
+    {
+      "t": "S",
+      "v": "Je ",
+      "n": "Choice2_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Q ",
+      "n": "Choice4_3Text"
+    },
+    {
+      "t": "S",
+      "v": "ré ",
+      "n": "Choice6_3Text"
+    },
+    {
+      "t": "S",
+      "v": "H ",
+      "n": "Choice3_2Text"
+    },
+    {
+      "t": "S",
+      "v": "K ",
+      "n": "Choice5_1Text"
+    },
+    {
+      "s": "Toutes les lettres simples ",
+      "t": "A",
+      "v": "746499_3 ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Choisissez les réponses à une seule lettre qui vous conviennent. Bonne chance... ",
+      "t": "A",
+      "v": "746500_4 ",
+      "n": "IntroAudio"
+    }
+  ]
+}

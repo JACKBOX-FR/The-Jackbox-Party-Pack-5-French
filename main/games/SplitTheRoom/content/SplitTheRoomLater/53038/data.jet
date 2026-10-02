@@ -1,0 +1,86 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "poneys | mélasse | vaincre les Avengers | Richard Nixon | Anime des années 90 ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "S+10.86",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "S+4.51",
+      "n": "$ScenarioAudio$ScenarioTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "<BLANK>. ",
+      "n": "ScenarioText3"
+    },
+    {
+      "t": "S",
+      "v": "S+9.38",
+      "n": "$ScenarioAudio$ScenarioTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "Vous souhaitez offrir à <OTHERPLAYER> le cadeau parfait, alors entrez dans ses rêves. ",
+      "n": "ScenarioText1"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00 ",
+      "n": "$ScenarioAudio$ScenarioTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Vous découvrirez exactement ce qu'ils veulent... mais vous devrez aussi être témoin de leur fantasme impliquant ",
+      "n": "ScenarioText2"
+    },
+    {
+      "t": "S",
+      "v": "Est-ce que ça vaut le coup ? ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Fais un petit rêve de moi ",
+      "t": "A",
+      "v": "758165_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Vous souhaitez offrir à <OTHERPLAYER> le cadeau parfait, alors entrez dans ses rêves. Vous découvrirez exactement ce qu’ils veulent… mais vous devrez également être témoin de leur fantasme impliquant CELA. Est-ce que ça vaut le coup ? ",
+      "t": "A",
+      "v": "758166_2 ",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    }
+  ]
+}

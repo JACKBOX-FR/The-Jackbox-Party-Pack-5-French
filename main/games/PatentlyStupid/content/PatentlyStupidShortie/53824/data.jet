@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "suis mauvais dans mon travail | arriver tard | voler ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "J'ai perdu trois emplois parce que je <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : J'ai perdu emploi après emploi après emploi parce que je fais CECI ! ",
+      "t": "A",
+      "v": "767570_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

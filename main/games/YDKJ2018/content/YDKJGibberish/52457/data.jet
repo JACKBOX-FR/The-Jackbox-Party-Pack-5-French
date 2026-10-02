@@ -1,0 +1,100 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "S",
+      "v": "Il y a ce jeune contrebandier... ",
+      "n": "Clue1Text"
+    },
+    {
+      "t": "S",
+      "v": "... dans une galaxie très très lointaine ",
+      "n": "Clue2Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Solo : Une histoire de Star Wars</i> ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Solo une histoire de Star Wars, solo, solo l'histoire de Star Wars, histoire de Star Wars en solo, histoire de Star Wars en solo, solo une histoire de Star Wars ",
+      "n": "Acceptable"
+    },
+    {
+      "t": "S",
+      "v": "Alone, un récit de bataille spatiale. ",
+      "n": "Clue3Text"
+    },
+    {
+      "t": "S",
+      "v": "Où puis-je emporter ces explosifs de destruction de roches ? ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "Allez faire exploser la carrière de la porte du fond. ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Il y a ce jeune contrebandier... ",
+      "t": "A",
+      "v": "749903_1",
+      "n": "Clue1Audio"
+    },
+    {
+      "s": "Où puis-je emporter ces explosifs de destruction de roches ? ",
+      "t": "A",
+      "v": "749898_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Alone, un récit de bataille spatiale. ",
+      "t": "A",
+      "v": "749905_1",
+      "n": "Clue3Audio"
+    },
+    {
+      "s": "Regardez la phrase charabia et dites-moi avec quel titre de film elle rime. ",
+      "t": "A",
+      "v": "749899_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "OutroAudio"
+    },
+    {
+      "s": "... dans une galaxie très très lointaine ",
+      "t": "A",
+      "v": "749904_1",
+      "n": "Clue2Audio"
+    },
+    {
+      "s": "Allez faire exploser la carrière de la porte du fond. ",
+      "t": "A",
+      "v": "749900_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

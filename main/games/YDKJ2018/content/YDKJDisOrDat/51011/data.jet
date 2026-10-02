@@ -1,0 +1,245 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion5Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupPoorAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasDisAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion1Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion4Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTimingInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasScoreInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupRockedAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupAwfulAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion7Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasDatAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion6Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion3Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupOutroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupGoodAudio"
+    },
+    {
+      "t": "S",
+      "v": "S+7.30",
+      "n": "$InstructionsAudio$DatTextCue"
+    },
+    {
+      "t": "S",
+      "v": "Demandez à votre médecin si les jouets vous conviennent ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "MÉDICAMENT POUR LE TDAH ",
+      "n": "DatButtonText"
+    },
+    {
+      "t": "S",
+      "v": "FILEUR AGITIF ",
+      "n": "DisButtonText"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$InstructionsAudio$BothCue"
+    },
+    {
+      "t": "S",
+      "v": "marque de fidget spinners ",
+      "n": "DisText"
+    },
+    {
+      "t": "S",
+      "v": "un médecin a prescrit un médicament contre le TDAH ",
+      "n": "DatText"
+    },
+    {
+      "t": "S",
+      "v": "S+4.17",
+      "n": "$InstructionsAudio$DisTextCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$DisAudio$DisButtonCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$DatAudio$DatButtonCue"
+    },
+    {
+      "s": "Daytrana ",
+      "t": "A",
+      "v": "729401_1",
+      "n": "Question5Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "TimingInstructionsAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupOutroAudio"
+    },
+    {
+      "s": "Je vais lire sept noms, et pour chacun d'eux, je veux que vous me disiez s'il s'agit # d'une marque de fidget spinners, ou # d'un médecin qui vous a prescrit un médicament contre le TDAH. ",
+      "t": "A",
+      "v": "729396_1",
+      "n": "InstructionsAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ScoreInstructionsAudio"
+    },
+    {
+      "s": "DrowseBuster ",
+      "t": "A",
+      "v": "729403_1",
+      "n": "Question7Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupPoorAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupRockedAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupAwfulAudio"
+    },
+    {
+      "s": "Quillivant ",
+      "t": "A",
+      "v": "729398_1",
+      "n": "Question2Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupGoodAudio"
+    },
+    {
+      "s": "... un fidget spinner... ou... ",
+      "t": "A",
+      "v": "729409_3",
+      "n": "DisAudio"
+    },
+    {
+      "s": "Trianium ",
+      "t": "A",
+      "v": "729399_1",
+      "n": "Question3Audio"
+    },
+    {
+      "s": "Hé, par ici ! Bonjour! Maintenant que j'ai votre attention, il est temps pour un Dis ou Dat... ",
+      "t": "A",
+      "v": "729395_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "... un médicament contre le TDAH ",
+      "t": "A",
+      "v": "729410_3",
+      "n": "DatAudio"
+    },
+    {
+      "s": "Atesson ",
+      "t": "A",
+      "v": "729400_1",
+      "n": "Question4Audio"
+    },
+    {
+      "s": "Zekpro ",
+      "t": "A",
+      "v": "729397_1",
+      "n": "Question1Audio"
+    },
+    {
+      "s": "Focalin ",
+      "t": "A",
+      "v": "729402_1",
+      "n": "Question6Audio"
+    }
+  ]
+}

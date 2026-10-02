@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "jongler | kick-box | devenir génial ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je veux <BLANK> comme avant ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Ça me manque de pouvoir faire CECI ! ",
+      "t": "A",
+      "v": "761491_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

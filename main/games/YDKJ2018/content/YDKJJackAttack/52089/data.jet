@@ -1,0 +1,421 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_6Correct"
+    },
+    {
+      "t": "S",
+      "v": "_____ Choses que je déteste chez toi ",
+      "n": "Choice6_6Text"
+    },
+    {
+      "t": "S",
+      "v": "6 ",
+      "n": "Root2Text"
+    },
+    {
+      "t": "S",
+      "v": "L'ensemble des _____ yards ",
+      "n": "Choice5_4Text"
+    },
+    {
+      "t": "S",
+      "v": "_____ Pieds sous ",
+      "n": "Choice2_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Le _______ des Furieux ",
+      "n": "Choice4_2Text"
+    },
+    {
+      "t": "S",
+      "v": "_____ Hommes en colère ",
+      "n": "Choice6_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Le Magnifique _________ ",
+      "n": "Choice3_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Super _____ ",
+      "n": "Choice1_6Text"
+    },
+    {
+      "t": "S",
+      "v": "5 ",
+      "n": "Root1Text"
+    },
+    {
+      "t": "S",
+      "v": "____.22.63 ",
+      "n": "Choice6_5Text"
+    },
+    {
+      "t": "S",
+      "v": "L'océan _____ ",
+      "n": "Choice2_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Super _____",
+      "n": "Choice4_1Text"
+    },
+    {
+      "t": "S",
+      "v": "C'est un jeu de nombres ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "_____ Degrés de séparation ",
+      "n": "Choice2_2Text"
+    },
+    {
+      "t": "S",
+      "v": "_____ Cloverfield Lane ",
+      "n": "Choice4_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Abattoir _____ ",
+      "n": "Choice1_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Quartier _____ ",
+      "n": "Choice5_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Rapide _____ ",
+      "n": "Choice1_5Text"
+    },
+    {
+      "t": "S",
+      "v": "_____ Armée nationale ",
+      "n": "Choice3_4Text"
+    },
+    {
+      "t": "S",
+      "v": "_____ Pieds sous ",
+      "n": "Choice1_3Text"
+    },
+    {
+      "t": "S",
+      "v": "_______ Règles simples ",
+      "n": "Choice4_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Grand héros _____ ",
+      "n": "Choice2_5Text"
+    },
+    {
+      "t": "S",
+      "v": "9 ",
+      "n": "Root5Text"
+    },
+    {
+      "t": "S",
+      "v": "8 ",
+      "n": "Root4Text"
+    },
+    {
+      "t": "S",
+      "v": "Star Wars : Épisode _____ - Le Réveil de la Force ",
+      "n": "Choice4_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Parti en _____ secondes ",
+      "n": "Choice2_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Les _____ commandements ",
+      "n": "Choice6_4Text"
+    },
+    {
+      "t": "S",
+      "v": "_____ Choses que je déteste chez toi ",
+      "n": "Choice5_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Neuf heures moins _____ ",
+      "n": "Choice1_4Text"
+    },
+    {
+      "t": "S",
+      "v": "La maison de _____ Gables ",
+      "n": "Choice3_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Star Trek : Espace profond _______ ",
+      "n": "Choice5_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Quartier _____ ",
+      "n": "Choice3_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Numéro de potion d'amour _____ ",
+      "n": "Choice3_6Text"
+    },
+    {
+      "t": "S",
+      "v": "_____ Filles fauchées ",
+      "n": "Choice1_2Text"
+    },
+    {
+      "t": "S",
+      "v": "_____ Hommes en colère ",
+      "n": "Choice5_5Text"
+    },
+    {
+      "t": "S",
+      "v": "7 ",
+      "n": "Root3Text"
+    },
+    {
+      "t": "S",
+      "v": "Ben _____ ",
+      "n": "Choice6_2Text"
+    },
+    {
+      "t": "S",
+      "v": "10 ",
+      "n": "Root6Text"
+    },
+    {
+      "t": "S",
+      "v": "Super _____ ",
+      "n": "Choice2_4Text"
+    },
+    {
+      "t": "S",
+      "v": "L'océan _____ ",
+      "n": "Choice4_3Text"
+    },
+    {
+      "t": "S",
+      "v": "_____ Cloverfield Lane ",
+      "n": "Choice6_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Furieux _____ ",
+      "n": "Choice3_2Text"
+    },
+    {
+      "t": "S",
+      "v": "_____ Cloverfield Lane ",
+      "n": "Choice5_1Text"
+    },
+    {
+      "s": "C'est un jeu de nombres",
+      "t": "A",
+      "v": "744496_2 ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "J'espère que vous connaissez vos titres de numéros... bonne chance... ",
+      "t": "A",
+      "v": "744497_2 ",
+      "n": "IntroAudio"
+    }
+  ]
+}

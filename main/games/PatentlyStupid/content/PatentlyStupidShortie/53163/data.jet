@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "feu | meubles gonflables | oiseaux ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je suis obsédé par <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je suis totalement obsédé par CECI ! ",
+      "t": "A",
+      "v": "759428_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

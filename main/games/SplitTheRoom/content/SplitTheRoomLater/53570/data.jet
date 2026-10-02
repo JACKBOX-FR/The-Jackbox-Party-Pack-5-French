@@ -1,0 +1,96 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "écouter de la musique | en utilisant la lettre « e » | utiliser vos mains | boire de l'eau en bouteille | en utilisant un micro-onde ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "S+9.72",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "S+5.14",
+      "n": "$ScenarioAudio$ScenarioTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "<BLANK>. ",
+      "n": "ScenarioText3"
+    },
+    {
+      "t": "S",
+      "v": "S+7.20",
+      "n": "$ScenarioAudio$ScenarioTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "Vous avez 72 ans. ",
+      "n": "ScenarioText4"
+    },
+    {
+      "t": "S",
+      "v": "Un fantôme vous prévient d'un nouveau processus de sélection pour l'au-delà. ",
+      "n": "ScenarioText1"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00 ",
+      "n": "$ScenarioAudio$ScenarioTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Le nouveau péché dont ils se méfient est ",
+      "n": "ScenarioText2"
+    },
+    {
+      "t": "S",
+      "v": "S+8.55",
+      "n": "$ScenarioAudio$ScenarioTextCue4"
+    },
+    {
+      "t": "S",
+      "v": "Vous abstenez-vous de cela pour obtenir une place dans un paradis de premier ordre ? ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Le ciel aide-moi ",
+      "t": "A",
+      "v": "Vous abstenez-vous de cela pour obtenir une place dans un paradis de premier ordre ? ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Un fantôme vous prévient d'un nouveau processus de sélection pour l'au-delà. Le nouveau péché dont ils se méfient est CECI. Vous avez 72 ans. Vous abstenez-vous de cela pour avoir une place dans un paradis de premier ordre ? ",
+      "t": "A",
+      "v": "764979_2",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    }
+  ]
+}

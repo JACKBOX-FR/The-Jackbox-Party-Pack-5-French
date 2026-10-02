@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "vieilles chaussettes|insectes morts|tubes de papier toilette ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "J'en ai trop de <BLANK> qui traînent chez moi ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Ma maison est complètement encombrée de CES ! ",
+      "t": "A",
+      "v": "755656_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Les Simpson | air pur | embrasser ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je n’apprécie plus <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : J'ai perdu la capacité d'apprécier CELA ! ",
+      "t": "A",
+      "v": "761607_2",
+      "n": "PromptAudio"
+    }
+  ]
+}

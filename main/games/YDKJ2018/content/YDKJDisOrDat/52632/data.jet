@@ -1,0 +1,245 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion5Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupPoorAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasDisAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion1Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion4Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTimingInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasScoreInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupRockedAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupAwfulAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion7Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasDatAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion6Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion3Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupOutroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupGoodAudio"
+    },
+    {
+      "t": "S",
+      "v": "S+6.40",
+      "n": "$InstructionsAudio$DatTextCue"
+    },
+    {
+      "t": "S",
+      "v": "Oh, des grains entiers ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "GRAINS ENTIER ",
+      "n": "DatButtonText"
+    },
+    {
+      "t": "S",
+      "v": "DIVINITÉ ÉGYPTIENNE ",
+      "n": "DisButtonText"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$InstructionsAudio$BothCue"
+    },
+    {
+      "t": "S",
+      "v": "une divinité égyptienne ",
+      "n": "DisText"
+    },
+    {
+      "t": "S",
+      "v": "un type de grain entier ",
+      "n": "DatText"
+    },
+    {
+      "t": "S",
+      "v": "S+3.98",
+      "n": "$InstructionsAudio$DisTextCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$DisAudio$DisButtonCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$DatAudio$DatButtonCue"
+    },
+    {
+      "s": "Anubis ",
+      "t": "A",
+      "v": "752714_1",
+      "n": "Question5Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "TimingInstructionsAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupOutroAudio"
+    },
+    {
+      "s": "Je vais lire sept choses, et pour chacune d'elles, je veux que vous me disiez s'il s'agit d'une divinité # égyptienne ou d'un # type de grain entier. ",
+      "t": "A",
+      "v": "752709_1",
+      "n": "InstructionsAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ScoreInstructionsAudio"
+    },
+    {
+      "s": "Freekeh ",
+      "t": "A",
+      "v": "752716_1",
+      "n": "Question7Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupPoorAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupRockedAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupAwfulAudio"
+    },
+    {
+      "s": "Osiris ",
+      "t": "A",
+      "v": "752711_1",
+      "n": "Question2Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupGoodAudio"
+    },
+    {
+      "s": "... Divinité égyptienne... ou... ",
+      "t": "A",
+      "v": "752722_1",
+      "n": "DisAudio"
+    },
+    {
+      "s": "Amarante ",
+      "t": "A",
+      "v": "752712_1",
+      "n": "Question3Audio"
+    },
+    {
+      "s": "Oh Wholey Grain et il est temps pour un Dis ou un Dat. ",
+      "t": "A",
+      "v": "752708_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "... grains entiers ",
+      "t": "A",
+      "v": "752723_1",
+      "n": "DatAudio"
+    },
+    {
+      "s": "Teff ",
+      "t": "A",
+      "v": "752713_1",
+      "n": "Question4Audio"
+    },
+    {
+      "s": "Farro ",
+      "t": "A",
+      "v": "752710_1",
+      "n": "Question1Audio"
+    },
+    {
+      "s": "Tefnout ",
+      "t": "A",
+      "v": "752715_1",
+      "n": "Question6Audio"
+    }
+  ]
+}

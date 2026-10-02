@@ -1,0 +1,421 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_6Correct"
+    },
+    {
+      "t": "S",
+      "v": "décortiqueur ",
+      "n": "Choice6_6Text"
+    },
+    {
+      "t": "S",
+      "v": "positions de futbol ",
+      "n": "Root2Text"
+    },
+    {
+      "t": "S",
+      "v": "Moine ",
+      "n": "Choice5_4Text"
+    },
+    {
+      "t": "S",
+      "v": "balayeuse ",
+      "n": "Choice2_3Text"
+    },
+    {
+      "t": "S",
+      "v": "observateur ",
+      "n": "Choice4_2Text"
+    },
+    {
+      "t": "S",
+      "v": "capitaine ",
+      "n": "Choice6_1Text"
+    },
+    {
+      "t": "S",
+      "v": "wompeur ",
+      "n": "Choice3_5Text"
+    },
+    {
+      "t": "S",
+      "v": "demi de coin ",
+      "n": "Choice1_6Text"
+    },
+    {
+      "t": "S",
+      "v": "postes de football ",
+      "n": "Root1Text"
+    },
+    {
+      "t": "S",
+      "v": "premier compagnon ",
+      "n": "Choice6_5Text"
+    },
+    {
+      "t": "S",
+      "v": "milieu défensif ",
+      "n": "Choice2_6Text"
+    },
+    {
+      "t": "S",
+      "v": "électricien ",
+      "n": "Choice4_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Une partie de l'équipe ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "bouchon ",
+      "n": "Choice2_2Text"
+    },
+    {
+      "t": "S",
+      "v": "roi des accessoires ",
+      "n": "Choice4_6Text"
+    },
+    {
+      "t": "S",
+      "v": "quart-arrière ",
+      "n": "Choice1_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Chevalier ",
+      "n": "Choice5_3Text"
+    },
+    {
+      "t": "S",
+      "v": "secondeur ",
+      "n": "Choice1_5Text"
+    },
+    {
+      "t": "S",
+      "v": "chercheur ",
+      "n": "Choice3_4Text"
+    },
+    {
+      "t": "S",
+      "v": "centre ",
+      "n": "Choice1_3Text"
+    },
+    {
+      "t": "S",
+      "v": "poignée de clé ",
+      "n": "Choice4_4Text"
+    },
+    {
+      "t": "S",
+      "v": "gardien offensif ",
+      "n": "Choice2_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Cours « Donjons & Dragons » ",
+      "n": "Root5Text"
+    },
+    {
+      "t": "S",
+      "v": "équipe de tournage ",
+      "n": "Root4Text"
+    },
+    {
+      "t": "S",
+      "v": "meilleur garçon ",
+      "n": "Choice4_5Text"
+    },
+    {
+      "t": "S",
+      "v": "bloqueur ",
+      "n": "Choice2_1Text"
+    },
+    {
+      "t": "S",
+      "v": "maître d'équipage ",
+      "n": "Choice6_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Barde ",
+      "n": "Choice5_6Text"
+    },
+    {
+      "t": "S",
+      "v": "joueur de champ droit ",
+      "n": "Choice1_4Text"
+    },
+    {
+      "t": "S",
+      "v": "gardien ",
+      "n": "Choice3_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Paladin ",
+      "n": "Choice5_2Text"
+    },
+    {
+      "t": "S",
+      "v": "chasseur ",
+      "n": "Choice3_1Text"
+    },
+    {
+      "t": "S",
+      "v": "batteur ",
+      "n": "Choice3_6Text"
+    },
+    {
+      "t": "S",
+      "v": "milieu ",
+      "n": "Choice1_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Médecin ",
+      "n": "Choice5_5Text"
+    },
+    {
+      "t": "S",
+      "v": "postes de quidditch ",
+      "n": "Root3Text"
+    },
+    {
+      "t": "S",
+      "v": "en-tête ",
+      "n": "Choice6_2Text"
+    },
+    {
+      "t": "S",
+      "v": "équipage du navire ",
+      "n": "Root6Text"
+    },
+    {
+      "t": "S",
+      "v": "observateur ",
+      "n": "Choice2_4Text"
+    },
+    {
+      "t": "S",
+      "v": "meilleur homme ",
+      "n": "Choice4_3Text"
+    },
+    {
+      "t": "S",
+      "v": "observateur ",
+      "n": "Choice6_3Text"
+    },
+    {
+      "t": "S",
+      "v": "creuseur ",
+      "n": "Choice3_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Combattant ",
+      "n": "Choice5_1Text"
+    },
+    {
+      "s": "Une partie de l'équipe ",
+      "t": "A",
+      "v": "748536_1 ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "J'espère que vous savez quels titres officiels appartiennent à quelles équipes. Bonne chance... ",
+      "t": "A",
+      "v": "748537_1 ",
+      "n": "IntroAudio"
+    }
+  ]
+}

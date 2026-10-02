@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "publicités hypothécaires inversées | perte de cheveux | vieillir à l'envers ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je déteste vieillir à cause de <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je déteste vieillir, surtout à cause de CELA ! ",
+      "t": "A",
+      "v": "766439_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

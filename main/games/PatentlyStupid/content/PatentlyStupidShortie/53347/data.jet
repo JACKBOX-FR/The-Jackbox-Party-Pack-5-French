@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "école supérieure | dormir sur un lit de clous | danser aux mariages ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "J'ai peur de commencer <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : J'ai tout simplement trop peur pour commencer CECI ! ",
+      "t": "A",
+      "v": "761473_2",
+      "n": "PromptAudio"
+    }
+  ]
+}

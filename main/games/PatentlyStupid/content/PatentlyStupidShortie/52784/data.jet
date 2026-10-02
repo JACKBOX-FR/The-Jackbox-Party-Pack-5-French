@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "les pieds qui sentent mauvais|la longue attente|le prix ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je déteste voler à cause de <BLANK>. ",
+      "n": "PromptText"
+    },
+    {
+      "s": "PHIL : Je déteste voler à cause de CELA ! ",
+      "t": "A",
+      "v": "754853_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

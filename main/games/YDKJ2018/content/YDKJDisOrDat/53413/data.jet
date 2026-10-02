@@ -1,0 +1,245 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion5Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupPoorAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasDisAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion1Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion4Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTimingInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasScoreInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupRockedAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupAwfulAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion7Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasDatAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion6Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion3Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupOutroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupGoodAudio"
+    },
+    {
+      "t": "S",
+      "v": "S+8.20",
+      "n": "$InstructionsAudio$DatTextCue"
+    },
+    {
+      "t": "S",
+      "v": "Je dois tous les éviter ! ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "AUSTRALIE ",
+      "n": "DatButtonText"
+    },
+    {
+      "t": "S",
+      "v": "POKÉMON ",
+      "n": "DisButtonText"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$InstructionsAudio$BothCue"
+    },
+    {
+      "t": "S",
+      "v": "un Pokémon ",
+      "n": "DisText"
+    },
+    {
+      "t": "S",
+      "v": "un véritable animal que vous pouvez trouver en Australie aujourd'hui ",
+      "n": "DatText"
+    },
+    {
+      "t": "S",
+      "v": "S+6.25",
+      "n": "$InstructionsAudio$DisTextCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$DisAudio$DisButtonCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$DatAudio$DatButtonCue"
+    },
+    {
+      "s": "un chien de 6 pieds de haut que vous pouvez monter ",
+      "t": "A",
+      "v": "762046_2",
+      "n": "Question5Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "TimingInstructionsAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupOutroAudio"
+    },
+    {
+      "s": "Je vais vous lire sept descriptions alarmantes, et pour chacune, je veux que vous me disiez si je parle d'un Pokémon OU d'un véritable animal que vous pouvez trouver en Australie aujourd'hui. ",
+      "t": "A",
+      "v": "762041_1",
+      "n": "InstructionsAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ScoreInstructionsAudio"
+    },
+    {
+      "s": "un chat qui imite la parole humaine ",
+      "t": "A",
+      "v": "762048_1",
+      "n": "Question7Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupPoorAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupRockedAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupAwfulAudio"
+    },
+    {
+      "s": "un oiseau qui canalise l'électricité ",
+      "t": "A",
+      "v": "762043_1",
+      "n": "Question2Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupGoodAudio"
+    },
+    {
+      "s": "...un Pokémon...ou... ",
+      "t": "A",
+      "v": "762054_1",
+      "n": "DisAudio"
+    },
+    {
+      "s": "une pieuvre paralysante couverte d'anneaux ",
+      "t": "A",
+      "v": "762044_1",
+      "n": "Question3Audio"
+    },
+    {
+      "s": "Je dois tous les éviter et me préparer aux ennuis car c'est un Dis ou Dat ! ",
+      "t": "A",
+      "v": "762040_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "...un animal australien. ",
+      "t": "A",
+      "v": "762055_1",
+      "n": "DatAudio"
+    },
+    {
+      "s": "un rongeur planeur avec des pouces ",
+      "t": "A",
+      "v": "762045_1",
+      "n": "Question4Audio"
+    },
+    {
+      "s": "un petit dragon couvert d'épines ",
+      "t": "A",
+      "v": "762042_1",
+      "n": "Question1Audio"
+    },
+    {
+      "s": "une créature à bec de canard et aux pattes venimeuses ",
+      "t": "A",
+      "v": "762047_1",
+      "n": "Question6Audio"
+    }
+  ]
+}

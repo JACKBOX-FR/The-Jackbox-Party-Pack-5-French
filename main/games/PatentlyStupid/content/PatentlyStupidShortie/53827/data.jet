@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "chasser | patin à roulettes | plongée en haute mer ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je veux <BLANK> avec ma famille ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je veux faire CECI avec ma famille ! ",
+      "t": "A",
+      "v": "767579_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

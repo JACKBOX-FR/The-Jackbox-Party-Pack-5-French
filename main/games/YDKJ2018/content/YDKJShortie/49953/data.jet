@@ -1,0 +1,142 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "une toute nouvelle Tesla ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "2,1,0,3 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Si Old Spice sortait un déodorant au musc d’Elon Musk, quelle odeur aurait-il ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Patron des fosses ",
+      "t": "A",
+      "v": "713993_7",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Préparez-vous à perdre beaucoup d'argent. ",
+      "t": "A",
+      "v": "714005_1",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "713996_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "Avec Amazon Prime, vous auriez pu vous tromper deux jours plus vite. ",
+      "t": "A",
+      "v": "714003_1",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "Quelqu'un a créé une application... et non, je ne suis pas fier de cette blague, mais nous avons beaucoup de jeu à remplir ici. ",
+      "t": "A",
+      "v": "714001_3",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Elon Musk est le PDG de la société automobile Tesla. ",
+      "t": "A",
+      "v": "713998_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Et pour ma part, je suis favorable aux voitures sans conducteur, car c’est dans les voitures que je suis le plus souvent soumis à l’odeur corporelle des autres. ",
+      "t": "A",
+      "v": "713999_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "If Old Spice came out with a deodorant with an Elon Musk musk, what would it smell like?",
+      "t": "A",
+      "v": "713995_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

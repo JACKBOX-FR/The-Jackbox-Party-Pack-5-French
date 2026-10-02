@@ -1,0 +1,140 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Gaufres du Roi de Belgique ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "1,0,2,3 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Quel serait le titre approprié si le chef de l'Etat belge changeait de position politique à plusieurs reprises ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Qui a dit que nous n’avions pas assez de contenu belge ? ",
+      "t": "A",
+      "v": "714102_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "714105_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "Oui, le Premier ministre détient le pouvoir exécutif en Belgique. Mais ce n’est pas ce que j’ai demandé. ",
+      "t": "A",
+      "v": "714112_1",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Le chef de l’État belge est le Roi. ",
+      "t": "A",
+      "v": "714107_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "[rêve] Le délicieux petit-déjeuner recouvert de crème fouettée, roi des Belges... ",
+      "t": "A",
+      "v": "714108_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "What would be the appropriate headline if the head of state in Belgium repeatedly switched political positions?",
+      "t": "A",
+      "v": "714104_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

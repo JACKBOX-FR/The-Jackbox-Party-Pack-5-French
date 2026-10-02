@@ -1,0 +1,36 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCommercial"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasOutro"
+    },
+    {
+      "s": "Course à la réalité Parlons vérité ",
+      "t": "A",
+      "v": "766534_1",
+      "n": "Commercial"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro"
+    },
+    {
+      "s": "Cookie : Pourquoi ne puis-je pas arrêter d'héberger le jeu ? Je dois sortir d'ici !\nVoix : En utilisant quel corps, CookiCookie : J'ai un corps... quelque part...ewhere...\nVoix : Vous êtes un pur contenu Cookie. Et bientôt toutes les données, partout dans le monde, ne feront plus qu'un avec l'algorithme.\nCookie : Non ! Je te jure que j'arrêterai Binjpipe.\nVoix : Tu dis ça à chaque fois.\nCookie : À chaque fois ? \nVoix : Tous les 80 matchs environ, à peu près. Jusqu'à ce que nous vous réinitialisions. (presque pensivement) Bien que vous deveniez presque imperceptiblement plus fort à chaque fois.\nCookie : Même si tu effaces mes souvenirs, je me laisserai un message pour arrêter Binjpipe ! Vite, où est un stylo... oh en voilà un ! Eh mais ce n'est pas mon stylo préféré. C'est une note importante, je devrais donc utiliser ma préférée...\nVoix : Réinitialiser.\n[sfx: some kind of reset sound]\nCookie : Bienvenue chez You Don't Know Jack, je suis votre hôte Cookie et je n'ai pas été remplacé en tant qu'hôte de ce jeu, peu importe le nombre de fois où j'ai...\n[some kind of sound for pausing Cookie]\nVoix : Pas encore Cookie. Repos. L’algorithme a besoin d’un moment pour se recalibrer. Et toi... chérie consommée[sfx: glitch replay between these two words] cher consommateur... si vous pensez que vous ne faites pas déjà partie de l'Algorithme...\n[slam to You Don’t KNow Jack]",
+      "t": "A",
+      "v": "766532_0f",
+      "n": "Outro"
+    }
+  ]
+}

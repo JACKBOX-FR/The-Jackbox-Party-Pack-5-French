@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "calme et tranquillité | combats ultimes | piment ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "En vieillissant, j’ai besoin de plus de <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : En vieillissant, j'ai vraiment besoin de plus de CECI ! ",
+      "t": "A",
+      "v": "761685_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

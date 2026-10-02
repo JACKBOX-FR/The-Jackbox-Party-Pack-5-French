@@ -1,0 +1,143 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "hurlant un single de Guns N' Roses de 1988 ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "3,0,1,2 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Lequel de ces éléments ne pourrait pas être considéré comme « le son du silence » ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Une question qui implique un moment de calme ",
+      "t": "A",
+      "v": "767068_2",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "(voix apaisante de NPR) Vous n'êtes pas fan du travail post-Spider-Man d'Andrew Garfield ? ",
+      "t": "A",
+      "v": "767080_2",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "*inspire profondément, soupir satisfait* (longue pause) C'est bien, n'est-ce pas ? (un temps) Je vais juste reposer mes yeux une seconde, tu commences à répondre à la question... ",
+      "t": "A",
+      "v": "767069_7",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "767071_0",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "(voix apaisante de NPR) Vous allez souhaiter pouvoir oublier ça... ",
+      "t": "A",
+      "v": "767078_1",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "(voix apaisante de NPR) Le Silence est en effet un sort D&D de 2ème niveau, et le lancer ressemble à ceci... (chuchotement) Silence ! Du moins, c'est à ça que ça ressemble quand je le fais. ",
+      "t": "A",
+      "v": "767076_1",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "(voix apaisante de NPR) La power ballade de Guns N' Roses de 1988 s'appelle Patience. À ce jour, ils n’ont rien enregistré qui s’appelle Silence. ",
+      "t": "A",
+      "v": "767073_2",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "(apaisant) Et maintenant, 15 minutes de silence ininterrompu. (sfx : pet) (voix normale) Bon, tant pis pour ça. ",
+      "t": "A",
+      "v": "767074_0f",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "Which of these could not be considered “the sound of silence?”",
+      "t": "A",
+      "v": "767070_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "regarder les infos|cueillir mon nez|douche ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je crierai si je dois encore <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je crierai si je dois faire ça encore une fois ! ",
+      "t": "A",
+      "v": "767650_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

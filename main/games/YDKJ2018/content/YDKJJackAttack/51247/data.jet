@@ -1,0 +1,421 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_6Correct"
+    },
+    {
+      "t": "S",
+      "v": "Autriche ",
+      "n": "Choice6_6Text"
+    },
+    {
+      "t": "S",
+      "v": "...un groupe ",
+      "n": "Root2Text"
+    },
+    {
+      "t": "S",
+      "v": "Irlande ",
+      "n": "Choice5_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Amérique ",
+      "n": "Choice2_3Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Madagascar</i> ",
+      "n": "Choice4_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Turquie ",
+      "n": "Choice6_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Russie ",
+      "n": "Choice3_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Australie ",
+      "n": "Choice1_6Text"
+    },
+    {
+      "t": "S",
+      "v": "...une île. ",
+      "n": "Root1Text"
+    },
+    {
+      "t": "S",
+      "v": "Maroc ",
+      "n": "Choice6_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Beyrouth ",
+      "n": "Choice2_6Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Grèce</i> ",
+      "n": "Choice4_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Un vrai pays et... ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "Asie",
+      "n": "Choice2_2Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Australie</i> ",
+      "n": "Choice4_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Japon ",
+      "n": "Choice1_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Chine ",
+      "n": "Choice5_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Cambodge ",
+      "n": "Choice1_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Malaisie ",
+      "n": "Choice3_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Islande ",
+      "n": "Choice1_3Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Alaska</i> ",
+      "n": "Choice4_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Europe ",
+      "n": "Choice2_5Text"
+    },
+    {
+      "t": "S",
+      "v": "...une attraction du Epcot Center ",
+      "n": "Root5Text"
+    },
+    {
+      "t": "S",
+      "v": "...un film ",
+      "n": "Root4Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Afrique</i> ",
+      "n": "Choice4_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Chicago ",
+      "n": "Choice2_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Bélize ",
+      "n": "Choice6_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Australie ",
+      "n": "Choice5_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Cuba ",
+      "n": "Choice1_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Kazakhstan ",
+      "n": "Choice3_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Mexique ",
+      "n": "Choice5_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Thaïlande ",
+      "n": "Choice3_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Sri Lanka ",
+      "n": "Choice3_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Espagne ",
+      "n": "Choice1_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Amérique ",
+      "n": "Choice5_5Text"
+    },
+    {
+      "t": "S",
+      "v": ".... touche la Chine ",
+      "n": "Root3Text"
+    },
+    {
+      "t": "S",
+      "v": "Suède ",
+      "n": "Choice6_2Text"
+    },
+    {
+      "t": "S",
+      "v": "...est correctement orthographié ",
+      "n": "Root6Text"
+    },
+    {
+      "t": "S",
+      "v": "Japon ",
+      "n": "Choice2_4Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Brésil</i> ",
+      "n": "Choice4_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Rawanda ",
+      "n": "Choice6_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Mongolie ",
+      "n": "Choice3_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Egypte ",
+      "n": "Choice5_1Text"
+    },
+    {
+      "s": "Un vrai pays et... ",
+      "t": "A",
+      "v": "732878_1 ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Toutes les réponses sont de vrais pays… et autre chose… bonne chance… ",
+      "t": "A",
+      "v": "732879_1 ",
+      "n": "IntroAudio"
+    }
+  ]
+}

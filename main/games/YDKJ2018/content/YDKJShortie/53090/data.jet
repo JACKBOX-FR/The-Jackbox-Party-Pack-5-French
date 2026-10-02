@@ -1,0 +1,171 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "DATAMINING",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+10.16",
+      "n": "$QuestionAudio$QuestionTextCue4"
+    },
+    {
+      "t": "S",
+      "v": "De qui avons-nous acquis l’historique de recherche ? ",
+      "n": "QuestionText4"
+    },
+    {
+      "t": "S",
+      "v": "\"Où dois-je aller lors de mon <i>Girls Trip</i> pour trouver ces célibataires insaisissables ?\"<br> ",
+      "n": "QuestionText3"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00 ",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Reine Latifah ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "S+2.53",
+      "n": "$QuestionAudio$QuestionTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "S+5.50",
+      "n": "$QuestionAudio$QuestionTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "1,2,0,3",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "“Any <i>Living Single</i>s in my area?”<br>",
+      "n": "QuestionText2"
+    },
+    {
+      "t": "S",
+      "v": "Before",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "“Any hot singles in <i>Chicago</i>?”<br>",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Type = { Femme, Artiste } ",
+      "t": "A",
+      "v": "758682_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Cookie : Binjpipe fait un effort supplémentaire en apprenant à vous connaître grâce à vos informations personnelles. \nVoice : Mais nous en avons tellement que nous avons besoin d'aide pour identifier les données de nos utilisateurs les plus célèbres... ",
+      "t": "A",
+      "v": "758683_2",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "758685_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "Sykes!",
+      "t": "A",
+      "v": "758692_1",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Cookie: Queen Latifah starred in Chicago and Girls Trip and was the lead character in the sitcom Living Single.",
+      "t": "A",
+      "v": "758687_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Voice: Queen Latifah does not actually hold royal power, it’s just a name like Dr. Pepper or the Binjpipe Privacy Agreement.",
+      "t": "A",
+      "v": "758688_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "“Any hot singles in <i>Chicago</i>?”“Any <i>Living Single</i>s in my area?”Where should I go on my <i>Girls Trip</i> to find these elusive singles?“ Who’s search history have we acquired?",
+      "t": "A",
+      "v": "758684_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

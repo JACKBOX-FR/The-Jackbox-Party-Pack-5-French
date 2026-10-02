@@ -1,0 +1,140 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "la première combinaison spatiale ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "2,0,3,1 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Qu'est-ce que la société de sous-vêtements Playtex a contribué à créer ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Une question musicale sur le délicat ",
+      "t": "A",
+      "v": "744936_0",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "[en chanson, une ambiance bavarde/chantante super Music Man-esque avec les habitants de la ville]\nCookie : Voici une question\nChœur de dames : Place à la question !\nCookie : Une question arrive sur la piste.\nChœur de dames : Choo choo ! Choo choo !\nCookie : Êtes-vous prêt à répondre à la question ?\nChœurs de dames : Prêtes à répondre à une question !\nCookie : Alors je dois être celui qui, en ce moment, doit simplement aaaademander : ",
+      "t": "A",
+      "v": "744937_1f",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "744939_0",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Playtex a conçu la combinaison spatiale portée lors de la première mission Apollo. ",
+      "t": "A",
+      "v": "744941_2",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Mesdames du chœur : Voici la question !\nCookie (parlant régulièrement) : Non, c'était tout, mesdames. As-tu besoin de te ramener à la maison ? ",
+      "t": "A",
+      "v": "744942_0f",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "What did the underwear company Playtex help make?",
+      "t": "A",
+      "v": "744938_7",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,421 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_6Correct"
+    },
+    {
+      "t": "S",
+      "v": "Yao Ming ",
+      "n": "Choice6_6Text"
+    },
+    {
+      "t": "S",
+      "v": "sondes spatiales ",
+      "n": "Root2Text"
+    },
+    {
+      "t": "S",
+      "v": "USS Ténèbres ",
+      "n": "Choice5_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Galilée ",
+      "n": "Choice2_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Apollon ",
+      "n": "Choice4_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Joe Meriweather ",
+      "n": "Choice6_1Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Gardiens de la Galaxie</i> ",
+      "n": "Choice3_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Destructeur d'étoiles ",
+      "n": "Choice1_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Navires Star Wars ",
+      "n": "Root1Text"
+    },
+    {
+      "t": "S",
+      "v": "Geordi La Forge ",
+      "n": "Choice6_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Rosette ",
+      "n": "Choice2_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Aigle ",
+      "n": "Choice4_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Le vaisseau spatial arrive ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "Archimède ",
+      "n": "Choice2_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Garfield ",
+      "n": "Choice4_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Aile Y ",
+      "n": "Choice1_1Text"
+    },
+    {
+      "t": "S",
+      "v": "USS Voyageur ",
+      "n": "Choice5_3Text"
+    },
+    {
+      "t": "S",
+      "v": "X-Wing ",
+      "n": "Choice1_5Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Blade Runner</i> ",
+      "n": "Choice3_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Faucon Millenium ",
+      "n": "Choice1_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Intrépide ",
+      "n": "Choice4_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Voyageur 5 ",
+      "n": "Choice2_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Vaisseaux Star Trek ",
+      "n": "Root5Text"
+    },
+    {
+      "t": "S",
+      "v": "modules lunaires ",
+      "n": "Root4Text"
+    },
+    {
+      "t": "S",
+      "v": "Snoopy ",
+      "n": "Choice4_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Voyageur 1 ",
+      "n": "Choice2_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Moïse Malone ",
+      "n": "Choice6_4Text"
+    },
+    {
+      "t": "S",
+      "v": "USS Découverte ",
+      "n": "Choice5_6Text"
+    },
+    {
+      "t": "S",
+      "v": "AT-AT ",
+      "n": "Choice1_4Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Avatar</i> ",
+      "n": "Choice3_3Text"
+    },
+    {
+      "t": "S",
+      "v": "USS Klingon ",
+      "n": "Choice5_2Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Guerres des étoiles</i> ",
+      "n": "Choice3_1Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Alien</i> ",
+      "n": "Choice3_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Entreprise ",
+      "n": "Choice1_2Text"
+    },
+    {
+      "t": "S",
+      "v": "USS au-delà ",
+      "n": "Choice5_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Les « véhicules » spatiaux de Zoe Saldana ",
+      "n": "Root3Text"
+    },
+    {
+      "t": "S",
+      "v": "Hakeem Olajuwon ",
+      "n": "Choice6_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Rockets de Houston ",
+      "n": "Root6Text"
+    },
+    {
+      "t": "S",
+      "v": "Junon ",
+      "n": "Choice2_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Découverte ",
+      "n": "Choice4_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Mon Mothma ",
+      "n": "Choice6_3Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Star Trek</i> ",
+      "n": "Choice3_2Text"
+    },
+    {
+      "t": "S",
+      "v": "USS Entreprise ",
+      "n": "Choice5_1Text"
+    },
+    {
+      "s": "Le vaisseau spatial arrive ",
+      "t": "A",
+      "v": "749527_1 ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Déterminez à quoi conviennent les véhicules à carénage spatial. Bonne chance... ",
+      "t": "A",
+      "v": "749528_1 ",
+      "n": "IntroAudio"
+    }
+  ]
+}

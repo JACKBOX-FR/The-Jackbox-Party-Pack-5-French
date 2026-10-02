@@ -1,0 +1,245 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion5Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupPoorAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasDisAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion1Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion4Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTimingInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasScoreInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupRockedAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupAwfulAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion7Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasDatAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion6Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion3Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupOutroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupGoodAudio"
+    },
+    {
+      "t": "S",
+      "v": "S+6.34",
+      "n": "$InstructionsAudio$DatTextCue"
+    },
+    {
+      "t": "S",
+      "v": "<i>Argo</i> Sortez avec moi ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "FILM DE BEN AFFLECK ",
+      "n": "DatButtonText"
+    },
+    {
+      "t": "S",
+      "v": "LIVRE DE CONSEILS DE RENCONTRE ",
+      "n": "DisButtonText"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$InstructionsAudio$BothCue"
+    },
+    {
+      "t": "S",
+      "v": "un livre de conseils de rencontres populaire pour les femmes ",
+      "n": "DisText"
+    },
+    {
+      "t": "S",
+      "v": "un film avec Ben Affleck ",
+      "n": "DatText"
+    },
+    {
+      "t": "S",
+      "v": "S+3.44",
+      "n": "$InstructionsAudio$DisTextCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$DisAudio$DisButtonCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$DatAudio$DatButtonCue"
+    },
+    {
+      "s": "La troisième roue ",
+      "t": "A",
+      "v": "751650_1",
+      "n": "Question5Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "TimingInstructionsAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupOutroAudio"
+    },
+    {
+      "s": "Je vais énumérer plusieurs titres et vous me direz s'il s'agit # d'un livre de conseils en matière de rencontres populaire pour les femmes ou # d'un film mettant en vedette Ben Affleck ou # des deux. ",
+      "t": "A",
+      "v": "751645_1",
+      "n": "InstructionsAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ScoreInstructionsAudio"
+    },
+    {
+      "s": "Obtenez le gars ",
+      "t": "A",
+      "v": "751652_2",
+      "n": "Question7Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupPoorAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupRockedAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupAwfulAudio"
+    },
+    {
+      "s": "Changer de voie ",
+      "t": "A",
+      "v": "751647_3",
+      "n": "Question2Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupGoodAudio"
+    },
+    {
+      "s": "... livre de conseils de rencontres... ou... ",
+      "t": "A",
+      "v": "751658_1",
+      "n": "DisAudio"
+    },
+    {
+      "s": "Aller jusqu'au bout ",
+      "t": "A",
+      "v": "751648_1",
+      "n": "Question3Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "751644_3",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "...Ben Affleck Film ",
+      "t": "A",
+      "v": "751659_1",
+      "n": "DatAudio"
+    },
+    {
+      "s": "Les nouvelles règles ",
+      "t": "A",
+      "v": "751649_1",
+      "n": "Question4Audio"
+    },
+    {
+      "s": "Agissez comme une dame, pensez comme un homme ",
+      "t": "A",
+      "v": "751646_3",
+      "n": "Question1Audio"
+    },
+    {
+      "s": "Il n'est tout simplement pas intéressé par toi ",
+      "t": "A",
+      "v": "751651_2",
+      "n": "Question6Audio"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "mariages | ma chemise | le moment ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je continue de ruiner <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je suis toujours en train de gâcher CECI ! ",
+      "t": "A",
+      "v": "767123_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

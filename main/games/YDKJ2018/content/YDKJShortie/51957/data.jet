@@ -1,0 +1,150 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "\"...pneumatique.\" ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "S+2,74 ",
+      "n": "$QuestionAudio$QuestionTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "1,0,3,2 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Je les aime parce qu'ils sont...\"",
+      "n": "QuestionText2"
+    },
+    {
+      "t": "S",
+      "v": "Before",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "“It’s true that I’m an air horn addict.",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Une question sur les klaxons pneumatiques ",
+      "t": "A",
+      "v": "742521_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "J'ai écrit un poème sur les klaxons à air et vous pouvez m'aider avec la fin. ",
+      "t": "A",
+      "v": "742522_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "742524_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Air horns are pneumatic devices, meaning they use compressed air.",
+      "t": "A",
+      "v": "742526_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Compressed air is also what...I call the air coming from my {AIR HORN SFX}. Sorry. I had to get at least one in there.",
+      "t": "A",
+      "v": "742527_0f",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "“It’s true that I’m an air horn addict.  I love them because they are...”",
+      "t": "A",
+      "v": "742523_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

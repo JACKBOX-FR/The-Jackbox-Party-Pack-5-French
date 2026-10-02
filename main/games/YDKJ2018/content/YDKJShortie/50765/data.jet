@@ -1,0 +1,141 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "<i>FHS : Opéra Fantôme</i> ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "3,0,2,1 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Que serait un sous-titre géographiquement précis si FX réalisait un spin-off de <i>American Horror Story</i> appelé <i>French Horror Story</i> ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Crier pour Merci ",
+      "t": "A",
+      "v": "726426_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "C'est Vivant ! [SFX : Thunder crash] mais votre score est en train de mourir ",
+      "t": "A",
+      "v": "726438_0f",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "726429_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "Tout à coup, cela est devenu très moche. ",
+      "t": "A",
+      "v": "726434_2",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Le Fantôme de l'Opéra a été initialement publié par l'auteur français Gaston Leroux en 1909. ",
+      "t": "A",
+      "v": "726431_3",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Je regarderais French Horror Story juste dans l’espoir de voir un bidet hanté. ",
+      "t": "A",
+      "v": "726432_3",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "What would be a geographically accurate subtitle if FX did a spin-off of <i>American Horror Story</i> called <i>French Horror Story</i>?",
+      "t": "A",
+      "v": "726428_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

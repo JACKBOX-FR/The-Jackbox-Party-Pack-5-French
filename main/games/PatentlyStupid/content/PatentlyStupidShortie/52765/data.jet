@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "disco|embrasser|la lune ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "J'en ai marre d'entendre parler de <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : On dirait que nous parlons toujours de CECI ! ",
+      "t": "A",
+      "v": "754681_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

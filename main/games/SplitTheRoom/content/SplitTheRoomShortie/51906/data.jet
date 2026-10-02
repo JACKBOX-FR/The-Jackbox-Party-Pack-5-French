@@ -1,1 +1,76 @@
-{"fields":[{"t":"B","v":"true","n":"HasScenarioAudio"},{"t":"B","v":"true","n":"HasCategoryAudio"},{"t":"B","v":"false","n":"HasResponseAudio"},{"t":"S","v":"strip naked | kiss 5 people | chug nacho cheese | quit their job | insult a senior","n":"Decoys"},{"t":"S","v":"S+11.41","n":"$ScenarioAudio$QuestionTextCue"},{"t":"S","v":"","n":"Keywords"},{"t":"S","v":"Le fais-tu ?","n":"QuestionText"},{"s":"A Jumbo Choice","t":"A","v":"741783_1","n":"CategoryAudio"},{"s":"During a work outing at a basketball game, the jumbotron suddenly zooms in on your section and says $1000 goes to the first person to do this.  You are sitting next to your boss.  Do you do it?","t":"A","v":"741784_3","n":"ScenarioAudio"},{"s":"","t":"A","n":"ResponseAudio"},{"n":"ScenarioText1","v":"Au cours d'une sortie professionnelle lors d'un match de basket-ball, le téléviseur fait soudain un zoom sur votre section et annonce que 1 000 € seront versés à la première personne qui <BLANK>.","t":"S"},{"n":"$ScenarioAudio$ScenarioTextCue1","v":"S+0.00","t":"S"},{"n":"ScenarioText2","v":"Tu es assis à côté de ton patron.","t":"S"},{"n":"$ScenarioAudio$ScenarioTextCue2","v":"S+9.67","t":"S"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "se déshabiller | embrasser 5 personnes | gorgée de fromage nacho | quitter leur emploi | insulter une personne âgée ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "S+11.41",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "Le fais-tu ?",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Un choix géant ",
+      "t": "A",
+      "v": "741783_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Lors d'une sortie de travail lors d'un match de basket-ball, le jumbotron zoome soudainement sur votre section et dit que 1 000 $ iront à la première personne qui le fera. Vous êtes assis à côté de votre patron. Le faites-vous ? ",
+      "t": "A",
+      "v": "741784_3",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    },
+    {
+      "n": "ScenarioText1",
+      "v": "Au cours d'une sortie professionnelle lors d'un match de basket-ball, le téléviseur fait soudain un zoom sur votre section et annonce que 1 000 € seront versés à la première personne qui <BLANK>.",
+      "t": "S"
+    },
+    {
+      "n": "$ScenarioAudio$ScenarioTextCue1",
+      "v": "S+0.00",
+      "t": "S"
+    },
+    {
+      "n": "ScenarioText2",
+      "v": "Tu es assis à côté de ton patron.",
+      "t": "S"
+    },
+    {
+      "n": "$ScenarioAudio$ScenarioTextCue2",
+      "v": "S+9.67",
+      "t": "S"
+    }
+  ]
+}

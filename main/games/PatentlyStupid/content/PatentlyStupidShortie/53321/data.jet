@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "yaourt aqueux | le cycle de l'information de 24 heures | les pieds de ma femme ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je suis dégoûté par <BLANK>. ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je suis tellement dégoûté par CECI ! ",
+      "t": "A",
+      "v": "761166_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

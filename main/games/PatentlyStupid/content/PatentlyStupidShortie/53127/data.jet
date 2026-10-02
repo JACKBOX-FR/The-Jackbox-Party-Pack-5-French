@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "rendez-vous chez le dentiste | coupe de cheveux terrible | une meute de loups me suit ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je dois comparaître au tribunal, mais j'ai un <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je dois aller au tribunal, mais j'ai aussi CECI ! ",
+      "t": "A",
+      "v": "759045_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "S",
+      "v": "Une chose simple à faire... ",
+      "n": "Clue1Text"
+    },
+    {
+      "t": "S",
+      "v": "...en fait, c'est un régal. ",
+      "n": "Clue2Text"
+    },
+    {
+      "t": "S",
+      "v": "C'est du gâteau. ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "c'est un morceau de gâteau, c'est un morceau de gâteau, c'est une paix de gâteau, c'est une paix un gâteau ",
+      "n": "Acceptable"
+    },
+    {
+      "t": "S",
+      "v": "C'est une tranche de nourriture d'anniversaire. ",
+      "n": "Clue3Text"
+    },
+    {
+      "t": "S",
+      "v": "Dites-le, ne le vaporisez pas ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "Crache la nièce, \"Dove Lake!\" ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Une chose simple à faire... ",
+      "t": "A",
+      "v": "742926_1",
+      "n": "Clue1Audio"
+    },
+    {
+      "s": "Dites-le, ne le vaporisez pas ",
+      "t": "A",
+      "v": "742921_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "C'est une tranche de nourriture d'anniversaire. ",
+      "t": "A",
+      "v": "742928_1",
+      "n": "Clue3Audio"
+    },
+    {
+      "s": "Regardez la phrase charabia suivante et dites-moi avec quelle expression courante elle rime. ",
+      "t": "A",
+      "v": "742922_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "OutroAudio"
+    },
+    {
+      "s": "...en fait, c'est un régal. ",
+      "t": "A",
+      "v": "742927_1",
+      "n": "Clue2Audio"
+    },
+    {
+      "s": "Crache la nièce, \"Dove Lake!\" ",
+      "t": "A",
+      "v": "742923_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

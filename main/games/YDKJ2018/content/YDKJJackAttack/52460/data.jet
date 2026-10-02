@@ -1,0 +1,421 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_6Correct"
+    },
+    {
+      "t": "S",
+      "v": "Lagon des Sirènes ",
+      "n": "Choice6_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Cercle Antarctique ",
+      "n": "Root2Text"
+    },
+    {
+      "t": "S",
+      "v": "le \"prier\" dans <i>Manger, prier, aimer</i> ",
+      "n": "Choice5_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Le corps de Dracula ",
+      "n": "Choice2_3Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Aladdin</i> ",
+      "n": "Choice4_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Rocher du crâne ",
+      "n": "Choice6_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Mont Kilimandjaro ",
+      "n": "Choice3_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Le corps du Dr Frankenstein ",
+      "n": "Choice1_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Cercle Arctique",
+      "n": "Root1Text"
+    },
+    {
+      "t": "S",
+      "v": "Ville de garçons ",
+      "n": "Choice6_5Text"
+    },
+    {
+      "t": "S",
+      "v": "un McDonald's ",
+      "n": "Choice2_6Text"
+    },
+    {
+      "t": "S",
+      "v": "cobras ",
+      "n": "Choice4_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Je connais la zone générale ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "pingouins ",
+      "n": "Choice2_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Bollywood ",
+      "n": "Choice4_6Text"
+    },
+    {
+      "t": "S",
+      "v": "ours polaires ",
+      "n": "Choice1_1Text"
+    },
+    {
+      "t": "S",
+      "v": "lamas ",
+      "n": "Choice5_3Text"
+    },
+    {
+      "t": "S",
+      "v": "pingouins ",
+      "n": "Choice1_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Le Sphinx ",
+      "n": "Choice3_4Text"
+    },
+    {
+      "t": "S",
+      "v": "léopards des neiges ",
+      "n": "Choice1_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Quetzalcóatl ",
+      "n": "Choice4_4Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>La chose</i> ",
+      "n": "Choice2_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Amérique du Sud ",
+      "n": "Root5Text"
+    },
+    {
+      "t": "S",
+      "v": "Asie ",
+      "n": "Root4Text"
+    },
+    {
+      "t": "S",
+      "v": "le « manger » dans <i>Manger, prier, aimer</i> ",
+      "n": "Choice4_5Text"
+    },
+    {
+      "t": "S",
+      "v": "ours polaires ",
+      "n": "Choice2_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Pixie Creux ",
+      "n": "Choice6_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Machu Picchu ",
+      "n": "Choice5_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Forteresse de Solitude ",
+      "n": "Choice1_4Text"
+    },
+    {
+      "t": "S",
+      "v": "chameaux ",
+      "n": "Choice3_3Text"
+    },
+    {
+      "t": "S",
+      "v": "pingouins ",
+      "n": "Choice5_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Wakanda ",
+      "n": "Choice3_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Mont Aconcagua ",
+      "n": "Choice3_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Père Noël ",
+      "n": "Choice1_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Lac Titicaca ",
+      "n": "Choice5_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Afrique ",
+      "n": "Root3Text"
+    },
+    {
+      "t": "S",
+      "v": "Marais d'alligators ",
+      "n": "Choice6_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Pays Imaginaire ",
+      "n": "Root6Text"
+    },
+    {
+      "t": "S",
+      "v": "les épaulards ",
+      "n": "Choice2_4Text"
+    },
+    {
+      "t": "S",
+      "v": "la fin de <i>Rocky IV</i> ",
+      "n": "Choice4_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Le Jolly Roger ",
+      "n": "Choice6_3Text"
+    },
+    {
+      "t": "S",
+      "v": "tigres ",
+      "n": "Choice3_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Jeux olympiques de 2016 ",
+      "n": "Choice5_1Text"
+    },
+    {
+      "s": "Je connais la zone générale ",
+      "t": "A",
+      "v": "749929_1 ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Je vais vous donner le domaine général, vous me dites à quoi appartiennent les choses réelles et fictives. Bonne chance... ",
+      "t": "A",
+      "v": "749930_1 ",
+      "n": "IntroAudio"
+    }
+  ]
+}

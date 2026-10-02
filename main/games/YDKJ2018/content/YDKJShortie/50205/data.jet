@@ -1,0 +1,143 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "les chats n'ont pas leurs règles ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "2,0,3,1 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Le vétérinaire a diagnostiqué une « cataménie » à mon chat Poopsie, mais quelque chose me dit que ce n'est pas probable, car... ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Problème médical non diagnostiqué avec une égratignure de chat ",
+      "t": "A",
+      "v": "718732_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "S'il vous plaît, faites plus d'efforts, la santé de mon animal est en jeu. (TOUS) ",
+      "t": "A",
+      "v": "718744_0",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Alors j'essaie un nouveau vétérinaire et je ne suis pas sûr d'aimer ce type... ",
+      "t": "A",
+      "v": "718733_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "718735_2",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "Les chats transpirent. C'est pour ça qu'ils ne jouent pas au poker. ",
+      "t": "A",
+      "v": "718742_2",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "S'il vous plaît, faites plus d'efforts, la santé de mon animal est en jeu. (TOUS) ",
+      "t": "A",
+      "v": "718740_4",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Catamenia est un autre mot pour désigner le flux menstruel, mais les chattes n’ont pas leurs règles lorsqu’elles sont en chaleur. ",
+      "t": "A",
+      "v": "718737_2",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "En plus, Poopsie est un garçon. Je pense. ",
+      "t": "A",
+      "v": "718738_2",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "The vet diagnosed my cat Poopsie with “catamenia,” but something tells me that’s not likely, because...",
+      "t": "A",
+      "v": "718734_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

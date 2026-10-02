@@ -1,0 +1,170 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "DATAMINING",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+3.83",
+      "n": "$QuestionAudio$QuestionTextCue4"
+    },
+    {
+      "t": "S",
+      "v": "De qui avons-nous acquis l’historique de recherche ? ",
+      "n": "QuestionText4"
+    },
+    {
+      "t": "S",
+      "v": "« Bueller ? »<br> ",
+      "n": "QuestionText3"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00 ",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Ben Stein ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "S+1.31",
+      "n": "$QuestionAudio$QuestionTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "S+2.47",
+      "n": "$QuestionAudio$QuestionTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "3,0,2,1",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "“Bueller?”<br>",
+      "n": "QuestionText2"
+    },
+    {
+      "t": "S",
+      "v": "Before",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "“Bueller?”<br>",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Type = { Film, Classique } ",
+      "t": "A",
+      "v": "739780_4",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Cookie : Alors... Binjpipe a besoin d'aide pour trier les données des utilisateurs... pourquoi collectez-vous à nouveau toutes ces informations ?\nVoix de Binjpipe : C'est juste un passe-temps. Voici les recherches que nous avons... ",
+      "t": "A",
+      "v": "739781_6",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "739783_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Ben Stein played the teacher continuously calling the titular character’s name for role in Ferris Bueller’s Day Off.",
+      "t": "A",
+      "v": "739785_4",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Voice of Binjpipe: Do you want to know how many times you’ve searched for your own name Cookie?\r\nCookie: No. The only person who can’t handle my personal information is me.",
+      "t": "A",
+      "v": "739786_4",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "“Bueller?”“Bueller?”“Bueller?” Whose search history have we acquired?",
+      "t": "A",
+      "v": "739782_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

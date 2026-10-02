@@ -1,0 +1,100 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "S",
+      "v": "Je paierai une petite somme... ",
+      "n": "Clue1Text"
+    },
+    {
+      "t": "S",
+      "v": "...pour entrer dans ta tête. ",
+      "n": "Clue2Text"
+    },
+    {
+      "t": "S",
+      "v": "Penny pour vos pensées. ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "un centime pour vos pensées, un centime pour votre pensée, un centime pour vos pensées, un centime pour vos pensées, un centime pour vos pensées ",
+      "n": "Acceptable"
+    },
+    {
+      "t": "S",
+      "v": "Voici un centime. Donnez-moi une idée. ",
+      "n": "Clue3Text"
+    },
+    {
+      "t": "S",
+      "v": "Continuons cette nuit ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "Ensuite, nous marquons plus de tirs ! ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Je paierai une petite somme... ",
+      "t": "A",
+      "v": "745748_1",
+      "n": "Clue1Audio"
+    },
+    {
+      "s": "Continuons cette nuit ",
+      "t": "A",
+      "v": "745743_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Voici un centime. Donnez-moi une idée. ",
+      "t": "A",
+      "v": "745750_1",
+      "n": "Clue3Audio"
+    },
+    {
+      "s": "Regardez la phrase charabia et dites-moi avec quelle expression populaire elle rime. ",
+      "t": "A",
+      "v": "745744_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "OutroAudio"
+    },
+    {
+      "s": "...pour entrer dans ta tête. ",
+      "t": "A",
+      "v": "745749_1",
+      "n": "Clue2Audio"
+    },
+    {
+      "s": "Ensuite, nous marquons plus de tirs ! ",
+      "t": "A",
+      "v": "745745_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

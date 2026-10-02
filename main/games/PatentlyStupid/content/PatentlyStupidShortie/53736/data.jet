@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "blagues | sous-vêtements | identité ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "J'en ai marre que les gens empruntent mon <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : J'en ai marre que les gens empruntent toujours mon CECI ! ",
+      "t": "A",
+      "v": "766910_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

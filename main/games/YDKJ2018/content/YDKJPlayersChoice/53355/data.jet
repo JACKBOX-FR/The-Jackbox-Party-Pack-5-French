@@ -1,0 +1,50 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "une question sur maman ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "une question sur papa ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "52926 ",
+      "n": "Choice2Id"
+    },
+    {
+      "t": "S",
+      "v": "Vous souhaitez une question sur maman ou une question sur papa ? ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "52925 ",
+      "n": "Choice1Id"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "Vous souhaitez une question sur maman ou une question sur papa ? ",
+      "t": "A",
+      "v": "761500_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

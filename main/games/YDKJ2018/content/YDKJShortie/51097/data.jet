@@ -1,0 +1,139 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "café glacé ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "0,1,2,3 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Si K fait référence à l’unité de mesure kelvin, que contient 1 K tasse ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Portion unique de science ",
+      "t": "A",
+      "v": "730842_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "OR\nAussi connu sous le nom de Dippin Dunkin \nOR\nLe futur... mais je ne peux pas attendre aussi longtemps ! ",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "J'ai finalement encaissé ce coupon Bed Bath and Beyond vieux de 20 ans et je me suis procuré une nouvelle cafetière, mais cela ne prend que des tasses K. ",
+      "t": "A",
+      "v": "730843_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "730845_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "OR\nLes atomes sont comme Starbucks, ils sont partout. ",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "OR\nLa caféine n’aidera pas à supporter cette pression. ",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Kelvin est une mesure de température thermodynamique, et 1 kelvin est juste un au-dessus du zéro absolu... ce qui est absolument imbuvable. ",
+      "t": "A",
+      "v": "730847_2",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "OR\nLe zéro absolu étant mon niveau de tolérance pour les désagréments avant d'avoir bu ma cafetière\nOR\nEt Calvin est le collègue qui ne se souvient jamais de remplir la cafetière !\nOR ",
+      "t": "A",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "If K is referring to the unit of measurement kelvin, what’s in 1 K cup?",
+      "t": "A",
+      "v": "730844_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

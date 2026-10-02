@@ -1,0 +1,141 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "un album platine ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "1,3,2,0 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "En 4085, lorsque les futurs archéologues exploreront les vestiges de <i>La Dynastie des Canards</i>, lequel de ces trophées tant convoités trouveront-ils ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Futur Ducktopia ",
+      "t": "A",
+      "v": "723690_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Il est temps de voyager dans un futur lointain. Imaginez que notre société soit tombée en poussière... Je veux dire, plus qu'elle ne l'est déjà. ",
+      "t": "A",
+      "v": "723691_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "723693_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "Dans la guerre de l’humanité contre les canards, seuls les vainqueurs ont remis des médailles. ",
+      "t": "A",
+      "v": "723698_3",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "La famille Roberston, célèbre pour Ducky Dynasty, a sorti un album de Noël « Duck the Halls ». Il est devenu platine aux États-Unis. ",
+      "t": "A",
+      "v": "723695_4",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Pour être honnête, le casting de Duck Dynasty ressemble beaucoup au Père Noël. Ils ont tous de grandes barbes et je ne me réveille jamais lorsqu’ils viennent chez moi la nuit. ",
+      "t": "A",
+      "v": "723696_2",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "In the year 4085, when future archaeologists are exploring the remnants of <i>The Duck Dynasty</i>, which of these coveted trophies will they find?",
+      "t": "A",
+      "v": "723692_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,421 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_6Correct"
+    },
+    {
+      "t": "S",
+      "v": "Manhattan ",
+      "n": "Choice6_6Text"
+    },
+    {
+      "t": "S",
+      "v": "tomate ",
+      "n": "Root2Text"
+    },
+    {
+      "t": "S",
+      "v": "tartare ",
+      "n": "Choice5_4Text"
+    },
+    {
+      "t": "S",
+      "v": "pizza blanche ",
+      "n": "Choice2_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Films <i>Hunger Games</i> ",
+      "n": "Choice4_2Text"
+    },
+    {
+      "t": "S",
+      "v": "À l'ancienne ",
+      "n": "Choice6_1Text"
+    },
+    {
+      "t": "S",
+      "v": "arancini ",
+      "n": "Choice3_5Text"
+    },
+    {
+      "t": "S",
+      "v": "poutine ",
+      "n": "Choice1_6Text"
+    },
+    {
+      "t": "S",
+      "v": "pomme de terre ",
+      "n": "Root1Text"
+    },
+    {
+      "t": "S",
+      "v": "Café irlandais ",
+      "n": "Choice6_5Text"
+    },
+    {
+      "t": "S",
+      "v": "larbe ",
+      "n": "Choice2_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Films <i>Le Seigneur des Anneaux</i> ",
+      "n": "Choice4_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Traditionnellement dedans ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "bruschetta ",
+      "n": "Choice2_2Text"
+    },
+    {
+      "t": "S",
+      "v": "soupe ",
+      "n": "Choice4_6Text"
+    },
+    {
+      "t": "S",
+      "v": "escalope ",
+      "n": "Choice1_1Text"
+    },
+    {
+      "t": "S",
+      "v": "piquer ",
+      "n": "Choice5_3Text"
+    },
+    {
+      "t": "S",
+      "v": "pavlova ",
+      "n": "Choice1_5Text"
+    },
+    {
+      "t": "S",
+      "v": "frittata ",
+      "n": "Choice3_4Text"
+    },
+    {
+      "t": "S",
+      "v": "canon de col ",
+      "n": "Choice1_3Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Jeu des trônes</i> ",
+      "n": "Choice4_4Text"
+    },
+    {
+      "t": "S",
+      "v": "prosciutto ",
+      "n": "Choice2_5Text"
+    },
+    {
+      "t": "S",
+      "v": "viande crue ",
+      "n": "Root5Text"
+    },
+    {
+      "t": "S",
+      "v": "Ian McKellen ",
+      "n": "Root4Text"
+    },
+    {
+      "t": "S",
+      "v": "Films <i>X-Men</i> ",
+      "n": "Choice4_5Text"
+    },
+    {
+      "t": "S",
+      "v": "taboulé ",
+      "n": "Choice2_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Gin-Tonic ",
+      "n": "Choice6_4Text"
+    },
+    {
+      "t": "S",
+      "v": "satay ",
+      "n": "Choice5_6Text"
+    },
+    {
+      "t": "S",
+      "v": "pâté chinois ",
+      "n": "Choice1_4Text"
+    },
+    {
+      "t": "S",
+      "v": "succotash ",
+      "n": "Choice3_3Text"
+    },
+    {
+      "t": "S",
+      "v": "sushi unagi ",
+      "n": "Choice5_2Text"
+    },
+    {
+      "t": "S",
+      "v": "sashimis ",
+      "n": "Choice3_1Text"
+    },
+    {
+      "t": "S",
+      "v": "paella ",
+      "n": "Choice3_6Text"
+    },
+    {
+      "t": "S",
+      "v": "latkes ",
+      "n": "Choice1_2Text"
+    },
+    {
+      "t": "S",
+      "v": "carpaccio ",
+      "n": "Choice5_5Text"
+    },
+    {
+      "t": "S",
+      "v": "riz ",
+      "n": "Root3Text"
+    },
+    {
+      "t": "S",
+      "v": "Daïquiri ",
+      "n": "Choice6_2Text"
+    },
+    {
+      "t": "S",
+      "v": "whisky ",
+      "n": "Root6Text"
+    },
+    {
+      "t": "S",
+      "v": "Shakshouka ",
+      "n": "Choice2_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Films <i>Harry Potter</i> ",
+      "n": "Choice4_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Mai Tai ",
+      "n": "Choice6_3Text"
+    },
+    {
+      "t": "S",
+      "v": "saké ",
+      "n": "Choice3_2Text"
+    },
+    {
+      "t": "S",
+      "v": "injecter ",
+      "n": "Choice5_1Text"
+    },
+    {
+      "s": "Traditionnellement dedans ",
+      "t": "A",
+      "v": "757024_1 ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Je vais vous montrer un ingrédient et vous me dites quels plats en contiennent traditionnellement. Bon appétit.... ",
+      "t": "A",
+      "v": "757025_1 ",
+      "n": "IntroAudio"
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "What was the hedgehog’s brilliant comeback?",
+      "n": "QuestionText3"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00 ",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "\"N'arrêtez pas de dormir pendant 18 heures ? Merci, je ne le ferai pas.\" ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "S+7.90 ",
+      "n": "$QuestionAudio$QuestionTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "S+11h70 ",
+      "n": "$QuestionAudio$QuestionTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "0,3,2,1",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "A heckler responds: “Don’t quit your day job!”",
+      "n": "QuestionText2"
+    },
+    {
+      "t": "S",
+      "v": "Before",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "A hedgehog comic opens his set with: “Hey folks, how does a hedgehog make love... VERY Carefully!”",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Sonic la bande dessinée ",
+      "t": "A",
+      "v": "723652_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Ils ne le font que lorsqu’ils ont peur ou après un bombardement dans des clubs de comédie. ",
+      "t": "A",
+      "v": "723664_1",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Avez-vous déjà vu un hérisson faire du stand-up ? Non? Ok, super histoire... ",
+      "t": "A",
+      "v": "723653_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "723655_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "C'est fou. Ils ont des plumes sur le dos donc ils doivent se frotter contre un mur et euh... wow, c'est en fait toi qui as choisi celle-là. ",
+      "t": "A",
+      "v": "723662_1",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Hedgehogs are nocturnal and they pretty much sleep all day long.",
+      "t": "A",
+      "v": "723657_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "But that’s also true of most human stand up comedians.",
+      "t": "A",
+      "v": "723658_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "A hedgehog comic opens his set with: “Hey folks, how does a hedgehog make love... VERY Carefully! Heyo!” A heckler responds: “Don’t quit your day job!” What was the hedgehog’s brilliant comeback?",
+      "t": "A",
+      "v": "723654_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

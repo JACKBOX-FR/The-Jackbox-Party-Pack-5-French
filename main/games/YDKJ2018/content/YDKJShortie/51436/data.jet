@@ -1,0 +1,140 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Seitan chérie ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "3,1,0,2 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Si vous décidez de vous débarrasser de votre sugar daddy et de l’échanger contre une maman SOJA, comment ne devriez-vous PAS l’appeler ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "À la recherche d’un arrangement étrange ",
+      "t": "A",
+      "v": "735517_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "OR\nSoy désolé. (à utiliser pour tous) ",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Viens avec moi ici... ",
+      "t": "A",
+      "v": "735518_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "735520_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "L'edamame, le miso et le tofu sont du soja, mais le seitan est un substitut de viande à base de gluten de blé. ",
+      "t": "A",
+      "v": "735522_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Ma maman soja me laisse seulement l'appeler Susan. ",
+      "t": "A",
+      "v": "735523_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "If you decided to get rid of your sugar daddy, and trade them in for a SOY mommy, what should you NOT call them?",
+      "t": "A",
+      "v": "735519_3",
+      "n": "QuestionAudio"
+    }
+  ]
+}

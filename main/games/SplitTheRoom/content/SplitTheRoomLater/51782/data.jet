@@ -1,0 +1,96 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "vous souffrez d'une maladie rare | votre maison a brûlé | de la faculté de droit | votre chien s'est enfui | tu te présente aux élections ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "S+12.71",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "S+5.06",
+      "n": "$ScenarioAudio$ScenarioTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "...ce qui est un mensonge. ",
+      "n": "ScenarioText3"
+    },
+    {
+      "t": "S",
+      "v": "S+7.04",
+      "n": "$ScenarioAudio$ScenarioTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "Le compte a déjà collecté 10 000 $ et il devrait être déposé sur votre compte bancaire. ",
+      "n": "ScenarioText4"
+    },
+    {
+      "t": "S",
+      "v": "Vous découvrez une page de financement participatif avec votre nom et votre photo, demandant des dons pour vous aider car ",
+      "n": "ScenarioText1"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00 ",
+      "n": "$ScenarioAudio$ScenarioTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "<BLANK> ",
+      "n": "ScenarioText2"
+    },
+    {
+      "t": "S",
+      "v": "S+8.12",
+      "n": "$ScenarioAudio$ScenarioTextCue4"
+    },
+    {
+      "t": "S",
+      "v": "Est-ce que vous le démontez ? ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Allez vous financer ",
+      "t": "A",
+      "v": "Est-ce que vous le démontez ? ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Vous découvrez une page de financement participatif avec votre nom et votre photo, demandant des dons pour vous aider pour cette raison... ce qui est un mensonge. Le compte a déjà collecté 10 000 $ et il devrait être déposé sur votre compte bancaire. Est-ce que vous le démontez ? ",
+      "t": "A",
+      "v": "740118_9",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    }
+  ]
+}

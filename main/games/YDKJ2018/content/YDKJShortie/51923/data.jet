@@ -1,0 +1,170 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "DATAMINING",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+8.28",
+      "n": "$QuestionAudio$QuestionTextCue4"
+    },
+    {
+      "t": "S",
+      "v": "De qui avons-nous acquis l’historique de recherche ? ",
+      "n": "QuestionText4"
+    },
+    {
+      "t": "S",
+      "v": "« meilleur titre pour « randonnée moyenne vers la liberté » ? <br> ",
+      "n": "QuestionText3"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00 ",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Nelson Mandela ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "S+3.88",
+      "n": "$QuestionAudio$QuestionTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "S+5.66",
+      "n": "$QuestionAudio$QuestionTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "1,3,0,2",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "“stream Invictus”<br>",
+      "n": "QuestionText2"
+    },
+    {
+      "t": "S",
+      "v": "Before",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "“options if I was wrongfully imprisoned for 27 years”<br>",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Type = {Homme, Révolutionnaire} ",
+      "t": "A",
+      "v": "741981_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Cookie : Binjpipe a acquis des historiques de recherche et ils ont besoin d'aide.\nVoix : Oui, nous avons besoin de votre aide pour identifier à quel révolutionnaire politique il appartient. ",
+      "t": "A",
+      "v": "741982_2",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "741984_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Cookie: Nelson Mandela was the anti-apartheid revolutionary and former president of South Africa  who was imprisoned, wrote “Long Walk to Freedom” and was played by Morgan Freeman in the film Invictus.",
+      "t": "A",
+      "v": "741986_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Voice: Binjpipe loves to learn about our customers and we will share that information with the government but only if they ask and they will ask.",
+      "t": "A",
+      "v": "741987_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "“options if I was wrongfully imprisoned for 27 years” “stream Invictus” “better title for average hike to liberty?” Whose search history have we acquired?",
+      "t": "A",
+      "v": "741983_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

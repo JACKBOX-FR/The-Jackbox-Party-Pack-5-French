@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "rire | mâcher la bouche ouverte | réciter de la poésie ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "J'énerve les gens quand je <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Les gens me disent que je les ennuie quand je fais CECI ! ",
+      "t": "A",
+      "v": "752583_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

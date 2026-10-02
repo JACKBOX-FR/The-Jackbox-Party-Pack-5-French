@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "corbeau | chaussettes | fromage cottage ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je déteste manger <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je déteste absolument manger CELA, je ne peux pas le supporter ! ",
+      "t": "A",
+      "v": "767804_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

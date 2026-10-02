@@ -1,0 +1,141 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "\"Cire. Cire. Off.\" ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "0,3,1,2 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Lequel de ces slogans des années 80 décrit le mieux l’histoire d’Icare ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Seules les références les plus récentes ",
+      "t": "A",
+      "v": "719104_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "719107_2",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "Ah oui, le mythe grec classique d'Icare, le garçon qui s'est tragiquement étouffé avec une cuillère. C'est un conte intemporel. ",
+      "t": "A",
+      "v": "719114_1",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "Non, vous ne le ferez pas. ",
+      "t": "A",
+      "v": "719112_9",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Icare volait sur des ailes faites de cire et de plumes jusqu'à ce que le soleil fasse fondre ses ailes, le faisant tomber jusqu'à la mort. ",
+      "t": "A",
+      "v": "719109_2",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Ce qui est genre, dégueulasse au maximum. ",
+      "t": "A",
+      "v": "719110_2",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "Which of these ‘80’s catchphrases best describes the story of Icarus?",
+      "t": "A",
+      "v": "719106_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

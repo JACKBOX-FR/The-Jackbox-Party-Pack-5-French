@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "se réveiller|conduire|faire caca au travail ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "La pire partie du travail est <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je déteste mon travail à cause de CELA ! ",
+      "t": "A",
+      "v": "754696_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "...vous vous trompez de question ! ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "0,1,2,3 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Si vous souffrez d’atychiphobie, vous crierez de terreur quand... ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "La terreur du côté de la prudence ",
+      "t": "A",
+      "v": "727279_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Ceux d’entre vous qui sont facilement surpris voudront peut-être simplement fermer les yeux et deviner la question suivante. ",
+      "t": "A",
+      "v": "727280_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "727282_2",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "Eh bien, nous pouvons certainement révéler l’une des MAUVAISES réponses à cette question. ",
+      "t": "A",
+      "v": "727289_1",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "La mésophobie est la peur du succès et si vous l'avez, bonne nouvelle ! ",
+      "t": "A",
+      "v": "727287_1",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "L'atychiphobie est la peur de l'échec, donc le mal est le bien ! ",
+      "t": "A",
+      "v": "727284_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "OU\nVous savez, je me suis toujours demandé à quoi ressemblait une erreur.\nOU\nJe comprends vos inquiétudes, votre performance dans ce jeu sera enregistrée et votre pointage de crédit sera ajusté en conséquence. ",
+      "t": "A",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "If you suffer from atychiphobia, you’ll scream in terror when...",
+      "t": "A",
+      "v": "727281_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

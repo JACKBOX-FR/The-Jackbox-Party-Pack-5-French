@@ -1,0 +1,141 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": ":| ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "3,2,1,0 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Laquelle de ces émoticônes ressemble le plus au signe de répétition dans une partition ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Beethoven, tu es debout ? ",
+      "t": "A",
+      "v": "734170_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "734173_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "Je n’aurais pas l’air si heureux. ",
+      "t": "A",
+      "v": "734180_2",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "OR\nComme lorsque ma mère utilise des émoticônes... c'est faux. (TOUS) ",
+      "t": "A",
+      "v": "734178_2",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Oui, voilà à quoi ressemble un signe de répétition. ",
+      "t": "A",
+      "v": "734175_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Cependant, si vous voyez cette émoticône lorsque vous discutez avec quelqu'un, cela signifie généralement arrêter. ",
+      "t": "A",
+      "v": "734176_3",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "Which of these emoticons most resembles the repeat sign in sheet music?",
+      "t": "A",
+      "v": "734172_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

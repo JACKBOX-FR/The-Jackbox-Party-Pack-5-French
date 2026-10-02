@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "ma colère | comme ma vie est terrible | fantômes ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "J'ai besoin d'un moyen de mesurer <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : J'ai sérieusement besoin d'un moyen de mesurer CELA ! ",
+      "t": "A",
+      "v": "767674_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

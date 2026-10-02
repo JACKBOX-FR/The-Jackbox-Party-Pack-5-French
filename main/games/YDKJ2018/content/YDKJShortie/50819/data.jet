@@ -1,0 +1,140 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Les deux Lisa rient et réalisent qu'ELLES SONT À ÉGAL FAUTE ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "1,2,3,0 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Lequel de ces moments <i>Real Housewives</i> serait un exemple de <i>in pari delicto</i> ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Keepin' It Real... Femmes au foyer ",
+      "t": "A",
+      "v": "726953_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "726956_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "Bien essayé, [SFX : bips de censure] ",
+      "t": "A",
+      "v": "726963_0f",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "In pari delicto est un terme juridique désignant le moment où deux parties sont jugées toutes deux coupables. ",
+      "t": "A",
+      "v": "726958_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Ce genre de résolutions pacifiques est exactement ce qui fait la renommée de la franchise Real Housewives. ",
+      "t": "A",
+      "v": "726959_2",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "Which of these <i>Real Housewives</i> moments would be an example of <i>in pari delicto</i>?",
+      "t": "A",
+      "v": "726955_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

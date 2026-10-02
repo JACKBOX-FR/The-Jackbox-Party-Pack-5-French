@@ -1,0 +1,96 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "calvitie | mauvaise haleine | vieillesse | constipation | éruptions cutanées ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "S+10.85",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "S+3.42",
+      "n": "$ScenarioAudio$ScenarioTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "Un ami alchimiste mentionne que ces créatures sont l'ingrédient principal d'une potion qui guérit… ",
+      "n": "ScenarioText3"
+    },
+    {
+      "t": "S",
+      "v": "S+5.50",
+      "n": "$ScenarioAudio$ScenarioTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "<BLANK>. ",
+      "n": "ScenarioText4"
+    },
+    {
+      "t": "S",
+      "v": "Vous découvrez une colonie de minuscules créatures ressemblant à des gnomes vivant dans votre jardin. ",
+      "n": "ScenarioText1"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00 ",
+      "n": "$ScenarioAudio$ScenarioTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Leur vie est consacrée au chant et à la danse. ",
+      "n": "ScenarioText2"
+    },
+    {
+      "t": "S",
+      "v": "S+9.85",
+      "n": "$ScenarioAudio$ScenarioTextCue4"
+    },
+    {
+      "t": "S",
+      "v": "Les récoltez-vous pour la potion ? ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Dilemme des variétés de jardin ",
+      "t": "A",
+      "v": "Les récoltez-vous pour la potion ? ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Vous découvrez une colonie de minuscules créatures ressemblant à des gnomes vivant dans votre jardin. Leur vie est consacrée au chant et à la danse. Un ami alchimiste mentionne que ces créatures sont l'ingrédient principal d'une potion qui guérit… CELA. Les récoltez-vous pour la potion ? ",
+      "t": "A",
+      "v": "761611_2",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    }
+  ]
+}

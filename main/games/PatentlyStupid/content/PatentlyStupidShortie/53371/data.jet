@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "sauce | pulls moches | neige ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je redoute les vacances à cause de <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je redoute les vacances à cause de CELA ! ",
+      "t": "A",
+      "v": "761634_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

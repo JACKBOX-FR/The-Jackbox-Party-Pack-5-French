@@ -1,0 +1,50 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "une question rétrospective ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "une question directe ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "52037 ",
+      "n": "Choice2Id"
+    },
+    {
+      "t": "S",
+      "v": "Souhaitez-vous une question en arrière ou une question en avant ? ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "52036 ",
+      "n": "Choice1Id"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "Souhaitez-vous une question en arrière ou une question en avant ? ",
+      "t": "A",
+      "v": "761735_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "petit déjeuner | devoir de juré | amusant ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "J'aimerais que <BLANK> soit plus amusant ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "PHIL : J'aimerais juste que CE soit plus amusant ! ",
+      "t": "A",
+      "v": "767135_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

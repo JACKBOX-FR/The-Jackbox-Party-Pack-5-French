@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Elvis | ma belle journée de cheveux | tous mes ennemis ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je veux rendre hommage à <BLANK>. ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je veux rendre hommage à CECI ! ",
+      "t": "A",
+      "v": "767671_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

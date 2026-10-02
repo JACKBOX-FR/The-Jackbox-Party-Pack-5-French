@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "fantômes| mes problèmes| inondations torrentielles ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Partout où je regarde, je vois <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je ne peux pas faire deux pas sans tomber sur CELA ! ",
+      "t": "A",
+      "v": "767789_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

@@ -1,0 +1,421 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_6Correct"
+    },
+    {
+      "t": "S",
+      "v": "Coup de fouet sournois ",
+      "n": "Choice6_6Text"
+    },
+    {
+      "t": "S",
+      "v": "des lunettes, généralement ",
+      "n": "Root2Text"
+    },
+    {
+      "t": "S",
+      "v": "Wonder Woman ",
+      "n": "Choice5_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Louise Belcher ",
+      "n": "Choice2_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Moe Szyslak ",
+      "n": "Choice4_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Reine Elsa ",
+      "n": "Choice6_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Princesse Nala ",
+      "n": "Choice3_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Peppa Cochon ",
+      "n": "Choice1_6Text"
+    },
+    {
+      "t": "S",
+      "v": "un chapeau, généralement ",
+      "n": "Root1Text"
+    },
+    {
+      "t": "S",
+      "v": "Homme-homme ",
+      "n": "Choice6_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Pierre Griffin ",
+      "n": "Choice2_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Daffy Canard ",
+      "n": "Choice4_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Mon look signature ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "Velma ",
+      "n": "Choice2_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Cap'n Crunch ",
+      "n": "Choice4_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Carmen Sandiego ",
+      "n": "Choice1_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Princesse Bubblegum ",
+      "n": "Choice5_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Finn l'humain ",
+      "n": "Choice1_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Bob l'éponge ",
+      "n": "Choice3_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Rick Sánchez ",
+      "n": "Choice1_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Ours Yogi ",
+      "n": "Choice4_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Tina Belcher ",
+      "n": "Choice2_5Text"
+    },
+    {
+      "t": "S",
+      "v": "un diadème ou une couronne, généralement ",
+      "n": "Root5Text"
+    },
+    {
+      "t": "S",
+      "v": "une cravate, généralement ",
+      "n": "Root4Text"
+    },
+    {
+      "t": "S",
+      "v": "Milhouse Van Houten ",
+      "n": "Choice4_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Steven Univers ",
+      "n": "Choice2_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Elle-Ra ",
+      "n": "Choice6_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Princesse Nala ",
+      "n": "Choice5_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Frêne Ketchum ",
+      "n": "Choice1_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Shrek ",
+      "n": "Choice3_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Marin Lune ",
+      "n": "Choice5_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Charlie Brun ",
+      "n": "Choice3_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Les Powerpuff Girls ",
+      "n": "Choice3_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Pins cincles ",
+      "n": "Choice1_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Mulan ",
+      "n": "Choice5_5Text"
+    },
+    {
+      "t": "S",
+      "v": "des chaussures, généralement ",
+      "n": "Root3Text"
+    },
+    {
+      "t": "S",
+      "v": "Super-fille ",
+      "n": "Choice6_2Text"
+    },
+    {
+      "t": "S",
+      "v": "une cape, généralement ",
+      "n": "Root6Text"
+    },
+    {
+      "t": "S",
+      "v": "Mabel Pins ",
+      "n": "Choice2_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Donald Canard ",
+      "n": "Choice4_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Kim Possible ",
+      "n": "Choice6_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Moana ",
+      "n": "Choice3_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Princesse Anna ",
+      "n": "Choice5_1Text"
+    },
+    {
+      "s": "Mon look signature ",
+      "t": "A",
+      "v": "744540_1 ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Lorsque vous voyez un vêtement, nommez le personnage de dessin animé qui le porte traditionnellement... bonne chance. ",
+      "t": "A",
+      "v": "744541_1 ",
+      "n": "IntroAudio"
+    }
+  ]
+}

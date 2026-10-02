@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "gril en fer plat | poulpe | petit avion ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Ils ne me laissent pas emmener mon <BLANK> dans les avions ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Alors, j'ai essayé de monter dans un avion l'autre jour. Peu importe où j’allais. Et l'hôtesse de l'air m'arrête et me dit : \"Tu ne peux pas faire ça, mon pote.\" Elle m'a appelé mon pote ! Quoi qu'il en soit, pour faire court... ne me fais pas signe de conclure, Lena... Ne me lance pas ce regard. D'accord. D'accord. Alors, j'ai été arrêté et ils ont cassé mon CECI juste devant mon visage ! Histoire vraie. ",
+      "t": "A",
+      "v": "767786_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

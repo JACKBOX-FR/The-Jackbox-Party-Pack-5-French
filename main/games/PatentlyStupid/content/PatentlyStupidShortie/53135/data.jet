@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "manger | déposer des impôts | tirer des lasers",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je veux marcher et <BLANK> en même temps ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Peu importe tous mes efforts, je ne peux pas marcher et faire CECI en même temps ! ",
+      "t": "A",
+      "v": "759077_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

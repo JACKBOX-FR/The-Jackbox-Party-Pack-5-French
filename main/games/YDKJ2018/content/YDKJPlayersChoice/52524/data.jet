@@ -1,0 +1,50 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "une question qui élève Cookie ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "une question qui blesse Cookie ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "51965 ",
+      "n": "Choice2Id"
+    },
+    {
+      "t": "S",
+      "v": "Souhaitez-vous une question qui élève Cookie... ou une question qui blesse Cookie ? ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "51966 ",
+      "n": "Choice1Id"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "Souhaitez-vous une question qui élève Cookie... ou une question qui blesse Cookie ? ",
+      "t": "A",
+      "v": "751016_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

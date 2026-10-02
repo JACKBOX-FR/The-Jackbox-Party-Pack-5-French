@@ -1,0 +1,141 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Quelle est l'une des catégories les plus populaires de <i>Jeopardy</i> ? ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "3,1,2,0 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "<i>Before et après</i> ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Retournez le script ",
+      "t": "A",
+      "v": "722681_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Préparez-vous, nous allons faire celui-ci à l’envers… ",
+      "t": "A",
+      "v": "722682_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "722684_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "Si le temps est cyclique, vous aurez une autre chance. ",
+      "t": "A",
+      "v": "722691_1",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Entre 1984 et 2012, la catégorie Jeopardy Avant et Après a été utilisée 547 fois, devançant Science, Littérature et Potpurri. ",
+      "t": "A",
+      "v": "722686_2",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Nous nous excusons pour ces turbulences temporelles, vous pouvez maintenant remettre votre cerveau en position verticale. ",
+      "t": "A",
+      "v": "722687_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "<i>Before and After</i>",
+      "t": "A",
+      "v": "722683_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

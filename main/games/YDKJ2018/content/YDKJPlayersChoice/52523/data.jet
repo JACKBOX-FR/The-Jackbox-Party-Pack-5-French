@@ -1,0 +1,50 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "une question où tout est correctement orthographié ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "une question où tout est mal orthographié ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "51967 ",
+      "n": "Choice2Id"
+    },
+    {
+      "t": "S",
+      "v": "Souhaitez-vous une question où tout est correctement orthographié... ou une question où tout est mal orthographié ? ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "51968 ",
+      "n": "Choice1Id"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "Souhaitez-vous une question où tout est correctement orthographié... ou une question où tout est mal orthographié ? ",
+      "t": "A",
+      "v": "751012_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

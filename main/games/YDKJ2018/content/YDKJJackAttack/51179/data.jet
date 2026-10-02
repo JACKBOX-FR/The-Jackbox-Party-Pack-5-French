@@ -1,0 +1,421 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_6Correct"
+    },
+    {
+      "t": "S",
+      "v": "Zoya la Destructrice ",
+      "n": "Choice6_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Indice ",
+      "n": "Root2Text"
+    },
+    {
+      "t": "S",
+      "v": "Loup ",
+      "n": "Choice5_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Mme Peach ",
+      "n": "Choice2_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Jon Neige ",
+      "n": "Choice4_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Calamité Jane ",
+      "n": "Choice6_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Homme de fer ",
+      "n": "Choice3_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Kareem Abdul-Jabbar ",
+      "n": "Choice1_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Basket-ball ",
+      "n": "Root1Text"
+    },
+    {
+      "t": "S",
+      "v": "Talia Al Ghul ",
+      "n": "Choice6_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Docteur Bleu ",
+      "n": "Choice2_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Jack Noir ",
+      "n": "Choice4_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Ne détestez pas le jeu, détestez les joueurs ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "M. Vert ",
+      "n": "Choice2_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Cersei Lannister ",
+      "n": "Choice4_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Michael Jordan ",
+      "n": "Choice1_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Némo ",
+      "n": "Choice5_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Jon Neige ",
+      "n": "Choice1_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Princesse Pêche ",
+      "n": "Choice3_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Larry Oiseau ",
+      "n": "Choice1_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Joffrey Baratheon ",
+      "n": "Choice4_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Professeur Plum ",
+      "n": "Choice2_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Poohsticks ",
+      "n": "Root5Text"
+    },
+    {
+      "t": "S",
+      "v": "Jeu des trônes ",
+      "n": "Root4Text"
+    },
+    {
+      "t": "S",
+      "v": "Drago Malefoy ",
+      "n": "Choice4_5Text"
+    },
+    {
+      "t": "S",
+      "v": "M. Noir ",
+      "n": "Choice2_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Biscuit de fortune ",
+      "n": "Choice6_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Bourriquet ",
+      "n": "Choice5_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Tim Tebow ",
+      "n": "Choice1_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Capitaine Faucon ",
+      "n": "Choice3_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Porcinet ",
+      "n": "Choice5_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Os de chasseur ",
+      "n": "Choice3_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Maître chef ",
+      "n": "Choice3_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Dan Marino ",
+      "n": "Choice1_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Âne Kong ",
+      "n": "Choice5_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Super Smash Frères ",
+      "n": "Root3Text"
+    },
+    {
+      "t": "S",
+      "v": "Liberté Belle ",
+      "n": "Choice6_2Text"
+    },
+    {
+      "t": "S",
+      "v": "LUEUR ",
+      "n": "Root6Text"
+    },
+    {
+      "t": "S",
+      "v": "Mlle Écarlate ",
+      "n": "Choice2_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Haymitch Abernathy ",
+      "n": "Choice4_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Machu Picchu ",
+      "n": "Choice6_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Âne Kong ",
+      "n": "Choice3_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Lapin ",
+      "n": "Choice5_1Text"
+    },
+    {
+      "s": "Ne détestez pas le jeu, détestez les joueurs ",
+      "t": "A",
+      "v": "731940_1 ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Vous avez des jeux... alors dites-nous qui y joue.... Bonne chance... ",
+      "t": "A",
+      "v": "731941_1 ",
+      "n": "IntroAudio"
+    }
+  ]
+}

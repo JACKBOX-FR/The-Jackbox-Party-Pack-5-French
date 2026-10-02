@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "fait des grimaces | jongle | sourit ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "J'ai toujours mal parce que je <BLANK> trop ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : J'ai toujours mal parce que je fais trop ça ! ",
+      "t": "A",
+      "v": "767647_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

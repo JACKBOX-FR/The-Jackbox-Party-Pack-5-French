@@ -1,0 +1,141 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "« Hoo, mon garçon » ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "3,0,1,2 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Quels ont été les premiers mots que j’ai prononcés juste après avoir lu cette chaîne de chiffres ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "421-77-114-0 ",
+      "t": "A",
+      "v": "756807_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Hoo mon garçon... Je pense que tu t'es trompé. ",
+      "t": "A",
+      "v": "756819_1",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Ho mon garçon. Cette chaîne de chiffres me met mal à l’aise. 421-77-114-0. Je ne peux m’empêcher de penser que les choses que je dis ici auront une pertinence particulière dans cette question. Eh bien... ça ne sert à rien de retarder ça. ",
+      "t": "A",
+      "v": "756808_2",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "756810_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "J'ai dit assez clairement hoo boy.",
+      "t": "A",
+      "v": "756812_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Désolé de vous avoir fait réfléchir aux chiffres pendant une seconde. ",
+      "t": "A",
+      "v": "756813_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "What were the first words I said right after reading that string of numbers?",
+      "t": "A",
+      "v": "756809_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

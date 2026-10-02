@@ -1,0 +1,153 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Cookie est enchaîné à un mur de grotte et observe les ombres. ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "S+7.14 ",
+      "n": "$QuestionAudio$QuestionTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "1,0,3,2 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Comment Platon décrirait-il ma situation tout à fait théorique ? ",
+      "n": "QuestionText2"
+    },
+    {
+      "t": "S",
+      "v": "Before",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "So let’s say I’m starting to suspect reality isn’t what I thought it was.",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Une autre question de philosophie farfelue ",
+      "t": "A",
+      "v": "758855_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Dans certaines réalités, cela est correct. ",
+      "t": "A",
+      "v": "758867_2",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Voici une hypothèse folle que tout observateur invisible ne devrait même pas prendre la peine d’écouter. ",
+      "t": "A",
+      "v": "758856_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "758858_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "Dans certaines réalités, cela est correct. ",
+      "t": "A",
+      "v": "758865_0",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "Qu’est-ce qui ne va pas ? (comme dans « Qu'est-ce que la vérité ? ») ",
+      "t": "A",
+      "v": "758863_1",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Plato used the allegory of the cave to illustrate how perceptions could give one a limited interpretation of reality. If all you know is shadows...that is reality for you.",
+      "t": "A",
+      "v": "758860_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "and now on to our next question...because all I know are questions...",
+      "t": "A",
+      "v": "758861_4",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "So let’s say I’m starting to suspect reality isn’t what I thought it was...(neverously) which, I know... seems CRAZY...How would Plato describe my completely theoretical predicament?",
+      "t": "A",
+      "v": "758857_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

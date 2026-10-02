@@ -1,0 +1,139 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Tranchée des Mariannes ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "2,3,1,0 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Si vous jouez au football dans le jardin et que votre père crie « GO DEEP », quel est le meilleur endroit où vous pourriez courir pour l’impressionner ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Un souvenir d'enfance totalement pertinent ",
+      "t": "A",
+      "v": "746250_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "OU\nVotre père vient de donner un high five à un autre enfant. ",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "746253_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "OU\nTon père a juste fait semblant de ne pas te connaître. ",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "OU\nTon père vient d'entrer. ",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "La fosse des Mariannes est l'endroit le plus profond de la planète, à plus de 36 000 pieds sous le niveau de la mer. ",
+      "t": "A",
+      "v": "746255_2",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Ton père ferait mieux d'avoir un très bon bras. ",
+      "t": "A",
+      "v": "746256_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "If you’re playing football in the backyard and your dad yells “GO DEEP,” where’s the best place you could run to impress him?",
+      "t": "A",
+      "v": "746252_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

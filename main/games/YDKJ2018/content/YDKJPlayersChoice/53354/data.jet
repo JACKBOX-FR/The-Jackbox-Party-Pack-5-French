@@ -1,0 +1,50 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "une question intelligente ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "une question stupide ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "52886 ",
+      "n": "Choice2Id"
+    },
+    {
+      "t": "S",
+      "v": "Souhaitez-vous une question intelligente ou une question stupide ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "52885 ",
+      "n": "Choice1Id"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "Souhaitez-vous une question intelligente ou une question stupide ",
+      "t": "A",
+      "v": "761496_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "fourrure|vêtements|soleil direct ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je n'ai pas l'air bien en <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je n'ai jamais l'air bien là-dedans. Et ne me dites pas que je le fais parce que je sais que non et cela me met juste en colère. ",
+      "t": "A",
+      "v": "767777_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

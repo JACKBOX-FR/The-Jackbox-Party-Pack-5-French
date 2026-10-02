@@ -1,0 +1,139 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "un BULLDOG broyant sur un TERRIER ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "2,0,1,3 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Si le rappeur Pitbull voulait honorer les origines du pitbull, quelle scène de club sexy devrait-il montrer dans son prochain clip ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Y a-t-il une Mme. Mondial? ",
+      "t": "A",
+      "v": "716373_2",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Bois! [SFX : chute d'un arbre] ",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "716376_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "OU\nBonne nouvelle ! Je ne vais pas vous mettre le nez là-dedans. (TOUS) ",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Les pitbulls ont été élevés en accouplant un bouledogue et un terrier. ",
+      "t": "A",
+      "v": "716378_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Heureusement, nous avons réussi à répondre à la seule question sur le sexe des chiens du jeu. En fait, je ne peux pas le promettre. ",
+      "t": "A",
+      "v": "716379_3",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "If the rapper Pitbull wanted to honor the origins of the pit bull, what sexy club scene should he show in his next music video?",
+      "t": "A",
+      "v": "716375_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

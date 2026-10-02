@@ -1,0 +1,152 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "chaque épisode de <i>Friends</i>. ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "S+4.35 ",
+      "n": "$QuestionAudio$QuestionTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "0,1,2,3 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Quelle émission pourriez-vous regarder en frénésie pendant le temps qu’il vous reste Before de mourir ? ",
+      "n": "QuestionText2"
+    },
+    {
+      "t": "S",
+      "v": "Before",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Say you accidentally watched the cursed VHS tape from <i>The Ring</i>.",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Tu peux avoir la télécommande quand je serai mort ",
+      "t": "A",
+      "v": "731186_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Nous parlons de 895 épisodes ! Vous ne verriez même pas la moitié de sa collection de cardigans. ",
+      "t": "A",
+      "v": "731198_3",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "On dit que nous vivons dans un âge d’or de la télévision, et il n’y a pas de meilleur moment pour l’apprécier que lorsqu’une démone aux cheveux filandreux va en sortir et vous étrangler. ",
+      "t": "A",
+      "v": "731187_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "731189_2",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "Non, tu es mort, et c'est probablement la faute de Wesley. ",
+      "t": "A",
+      "v": "731196_1",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "The curse in the Ring gives you one week to live, which is enough time to watch all 236 half-hour episodes of Friends.",
+      "t": "A",
+      "v": "731191_2",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "And who knows: Janice’s laugh could frighten off Samara before she gets to you.",
+      "t": "A",
+      "v": "731192_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "Say you accidentally watched the cursed VHS tape from <i>The Ring</i>. Which show could you binge-watch in the time you have left before you die?",
+      "t": "A",
+      "v": "731188_3",
+      "n": "QuestionAudio"
+    }
+  ]
+}

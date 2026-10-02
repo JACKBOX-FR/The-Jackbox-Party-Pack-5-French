@@ -1,0 +1,141 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "336 heures sans faire caca ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "1,0,2,3 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Si j'avais joué à <i>Fortnite</i> pendant quinze jours d'affilée, combien d'heures aurais-je passé à ne rien faire d'autre ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Je dormirai quand j'arrêterai de réapparaître ",
+      "t": "A",
+      "v": "735557_2",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "(frustré) Vous n’avez plus besoin de vous souvenir de ce numéro ! Cette question est terminée ! Nous répondons à la question Fortnite maintenant ! Se concentrer! ",
+      "t": "A",
+      "v": "735569_3",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "J'oublie presque que j'ai cette question Fortnite plus tôt dans le jeu. ",
+      "t": "A",
+      "v": "735558_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "735560_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Un Fortnite dure deux semaines, ce qui équivaut à 14 jours ou 336 heures. ",
+      "t": "A",
+      "v": "735562_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Je m'assure toujours de prendre de nombreuses pauses pour m'hydrater, me dégourdir la jambe et changer ma couche. ",
+      "t": "A",
+      "v": "735563_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "If I played <i>Fortnite</i> for a fortnight straight, how many hours would I have spent not doing anything else?",
+      "t": "A",
+      "v": "735559_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

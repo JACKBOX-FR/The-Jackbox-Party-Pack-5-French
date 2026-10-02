@@ -1,0 +1,245 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion5Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupPoorAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasDisAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion1Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion4Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTimingInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasScoreInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupRockedAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupAwfulAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion7Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasDatAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion6Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion3Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupOutroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupGoodAudio"
+    },
+    {
+      "t": "S",
+      "v": "S+11.07",
+      "n": "$InstructionsAudio$DatTextCue"
+    },
+    {
+      "t": "S",
+      "v": "Peuples de la Terre, préparez-vous à être perturbés ! ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "DOCTEUR MORT ",
+      "n": "DatButtonText"
+    },
+    {
+      "t": "S",
+      "v": "ELON MUSC ",
+      "n": "DisButtonText"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$InstructionsAudio$BothCue"
+    },
+    {
+      "t": "S",
+      "v": "un projet technologique porté par Elon Musk ",
+      "n": "DisText"
+    },
+    {
+      "t": "S",
+      "v": "une invention du super-vilain de bande dessinée Doctor Doom ",
+      "n": "DatText"
+    },
+    {
+      "t": "S",
+      "v": "S+4.80",
+      "n": "$InstructionsAudio$DisTextCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.60",
+      "n": "$DisAudio$DisButtonCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.61",
+      "n": "$DatAudio$DatButtonCue"
+    },
+    {
+      "s": "Nécrophone ",
+      "t": "A",
+      "v": "718456_1",
+      "n": "Question5Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "TimingInstructionsAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupOutroAudio"
+    },
+    {
+      "s": "Je vais vous lire sept choses, et pour chacune d'entre elles, je veux que vous me disiez si c'est # un projet technologique dirigé par Elon Musk, vous savez, le gars de Tesla... ou # une invention du super-vilain de bande dessinée Doctor Doom. ",
+      "t": "A",
+      "v": "718451_1",
+      "n": "InstructionsAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ScoreInstructionsAudio"
+    },
+    {
+      "s": "Servo-gardes ",
+      "t": "A",
+      "v": "718458_1",
+      "n": "Question7Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupPoorAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupRockedAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupAwfulAudio"
+    },
+    {
+      "s": "EspaceX ",
+      "t": "A",
+      "v": "718453_1",
+      "n": "Question2Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupGoodAudio"
+    },
+    {
+      "s": "...ELON MUSK... ou... ",
+      "t": "A",
+      "v": "718464_3",
+      "n": "DisAudio"
+    },
+    {
+      "s": "Plateforme temporelle ",
+      "t": "A",
+      "v": "718454_1",
+      "n": "Question3Audio"
+    },
+    {
+      "s": "Peuples de la Terre, préparez-vous à être perturbés ! et insérez un rire diabolique, car c'est l'heure d'un Dis ou Dat ! ",
+      "t": "A",
+      "v": "718450_2",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "...DR. CONDAMNATION ",
+      "t": "A",
+      "v": "718465_4",
+      "n": "DatAudio"
+    },
+    {
+      "s": "Lien neuronal ",
+      "t": "A",
+      "v": "718455_1",
+      "n": "Question4Audio"
+    },
+    {
+      "s": "Hyperboucle ",
+      "t": "A",
+      "v": "718452_1",
+      "n": "Question1Audio"
+    },
+    {
+      "s": "Ville Solaire ",
+      "t": "A",
+      "v": "718457_1",
+      "n": "Question6Audio"
+    }
+  ]
+}

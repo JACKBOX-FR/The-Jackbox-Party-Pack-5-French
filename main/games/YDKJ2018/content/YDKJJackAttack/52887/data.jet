@@ -1,0 +1,421 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_6Correct"
+    },
+    {
+      "t": "S",
+      "v": "<i>Déjeuner nu</i> ",
+      "n": "Choice6_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Célèbres BURROS ",
+      "n": "Root2Text"
+    },
+    {
+      "t": "S",
+      "v": "Bureau de réglementation des grands mammifères et des zoos ",
+      "n": "Choice5_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Âne Kong ",
+      "n": "Choice2_3Text"
+    },
+    {
+      "t": "S",
+      "v": "tortues luths ",
+      "n": "Choice4_2Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Déjeuner nu</i> ",
+      "n": "Choice6_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Davenports ",
+      "n": "Choice3_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Upper East Side ",
+      "n": "Choice1_6Text"
+    },
+    {
+      "t": "S",
+      "v": "ARRONDISSEMENTS de la ville de New York ",
+      "n": "Root1Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Peur et dégoût à Las Vegas</i> ",
+      "n": "Choice6_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Shelton la mule franciscaine du crépuscule ",
+      "n": "Choice2_6Text"
+    },
+    {
+      "t": "S",
+      "v": "macareux ",
+      "n": "Choice4_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Ça se prononce Buh-Rose ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "Petit Sébastien ",
+      "n": "Choice2_2Text"
+    },
+    {
+      "t": "S",
+      "v": "martins-pêcheurs ",
+      "n": "Choice4_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Brooklyn ",
+      "n": "Choice1_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Bureau de lutte contre le terrorisme et l'extrémisme violent ",
+      "n": "Choice5_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Le Bronx ",
+      "n": "Choice1_5Text"
+    },
+    {
+      "t": "S",
+      "v": "chaises ",
+      "n": "Choice3_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Harlem ",
+      "n": "Choice1_3Text"
+    },
+    {
+      "t": "S",
+      "v": "lynx ",
+      "n": "Choice4_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Âne de <i>Shrek</i> ",
+      "n": "Choice2_5Text"
+    },
+    {
+      "t": "S",
+      "v": "BUREAUX Fédéraux ",
+      "n": "Root5Text"
+    },
+    {
+      "t": "S",
+      "v": "Vit à des terriers ",
+      "n": "Root4Text"
+    },
+    {
+      "t": "S",
+      "v": "chauves-souris grises ",
+      "n": "Choice4_5Text"
+    },
+    {
+      "t": "S",
+      "v": "Bourriquet ",
+      "n": "Choice2_1Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Les Souterrains</i> ",
+      "n": "Choice6_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Bureau fédéral des risques et perturbations ",
+      "n": "Choice5_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Île Longue ",
+      "n": "Choice1_4Text"
+    },
+    {
+      "t": "S",
+      "v": "cassons ",
+      "n": "Choice3_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Bureau de l'alcool, du tabac, des armes à feu et des explosifs ",
+      "n": "Choice5_2Text"
+    },
+    {
+      "t": "S",
+      "v": "commodes ",
+      "n": "Choice3_1Text"
+    },
+    {
+      "t": "S",
+      "v": "chabudais ",
+      "n": "Choice3_6Text"
+    },
+    {
+      "t": "S",
+      "v": "Reines ",
+      "n": "Choice1_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Bureau de gravure et d'impression ",
+      "n": "Choice5_5Text"
+    },
+    {
+      "t": "S",
+      "v": "BUREAUX de meubles ",
+      "n": "Root3Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Sur la route</i> ",
+      "n": "Choice6_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Livres de William S. BURROUGHS ",
+      "n": "Root6Text"
+    },
+    {
+      "t": "S",
+      "v": "Dominick l'âne de Noël italien ",
+      "n": "Choice2_4Text"
+    },
+    {
+      "t": "S",
+      "v": "marmottes ",
+      "n": "Choice4_3Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Junky</i> ",
+      "n": "Choice6_3Text"
+    },
+    {
+      "t": "S",
+      "v": "robes en mousseline ",
+      "n": "Choice3_2Text"
+    },
+    {
+      "t": "S",
+      "v": "Bureau fédéral d'inspection ",
+      "n": "Choice5_1Text"
+    },
+    {
+      "s": "Ça se prononce Buh-Rose ",
+      "t": "A",
+      "v": "756287_2 ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Nous vous donnons des rangées et des rangées de terriers... vous nous dites ce qui vous convient... bonne chance ",
+      "t": "A",
+      "v": "756288_1 ",
+      "n": "IntroAudio"
+    }
+  ]
+}

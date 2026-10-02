@@ -1,0 +1,74 @@
+{
+    "table":{
+    "en": {
+        "LANGUAGE_NAME": "English",
+        "LANGUAGE": "Language",
+        "INTERNET_CONNECTED": "Nous venons de trouver Internet.",
+        "INTERNET_DISCONNECTED": "Nous sommes désolés, nous n'arrivons pas à nous connecter aux serveurs de Jackbox Games.<br />Veuillez vérifier que votre connexion Internet fonctionne correctement.",
+        "ROOM_DESTROYED": "Nous sommes désolés, une erreur réseau s'est produite et votre chambre a été détruite.<br />Veuillez vérifier que votre connexion Internet fonctionne correctement.",
+        "SOCKET_DISCONNECTED": "Nous sommes désolés, nous avons perdu votre connexion aux serveurs de Jackbox Games.",
+        "TIMEOUT": "Nous sommes désolés, nous n'arrivons pas à nous connecter aux serveurs de Jackbox Games.<br />Veuillez vérifier que votre connexion Internet fonctionne correctement.",
+        "USER_DISCONNECT": "Nous sommes désolés, le serveur vous a déconnecté. Veuillez réessayer.",
+        "LOST_LICENSE": "Nous sommes désolés, nous avons perdu la licence pour ce contenu !",
+        "STEAM_ERROR": "Nous sommes désolés, nous n'avons pas pu valider votre licence Steam.",
+        "TWITCH_PRIME_ERROR": "Nous sommes désolés, nous n'avons pas pu valider votre licence Twitch.",
+        "LOST_DLC": "Nous sommes désolés, la licence de votre DLC est introuvable. Je vous ramène au menu...",
+        "CLOSE": "Fermer",
+        "QUIT": "Quitter",
+        "BACK": "Retour",
+        "MENU_GAME_NAME_1": "YOU DON’T KNOW JACK",
+        "MENU_GAME_NAME_2": "Split the Room",
+        "MENU_GAME_NAME_3": "Mad Verse City",
+        "MENU_GAME_NAME_4": "Zeeple Dome",
+        "MENU_GAME_NAME_5": "Patently Stupid",
+        "MENU_GAME_NAME_DISABLED": "??????????",
+        "MENU_DLC": "DLC",
+        "MENU_SETTINGS": "Paramètres",
+        "MENU_HOW_TO": "COMMENT FAIRE",
+        "BADGE_TITLE_PLAYERS": "JOUEUSES",
+        "BADGE_TITLE_FAMILY_MODE": "CONVIVIAL POUR LA FAMILLE",
+        "BADGE_TITLE_NOT_FAMILY_MODE": "PAS FAMILIAL",
+        "BADGE_TITLE_AUDIENCE": "PUBLIC",
+        "BADGE_SUB_PLAYERS": "UTILISER DES TÉLÉPHONES/TABLETTES",
+        "BADGE_SUB_FAMILY_MODE": "FACULTATIVE",
+        "BADGE_SUB_NOT_FAMILY_MODE": "NOUS LE SIGNIFIONS !",
+        "BADGE_SUB_AUDIENCE": "LES NON-JOUEURS PEUVENT REJOINDRE",
+        "INFO_DESCRIPTION_GAME_1": "VOUS NE CONNAISSEZ PAS JACK : Full Stream apporte le phénomène classique des quiz irrévérencieux au service de streaming très populaire et totalement fictif Binjpipe ! Leurs conditions d’utilisation indiquent explicitement que vous allez adorer !",
+        "INFO_DESCRIPTION_GAME_2": "Le jeu de simulation où tout est possible ! Créez des situations hypothétiques étranges et source de division.",
+        "INFO_DESCRIPTION_GAME_3": "Le jeu de combat de robots rap ! Crachez des rimes folles contre vos amis pour voir qui est le MC le plus dingue et qui est le chat le plus farfelu.",
+        "INFO_DESCRIPTION_GAME_4": "Le jeu télévisé le plus meurtrier de la galaxie ! Lancez-vous et gagnez des prix fabuleux !!!",
+        "INFO_DESCRIPTION_GAME_5": "Le jeu de dessin inventif où vous résolvez des problèmes bizarres ! Présentez vos idées pour récolter de l'argent !",
+        "INFO_DESCRIPTION_GAME_DISABLED": "??? ??????? ???? ? ????????? ????? ??????? ??????-???? ????.",
+        "SETTINGS_TITLE": "PARAMÈTRES",
+        "SETTINGS_FULL_SCREEN": "Mode plein écran",
+        "SETTINGS_VOLUME": "Contrôle du volume",
+        "SETTINGS_FULL_SCREEN_DESCRIPTION": "ON rendra le jeu en plein écran.",
+        "SETTINGS_VOLUME_DESCRIPTION": "Rendez le jeu FORT ou SILENCIEUX.",
+        "SETTINGS_TOGGLE_ON": "ON",
+        "SETTINGS_TOGGLE_OFF": "OFF",
+        "HELP_TITLE": "INSTRUCTIONS",
+        "HELP_LINE_1": "Sélectionnez et démarrez un jeu à l’aide d’un contrôleur.",
+        "HELP_LINE_2": "Une fois que vous avez atteint le lobby du jeu, sortez votre téléphone, votre tablette ou votre ordinateur portable.tre tablette ou votre ordinateur portable.",
+        "HELP_LINE_3": "Accédez à jackbox.tv sur votre appareil.",
+        "HELP_LINE_4": "Entrez le code de la chambre à 4 lettres affiché sur l'écran du téléviseur et votre nom de joueur.",
+        "HELP_LINE_5": "Le premier joueur à rejoindre le lobby du jeu (le VIP) peut démarrer le jeu depuis son appareil une fois que tout le monde est prêt.",
+        "HELP_LINE_6": "Profitez-en avec vos amis, votre famille ou de parfaits inconnus."
+    },
+    "fr": {
+        "LANGUAGE_NAME": "Français",
+        "LANGUAGE": "Langue"
+    },
+    "it": {
+        "LANGUAGE_NAME": "Italiano",
+        "LANGUAGE": "Lingua"
+    },
+    "de": {
+        "LANGUAGE_NAME": "Deutsche",
+        "LANGUAGE": "Sprache"
+    },
+    "es": {
+        "LANGUAGE_NAME": "Español",
+        "LANGUAGE": "idioma"
+    }
+}
+}

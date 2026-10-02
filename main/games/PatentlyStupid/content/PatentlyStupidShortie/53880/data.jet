@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "se baigner | invite-moi à déjeuner | tirer la chasse d'eau ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Mes collègues ne <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Ce sont mes collègues. Ils n'ont jamais, jamais CECI ! ",
+      "t": "A",
+      "v": "767740_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "gelée de fraise | fil de fer barbelé | tranches de saumon fumé | margarine | pudding à la vanille ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "S+7.48",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "S+3.35",
+      "n": "$ScenarioAudio$ScenarioTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "Votre fiancé veut vraiment se marier sur une plage. ",
+      "n": "ScenarioText3"
+    },
+    {
+      "t": "S",
+      "v": "S+4.80",
+      "n": "$ScenarioAudio$ScenarioTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "Tout sable est pour vous des sables mouvants, à moins que vous ne vous couvriez le corps avec ",
+      "n": "ScenarioText1"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00 ",
+      "n": "$ScenarioAudio$ScenarioTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "<BLANK>. ",
+      "n": "ScenarioText2"
+    },
+    {
+      "t": "S",
+      "v": "Réservez-vous un emplacement sur la plage ? ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Ce sentiment de naufrage ",
+      "t": "A",
+      "v": "762898_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Tout sable est des sables mouvants pour vous, à moins que vous n'en couvriez votre corps. Votre fiancé veut vraiment se marier sur une plage. Réservez-vous un emplacement sur la plage ? ",
+      "t": "A",
+      "v": "762899_2 ",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    }
+  ]
+}

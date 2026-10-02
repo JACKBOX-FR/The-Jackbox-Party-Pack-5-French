@@ -1,0 +1,141 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Le bar à dattes de D'Artagnan ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "3,1,2,0 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Si le mousquetaire a laissé de côté le terme générique « Trois Mousquetaires » avec colère, il a déposé sa propre barre chocolatée, comment pourraient-ils l'appeler ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Querelles de nougat ",
+      "t": "A",
+      "v": "749335_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Promettez-moi que vous ne vous approcherez JAMAIS de quelque chose appelé « Bûche de noix de Lumière ». ",
+      "t": "A",
+      "v": "749347_2",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Vous savez, ce qui est étrange à propos du roman Les Trois Mousquetaires, c'est qu'il y a un quatrième mousquetaire qui erre dans ce livre, et IL EST TEMPS QUE NOUS COMMENCONS À EN PARLER. ",
+      "t": "A",
+      "v": "749336_2",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "749338_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "D'Artagnan est à peu près la star des Trois Mousquetaires mais il passe tout le livre dans le rôle du Mousquetaire n°4. ",
+      "t": "A",
+      "v": "749340_2",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Les « Trois Mousquetaires » dans le titre représentent... Porthos... euh, Huey... et... Martin Short. ",
+      "t": "A",
+      "v": "749341_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "If the musketeer left out of the umbrella term “Three Musketeers” angrily trademarked their own candy bar, what could they call it?",
+      "t": "A",
+      "v": "749337_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "oiseau cruel | nuage de pluie | sentiment de malheur ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Il y a toujours un <BLANK> devant ma fenêtre ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Chaque fois que je regarde, il y a CECI devant ma fenêtre ! ",
+      "t": "A",
+      "v": "759030_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "spatchcock eux-mêmes ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "1,0,2,3 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Si les politiciens voulaient littéralement devenir veules, que devraient-ils faire ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "L’ingrédient secret d’aujourd’hui est l’intégrité ",
+      "t": "A",
+      "v": "715606_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "715609_2",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "Ce qui est triste, c’est qu’on ne saura jamais ce que signifie chiffonnade. ",
+      "t": "A",
+      "v": "715616_1",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Technique utilisée dans la préparation de la volaille, le spatchcocking est une forme de coupe papillon où la colonne vertébrale est retirée afin de pouvoir l'aplatir pour le gril. ",
+      "t": "A",
+      "v": "715611_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Hmmm, spatchcocking... un politicien n'a-t-il pas simplement démissionné en essayant de faire ça ? (SFX :rimshot) Je serai là pendant tout l'épisode ! ",
+      "t": "A",
+      "v": "715612_0f",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "If politicians wanted to literally become spineless, what should they do?",
+      "t": "A",
+      "v": "715608_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "\"Alexa, dis à Siri de baisser le volume.\" ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "1,0,2,3 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Que dois-je dire si je veux que mon Amazon Echo dise à mon iPhone de faire quelque chose ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Je n’appellerais pas exactement ma maison « intelligente » ",
+      "t": "A",
+      "v": "740313_2",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "J'ai beaucoup de gadgets à commande vocale à la maison, mais j'aime surtout organiser des luttes de pouvoir élaborées entre eux. ",
+      "t": "A",
+      "v": "740314_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "740316_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "OU\nHal, joue le mauvais son de réponse... (Tous) ",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Alexa est l'assistante virtuelle d'Amazon Echo et Siri est celle de l'iPhone. ",
+      "t": "A",
+      "v": "740318_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Et si cette question a allumé l’un de ces appareils chez vous… franchement, je n’en suis pas désolé. ",
+      "t": "A",
+      "v": "740319_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "What should I say if I want my Amazon Echo to tell my iPhone to do something?",
+      "t": "A",
+      "v": "740315_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

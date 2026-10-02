@@ -1,0 +1,139 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "« À la recherche d’une femme qui MARCHE EN BEAUTÉ. » ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "0,1,2,3 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Si j’essaie d’apparaître Byronic dans mon profil de rencontre en ligne, à quel poème dois-je faire référence dans mon introduction ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "J'ai hâte de mesurer ",
+      "t": "A",
+      "v": "755740_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "755743_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "OU\nVous êtes poète et vous ne connaissiez même pas... la réponse. (TOUS) ",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "OU\n(ALA Bye Felicia) Byron ressemble plus à Bye, Ron ! (TOUS) ",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Lord Byron a écrit Elle marche en beauté.",
+      "t": "A",
+      "v": "755745_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Maintenant, tout ce dont j’ai besoin, c’est d’un ailier accro à l’opium nommé Percy et je suis prêt. ",
+      "t": "A",
+      "v": "755746_2",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "If I’m trying to appear Byronic in my online dating profile, which poem should I reference in my opening?",
+      "t": "A",
+      "v": "755742_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

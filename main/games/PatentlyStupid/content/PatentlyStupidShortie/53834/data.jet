@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "chien | poils des jambes | jumeau maléfique ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Mon <BLANK> revient sans cesse ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Mon CECI revient sans cesse ! ",
+      "t": "A",
+      "v": "767600_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

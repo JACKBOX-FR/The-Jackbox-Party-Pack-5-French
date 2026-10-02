@@ -1,0 +1,141 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "O+ « Confus par le système de notation » ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "3,2,1,0 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Quel serait l'avis le plus fréquent des visiteurs de l'<i>Hôtel Transylvania</i> s'il s'agissait également du groupe sanguin le plus répandu au monde ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Mourir d'envie d'avoir une auberge ",
+      "t": "A",
+      "v": "723009_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Je suis sûr que tu as tort ! ",
+      "t": "A",
+      "v": "723021_1",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Le pire dans le fait d’être immortel est que les présentations en temps partagé durent indéfiniment. ",
+      "t": "A",
+      "v": "723010_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "723012_3",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "Cette réponse sera fausse pour toujours et à jamais. ",
+      "t": "A",
+      "v": "723019_1",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Bien plus d’un tiers de la population a du sang O positif, ce qui en fait le plus répandu sur la planète. ",
+      "t": "A",
+      "v": "723014_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "OU\nL'hôtel est tellement bien que vous jurerez que vous êtes mort et que vous êtes allé à Hampton\nOR\nMais séjourner dans un endroit où l'on boit votre sang devrait être votre dernier recours. \nOU ",
+      "t": "A",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "What would be the most common visitor review of the <i>Hotel Transylvania</i> if it also happened to be the most common blood type in the world?",
+      "t": "A",
+      "v": "723011_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "bol|manger|combattre des monstres ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "J'ai toujours faim pendant que je <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : J'ai toujours très faim quand je fais CECI ! ",
+      "t": "A",
+      "v": "758383_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

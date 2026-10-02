@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "émissions sur les dauphins | cuisse | mèmes drôles ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je veux en voir plus <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : J'ai l'impression de ne pas voir assez de CELA ! Genre, allez ! Donnez-le-moi ! ",
+      "t": "A",
+      "v": "767795_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

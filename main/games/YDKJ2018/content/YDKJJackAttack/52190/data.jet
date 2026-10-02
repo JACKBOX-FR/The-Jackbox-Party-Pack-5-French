@@ -1,0 +1,421 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice2_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice5_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice2_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice4_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice1_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice4_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice1_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice6_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_1Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_2Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_3Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice6_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "Choice3_5Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_6Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice3_4Correct"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "Choice5_6Correct"
+    },
+    {
+      "t": "S",
+      "v": "un touché du football allemand ",
+      "n": "Choice6_6Text"
+    },
+    {
+      "t": "S",
+      "v": "2 points ",
+      "n": "Root2Text"
+    },
+    {
+      "t": "S",
+      "v": "Tuile P Scrabble ",
+      "n": "Choice5_4Text"
+    },
+    {
+      "t": "S",
+      "v": "un évêque ",
+      "n": "Choice2_3Text"
+    },
+    {
+      "t": "S",
+      "v": "un essai en ligue de rugby",
+      "n": "Choice4_2Text"
+    },
+    {
+      "t": "S",
+      "v": "un touché de football ",
+      "n": "Choice6_1Text"
+    },
+    {
+      "t": "S",
+      "v": "un essai de rugby ",
+      "n": "Choice3_5Text"
+    },
+    {
+      "t": "S",
+      "v": "une tuile de Scrabble vierge ",
+      "n": "Choice1_6Text"
+    },
+    {
+      "t": "S",
+      "v": "1 point ",
+      "n": "Root1Text"
+    },
+    {
+      "t": "S",
+      "v": "une étoile de David ",
+      "n": "Choice6_5Text"
+    },
+    {
+      "t": "S",
+      "v": "un panier à l'intérieur de la ligne des 3 points ",
+      "n": "Choice2_6Text"
+    },
+    {
+      "t": "S",
+      "v": "un essai de rugby à XV ",
+      "n": "Choice4_1Text"
+    },
+    {
+      "t": "S",
+      "v": "Quels sont les points ? ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "un but de terrain de football ",
+      "n": "Choice2_2Text"
+    },
+    {
+      "t": "S",
+      "v": "une tuile Y Scrabble ",
+      "n": "Choice4_6Text"
+    },
+    {
+      "t": "S",
+      "v": "un coup de circuit au baseball ",
+      "n": "Choice1_1Text"
+    },
+    {
+      "t": "S",
+      "v": "un losange ",
+      "n": "Choice5_3Text"
+    },
+    {
+      "t": "S",
+      "v": "un but de hockey ",
+      "n": "Choice1_5Text"
+    },
+    {
+      "t": "S",
+      "v": "un tour du chapeau ",
+      "n": "Choice3_4Text"
+    },
+    {
+      "t": "S",
+      "v": "un lancer franc ",
+      "n": "Choice1_3Text"
+    },
+    {
+      "t": "S",
+      "v": "un grand balayage du curling ",
+      "n": "Choice4_4Text"
+    },
+    {
+      "t": "S",
+      "v": "une conversion de football ",
+      "n": "Choice2_5Text"
+    },
+    {
+      "t": "S",
+      "v": "5 points ",
+      "n": "Root5Text"
+    },
+    {
+      "t": "S",
+      "v": "4 points ",
+      "n": "Root4Text"
+    },
+    {
+      "t": "S",
+      "v": "un triple jeu de baseball ",
+      "n": "Choice4_5Text"
+    },
+    {
+      "t": "S",
+      "v": "une sécurité du football ",
+      "n": "Choice2_1Text"
+    },
+    {
+      "t": "S",
+      "v": "un X sur la <i>Roue de la Fortune</i> ",
+      "n": "Choice6_4Text"
+    },
+    {
+      "t": "S",
+      "v": "Tuile K Scrabble ",
+      "n": "Choice5_6Text"
+    },
+    {
+      "t": "S",
+      "v": "un but de football ",
+      "n": "Choice1_4Text"
+    },
+    {
+      "t": "S",
+      "v": "un chevalier ",
+      "n": "Choice3_3Text"
+    },
+    {
+      "t": "S",
+      "v": "un essai de rugby à XV ",
+      "n": "Choice5_2Text"
+    },
+    {
+      "t": "S",
+      "v": "un but de terrain de football ",
+      "n": "Choice3_1Text"
+    },
+    {
+      "t": "S",
+      "v": "un évêque ",
+      "n": "Choice3_6Text"
+    },
+    {
+      "t": "S",
+      "v": "un touché de football ",
+      "n": "Choice1_2Text"
+    },
+    {
+      "t": "S",
+      "v": "une cible de fléchettes ",
+      "n": "Choice5_5Text"
+    },
+    {
+      "t": "S",
+      "v": "3 points ",
+      "n": "Root3Text"
+    },
+    {
+      "t": "S",
+      "v": "une majeure en football canadien ",
+      "n": "Choice6_2Text"
+    },
+    {
+      "t": "S",
+      "v": "6 points ",
+      "n": "Root6Text"
+    },
+    {
+      "t": "S",
+      "v": "Tuile B Scrabble ",
+      "n": "Choice2_4Text"
+    },
+    {
+      "t": "S",
+      "v": "un grand chelem de baseball ",
+      "n": "Choice4_3Text"
+    },
+    {
+      "t": "S",
+      "v": "Tuile X Scrabble ",
+      "n": "Choice6_3Text"
+    },
+    {
+      "t": "S",
+      "v": "une tour ",
+      "n": "Choice3_2Text"
+    },
+    {
+      "t": "S",
+      "v": "une tour ",
+      "n": "Choice5_1Text"
+    },
+    {
+      "s": "Quels sont les points ? ",
+      "t": "A",
+      "v": "746268_1 ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Il est temps de gagner quelques points sur certaines questions liées à certains points.... bonne chance... ",
+      "t": "A",
+      "v": "746269_2 ",
+      "n": "IntroAudio"
+    }
+  ]
+}

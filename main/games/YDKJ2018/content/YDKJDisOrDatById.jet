@@ -1,0 +1,92 @@
+{
+  "content": [
+    {
+      "questions": [
+        {
+          "text": "Cobb ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Denver ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Gado Gado ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Larbe ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Tortilla espagnole ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Tomagoyaki ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Niçoise ",
+          "correctChoiceString": "ceci"
+        }
+      ],
+      "disChoice": {
+        "longText": "une sorte de salade ",
+        "shortText": "SALADE MÉLANGE "
+      },
+      "datChoice": {
+        "longText": "une sorte d'omelette ou de plat d'œufs ",
+        "shortText": "OEUFS BROUILLÉS "
+      },
+      "id": "53149",
+      "category": {
+        "text": "J'entends le Blues A-Callin' "
+      }
+    },
+    {
+      "questions": [
+        {
+          "text": "Toujours discret ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Air frais ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Le Quotidien ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Dossier de bien-être ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "99 % invisibles ",
+          "correctChoiceString": "ceci"
+        },
+        {
+          "text": "Coussinets d'équilibre ",
+          "correctChoiceString": "cela"
+        },
+        {
+          "text": "Ville S ",
+          "correctChoiceString": "ceci"
+        }
+      ],
+      "disChoice": {
+        "longText": "un podcast populaire dans les classements Apple Podcast ",
+        "shortText": "PODCAST "
+      },
+      "datChoice": {
+        "longText": "un produit d'incontinence adulte",
+        "shortText": "SOLUTION Caca"
+      },
+      "id": "50173",
+      "category": {
+        "text": "Mon frère, mon frère et pipi"
+      }
+    }
+  ]
+}

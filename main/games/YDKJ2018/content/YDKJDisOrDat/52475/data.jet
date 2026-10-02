@@ -1,0 +1,245 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion5Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupPoorAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasDisAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion1Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion4Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTimingInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasScoreInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupRockedAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupAwfulAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion7Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasDatAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion6Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion3Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupOutroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupGoodAudio"
+    },
+    {
+      "t": "S",
+      "v": "S+7.45",
+      "n": "$InstructionsAudio$DatTextCue"
+    },
+    {
+      "t": "S",
+      "v": "Questions et réponses sur l'avenue ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "GARY BUSEY ",
+      "n": "DatButtonText"
+    },
+    {
+      "t": "S",
+      "v": "AVENUE Q ",
+      "n": "DisButtonText"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$InstructionsAudio$BothCue"
+    },
+    {
+      "t": "S",
+      "v": "chanson de la comédie musicale <i>Avenue Q</i> ",
+      "n": "DisText"
+    },
+    {
+      "t": "S",
+      "v": "tweet de la « célébrité » Gary Busey ",
+      "n": "DatText"
+    },
+    {
+      "t": "S",
+      "v": "S+3.97",
+      "n": "$InstructionsAudio$DisTextCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$DisAudio$DisButtonCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$DatAudio$DatButtonCue"
+    },
+    {
+      "s": "Tout le monde est un peu raciste. ",
+      "t": "A",
+      "v": "750243_1",
+      "n": "Question5Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "TimingInstructionsAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupOutroAudio"
+    },
+    {
+      "s": "Je vais lire sept choses, et pour chacune d'elles, je veux que vous me disiez s'il s'agit d'une # chanson de la comédie musicale Avenue Q ou d'un # tweet de la célébrité Gary Busey. ",
+      "t": "A",
+      "v": "750238_1",
+      "n": "InstructionsAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ScoreInstructionsAudio"
+    },
+    {
+      "s": "Les choses sont de saison pour une raison. ",
+      "t": "A",
+      "v": "750245_1",
+      "n": "Question7Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupPoorAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupRockedAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupAwfulAudio"
+    },
+    {
+      "s": "Félicitez quelqu’un et il se taira. ",
+      "t": "A",
+      "v": "750240_1",
+      "n": "Question2Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupGoodAudio"
+    },
+    {
+      "s": "...Avenue Q... ou... ",
+      "t": "A",
+      "v": "750251_3",
+      "n": "DisAudio"
+    },
+    {
+      "s": "Tous les mots F ne sont pas des mots « F ». ",
+      "t": "A",
+      "v": "750241_3",
+      "n": "Question3Audio"
+    },
+    {
+      "s": "Avenue Q et A et c'est un Dis ou Dat... ",
+      "t": "A",
+      "v": "750237_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "...Gary Busey ",
+      "t": "A",
+      "v": "750252_3",
+      "n": "DatAudio"
+    },
+    {
+      "s": "Internet est pour le porno. ",
+      "t": "A",
+      "v": "750242_1",
+      "n": "Question4Audio"
+    },
+    {
+      "s": "Je ne porte pas de sous-vêtements aujourd'hui. ",
+      "t": "A",
+      "v": "750239_1",
+      "n": "Question1Audio"
+    },
+    {
+      "s": "Je viens de faire des spaghettis pour la première fois. ",
+      "t": "A",
+      "v": "750244_1",
+      "n": "Question6Audio"
+    }
+  ]
+}

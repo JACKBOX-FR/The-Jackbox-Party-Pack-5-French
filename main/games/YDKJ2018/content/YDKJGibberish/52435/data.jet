@@ -1,0 +1,100 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "S",
+      "v": "Ce sont tous des personnages emblématiques... ",
+      "n": "Clue1Text"
+    },
+    {
+      "t": "S",
+      "v": "...et ils excellent au combat. ",
+      "n": "Clue2Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Super Smash Brothers</i> ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Super frère smash, superbes frères smash, superbe frère smash, super frère smash ",
+      "n": "Acceptable"
+    },
+    {
+      "t": "S",
+      "v": "Les superbes frères et sœurs du jeu vidéo qui se battent. ",
+      "n": "Clue3Text"
+    },
+    {
+      "t": "S",
+      "v": "Que dois-je faire avec tout cet encens ? ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "Groupe de myrrhe ; jeter les autres. ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Ce sont tous des personnages emblématiques... ",
+      "t": "A",
+      "v": "749586_1",
+      "n": "Clue1Audio"
+    },
+    {
+      "s": "Que dois-je faire avec tout cet encens ? ",
+      "t": "A",
+      "v": "749581_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Les superbes frères et sœurs du jeu vidéo qui se battent. ",
+      "t": "A",
+      "v": "749588_1",
+      "n": "Clue3Audio"
+    },
+    {
+      "s": "Regardez la phrase charabia et dites-moi avec quel jeu populaire elle rime. ",
+      "t": "A",
+      "v": "749582_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "OutroAudio"
+    },
+    {
+      "s": "...et ils excellent au combat. ",
+      "t": "A",
+      "v": "749587_1",
+      "n": "Clue2Audio"
+    },
+    {
+      "s": "Groupe de myrrhe ; jeter les autres. ",
+      "t": "A",
+      "v": "749583_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

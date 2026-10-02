@@ -1,0 +1,143 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "parce que ses fesses contiennent des GRAISSES INSATUREES ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "2,1,0,3 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Pourquoi ne devriez-vous pas faire honte à M. Peanut ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Aimez la coquille dans laquelle vous êtes ",
+      "t": "A",
+      "v": "718827_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Oh, cinglés ! (TOUS) ",
+      "t": "A",
+      "v": "718839_0",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Évidemment, vous ne devriez faire honte à personne, mais en plus de cela... ",
+      "t": "A",
+      "v": "718828_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "718830_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "Oh, cinglés ! (TOUS) ",
+      "t": "A",
+      "v": "718837_1",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "Oh, cinglés ! (TOUS) ",
+      "t": "A",
+      "v": "718835_0",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Les cacahuètes sont composées principalement de graisses insaturées, c’est-à-dire les bonnes. ",
+      "t": "A",
+      "v": "718832_2",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Ce qui permet à M. Peanut de TUER TOUTE LA JOURNÉE. ",
+      "t": "A",
+      "v": "718833_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "Why shouldn’t you fat shame Mr. Peanut?",
+      "t": "A",
+      "v": "718829_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

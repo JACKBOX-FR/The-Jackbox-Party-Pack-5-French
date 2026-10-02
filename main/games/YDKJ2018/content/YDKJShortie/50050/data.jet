@@ -1,0 +1,142 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "PAPA : « Arrête de faire comme Hitler ! » ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "2,0,3,1 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Selon la loi de Godwin, la chaîne géante et sans fin de courriers électroniques de toute ma famille aboutira finalement à quel message ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Comment papa a-t-il obtenu mon adresse e-mail ? ",
+      "t": "A",
+      "v": "715715_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Je suis d'accord, grand-mère, je suis d'accord. ",
+      "t": "A",
+      "v": "715727_4",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "715718_4",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "La loi de Godwin ne concerne pas seulement Dieu parce que Dieu est au nom de Godwin. Je veux dire, allez. ",
+      "t": "A",
+      "v": "715725_4",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "Ignore grand-père. ",
+      "t": "A",
+      "v": "715723_3",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "La loi de Godwin postule que toute discussion en ligne, si elle dure suffisamment longtemps, finira par amener quelqu’un à comparer quelqu’un d’autre à Hitler. ",
+      "t": "A",
+      "v": "715720_3",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Et je ne parle pas seulement de la moustache de grand-mère. ",
+      "t": "A",
+      "v": "715721_3",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "According to Godwin’s Law, the giant unending group e-mail chain from my entire family will eventually result in which message?",
+      "t": "A",
+      "v": "715717_3",
+      "n": "QuestionAudio"
+    }
+  ]
+}

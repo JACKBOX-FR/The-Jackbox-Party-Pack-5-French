@@ -1,0 +1,142 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Vous pouvez réchauffer vos couilles Before le tour. ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "0,3,2,1 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Selon les règles officielles du golf, quand est-il autorisé de réchauffer artificiellement vos balles ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Zoellers flous et chauds ",
+      "t": "A",
+      "v": "708133_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Une fois par tour ? J'arrive à peine à me débrouiller une fois par semaine... De quoi parle-t-on ? ",
+      "t": "A",
+      "v": "708145_1",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "708136_2",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "Non, non, vous ne pouvez pas. ",
+      "t": "A",
+      "v": "708143_2",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "Pour être honnête, cela semble certainement être un bon conseil. ",
+      "t": "A",
+      "v": "708141_1",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Vous pouvez réchauffer vos balles avec un appareil artificiel mais seulement avant le tour, pas pendant. ",
+      "t": "A",
+      "v": "708138_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "(en quelque sorte, je me parle) Laisse-moi vérifier ma feuille de pointage. Question de golf, vérifiez. (sfx : bruit subtil de scibble de crayon) Jeu de mots de balle... vérifiez. Super... je suis à peu près au niveau. ",
+      "t": "A",
+      "v": "708139_0f",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "According to the official rules of golf, when are you allowed to artificially warm your balls?",
+      "t": "A",
+      "v": "708135_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "intelligente | capable de voir dans le noir | puant ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "J'aurais aimé être plus <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : J'aimerais juste être plus CECI ! ",
+      "t": "A",
+      "v": "767114_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

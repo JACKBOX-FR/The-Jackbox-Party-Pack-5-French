@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "cheveux|années universitaires|dollar ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "J'aimerais pouvoir récupérer mon <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : J'aimerais juste pouvoir récupérer mon CECI ! ",
+      "t": "A",
+      "v": "752753_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

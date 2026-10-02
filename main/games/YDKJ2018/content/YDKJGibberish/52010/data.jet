@@ -1,0 +1,100 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "S",
+      "v": "Des couleurs à la mode... ",
+      "n": "Clue1Text"
+    },
+    {
+      "t": "S",
+      "v": "... pourrait changer après votre procès. ",
+      "n": "Clue2Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Orange est le nouveau noir</i> ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "orang est le nouveau noir, orange est un nouveau noir, orunge est le nouveau noir, oranges le nouveau noir, orange est le nouveau noir, orange est le nouveau noir ",
+      "n": "Acceptable"
+    },
+    {
+      "t": "S",
+      "v": "Cet agrume est la couleur foncée la plus actuelle. ",
+      "n": "Clue3Text"
+    },
+    {
+      "t": "S",
+      "v": "Où ai-je laissé mon sac ? ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "Charnière de porte biz. Un sac bleu. ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Des couleurs à la mode... ",
+      "t": "A",
+      "v": "743288_1",
+      "n": "Clue1Audio"
+    },
+    {
+      "s": "Où ai-je laissé mon sac ? ",
+      "t": "A",
+      "v": "743283_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Cet agrume est la couleur foncée la plus actuelle. ",
+      "t": "A",
+      "v": "743290_1",
+      "n": "Clue3Audio"
+    },
+    {
+      "s": "Regardez cette phrase charabia et dites-moi avec quel titre d’émission télévisée elle rime. ",
+      "t": "A",
+      "v": "743284_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "OutroAudio"
+    },
+    {
+      "s": "... pourrait changer après votre procès. ",
+      "t": "A",
+      "v": "743289_1",
+      "n": "Clue2Audio"
+    },
+    {
+      "s": "Charnière de porte biz. Un sac bleu. ",
+      "t": "A",
+      "v": "743285_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

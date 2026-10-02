@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "grande gueule | chat âgé | moto ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Mon <BLANK> va me tuer un de ces jours ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : J'avais peur d'être tué par CECI ! ",
+      "t": "A",
+      "v": "767629_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

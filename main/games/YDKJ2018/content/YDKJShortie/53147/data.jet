@@ -1,0 +1,140 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "\"Allez-y, j'observe\" ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "1,3,2,0 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Comment le Dr Frasier Crane accueillerait-il les appelants dans son émission de radio s'il souhaitait les accueillir ET suivre la première étape de la méthode scientifique ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "J'ai été informé que <i>Frasier</i> est apparemment très populaire auprès des millennials ",
+      "t": "A",
+      "v": "759181_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "J'ai toujours l'impression que certains des écrivains plus âgés du personnel me font une blague, mais quoi qu'il en soit... ",
+      "t": "A",
+      "v": "759182_4",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "759184_2",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "C'est plutôt la réponse de Daphné... ",
+      "t": "A",
+      "v": "759189_1",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "La première étape de la méthode scientifique consiste à observer le monde naturel et à poser une question à laquelle vous souhaitez répondre. ",
+      "t": "A",
+      "v": "759186_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "How would Dr. Frasier Crane greet callers on his radio show if he wished to welcome them AND follow the first step of the scientific method?",
+      "t": "A",
+      "v": "759183_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

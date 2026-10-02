@@ -1,0 +1,142 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "\"m'a chargé d'ÉCRIRE DE LA POÉSIE sur les mauvaises herbes\" ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "2,3,0,1 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Quel type de critique m'attendrais-je à lire pour un service de pelouse appelé « Walt Whitman's Leaves of Grass ? » ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Une tonte ",
+      "t": "A",
+      "v": "708440_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Vos mauvaises réponses sortent de ma pelouse ! (TOUS) ",
+      "t": "A",
+      "v": "708452_5",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "708443_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "Vos mauvaises réponses sortent de ma pelouse ! (TOUS) ",
+      "t": "A",
+      "v": "708450_0",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "Vos mauvaises réponses sortent de ma pelouse ! (TOUS) ",
+      "t": "A",
+      "v": "708448_0",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "«Leaves of Grass» est un recueil de poèmes de Walt Whitman. ",
+      "t": "A",
+      "v": "708445_2",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "C’est mieux que le service Robert Frost qui tond toujours la pelouse moins sollicitée. ",
+      "t": "A",
+      "v": "708446_2",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "What type of review would I expect to read for a lawn service called “Walt Whitman’s Leaves of Grass?”",
+      "t": "A",
+      "v": "708442_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

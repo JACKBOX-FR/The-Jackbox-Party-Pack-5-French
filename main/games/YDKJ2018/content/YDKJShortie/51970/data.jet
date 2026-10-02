@@ -1,0 +1,150 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Soudan ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "S+4.73 ",
+      "n": "$QuestionAudio$QuestionTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "1,0,2,3 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "C'est aussi une rivière dans... ",
+      "n": "QuestionText2"
+    },
+    {
+      "t": "S",
+      "v": "Before",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "The Nile ain’t just a river in Egypt.",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Les cinq étapes du récif ",
+      "t": "A",
+      "v": "742720_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Vous savez ce qu'ils disent... ",
+      "t": "A",
+      "v": "742721_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "742723_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "OR\nJe refuse de croire que vous avez manqué ça. (Tous) ",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "the  Nile River is the longest in the world, and passes through 11 countries, including Sudan, so it definitely aint just a river in Egypt.",
+      "t": "A",
+      "v": "742725_2",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Another thing I always say: the Elephant Butte ain’t just a river in New Mexico.  It’s a lake actually.  Look it up.",
+      "t": "A",
+      "v": "742726_2",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "The Nile ain’t just a river in Egypt.  (chuckles to self) So true.  It’s also a river in...",
+      "t": "A",
+      "v": "742722_3",
+      "n": "QuestionAudio"
+    }
+  ]
+}

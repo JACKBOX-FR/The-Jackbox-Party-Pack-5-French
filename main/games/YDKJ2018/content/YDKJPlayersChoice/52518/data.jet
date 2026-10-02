@@ -1,0 +1,50 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "une question dont la réponse est Shia LaBeouf ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "une question où la réponse n'est PAS Shia LaBeouf ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "51938 ",
+      "n": "Choice2Id"
+    },
+    {
+      "t": "S",
+      "v": "Souhaitez-vous une question où la réponse est Shia LaBeouf... ou une question où la réponse n'est pas Shia LeBeouf ? ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "51937 ",
+      "n": "Choice1Id"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "Souhaitez-vous une question où la réponse est Shia LaBeouf... ou une question où la réponse n'est pas Shia LeBeouf ? ",
+      "t": "A",
+      "v": "750937_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

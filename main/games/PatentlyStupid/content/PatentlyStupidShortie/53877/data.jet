@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "pied | traîneau à chiens | monocycle ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "J'ai besoin d'un <BLANK> plus puissant ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je suis gêné parce que je n'ai pas de CECI puissant ! ",
+      "t": "A",
+      "v": "767731_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

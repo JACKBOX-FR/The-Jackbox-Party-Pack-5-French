@@ -1,0 +1,50 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "une question délicate ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "une question brutale ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "51977 ",
+      "n": "Choice2Id"
+    },
+    {
+      "t": "S",
+      "v": "Souhaitez-vous une question délicate... ou une question directe ? ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "51978 ",
+      "n": "Choice1Id"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "Souhaitez-vous une question délicate... ou une question directe ? ",
+      "t": "A",
+      "v": "750997_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

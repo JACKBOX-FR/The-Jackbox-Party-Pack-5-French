@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "banques | mon attitude envers le quinoa | mes pas de danse ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je dois changer <BLANK>, maintenant ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je dois changer CECI, maintenant ! ",
+      "t": "A",
+      "v": "766889_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

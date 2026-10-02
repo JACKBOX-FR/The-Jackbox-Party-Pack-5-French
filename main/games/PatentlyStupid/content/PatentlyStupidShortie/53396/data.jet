@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "oublier de m'habiller | perdre tous mes cheveux | mourir ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Quand je parle en public, je <BLANK>. ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je ne peux pas parler en public parce que je fais CECI ! ",
+      "t": "A",
+      "v": "761875_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

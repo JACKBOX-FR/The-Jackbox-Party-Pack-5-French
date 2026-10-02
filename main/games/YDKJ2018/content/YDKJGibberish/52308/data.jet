@@ -1,0 +1,101 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "S",
+      "v": "Je ne me soucie que d'une chose... ",
+      "n": "Clue1Text"
+    },
+    {
+      "t": "S",
+      "v": "...et ce sont des fréquences profondes. ",
+      "n": "Clue2Text"
+    },
+    {
+      "t": "S",
+      "v": "\"Tout sur cette basse\" ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "tout à propos de cette base, tout à propos de la basse, tout à propos de la base, je suis tout à propos de cette basse, je suis tout à propos de la basse, je suis tout à propos de cette base ",
+      "n": "Acceptable"
+    },
+    {
+      "t": "S",
+      "v": "Je me concentre exclusivement sur la gamme grave. ",
+      "n": "Clue3Text"
+    },
+    {
+      "t": "S",
+      "v": "Elle répondra également à Gracie ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "Appelez le gros chat Grace. ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Je ne me soucie que d'une chose... ",
+      "t": "A",
+      "v": "748042_1",
+      "n": "Clue1Audio"
+    },
+    {
+      "s": "Elle répondra également à Gracie ",
+      "t": "A",
+      "v": "748037_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Je me concentre exclusivement sur la gamme grave. ",
+      "t": "A",
+      "v": "748044_1",
+      "n": "Clue3Audio"
+    },
+    {
+      "s": "Regardez la phrase charabia et dites-moi avec quelle chanson populaire elle rime. ",
+      "t": "A",
+      "v": "748038_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "\"All About that Bass\" était un hit de Megan Trainor qui m'a finalement fait accepter mon corps et le fait que j'aime les chansons pop. ",
+      "t": "A",
+      "v": "748045_1",
+      "n": "OutroAudio"
+    },
+    {
+      "s": "...et ce sont des fréquences profondes. ",
+      "t": "A",
+      "v": "748043_1",
+      "n": "Clue2Audio"
+    },
+    {
+      "s": "Appelez le gros chat Grace. ",
+      "t": "A",
+      "v": "748039_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "politique | crime organisé | un groupe de ska ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je veux m'impliquer lentement dans <BLANK> ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : J'aimerais m'impliquer lentement dans CELA ! ",
+      "t": "A",
+      "v": "767680_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

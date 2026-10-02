@@ -1,0 +1,153 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "“Restaurant méditerranéen falafel” ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "S+4.99 ",
+      "n": "$QuestionAudio$QuestionTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "1,3,0,2 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Laquelle de ces recherches est exempte de fautes de frappe ? ",
+      "n": "QuestionText2"
+    },
+    {
+      "t": "S",
+      "v": "Before",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "AUTOCORRECT IS BUSTED ON MY PHONE AND I DON’T KNOW HOW TO SPELL ANY OF THESE WORDS!",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Deer Postmates, Plz Sund Mee Fud ",
+      "t": "A",
+      "v": "718376_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "[sfx : phone typing sound] # Allez !!! Ce n'est pas ça?! ",
+      "t": "A",
+      "v": "718388_0f",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "(frustré) Ahhh !! J'essaie de commander un falafel dans un restaurant méditerranéen avec mon téléphone, mais le message « aucun résultat de recherche » apparaît sans cesse. ",
+      "t": "A",
+      "v": "718377_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "718379_2",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "[sfx : phone typing sound] (gros soupir) J'ai tellement faim. ",
+      "t": "A",
+      "v": "718386_0f",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "[sfx : phone typing sound] # Non ! Faux!",
+      "t": "A",
+      "v": "718384_1f",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "(to himself, typing) and search. 20 results found. Alright!",
+      "t": "A",
+      "v": "718381_1f",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "While I’m ordering stuff I’m going to need tonight, I should figure out how to spell diarrhea relief medicine.",
+      "t": "A",
+      "v": "718382_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "AUTOCORRECT IS BUSTED ON MY PHONE AND I DON’T KNOW HOW TO SPELL ANY OF THESE WORDS! Which of these searches is typo free?",
+      "t": "A",
+      "v": "718378_3",
+      "n": "QuestionAudio"
+    }
+  ]
+}

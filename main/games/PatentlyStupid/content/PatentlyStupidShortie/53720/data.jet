@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "chaussures | jouets | fromage ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "J'ai besoin d'un endroit rien que pour mon <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : J'ai besoin d'un endroit juste pour mon CECI ",
+      "t": "A",
+      "v": "766836_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

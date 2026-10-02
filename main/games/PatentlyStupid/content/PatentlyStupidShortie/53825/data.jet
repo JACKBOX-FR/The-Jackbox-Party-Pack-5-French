@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Waldo | un homme bon | une raison pour aller travailler ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Il devient de plus en plus difficile de trouver <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Ça devient tellement difficile de trouver CECI ! ",
+      "t": "A",
+      "v": "767573_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

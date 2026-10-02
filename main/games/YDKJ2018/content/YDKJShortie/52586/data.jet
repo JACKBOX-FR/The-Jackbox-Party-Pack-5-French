@@ -1,0 +1,140 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "boules de tapioca ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "1,0,2,3 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Si le mystérieux chasseur de primes Boba Fett était secrètement composé de Boba Tea, quelle partie de son anatomie ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Solo Cup : Une boisson Star Wars ",
+      "t": "A",
+      "v": "752078_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "752081_2",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "Vous pensez peut-être à Ron Howard. ",
+      "t": "A",
+      "v": "752088_8",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Boba Tea est accompagné de petites boules de tapioca savoureuses. ",
+      "t": "A",
+      "v": "752083_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Et encore une fois, quand une question vous permet de prononcer beaucoup de mots, vous saisissez cette opportunité par le tapioca. ",
+      "t": "A",
+      "v": "752084_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "If mysterious bounty hunter Boba Fett was secretly made up of Boba Tea, what would be part of his anatomy?",
+      "t": "A",
+      "v": "752080_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

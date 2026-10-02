@@ -1,0 +1,96 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "pets de gâteau | votre propre page LinkedIn | cette photo de Poutine montant un cheval torse nu | vos photos de bébé | \"Je ne t'abandonnerai jamais\" ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "S+11.42",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "S+3.89",
+      "n": "$ScenarioAudio$ScenarioTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "<BLANK>. ",
+      "n": "ScenarioText3"
+    },
+    {
+      "t": "S",
+      "v": "S+7.74",
+      "n": "$ScenarioAudio$ScenarioTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "Heureusement, c'est dans le sixième paragraphe. ",
+      "n": "ScenarioText4"
+    },
+    {
+      "t": "S",
+      "v": "Il est 17 heures un vendredi et vous venez d'appuyer sur « envoyer » dans un e-mail adressé à l'ensemble de l'entreprise. ",
+      "n": "ScenarioText1"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00 ",
+      "n": "$ScenarioAudio$ScenarioTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Oups, au lieu d'un lien vers un article pertinent, vous avez intégré un lien vers ",
+      "n": "ScenarioText2"
+    },
+    {
+      "t": "S",
+      "v": "S+9.10",
+      "n": "$ScenarioAudio$ScenarioTextCue4"
+    },
+    {
+      "t": "S",
+      "v": "Envoyez-vous des excuses de suivi ? ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Vous ne pouvez pas le reprendre ",
+      "t": "A",
+      "v": "Envoyez-vous des excuses de suivi ? ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Il est 17 heures un vendredi et vous venez d'appuyer sur Envoyer un e-mail à l'échelle de l'entreprise. Oups, au lieu d'un lien vers un article pertinent, vous avez intégré un lien vers CECI. Heureusement, c'est dans le sixième paragraphe. Envoyez-vous des excuses de suivi ? ",
+      "t": "A",
+      "v": "765625_3",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Pensez-vous que c'est drôle ? ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "2,1,0,3 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Laquelle de ces phrases contient un verbe transitif ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Le verbe est la parole ",
+      "t": "A",
+      "v": "719776_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Ou est-ce ?",
+      "t": "A",
+      "v": "719788_2",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "719779_2",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "Eh bien, je m'en soucie ! Je m'en soucie! ",
+      "t": "A",
+      "v": "719786_0",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "Eh bien, je m'en soucie ! Je m'en soucie! ",
+      "t": "A",
+      "v": "719784_1",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Un verbe transitif a un sujet avant et un objet après ; vous et ça, par exemple. ",
+      "t": "A",
+      "v": "719781_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Vous faites l’objet de la sentence, alors que VOUS faites l’objet d’une enquête policière. ",
+      "t": "A",
+      "v": "719782_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "Which of these sentences contains a transitive verb?",
+      "t": "A",
+      "v": "719778_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

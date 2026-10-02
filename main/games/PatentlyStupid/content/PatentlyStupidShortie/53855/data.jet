@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "laissé seul | six pouces de plus | Beyoncé ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Tout ce que je veux, c'est être <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je veux juste être CECI ! ",
+      "t": "A",
+      "v": "767665_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

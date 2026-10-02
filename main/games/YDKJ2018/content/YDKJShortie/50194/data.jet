@@ -1,0 +1,153 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "4 pintes vides d'Urban Bourbon ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "S+8.71 ",
+      "n": "$QuestionAudio$QuestionTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "2,0,3,1 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "... hypothétiquement ? ",
+      "n": "QuestionText2"
+    },
+    {
+      "t": "S",
+      "v": "Before",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "What would be the best evidence that I fell into a shame spiral last night and ate half a gallon of Ben & Jerry’s ice cream in the dark in my underwear",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Je crie, tu cries, nous crions tous parce que l'existence est une douleur ",
+      "t": "A",
+      "v": "718523_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Cette réponse est tellement fausse qu'elle me rappelle mes choix de vie... oh... Gretchen... ",
+      "t": "A",
+      "v": "718535_2",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "(un soupir rapide et involontaire, comme s'il essayait de rassembler de l'énergie pour une prochaine question normale mais n'y parvenait pas tout à fait) ",
+      "t": "A",
+      "v": "718524_4",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "718526_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "(un éclair de colère) Ce n'est pas ASSEZ !! ",
+      "t": "A",
+      "v": "718533_2",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "Oh, j'aimerais qu'ils aient autant de pintes disponibles à la vente à la station-service à côté de mon immeuble ! ",
+      "t": "A",
+      "v": "718531_1",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "There are 8 pints in a gallon, which means 4 pints in half a gallon.",
+      "t": "A",
+      "v": "718528_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "So that’s what’s currently strewn on the floor next to the couch I’ve been sleeping on... hypothetically.",
+      "t": "A",
+      "v": "718529_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "What would be the best evidence that I fell into a shame spiral last night and ate half a gallon of Ben & Jerry’s ice cream in the dark in my underwear... hypothetically?",
+      "t": "A",
+      "v": "718525_4",
+      "n": "QuestionAudio"
+    }
+  ]
+}

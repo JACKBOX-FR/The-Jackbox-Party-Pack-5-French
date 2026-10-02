@@ -1,0 +1,245 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion5Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupPoorAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasDisAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion1Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion4Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTimingInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasScoreInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupRockedAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupAwfulAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion7Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasDatAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion6Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion3Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupOutroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupGoodAudio"
+    },
+    {
+      "t": "S",
+      "v": "S+8.45",
+      "n": "$InstructionsAudio$DatTextCue"
+    },
+    {
+      "t": "S",
+      "v": "Mais elle est toujours cardée ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "PLUS JEUNE QUE BETTY WHITE ",
+      "n": "DatButtonText"
+    },
+    {
+      "t": "S",
+      "v": "PLUS ÂGÉE QUE BETTY WHITE ",
+      "n": "DisButtonText"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$InstructionsAudio$BothCue"
+    },
+    {
+      "t": "S",
+      "v": "Plus âgée que Betty White ",
+      "n": "DisText"
+    },
+    {
+      "t": "S",
+      "v": "Plus jeune que Betty White ",
+      "n": "DatText"
+    },
+    {
+      "t": "S",
+      "v": "S+4.85",
+      "n": "$InstructionsAudio$DisTextCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$DisAudio$DisButtonCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$DatAudio$DatButtonCue"
+    },
+    {
+      "s": "pain tranché ",
+      "t": "A",
+      "v": "766059_1",
+      "n": "Question5Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "TimingInstructionsAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupOutroAudio"
+    },
+    {
+      "s": "Je vais énumérer sept choses et pour chacune d’elles, dites-moi si c’est quelque chose qui est plus âgé que l’actrice Betty White ou quelque chose qui est plus jeune que l’actrice Betty White. ",
+      "t": "A",
+      "v": "766054_1",
+      "n": "InstructionsAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ScoreInstructionsAudio"
+    },
+    {
+      "s": "Israël ",
+      "t": "A",
+      "v": "766061_1",
+      "n": "Question7Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupPoorAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupRockedAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupAwfulAudio"
+    },
+    {
+      "s": "pénicilline ",
+      "t": "A",
+      "v": "766056_1",
+      "n": "Question2Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupGoodAudio"
+    },
+    {
+      "s": "... plus vieux... ou... ",
+      "t": "A",
+      "v": "766067_1",
+      "n": "DisAudio"
+    },
+    {
+      "s": "la fermeture éclair ",
+      "t": "A",
+      "v": "766057_1",
+      "n": "Question3Audio"
+    },
+    {
+      "s": "Mais elle est toujours cardée et merci d'avoir participé à Dis ou Dat ! ",
+      "t": "A",
+      "v": "766053_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "...plus jeune... ",
+      "t": "A",
+      "v": "766068_1",
+      "n": "DatAudio"
+    },
+    {
+      "s": "bière en conserve ",
+      "t": "A",
+      "v": "766058_1",
+      "n": "Question4Audio"
+    },
+    {
+      "s": "avions ",
+      "t": "A",
+      "v": "766055_1",
+      "n": "Question1Audio"
+    },
+    {
+      "s": "l'ampoule ",
+      "t": "A",
+      "v": "766060_1",
+      "n": "Question6Audio"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "S",
+      "v": "S'il vous plaît, soyez tranquille... ",
+      "n": "Clue1Text"
+    },
+    {
+      "t": "S",
+      "v": "...en évitant les nuisibles. ",
+      "n": "Clue2Text"
+    },
+    {
+      "t": "S",
+      "v": "Ne laissez pas les punaises de lit piquer. ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Ne laissez pas les punaises de lit mordre, ne laissez pas les punaises de lit mordre, ne laissez pas les punaises de lit mordre, ne laissez pas les punaises de lit mordre ",
+      "n": "Acceptable"
+    },
+    {
+      "t": "S",
+      "v": "Empêchez les insectes de vous dévorer pendant que vous dormez. ",
+      "n": "Clue3Text"
+    },
+    {
+      "t": "S",
+      "v": "Quelqu'un pensera-t-il aux mollusques !? ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "Les limaces de pain feta ne se battront-elles pas ? ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "S'il vous plaît, soyez tranquille... ",
+      "t": "A",
+      "v": "742745_1",
+      "n": "Clue1Audio"
+    },
+    {
+      "s": "Quelqu'un pensera-t-il aux mollusques !? ",
+      "t": "A",
+      "v": "742740_2",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Empêchez les insectes de vous dévorer pendant que vous dormez. ",
+      "t": "A",
+      "v": "742747_2",
+      "n": "Clue3Audio"
+    },
+    {
+      "s": "Découvrez cette phrase charabia et dites-moi avec quel dicton populaire elle rime. ",
+      "t": "A",
+      "v": "742741_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "OutroAudio"
+    },
+    {
+      "s": "...en évitant les nuisibles. ",
+      "t": "A",
+      "v": "742746_1",
+      "n": "Clue2Audio"
+    },
+    {
+      "s": "Les limaces de pain feta ne se battront-elles pas ? ",
+      "t": "A",
+      "v": "742742_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

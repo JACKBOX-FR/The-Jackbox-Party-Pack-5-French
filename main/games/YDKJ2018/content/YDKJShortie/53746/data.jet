@@ -1,0 +1,143 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "porter la longueur du mur d'obsidienne à la troisième puissance ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "1,0,2,3 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Comment pourrais-je trouver le volume du cube bizarre dans lequel je me retrouve soudainement ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Échappez à la simulation ",
+      "t": "A",
+      "v": "766941_1f",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Eh bien... la partie qui pleure est vraie. ",
+      "t": "A",
+      "v": "766953_1",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "(se répétant)... « Échapper à la simulation »... avez-vous déjà dit une phrase à tel point qu'elle semble bizarre et que la réalité n'a plus de sens ? [effet sonore : « a du sens » commence à se transformer légèrement, presque comme si de la drogue faisait effet] [effet sonore : une sorte de son inquiétant, la réalité change/s'effondre] (réagit) Ahhh ! Ce qui s'est passé?! J'étais dans mon studio d'enregistrement il y a une seconde... mais en regardant autour de moi... ",
+      "t": "A",
+      "v": "766942_6f",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "766944_2",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "No...and please hurry...",
+      "t": "A",
+      "v": "766951_1",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": " [sfx : son de monstre bizarre] Qu'est-ce que c'était ?!!! ",
+      "t": "A",
+      "v": "766949_0f",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Le volume est égal à la longueur multipliée par la largeur multipliée par la hauteur. Dans un cube, tous les côtés sont les mêmes, vous pouvez donc simplement multiplier la longueur par elle-même trois fois. ",
+      "t": "A",
+      "v": "766946_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "...trois fois, trois fois. Cela m'aidera à déterminer combien de temps il faudra à ce liquide qui s'infiltre lentement pour atteindre ma tête, ma tête, ma tête... quelque chose ne va pas avec ma tête. [sfx : certaines parties de ce dialogue sautent et bégayent de manière anormale.] ",
+      "t": "A",
+      "v": "766947_0f",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "How could I find the volume of the freaky cube I suddenly find myself in?",
+      "t": "A",
+      "v": "766943_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

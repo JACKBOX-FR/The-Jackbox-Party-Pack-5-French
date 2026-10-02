@@ -1,0 +1,139 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "LaVÉRITÉÀ propos du soleil_Galileo.doc ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "2,0,1,3 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Si les médias électroniques existaient dans les années 1600, lesquels de ces fichiers seraient considérés comme NSFW dans les bureaux de l’Église catholique ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Ce que le pape ne sait pas ne lui fera pas de mal ",
+      "t": "A",
+      "v": "720260_2",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Je pensais un peu que ce choix le réduisait aux trois autres... devinez pas. ",
+      "t": "A",
+      "v": "720272_4",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "720263_2",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "La croyance de Galilée selon laquelle la Terre tournait autour du Soleil lui a valu d’être reconnu coupable d’hérésie et d’être assigné à résidence à perpétuité. ",
+      "t": "A",
+      "v": "720265_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "OR\nUne peine similaire est administrée à toute personne qui répond à tous.\nOR\nC'était une époque différente. Être obligé de rester à l'intérieur toute la journée était considéré comme une punition.\nOR\nMais grâce aux réseaux sociaux, j'ai maintenant appris la vérité... le monde tourne en fait autour de moi. ",
+      "t": "A",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "If electronic media were around in the 1600s, which of these files would be considered NSFW inside the offices of the Catholic Church?",
+      "t": "A",
+      "v": "720262_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

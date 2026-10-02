@@ -1,0 +1,142 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "la somme d'un nombre impair et d'un nombre pair ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "3,2,0,1 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Lequel de ces chiffres ne peut tout simplement pas le faire ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Une question où je me venge ",
+      "t": "A",
+      "v": "723477_3",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Cette réponse EST paire. C'est juste étrange que tu l'aies manqué. ",
+      "t": "A",
+      "v": "723489_3",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "(soupir exaspéré) Ugh... Je savais que tu allais choisir celui-ci.... ",
+      "t": "A",
+      "v": "723478_2",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "723480_2",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "Multipliez un nombre pair par un nombre impair et la réponse est toujours paire. ",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "La multiplication de deux pairs ne fait pas un impair, à moins que vous ne le demandiez à ma mère. ",
+      "t": "A",
+      "v": "723485_6",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Quand on additionne un nombre impair et un nombre pair, la réponse est toujours impaire. ",
+      "t": "A",
+      "v": "723482_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Ce qui est bien d’être vraiment mauvais en mathématiques, c’est que vous pourriez regarder les scores et penser que vous gagnez. ",
+      "t": "A",
+      "v": "723483_2",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "Which of these numbers just can’t even?",
+      "t": "A",
+      "v": "723479_3",
+      "n": "QuestionAudio"
+    }
+  ]
+}

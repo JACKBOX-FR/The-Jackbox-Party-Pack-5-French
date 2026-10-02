@@ -1,0 +1,138 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Estuaire Colin ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "3,1,0,2 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "En quoi l'acteur Colin Firth pourrait-il changer son nom tout en conservant sa signification fondamentale ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Londres Colin ",
+      "t": "A",
+      "v": "707685_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "OU\nJe m'appelle Colin, tu es un menteur (TOUS) ",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "707688_2",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "OU\nMammia Mia !...Tu as tort ! (Tous) ",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "OU\nSans pagaie Colin ",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Un Firth est un autre nom pour un estuaire, un passage d'eau où la marée rencontre le courant d'une rivière. ",
+      "t": "A",
+      "v": "707690_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "OR\nPar coïncidence, « Une marée rencontre un courant de rivière » est le titre du prochain drame historique de Colin.\nOR\nApproprié, car chaque fois que je vois un film de Colin Firth, il y a des travaux d'eau. ",
+      "t": "A",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "What could actor Colin Firth change his name to while still retaining its basic meaning?",
+      "t": "A",
+      "v": "707687_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

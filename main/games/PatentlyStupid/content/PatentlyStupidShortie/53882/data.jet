@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "guerre | oiseaux | prendre une douche ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je ne veux plus penser à <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je dois sortir ça de mon esprit ! ",
+      "t": "A",
+      "v": "767746_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

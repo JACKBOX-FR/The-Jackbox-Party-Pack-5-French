@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "prendre une douche | parler au téléphone | manger de la terre ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je ne peux pas éviter <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je ne peux tout simplement pas éviter CELA ! ",
+      "t": "A",
+      "v": "767707_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

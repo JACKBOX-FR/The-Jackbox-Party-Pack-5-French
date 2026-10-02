@@ -1,0 +1,142 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "BINJPIPE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "<i>Cheval de guerre </i> ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "0,2,1,3 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Parce que vous êtes un « passionné de chevaux » qui DÉTESTE les « films équestres où le cheval principal meurt », nous pensons que vous allez adorer... ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Notre amitié numérique ",
+      "t": "A",
+      "v": "747631_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "[sfx : cheval sonore en détresse] ",
+      "t": "A",
+      "v": "747643_0f",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "747634_2",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "[sfx : cheval sonore en détresse] (le même son peut être utilisé pour chaque mauvaise réponse) ",
+      "t": "A",
+      "v": "747641_1f",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "[sfx : cheval sonore en détresse] ",
+      "t": "A",
+      "v": "747639_0f",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Voix : Alerte spoiler : Albert et Joey s'en vont vers le coucher du soleil à la fin de ce film. ",
+      "t": "A",
+      "v": "747636_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Cookie : Un « pur cheval »… c’est un centaure, n’est-ce pas ? ",
+      "t": "A",
+      "v": "747637_2",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "Because you’re a “total horse person” who HATES “horse movies where the main horse dies,” we think you’ll love...",
+      "t": "A",
+      "v": "747633_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "douche | entendre les nouvelles | entendre les coqs ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je déteste devoir <BLANK> le matin ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je déteste devoir faire ça le matin ! ",
+      "t": "A",
+      "v": "767626_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

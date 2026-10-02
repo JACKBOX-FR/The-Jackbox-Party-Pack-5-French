@@ -1,0 +1,139 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "<i>Des comédiens dans des camions recevant du Kombucha</i> ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "1,0,3,2 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Quel serait le nom d'une websérie où Jerry Seinfeld récupère différentes bandes dessinées dans un camion en route pour s'emparer d'une boisson fermentée ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Quel est le problème avec cette mise en scène de blague ? ",
+      "t": "A",
+      "v": "716172_4",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Voici une observation pleine d’esprit sur votre choix… c’est faux. (TOUS) ",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "716175_3",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "Cette réponse est pleine de vent !... Merci, c'est mon temps ! ",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "OR\nQuel est le problème avec cette réponse ?! (TOUS) ",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Un camion est un camion et le kombcuha est un thé sucré fermenté. ",
+      "t": "A",
+      "v": "716177_2",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Et comédien est un autre mot pour chômeur selon ma mère ",
+      "t": "A",
+      "v": "716178_2",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "What would be the name of a web series where Jerry Seinfeld picks up different comics in a truck on the way to grabbing a fermented drink?",
+      "t": "A",
+      "v": "716174_4",
+      "n": "QuestionAudio"
+    }
+  ]
+}

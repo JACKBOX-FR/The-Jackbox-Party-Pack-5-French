@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "mon sénateur | mes fesses | le sous-sol ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "J'aurais aimé que <BLANK> soit plus accessible. ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : En vieillissant, je veux avoir davantage accès à CELA ! ",
+      "t": "A",
+      "v": "760646_2",
+      "n": "PromptAudio"
+    }
+  ]
+}

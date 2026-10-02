@@ -1,0 +1,139 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "figé sur un appel Facetime au 9ème cercle ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "0,3,2,1 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "D’après <i>Inferno</i> de Dante, si le gars de Verizon entrait dans le cercle de l’enfer réservé aux plus grands traîtres, comment passerait-il l’éternité ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Mort : le forfait de données illimité ultime ",
+      "t": "A",
+      "v": "724668_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Personnellement, ça me va, les acteurs doivent manger, mais ma mère est très en colère contre le gars de Verizon qui fait ces publicités Sprint maintenant. ",
+      "t": "A",
+      "v": "724669_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "724671_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Dante a écrit que les pires traîtres de l'histoire (y compris Judas) étaient figés dans le 9ème cercle de l'enfer. ",
+      "t": "A",
+      "v": "724673_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "According to Dante’s <i>Inferno</i>, if the Verizon guy went to the part of hell reserved for the greatest traitors, how would he spend eternity?",
+      "t": "A",
+      "v": "724670_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "100 000 $ | une histoire en première page | 250 000 $ | un travail à six chiffres | une maison au bord du lac ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "S+10.38",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "S+2.92",
+      "n": "$ScenarioAudio$ScenarioTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "Un journal leur tend la main. Si vous leur donnez un nom, ils vous le donneront ",
+      "n": "ScenarioText3"
+    },
+    {
+      "t": "S",
+      "v": "S+5.02",
+      "n": "$ScenarioAudio$ScenarioTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "<BLANK>. ",
+      "n": "ScenarioText4"
+    },
+    {
+      "t": "S",
+      "v": "Vous découvrez que <OTHERPLAYER> est un super-héros. ",
+      "n": "ScenarioText1"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00 ",
+      "n": "$ScenarioAudio$ScenarioTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Ils vous demandent de garder leur identité secrète. ",
+      "n": "ScenarioText2"
+    },
+    {
+      "t": "S",
+      "v": "S+8.84",
+      "n": "$ScenarioAudio$ScenarioTextCue4"
+    },
+    {
+      "t": "S",
+      "v": "Divulguez-vous leur nom ? ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Vol d'identité secrète ",
+      "t": "A",
+      "v": "Divulguez-vous leur nom ? ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Vous découvrez que <OTHERPLAYER> est un super-héros. Ils vous demandent de garder leur identité secrète. Un journal leur tend la main. Si vous leur fournissez un nom, ils vous donneront CECI. Divulguez-vous leur nom ? ",
+      "t": "A",
+      "v": "757245_2",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    }
+  ]
+}

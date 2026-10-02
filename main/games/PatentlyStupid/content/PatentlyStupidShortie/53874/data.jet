@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "mes cheveux peignés | mon haleine fraîche | chien dans la cour ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "J'ai du mal à garder <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Peu importe tous mes efforts, je ne peux pas garder CECI ! ",
+      "t": "A",
+      "v": "767722_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

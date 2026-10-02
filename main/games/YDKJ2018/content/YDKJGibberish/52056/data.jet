@@ -1,0 +1,100 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "S",
+      "v": "Vous cherchez dur... ",
+      "n": "Clue1Text"
+    },
+    {
+      "t": "S",
+      "v": "...mais pas au bon endroit. ",
+      "n": "Clue2Text"
+    },
+    {
+      "t": "S",
+      "v": "Aboyer le mauvais arbre ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "aboyer le mauvais arbre, aboyer le mauvais arbre, aboyer le mauvais arbre, aboyer l'arbre tordu ",
+      "n": "Acceptable"
+    },
+    {
+      "t": "S",
+      "v": "Votre chien crie contre la mauvaise source de bois. ",
+      "n": "Clue3Text"
+    },
+    {
+      "t": "S",
+      "v": "Le coût de possession d’une voiture ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "Parking? Ouais, des frais élevés. ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Vous cherchez dur... ",
+      "t": "A",
+      "v": "743958_1",
+      "n": "Clue1Audio"
+    },
+    {
+      "s": "Le coût de possession d’une voiture ",
+      "t": "A",
+      "v": "743953_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Votre chien crie contre la mauvaise source de bois. ",
+      "t": "A",
+      "v": "743960_1",
+      "n": "Clue3Audio"
+    },
+    {
+      "s": "Regardez la phrase charabia et dites-moi avec quelle phrase courante elle rime. ",
+      "t": "A",
+      "v": "743954_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "OutroAudio"
+    },
+    {
+      "s": "...mais pas au bon endroit. ",
+      "t": "A",
+      "v": "743959_1",
+      "n": "Clue2Audio"
+    },
+    {
+      "s": "Parking? Ouais, des frais élevés. ",
+      "t": "A",
+      "v": "743955_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

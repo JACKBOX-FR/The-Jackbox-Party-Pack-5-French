@@ -1,0 +1,245 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion5Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupPoorAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasDisAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion1Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion4Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTimingInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasScoreInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupRockedAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupAwfulAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion7Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasDatAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion6Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion3Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupOutroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupGoodAudio"
+    },
+    {
+      "t": "S",
+      "v": "S+7.98",
+      "n": "$InstructionsAudio$DatTextCue"
+    },
+    {
+      "t": "S",
+      "v": "Ordres d’aboiement ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "RANG MILITAIRE SOVIÉTIQUE ",
+      "n": "DatButtonText"
+    },
+    {
+      "t": "S",
+      "v": "RACE DE CHIEN ",
+      "n": "DisButtonText"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$InstructionsAudio$BothCue"
+    },
+    {
+      "t": "S",
+      "v": "une race de chien selon l'American Kennel Club ",
+      "n": "DisText"
+    },
+    {
+      "t": "S",
+      "v": "un grade militaire en Union soviétique ",
+      "n": "DatText"
+    },
+    {
+      "t": "S",
+      "v": "S+3.94",
+      "n": "$InstructionsAudio$DisTextCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$DisAudio$DisButtonCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.51",
+      "n": "$DatAudio$DatButtonCue"
+    },
+    {
+      "s": "Commandant ",
+      "t": "A",
+      "v": "750903_1",
+      "n": "Question5Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "TimingInstructionsAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupOutroAudio"
+    },
+    {
+      "s": "Je vais lire sept choses et pour chacune d'elles, je veux que vous me disiez s'il s'agit # d'une race de chien selon l'American Kennel Club, ou # d'un grade militaire en Union soviétique. ",
+      "t": "A",
+      "v": "750898_1",
+      "n": "InstructionsAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ScoreInstructionsAudio"
+    },
+    {
+      "s": "Généralissime ",
+      "t": "A",
+      "v": "750905_1",
+      "n": "Question7Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupPoorAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupRockedAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupAwfulAudio"
+    },
+    {
+      "s": "Komkor ",
+      "t": "A",
+      "v": "750900_1",
+      "n": "Question2Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupGoodAudio"
+    },
+    {
+      "s": "...une RACE DE CHIEN... ou... ",
+      "t": "A",
+      "v": "750911_5",
+      "n": "DisAudio"
+    },
+    {
+      "s": "Kuvasz ",
+      "t": "A",
+      "v": "750901_1",
+      "n": "Question3Audio"
+    },
+    {
+      "s": "Ordres qui aboient... et c'est l'heure d'un DisOrDat ! ",
+      "t": "A",
+      "v": "750897_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "... un grade militaire soviétique ",
+      "t": "A",
+      "v": "750912_5",
+      "n": "DatAudio"
+    },
+    {
+      "s": "Kombrig ",
+      "t": "A",
+      "v": "750902_1",
+      "n": "Question4Audio"
+    },
+    {
+      "s": "Komondor ",
+      "t": "A",
+      "v": "750899_1",
+      "n": "Question1Audio"
+    },
+    {
+      "s": "Kooikerhondje ",
+      "t": "A",
+      "v": "750904_1",
+      "n": "Question6Audio"
+    }
+  ]
+}

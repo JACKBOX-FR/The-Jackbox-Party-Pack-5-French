@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "mathématiques de base | que ma copine est partie | où se trouve l'Uruguay ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "J'ai du mal à comprendre <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : J'ai du mal à comprendre CECI ! ",
+      "t": "A",
+      "v": "767683_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

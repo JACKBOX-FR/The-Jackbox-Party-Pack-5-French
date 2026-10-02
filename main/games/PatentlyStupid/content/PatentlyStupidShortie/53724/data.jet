@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "sous-sol | nez | seau ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Mon <BLANK> fuit ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je colmate constamment les fuites dans mon CECI ! ",
+      "t": "A",
+      "v": "766848_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

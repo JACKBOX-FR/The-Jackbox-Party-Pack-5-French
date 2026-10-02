@@ -1,0 +1,151 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Blake Shelton tourne à 1 000 MPH ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "S+8.71 ",
+      "n": "$QuestionAudio$QuestionTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "3,0,1,2 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Quel juge tournerait à la même vitesse que la Terre ? ",
+      "n": "QuestionText2"
+    },
+    {
+      "t": "S",
+      "v": "Before",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Imagine the chairs on <i>The Voice</i> malfunction, causing them to spin at potentially lethal speeds.",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Je suis un grand chanteurrrrRRRRrrrrRRRR ",
+      "t": "A",
+      "v": "717062_3",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Adam Levine a un niveau de charisme qui me donne envie de le choisir aussi, même s'il est attaché à une réponse manifestement fausse. ",
+      "t": "A",
+      "v": "717074_1",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "717065_2",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "Je ne sais pas pourquoi vous essayez d’anéantir Kelly Clarkson, mais je transmettrai votre nom aux autorités compétentes. ",
+      "t": "A",
+      "v": "717072_2",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Although the exact speed changes slightly depending on the latitude, the earth roughly spins at a rate of 1000 mph.",
+      "t": "A",
+      "v": "717067_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "And if he spun the opposite direction of the Earth he would go back in time. That’s just science!",
+      "t": "A",
+      "v": "717068_2",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "Imagine the chairs on <i>The Voice</i> malfunction, causing them to spin at potentially lethal speeds. [beat] I mean... imagine it! Anyway... Which judge would be spinning around at the same speed as Earth?",
+      "t": "A",
+      "v": "717064_3",
+      "n": "QuestionAudio"
+    }
+  ]
+}

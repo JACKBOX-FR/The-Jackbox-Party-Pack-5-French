@@ -1,0 +1,100 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "S",
+      "v": "Ne faites pas toujours la même chose... ",
+      "n": "Clue1Text"
+    },
+    {
+      "t": "S",
+      "v": "... tu seras ennuyeux et triste. ",
+      "n": "Clue2Text"
+    },
+    {
+      "t": "S",
+      "v": "La variété est le piment de la vie. ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "la variété est le piment de la vie, la variété est le piment de la vie, la variété est le piment de la vie, la variété est le piment de la vie, la variété est le piment de la vie ",
+      "n": "Acceptable"
+    },
+    {
+      "t": "S",
+      "v": "Changez les choses pour être piquant. ",
+      "n": "Clue3Text"
+    },
+    {
+      "t": "S",
+      "v": "Gardez cette lame loin des pigeons ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "Society Biz : un joli couteau à colombe ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Ne faites pas toujours la même chose... ",
+      "t": "A",
+      "v": "743501_1",
+      "n": "Clue1Audio"
+    },
+    {
+      "s": "Gardez cette lame loin des pigeons ",
+      "t": "A",
+      "v": "743496_3",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Changez les choses pour être piquant. ",
+      "t": "A",
+      "v": "743503_2",
+      "n": "Clue3Audio"
+    },
+    {
+      "s": "Lisez cette phrase charabia et découvrez avec quelle expression courante elle rime ! ",
+      "t": "A",
+      "v": "743497_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "OutroAudio"
+    },
+    {
+      "s": "... tu seras ennuyeux et triste. ",
+      "t": "A",
+      "v": "743502_1",
+      "n": "Clue2Audio"
+    },
+    {
+      "s": "Society Biz : un joli couteau à colombe ",
+      "t": "A",
+      "v": "743498_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "beaucoup d'attention | Oréos | un passage à tabac ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je dois me lever au milieu de la nuit pour <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Chaque nuit, je dois me lever pour faire CECI ! ",
+      "t": "A",
+      "v": "761169_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

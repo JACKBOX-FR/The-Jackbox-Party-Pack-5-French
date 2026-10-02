@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "ma santé mentale | un cochon graissé | ma jeunesse ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je ne peux pas garder <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je ne peux tout simplement pas m'accrocher à CELA ! ",
+      "t": "A",
+      "v": "766892_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

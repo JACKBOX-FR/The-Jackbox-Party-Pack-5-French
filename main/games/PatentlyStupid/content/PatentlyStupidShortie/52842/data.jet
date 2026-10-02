@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "un animal|une pizza|un poil ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "J'ai besoin d'obtenir <BLANK>, vite ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : J'ai juste besoin de CECI, vite ! ",
+      "t": "A",
+      "v": "755659_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

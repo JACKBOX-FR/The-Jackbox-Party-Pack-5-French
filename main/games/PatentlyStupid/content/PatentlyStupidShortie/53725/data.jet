@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "danse swing | les années 1980 | hommes des cavernes ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Le bon vieux temps de <BLANK> me manque ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : J'aspire à ces jours-là ! ",
+      "t": "A",
+      "v": "766851_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

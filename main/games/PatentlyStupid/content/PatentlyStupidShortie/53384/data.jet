@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "les abeilles | ma salle de bain sale | mes pieds qui puent ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je n’invite personne à cause de <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je suis trop gêné d'avoir des invités à cause de CELA ! ",
+      "t": "A",
+      "v": "761725_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

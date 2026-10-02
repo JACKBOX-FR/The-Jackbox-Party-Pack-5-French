@@ -1,0 +1,101 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "S",
+      "v": "Une leçon très importante... ",
+      "n": "Clue1Text"
+    },
+    {
+      "t": "S",
+      "v": "...en faisant une tuerie. ",
+      "n": "Clue2Text"
+    },
+    {
+      "t": "S",
+      "v": "<i>Comment échapper au meurtre</i> ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Comment s'en sortir avec un meurtre, comment s'en sortir avec un meurtre, comment s'en sortir avec un meurtre, comment s'en sortir avec un meurtre ",
+      "n": "Acceptable"
+    },
+    {
+      "t": "S",
+      "v": "Un plan pour un homicide non détecté. ",
+      "n": "Clue3Text"
+    },
+    {
+      "t": "S",
+      "v": "C'était porteur ! ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "Ouah! Vous avez heurté la cinquième poutre perdue. ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Une leçon très importante... ",
+      "t": "A",
+      "v": "743164_1",
+      "n": "Clue1Audio"
+    },
+    {
+      "s": "C'était porteur ! ",
+      "t": "A",
+      "v": "743159_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Un plan pour un homicide non détecté. ",
+      "t": "A",
+      "v": "743166_1",
+      "n": "Clue3Audio"
+    },
+    {
+      "s": "Découvrez cette phrase charabia et essayez de deviner avec quel titre d’émission de télévision populaire elle rime. ",
+      "t": "A",
+      "v": "743160_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "Comment échapper à un meurtre est une émission de télévision populaire, mais apparemment, c'est un tatouage terrible à révéler lors d'un entretien d'embauche. ",
+      "t": "A",
+      "v": "743167_1",
+      "n": "OutroAudio"
+    },
+    {
+      "s": "...en faisant une tuerie. ",
+      "t": "A",
+      "v": "743165_1",
+      "n": "Clue2Audio"
+    },
+    {
+      "s": "Ouah! Vous avez heurté la cinquième poutre perdue. ",
+      "t": "A",
+      "v": "743161_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

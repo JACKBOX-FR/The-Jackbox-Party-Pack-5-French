@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "caca | s'habiller | prendre le petit déjeuner ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "J'aimerais pouvoir <BLANK> plus vite ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : J'aimerais pouvoir faire CELA plus rapidement ! ",
+      "t": "A",
+      "v": "767656_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Brown Dog Fox a sauté paresseusement par-dessus le rapide ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "1,2,0,3 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Classez pour moi les lettres du titre de cette question par ordre alphabétique. ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Le Quick Brown le Renard a sauté par-dessus le Chien Paresseux ",
+      "t": "A",
+      "v": "760402_4",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "C’est faux, faux, faux. ",
+      "t": "A",
+      "v": "760414_1",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "Prenez cela en compte un instant. D'accord... ",
+      "t": "A",
+      "v": "760403_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "760405_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Le titre de cette question était The Quick Brown the Fox Jumped Over the Lazy Dog. C'est un pangramme classique, mais j'ai glissé un autre \"le\" là-dedans, donc par ordre alphabétique, ça va - Brown Dog Fox a sauté paresseux sur Quick The The The ",
+      "t": "A",
+      "v": "760407_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "J'ai eu une fois un chien renard brun. Il sautait toujours paresseusement et rapidement. C’est donc étonnamment précis. ",
+      "t": "A",
+      "v": "760408_7",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "Arrange the letters from the title of this question into alphabetical order for me.",
+      "t": "A",
+      "v": "760404_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

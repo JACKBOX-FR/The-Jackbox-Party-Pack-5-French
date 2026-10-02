@@ -1,0 +1,100 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "S",
+      "v": "Attention à ce contenu... ",
+      "n": "Clue1Text"
+    },
+    {
+      "t": "S",
+      "v": "... il devrait être vu en privé. ",
+      "n": "Clue2Text"
+    },
+    {
+      "t": "S",
+      "v": "Pas sécuritaire pour le travail ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "nsfw, pas sûr 4 travail, pas sûr pour le travail, note sans danger pour le travail ",
+      "n": "Acceptable"
+    },
+    {
+      "t": "S",
+      "v": "Ce n’est pas acceptable dans un contexte d’entreprise. ",
+      "n": "Clue3Text"
+    },
+    {
+      "t": "S",
+      "v": "Pas une école pour les modèles grossiers ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "J'ai appris à waif ni à con. ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Attention à ce contenu... ",
+      "t": "A",
+      "v": "760791_1",
+      "n": "Clue1Audio"
+    },
+    {
+      "s": "Pas une école pour les modèles grossiers ",
+      "t": "A",
+      "v": "760786_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Ce n’est pas acceptable dans un contexte d’entreprise. ",
+      "t": "A",
+      "v": "760793_1",
+      "n": "Clue3Audio"
+    },
+    {
+      "s": "Jetez un œil à cette phrase charabia et dites-moi avec quelle phrase populaire elle rime. ",
+      "t": "A",
+      "v": "760787_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "OutroAudio"
+    },
+    {
+      "s": "... il devrait être vu en privé. ",
+      "t": "A",
+      "v": "760792_1",
+      "n": "Clue2Audio"
+    },
+    {
+      "s": "J'ai appris à waif ni à con. ",
+      "t": "A",
+      "v": "760788_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

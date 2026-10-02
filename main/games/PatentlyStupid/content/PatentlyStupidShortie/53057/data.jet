@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "papier toilette| bonbons | essence ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "J'aimerais pouvoir réutiliser <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je dois réutiliser CECI encore et encore ! ",
+      "t": "A",
+      "v": "758371_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

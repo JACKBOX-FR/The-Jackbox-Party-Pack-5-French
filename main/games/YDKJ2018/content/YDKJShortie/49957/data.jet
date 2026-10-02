@@ -1,0 +1,141 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "\"Je ne pense pas que tu sois prêt pour cette GELÉE ROYALE\" ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "1,0,2,3 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Si la reine B, Beyoncé, avait le même régime alimentaire qu'une reine des abeilles, que chanterait-elle ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Vous attrapez plus d'abeilles avec de la limonade ",
+      "t": "A",
+      "v": "714066_3",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Selon les sages paroles de Beyoncé elle-même… « euh oh, euh oh, euh oh, oh, non. » ",
+      "t": "A",
+      "v": "714078_1",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "714069_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "Petit lait? Pas de lactosérum ! ",
+      "t": "A",
+      "v": "714076_1",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "La gelée royale est une substance visqueuse sécrétée par les abeilles ouvrières et donnée exclusivement aux reines. ",
+      "t": "A",
+      "v": "714071_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "Mais s’il n’y a pas de gelée royale disponible, la plupart des reines des abeilles ont de la sauce piquante dans leur sac, swag. ",
+      "t": "A",
+      "v": "714072_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "If the Queen B, Beyoncé, had the same diet as a queen bee, what would she sing?",
+      "t": "A",
+      "v": "714068_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "polka | jouer du tuba | saut en parachute ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je ne suis heureux que lorsque je <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je ne suis vraiment heureux que lorsque je fais CECI ! ",
+      "t": "A",
+      "v": "765704_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "une question dont la réponse rime avec orange ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "une question dont la réponse rime avec violet ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "53393 ",
+      "n": "Choice2Id"
+    },
+    {
+      "t": "S",
+      "v": "Vous souhaitez une question où la réponse rime avec orange ou une question où la réponse rime avec violet ? ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "53392 ",
+      "n": "Choice1Id"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "Vous souhaitez une question où la réponse rime avec orange ou une question où la réponse rime avec violet ? ",
+      "t": "A",
+      "v": "761879_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

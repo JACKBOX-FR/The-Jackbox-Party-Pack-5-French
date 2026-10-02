@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "bananes | chiens | poubelle vieille de 10 semaines ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Ma maison sent toujours <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Toute ma maison sent comme ça ! ",
+      "t": "A",
+      "v": "765692_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

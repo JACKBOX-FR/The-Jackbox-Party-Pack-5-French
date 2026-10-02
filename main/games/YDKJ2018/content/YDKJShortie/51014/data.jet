@@ -1,0 +1,138 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "<i>Le CALCIUM de Ktulu</i> ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "1,2,3,0 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Si Metallica enregistrait une chanson sur l’élément métallique le plus abondant dans le corps humain, comment s’appellerait-elle ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Metalheads, épaules, genoux et orteils ",
+      "t": "A",
+      "v": "729459_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "OR\nL'échec est tellement métallique. (TOUS) ",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "729462_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "OR\nCette réponse est K, mais ce n'est pas OK. ",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "OR\nDe toute évidence, vous n'êtes pas prêt à basculer. (TOUS) ",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Le calcium est l’élément métallique le plus abondant dans le corps humain, on le trouve en grande partie dans les os et les dents. ",
+      "t": "A",
+      "v": "729464_2",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "OR\nC'est pourquoi vous devriez toujours boire votre lait avant de faire du mosh pit\nOR\nEt ne dites pas que cela n'arrivera pas. Metallic dit que l'éducation est très importante, en fait, rien d'autre n'a d'importance... compris ?\nOU\nBien sûr, l'Ozzy Osmium est le métal le plus lourd. ",
+      "t": "A",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "If Metallica recorded a song about the most abundant metallic element in the human body, what would it be called?",
+      "t": "A",
+      "v": "729461_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "aller à Vénus | sauver les baleines | voler ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Je veux être la première personne à <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je veux juste vraiment être le premier à faire CECI ! ",
+      "t": "A",
+      "v": "766845_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

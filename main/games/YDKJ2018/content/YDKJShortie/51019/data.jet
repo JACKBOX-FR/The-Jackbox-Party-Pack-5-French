@@ -1,0 +1,139 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "un gâteau de 95 étages avec un clou dedans ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "3,1,0,2 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Si les boulangers de l'émission Netflix <i>Nailed It !</i> étaient mis au défi de recréer un gâteau inspiré de Martin Luther, quel gâteau copieraient-ils ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "La révolution sera délicieuse ",
+      "t": "A",
+      "v": "729552_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "OR\nJe profite de cette occasion pour dire que Nicole Byer est un trésor national. (à utiliser pour tous) (aussi, c'est exactement ce que je ressens) ",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "729555_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "OU\nJe suis sûr que cette réponse était meilleure sur Pinterest. (Tous) ",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Martin Luther était bien connu pour ses 95 thèses, que l'on croyait clouées sur la porte d'une église, et qui sont devenues le fondement de la Réforme protestante. ",
+      "t": "A",
+      "v": "729557_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "95 couches étaient également l'intrigue de LOST ",
+      "t": "A",
+      "v": "729558_2",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "If the bakers on the Netflix show <i>Nailed It!</i> were challenged to recreate a Martin Luther inspired cake, which cake would they be copying?",
+      "t": "A",
+      "v": "729554_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

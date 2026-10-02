@@ -1,0 +1,149 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "une heure après la naissance ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "S+5.60 ",
+      "n": "$QuestionAudio$QuestionTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "2,1,0,3 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "à quelle vitesse le bébé bébé deviendrait-il un bébé conducteur ? ",
+      "n": "QuestionText2"
+    },
+    {
+      "t": "S",
+      "v": "Before",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "If Baby from the movie <i>Baby Driver</i> learned to drive at the age a baby giraffe learns to walk...",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Un Baby Driver est-il similaire à un Minnie Driver ? ",
+      "t": "A",
+      "v": "717490_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Ou\nC'est un bébé girafe qui conduit une voiture volée ! Quelle partie avez-vous trouvée déroutante ?! ",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "717493_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "OU\nAllez, coucous en caoutchouc. (TOUS) ",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "OU\nErreur en 60 secondes. ",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "baby giraffes are up and walking an hour after they’re born.",
+      "t": "A",
+      "v": "717495_2",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "If you ever give birth to a baby driver, just remember to cut the embilical cord before you give it the keys.",
+      "t": "A",
+      "v": "717496_1",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "If Baby from the movie <i>Baby Driver</i> learned to drive at the age a baby giraffe learns to walk... how fast would the baby Baby become a baby driver?",
+      "t": "A",
+      "v": "717492_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

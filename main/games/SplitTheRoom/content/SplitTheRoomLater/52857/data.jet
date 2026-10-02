@@ -1,0 +1,96 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "attraper un serpent vivant | se déshabiller | mettez-vous des menottes | embrasser les zombies | breakdance",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "S+9.01",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "S+1.80",
+      "n": "$ScenarioAudio$ScenarioTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "Ils ne peuvent pas tout vous dire, mais ils vous le demandent ",
+      "n": "ScenarioText3"
+    },
+    {
+      "t": "S",
+      "v": "S+4.85",
+      "n": "$ScenarioAudio$ScenarioTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "<BLANK>. ",
+      "n": "ScenarioText4"
+    },
+    {
+      "t": "S",
+      "v": "Les zombies attaquent votre ville. ",
+      "n": "ScenarioText1"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00 ",
+      "n": "$ScenarioAudio$ScenarioTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "<OTHERPLAYER> dit qu'ils ont un plan pour s'échapper en toute sécurité. ",
+      "n": "ScenarioText2"
+    },
+    {
+      "t": "S",
+      "v": "S+7.55",
+      "n": "$ScenarioAudio$ScenarioTextCue4"
+    },
+    {
+      "t": "S",
+      "v": "Sortez-vous de votre abri et les suivez-vous ? ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Les adeptes ",
+      "t": "A",
+      "v": "Sortez-vous de votre abri et les suivez-vous ? ",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Les zombies attaquent votre ville. <OTHERPLAYER> dit qu'ils ont un plan pour s'échapper en toute sécurité. Ils ne peuvent pas vous expliquer tout le plan, mais ils vous demandent de faire CECI. Sortez-vous de votre abri et les suivez-vous ? ",
+      "t": "A",
+      "v": "755826_2",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    }
+  ]
+}

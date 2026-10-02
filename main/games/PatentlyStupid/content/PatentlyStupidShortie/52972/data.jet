@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "faire des bougies | investir | comprendre la physique théorique ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "Mon bébé doit apprendre à <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : J'ai du mal à apprendre à mon bébé comment faire CECI ! ",
+      "t": "A",
+      "v": "757475_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

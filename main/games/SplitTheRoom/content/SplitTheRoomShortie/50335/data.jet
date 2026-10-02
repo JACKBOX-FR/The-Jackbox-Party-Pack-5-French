@@ -1,1 +1,86 @@
-{"fields":[{"t":"B","v":"true","n":"HasScenarioAudio"},{"t":"B","v":"true","n":"HasCategoryAudio"},{"t":"B","v":"false","n":"HasResponseAudio"},{"t":"S","v":"eating an entire turkey | pooping your pants | getting beat up by a child | falling down an escalator | pranking your grandma","n":"Decoys"},{"t":"S","v":"S+9.75","n":"$ScenarioAudio$QuestionTextCue"},{"t":"S","v":"","n":"Keywords"},{"t":"S","v":"La célébrité vaut elle le coup ?","n":"QuestionText"},{"s":"Like And/Or Subscribe","t":"A","v":"730536_3","n":"CategoryAudio"},{"s":"Overnight, you become the world’s biggest internet celebrity. You have enough money to buy your dream house. How did you get here? You recorded yourself doing this. Is the fame worth it?","t":"A","v":"721013_2","n":"ScenarioAudio"},{"s":"","t":"A","n":"ResponseAudio"},{"n":"ScenarioText1","v":"En une nuit, tu deviens la plus grande célébrité d'internet.","t":"S"},{"n":"$ScenarioAudio$ScenarioTextCue1","v":"S+0.00","t":"S"},{"n":"ScenarioText2","v":"Tu as assez d’argent pour acheter la maison de tes rêves.","t":"S"},{"n":"$ScenarioAudio$ScenarioTextCue2","v":"S+3.38","t":"S"},{"n":"ScenarioText3","v":"Comment en es tu arrivé là ? Tu t’es filmé <BLANK>.","t":"S"},{"n":"$ScenarioAudio$ScenarioTextCue3","v":"S+6.60","t":"S"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "manger une dinde entière | faire caca dans ton pantalon | se faire battre par un enfant | tomber dans un escalier roulant | faire une blague à ta grand-mère ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "S+9.75",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "La célébrité vaut elle le coup ?",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Aimez et/ou abonnez-vous ",
+      "t": "A",
+      "v": "730536_3",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Du jour au lendemain, vous devenez la plus grande célébrité Internet au monde. Vous avez assez d'argent pour acheter la maison de vos rêves. Comment es-tu arrivé ici ? Vous vous êtes enregistré en train de faire ça. La renommée en vaut-elle la peine ? ",
+      "t": "A",
+      "v": "721013_2",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    },
+    {
+      "n": "ScenarioText1",
+      "v": "En une nuit, tu deviens la plus grande célébrité d'internet.",
+      "t": "S"
+    },
+    {
+      "n": "$ScenarioAudio$ScenarioTextCue1",
+      "v": "S+0.00",
+      "t": "S"
+    },
+    {
+      "n": "ScenarioText2",
+      "v": "Tu as assez d’argent pour acheter la maison de tes rêves.",
+      "t": "S"
+    },
+    {
+      "n": "$ScenarioAudio$ScenarioTextCue2",
+      "v": "S+3.38",
+      "t": "S"
+    },
+    {
+      "n": "ScenarioText3",
+      "v": "Comment en es tu arrivé là ? Tu t’es filmé <BLANK>.",
+      "t": "S"
+    },
+    {
+      "n": "$ScenarioAudio$ScenarioTextCue3",
+      "v": "S+6.60",
+      "t": "S"
+    }
+  ]
+}

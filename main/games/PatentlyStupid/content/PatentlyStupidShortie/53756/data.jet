@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "grottes | mes sentiments pour la glace | la lune ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "J’ai toujours voulu explorer <BLANK> ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : Je veux juste explorer CECI ! ",
+      "t": "A",
+      "v": "767120_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

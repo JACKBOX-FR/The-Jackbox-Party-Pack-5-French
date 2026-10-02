@@ -1,1 +1,81 @@
-{"fields":[{"t":"B","v":"true","n":"HasScenarioAudio"},{"t":"B","v":"false","n":"HasCategoryAudio"},{"t":"B","v":"true","n":"HasResponseAudio"},{"t":"S","v":"smile at babies | use public bathrooms | take naps | wear hats | ring doorbells","n":"Decoys"},{"t":"S","v":"sit on stools","n":"Answer"},{"t":"S","v":"S+11.22","n":"$ScenarioAudio$QuestionTextCue"},{"t":"S","v":"SPLIT","n":"Keywords"},{"t":"S","v":"Quelle aptitude abandonnes-tu ?","n":"QuestionText"},{"s":"Perfect Balance Trade Off [FINAL]","t":"A","n":"CategoryAudio"},{"s":"You will be granted the ability of Super Balance, meaning you will never trip or stumble again. But, as a side effect, you will either develop an inability to sit on stools or an inability to do this. Which ability do you give up?","t":"A","v":"761301_2","n":"ScenarioAudio"},{"s":"On the plus side, you’ll never be on America’s Funniest Home Videos.","t":"A","v":"761304_1","n":"ResponseAudio"},{"n":"ScenarioText1","v":"Tu auras la capacité d'avoir un super équilibre, ce qui signifie que tu ne trébucheras plus jamais.","t":"S"},{"n":"$ScenarioAudio$ScenarioTextCue1","v":"S+0.00","t":"S"},{"n":"ScenarioText2","v":" Mais, comme effet secondaire, tu développeras une incapacité à t'asseoir sur des tabourets ou une incapacité à <BLANK>.","t":"S"},{"n":"$ScenarioAudio$ScenarioTextCue2","v":"S+5.02","t":"S"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "sourire aux bébés | utiliser les toilettes publiques | faire des siestes | porter des chapeaux | sonner aux portes ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "s'asseoir sur des tabourets ",
+      "n": "Answer"
+    },
+    {
+      "t": "S",
+      "v": "S+11.22",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "SPLIT",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "Quelle aptitude abandonnes-tu ?",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Compromis d'équilibre parfait [FINAL] ",
+      "t": "A",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Vous bénéficierez de la capacité de Super Balance, ce qui signifie que vous ne trébucherez plus jamais. Mais, comme effet secondaire, vous développerez soit une incapacité à vous asseoir sur des tabourets, soit une incapacité à le faire. À quelle capacité abandonnez-vous ? ",
+      "t": "A",
+      "v": "761301_2",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "Du côté positif, vous ne figurerez jamais sur les vidéos personnelles les plus drôles d’Amérique. ",
+      "t": "A",
+      "v": "761304_1",
+      "n": "ResponseAudio"
+    },
+    {
+      "n": "ScenarioText1",
+      "v": "Tu auras la capacité d'avoir un super équilibre, ce qui signifie que tu ne trébucheras plus jamais.",
+      "t": "S"
+    },
+    {
+      "n": "$ScenarioAudio$ScenarioTextCue1",
+      "v": "S+0.00",
+      "t": "S"
+    },
+    {
+      "n": "ScenarioText2",
+      "v": " Mais, comme effet secondaire, tu développeras une incapacité à t'asseoir sur des tabourets ou une incapacité à <BLANK>.",
+      "t": "S"
+    },
+    {
+      "n": "$ScenarioAudio$ScenarioTextCue2",
+      "v": "S+5.02",
+      "t": "S"
+    }
+  ]
+}

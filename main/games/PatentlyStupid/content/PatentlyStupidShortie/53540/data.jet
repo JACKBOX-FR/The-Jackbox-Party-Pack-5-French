@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "danses scolaires | tartelettes pop | promenades romantiques sur la plage ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "<BLANK> me fait toujours pleurer ! ",
+      "n": "PromptText"
+    },
+    {
+      "s": "TOBY : CELA me fait toujours pleurer ! ",
+      "t": "A",
+      "v": "764612_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

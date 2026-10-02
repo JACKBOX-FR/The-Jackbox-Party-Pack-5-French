@@ -1,0 +1,245 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion5Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupPoorAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasDisAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion1Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion4Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTimingInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasScoreInstructionsAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupRockedAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupAwfulAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion7Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasDatAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion6Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestion3Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupOutroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrapupGoodAudio"
+    },
+    {
+      "t": "S",
+      "v": "S+7.15",
+      "n": "$InstructionsAudio$DatTextCue"
+    },
+    {
+      "t": "S",
+      "v": "Squawk n' Roll ",
+      "n": "CategoryText"
+    },
+    {
+      "t": "S",
+      "v": "RICHARD EFFRAYANT ANIMAL ",
+      "n": "DatButtonText"
+    },
+    {
+      "t": "S",
+      "v": "GROUPE DE ROCK ",
+      "n": "DisButtonText"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$InstructionsAudio$BothCue"
+    },
+    {
+      "t": "S",
+      "v": "un groupe de rock qui a joué Lollapalooza ",
+      "n": "DisText"
+    },
+    {
+      "t": "S",
+      "v": "un animal des livres pour enfants <i>Ville animée</i> de Richard Scarry ",
+      "n": "DatText"
+    },
+    {
+      "t": "S",
+      "v": "S+3.45",
+      "n": "$InstructionsAudio$DisTextCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$DisAudio$DisButtonCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$DatAudio$DatButtonCue"
+    },
+    {
+      "s": "Joe Carlin ",
+      "t": "A",
+      "v": "750975_1",
+      "n": "Question5Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "TimingInstructionsAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupOutroAudio"
+    },
+    {
+      "s": "Je vais lire sept noms, pour chacun, je veux que vous me disiez s'il s'agit # d'un groupe de rock qui a joué à Lollapalooza, OU... # d'un animal des livres pour enfants <i>Busytown</i> de Richard Scarry. ",
+      "t": "A",
+      "v": "750970_1",
+      "n": "InstructionsAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ScoreInstructionsAudio"
+    },
+    {
+      "s": "Dinosaure Jr. ",
+      "t": "A",
+      "v": "750977_1",
+      "n": "Question7Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupPoorAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupRockedAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupAwfulAudio"
+    },
+    {
+      "s": "Souris modeste ",
+      "t": "A",
+      "v": "750972_1",
+      "n": "Question2Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrapupGoodAudio"
+    },
+    {
+      "s": "... un GROUPE DE ROCK... ou... ",
+      "t": "A",
+      "v": "750983_1",
+      "n": "DisAudio"
+    },
+    {
+      "s": "Docteur Lion ",
+      "t": "A",
+      "v": "750973_1",
+      "n": "Question3Audio"
+    },
+    {
+      "s": "Je veux Squawk n' Roll... et c'est un DisorDat. ",
+      "t": "A",
+      "v": "750969_1",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "...un ANIMAL SCARRY DE RICHARD ",
+      "t": "A",
+      "v": "750984_1",
+      "n": "DatAudio"
+    },
+    {
+      "s": "Wolfgang Loup ",
+      "t": "A",
+      "v": "750974_1",
+      "n": "Question4Audio"
+    },
+    {
+      "s": "Ver modeste ",
+      "t": "A",
+      "v": "750971_1",
+      "n": "Question1Audio"
+    },
+    {
+      "s": "Dr Chien ",
+      "t": "A",
+      "v": "750976_1",
+      "n": "Question6Audio"
+    }
+  ]
+}

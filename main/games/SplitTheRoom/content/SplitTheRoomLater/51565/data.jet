@@ -1,0 +1,86 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "péter des flammes | crier-crier de manière agressive | frappez-vous au visage | révéler des secrets de famille | tinter un peu ",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "S+6.98",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "S+2.25",
+      "n": "$ScenarioAudio$ScenarioTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "<BLANK>. ",
+      "n": "ScenarioText3"
+    },
+    {
+      "t": "S",
+      "v": "S+5.04",
+      "n": "$ScenarioAudio$ScenarioTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "Vous êtes un sauteur en hauteur extrêmement talentueux. ",
+      "n": "ScenarioText1"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00 ",
+      "n": "$ScenarioAudio$ScenarioTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Mais chaque fois que vous sautez, vous involontairement ",
+      "n": "ScenarioText2"
+    },
+    {
+      "t": "S",
+      "v": "Participez-vous aux Jeux olympiques ? ",
+      "n": "QuestionText"
+    },
+    {
+      "s": "Journée de saut ",
+      "t": "A",
+      "v": "737173_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Vous êtes un sauteur en hauteur extrêmement talentueux. Mais chaque fois que vous sautez, vous le faites involontairement. Participez-vous aux Jeux olympiques ? ",
+      "t": "A",
+      "v": "737174_4 ",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    }
+  ]
+}

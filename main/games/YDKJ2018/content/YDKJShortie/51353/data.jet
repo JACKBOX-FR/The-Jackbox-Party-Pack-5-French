@@ -1,0 +1,138 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasChoicesAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasExplanationAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWrongAnswerAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "NONE",
+      "n": "Bumper"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$QuestionAudio$QuestionTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "Idris Elba en Napoléon Bonaparte le plus cool du monde ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "0,2,3,1 ",
+      "n": "MCOrder"
+    },
+    {
+      "t": "S",
+      "v": "Before ",
+      "n": "BumperPlacement"
+    },
+    {
+      "t": "S",
+      "v": "Dans lequel des rôles suivants pourrait-on voir Idris Elba exilé sur l'île d'Elbe ? ",
+      "n": "QuestionText1"
+    },
+    {
+      "s": "Parlons juste d'Idris Elba ",
+      "t": "A",
+      "v": "734304_1",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "OU\nM. L'Elbe est parfaite, mais toi... ",
+      "t": "A",
+      "n": "WrongAnswerAudio3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "734307_1",
+      "n": "ChoicesAudio"
+    },
+    {
+      "s": "OR\nJe veux le regarder, mais malheureusement...(Tous) ",
+      "t": "A",
+      "n": "WrongAnswerAudio2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "WrongAnswerAudio1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro2Audio"
+    },
+    {
+      "s": "Après avoir été contraint d'abdiquer le trône français, Napoléon Bonaparte a été exilé sur l'île d'Elbe, dans l'archipel toscan. ",
+      "t": "A",
+      "v": "734309_1",
+      "n": "ExplanationAudio"
+    },
+    {
+      "s": "OR\nMais coincé sur une île avec Idris Elba, c'est plus un élément de liste de souhaits qu'un film. \nOR\nIdris Elba habillé comme un Aritrocat français sur une plage toscane....Nicolas Sparks, où es-tu ? ",
+      "t": "A",
+      "n": "JokeAudio"
+    },
+    {
+      "s": "In which of the following roles could we see Idris Elba exiled to the island of Elba?",
+      "t": "A",
+      "v": "734306_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}
