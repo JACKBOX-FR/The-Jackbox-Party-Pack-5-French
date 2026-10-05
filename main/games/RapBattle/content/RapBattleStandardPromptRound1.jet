@@ -1,0 +1,3796 @@
+{
+  "episodeid": 1358,
+  "content": [
+    {
+      "a": {
+        "examples": [
+          "pousser ",
+          "sprinter ",
+          "hyperventiler "
+        ],
+        "text": "Quand je sens un danger, je commence à <VIER>. ",
+        "type": "verbe "
+      },
+      "gene": [
+        "cuire au four ",
+        "Le meilleur type de cadeau est celui que vous faites. "
+      ],
+      "x": false,
+      "id": 50681
+    },
+    {
+      "a": {
+        "examples": [
+          "patron ",
+          "président ",
+          "PDG "
+        ],
+        "text": "Faire des trucs comme un total <BLANK>. ",
+        "type": "nom - titre du patron "
+      },
+      "gene": [
+        "superviseur ",
+        "Je confie la plupart de mes projets de voyage à Trip Advisor. "
+      ],
+      "x": false,
+      "id": 50744
+    },
+    {
+      "a": {
+        "examples": [
+          "Bâtiment de l'Empire State ",
+          "Hancock ",
+          "Grand Ben "
+        ],
+        "text": "Je ne tombe jamais, je me tiens droit comme le <BLANK>. ",
+        "type": "nom propre - bâtiment célèbre "
+      },
+      "gene": [
+        "KFC ",
+        "JC Penney n'est pas sûr lorsque je fais du shopping. "
+      ],
+      "x": false,
+      "id": 50784
+    },
+    {
+      "a": {
+        "examples": [
+          "Coloré ",
+          "Rapide ",
+          "Intelligent "
+        ],
+        "text": "Mon flux est mon super pouvoir, appelez-moi Capitaine <BLANK>. ",
+        "type": "adjectif positif "
+      },
+      "gene": [
+        "Flexible ",
+        "La musique est trop forte ? Baissez-le d'un déciBel. "
+      ],
+      "x": false,
+      "id": 50785
+    },
+    {
+      "a": {
+        "examples": [
+          "Satellite ",
+          "Lune ",
+          "Planète "
+        ],
+        "text": "Je suis une force cosmique alors appelez-moi le Grand <BLANK>. ",
+        "type": "nom singulier - chose trouvée dans l'espace "
+      },
+      "gene": [
+        "Vague de gravité ",
+        "Je suis une rebelle comme mes minous, je ne me comporte jamais bien. "
+      ],
+      "x": false,
+      "id": 51771
+    },
+    {
+      "a": {
+        "examples": [
+          "nonne ",
+          "charpentier ",
+          "docteur "
+        ],
+        "text": "Je suis un adulte, je suis un <BLANK> à part entière. ",
+        "type": "nom commun - titre du poste "
+      },
+      "gene": [
+        "comptable ",
+        "Vous pourriez avoir un travail plus cool, mais j'en doute. "
+      ],
+      "x": false,
+      "id": 51716
+    },
+    {
+      "a": {
+        "examples": [
+          "Carl Sagan ",
+          "Marie-Curie ",
+          "Neil deGrasse Tyson "
+        ],
+        "text": "Je sais follement que je suis un vrai <BLANK>. ",
+        "type": "nom propre - scientifique "
+      },
+      "gene": [
+        "Max Planck ",
+        "Je dois changer mes chaussettes. Ils sentent mauvais. "
+      ],
+      "x": false,
+      "id": 51700
+    },
+    {
+      "a": {
+        "examples": [
+          "crayon ",
+          "sandwich ",
+          "base-ball "
+        ],
+        "text": "Je suis plus doux qu'un bonbon, plus piquant qu'un <BLANK>. ",
+        "type": "nom singulier "
+      },
+      "gene": [
+        "violon ",
+        "Je mange l'Oreo extérieur, je jette le milieu. "
+      ],
+      "x": false,
+      "id": 50788
+    },
+    {
+      "a": {
+        "examples": [
+          "courage ",
+          "bonne mine ",
+          "stabilité "
+        ],
+        "text": "Je suis rapide, alors utilisez le rembobinage pour voir mon <BLANK>. ",
+        "type": "nom commun - qualité personnelle "
+      },
+      "gene": [
+        "lueur ",
+        "Maudit soit le lactose, l’éternel ennemi de mon estomac ! "
+      ],
+      "x": false,
+      "id": 51767
+    },
+    {
+      "a": {
+        "examples": [
+          "chocolat ",
+          "pneus de secours ",
+          "chargeurs de téléphone "
+        ],
+        "text": "La seule chose que j’aime plus que les rimes, c’est <BLANK>. ",
+        "type": "nom pluriel "
+      },
+      "gene": [
+        "Lingettes Lysol ",
+        "Ils sont parfaits pour les dégâts de tous types. "
+      ],
+      "x": false,
+      "id": 51718
+    },
+    {
+      "a": {
+        "examples": [
+          "blaireau ",
+          "cochon ",
+          "bisons "
+        ],
+        "text": "Pour nourrir mes rimes je bois le sang d'un <BLANK>. ",
+        "type": "nom singulier - animal "
+      },
+      "gene": [
+        "serpent ",
+        "Parfois, je triche et je mange un morceau de gâteau. "
+      ],
+      "x": true,
+      "id": 51703
+    },
+    {
+      "a": {
+        "examples": [
+          "rapide ",
+          "délicieux ",
+          "génial"
+        ],
+        "text": "Je viens du futur, mon jeu est de nouvelle génération <BLANK>. ",
+        "type": "adjectif positif "
+      },
+      "gene": [
+        "hygiénique ",
+        "Comme ma collection de timbres, je suis totalement authentique. "
+      ],
+      "x": false,
+      "id": 52076
+    },
+    {
+      "a": {
+        "examples": [
+          "peur ",
+          "calme ",
+          "obscurité "
+        ],
+        "text": "J'ai un grand cœur, mes rimes sont pleines de <BLANK>. ",
+        "type": "nom singulier - une émotion "
+      },
+      "gene": [
+        "terreurs ",
+        "J'ai un dictionnaire donc je n'ai pas de fautes d'orthographe. "
+      ],
+      "x": false,
+      "id": 52950
+    },
+    {
+      "a": {
+        "examples": [
+          "rivière ",
+          "océan ",
+          "flaque d'eau "
+        ],
+        "text": "Regardez-moi couler, je suis comme un <BLANK>. ",
+        "type": "nom commun - plan d'eau "
+      },
+      "gene": [
+        "zone humide ",
+        "S'il vous plaît, ne gâchez pas cette saison de « Homeland ». "
+      ],
+      "x": false,
+      "id": 51699
+    },
+    {
+      "a": {
+        "examples": [
+          "doigts ",
+          "cheveux ",
+          "veines "
+        ],
+        "text": "Ne vous inquiétez pas, c'est du talent qui sort de mon <BLANK>. ",
+        "type": "nom pluriel - parties du corps "
+      },
+      "gene": [
+        "côtes ",
+        "Je ne dis pas de mensonges, juste de petits mensonges inoffensifs. "
+      ],
+      "x": false,
+      "id": 53079
+    },
+    {
+      "a": {
+        "examples": [
+          "goulasch ",
+          "ragoût de chèvre ",
+          "boeuf "
+        ],
+        "text": "Mes rimes fondent sur la langue comme <BLANK>. ",
+        "type": "nom - nourriture "
+      },
+      "gene": [
+        "chou ",
+        "Ma voix est croustillante et nette, tellement sauvage. "
+      ],
+      "x": false,
+      "id": 52399
+    },
+    {
+      "a": {
+        "examples": [
+          "accident ",
+          "câlin ",
+          "regarde "
+        ],
+        "text": "Je suis un animal sauvage que vous ne pourrez jamais <BLANK>. ",
+        "type": "verbe "
+      },
+      "gene": [
+        "bénir ",
+        "Ne prenez pas de photo ! Mes cheveux sont en désordre. "
+      ],
+      "x": false,
+      "id": 52078
+    },
+    {
+      "a": {
+        "examples": [
+          "OkCupidon ",
+          "Amazone ",
+          "eBay "
+        ],
+        "text": "Quand je veux un rendez-vous, je saute simplement sur <BLANK>. ",
+        "type": "nom propre - site internet "
+      },
+      "gene": [
+        "Tomates pourries ",
+        "Regardons « John Wick » comme deux frères ! "
+      ],
+      "x": false,
+      "id": 53077
+    },
+    {
+      "a": {
+        "examples": [
+          "arbre ",
+          "pétunia ",
+          "buisson "
+        ],
+        "text": "En ce moment, je suis une graine mais je serai bientôt un <BLANK>. ",
+        "type": "nom singulier - type de plante "
+      },
+      "gene": [
+        "orchidée ",
+        "Une seule gorgée d'eau. Je suis une chérie délicate. "
+      ],
+      "x": false,
+      "id": 52874
+    },
+    {
+      "a": {
+        "examples": [
+          "Lac ",
+          "Crevasse ",
+          "Glacier "
+        ],
+        "text": "Mon flux est si fort, appelez-moi le Mississippi <BLANK>. ",
+        "type": "nom - caractéristique géographique "
+      },
+      "gene": [
+        "Plateau ",
+        "Si le parc n’accepte pas les animaux, alors c’est interdit. "
+      ],
+      "x": false,
+      "id": 51768
+    },
+    {
+      "a": {
+        "examples": [
+          "bateau rapide ",
+          "Mustang ",
+          "vélo tandem "
+        ],
+        "text": "Le turbo de mon jeu s'est chargé plus rapidement qu'un <BLANK>. ",
+        "type": "nom singulier - véhicule "
+      },
+      "gene": [
+        "mulet ",
+        "Si vous n’avez pas d’assurance habitation, vous êtes un imbécile. "
+      ],
+      "x": false,
+      "id": 52948
+    },
+    {
+      "a": {
+        "examples": [
+          "vampire ",
+          "fantôme ",
+          "extraterrestre "
+        ],
+        "text": "Je déchire ces rues comme un <BLANK>. ",
+        "type": "nom singulier - un monstre "
+      },
+      "gene": [
+        "chupacabra",
+        "My cousin understudies in ‘Phantom of the Opera.’"
+      ],
+      "x": false,
+      "id": 53078
+    },
+    {
+      "a": {
+        "examples": [
+          "maison ",
+          "gratte-ciel ",
+          "copropriété "
+        ],
+        "text": "Vous n’avez pas besoin d’autorisation pour faire basculer ce <BLANK>. ",
+        "type": "nom commun - type de bâtiment "
+      },
+      "gene": [
+        " station d'épuration ",
+        "J'ai besoin d'une autorisation ? Alors je suis désolé, je ne le ferai pas. "
+      ],
+      "x": false,
+      "id": 51902
+    },
+    {
+      "a": {
+        "examples": [
+          "orteils ",
+          "veines ",
+          "cheveux "
+        ],
+        "text": "J'ai des mots dans mon cœur et un micro dans mon <BLANK>. ",
+        "type": "nom - partie du corps "
+      },
+      "gene": [
+        "côtes ",
+        "Si personne ne veut la dernière part, j'appelle dibs ! "
+      ],
+      "x": false,
+      "id": 52124
+    },
+    {
+      "a": {
+        "examples": [
+          "soleil",
+          "Cate Blanchett ",
+          "désert "
+        ],
+        "text": "Je crache du feu plus chaud que le <BLANK>. ",
+        "type": "nom singulier - une chose chaude "
+      },
+      "gene": [
+        "feu le plus chaud ",
+        "Wow, c'est chaud à souhait ! Tu vas te brûler ! "
+      ],
+      "x": false,
+      "id": 52879
+    },
+    {
+      "a": {
+        "examples": [
+          "backgammon ",
+          "Stud à cinq cartes ",
+          "quilles "
+        ],
+        "text": "Mon jeu de rap est juste derrière mon <BLANK>. ",
+        "type": "nom commun - un jeu "
+      },
+      "gene": [
+        "Tu ne connais pas Jack ",
+        "Vous n'en avez jamais entendu parler ? C'est dans ce pack de fête. "
+      ],
+      "x": false,
+      "id": 52159
+    },
+    {
+      "a": {
+        "examples": [
+          "laisser tomber ",
+          "sortir ",
+          "voyage "
+        ],
+        "text": "Je n’ai jamais rencontré d’adversaire que je ne pouvais pas <BLANK>. ",
+        "type": "verbe - action violente "
+      },
+      "gene": [
+        "déprécier ",
+        "Je ne peux pas rencontrer de gens car je n’initie jamais. "
+      ],
+      "x": false,
+      "id": 52949
+    },
+    {
+      "a": {
+        "examples": [
+          "pincer ",
+          "en forme de V ",
+          "méchant "
+        ],
+        "text": "Ma peau est exfoliée, mes sourcils sont <VIERGES>. ",
+        "type": "adjectif "
+      },
+      "gene": [
+        "À la manière de Scorsese ",
+        "J'ai bien peur que ce ne soit pas le style que Jay-Z aime. "
+      ],
+      "x": false,
+      "id": 52157
+    },
+    {
+      "a": {
+        "examples": [
+          "cochon latin ",
+          "Espéranto ",
+          "Swahili "
+        ],
+        "text": "Saviez-vous que je parle couramment <BLANK> ? ",
+        "type": "nom - une langue "
+      },
+      "gene": [
+        "Cajun ",
+        "C’est assez marrant, comme vous pouvez l’imayjgun. "
+      ],
+      "x": false,
+      "id": 52153
+    },
+    {
+      "a": {
+        "examples": [
+          "crânes ",
+          "briques ",
+          "adversaires "
+        ],
+        "text": "Mes mains de robot sont façonnées pour écraser <BLANK>. ",
+        "type": "nom pluriel - choses difficiles "
+      },
+      "gene": [
+        "melon ",
+        "Après, ils ne sont plus en état de vendre. "
+      ],
+      "x": false,
+      "id": 52145
+    },
+    {
+      "a": {
+        "examples": [
+          "monstre ",
+          "robot ",
+          "géant "
+        ],
+        "text": "J'ai huit bras secrets comme un octo-<BLANK>. ",
+        "type": "nom singulier - chose effrayante "
+      },
+      "gene": [
+        "mec ",
+        "Je ne les montre pas tout de suite. Ce serait impoli. "
+      ],
+      "x": false,
+      "id": 52154
+    },
+    {
+      "a": {
+        "examples": [
+          "BuzzFeed ",
+          "Le Huffington Post ",
+          "OkCupidon"
+        ],
+        "text": "Je suis un sujet tendance dans l'histoire principale de <BLANK>. ",
+        "type": "nom propre - un site Web "
+      },
+      "gene": [
+        "WebMD ",
+        "Je ne vois pas mon dos, pouvez-vous vérifier ce grain de beauté pour moi ? "
+      ],
+      "x": false,
+      "id": 52122
+    },
+    {
+      "a": {
+        "examples": [
+          "mathématiques ",
+          "la météo ",
+          "Bitcoin "
+        ],
+        "text": "Alexa appelle mon nom pour en savoir plus sur <BLANK>. ",
+        "type": "n'importe quel sujet "
+      },
+      "gene": [
+        "cuisine ",
+        "Je me demande à quoi elle ressemble, vraiment belle. "
+      ],
+      "x": false,
+      "id": 51873
+    },
+    {
+      "a": {
+        "examples": [
+          "art ",
+          "énergie ",
+          "embarras "
+        ],
+        "text": "Je suis le dirigeant ultime, ce que je dis devient <BLANK>. ",
+        "type": "nom singulier - concept abstrait "
+      },
+      "gene": [
+        "éthéré ",
+        "En matière de margarines, rien ne vaut Imperial. "
+      ],
+      "x": false,
+      "id": 51882
+    },
+    {
+      "a": {
+        "examples": [
+          "Larry Oiseau ",
+          "Michael Jordan ",
+          "Mugsy Bogues "
+        ],
+        "text": "Je me dirige vers le cerceau, comme <BLANK>.e <BLANK>.",
+        "type": "nom propre - star du basket "
+      },
+      "gene": [
+        "Stéphane Curry ",
+        "Mais ensuite je passe le ballon, parce que je ne suis pas pressé. "
+      ],
+      "x": false,
+      "id": 51871
+    },
+    {
+      "a": {
+        "examples": [
+          "Ville ",
+          "Crêpe ",
+          "Cantaloup "
+        ],
+        "text": "Je suis en majuscule-P. Un peu comme le majuscule-C <BLANK>. ",
+        "type": "mot qui commence par C "
+      },
+      "gene": [
+        "Créature ",
+        "Une jolie créature certes, mais toujours une créature. "
+      ],
+      "x": false,
+      "id": 52128
+    },
+    {
+      "a": {
+        "examples": [
+          "Boucles de fruits ",
+          "Blé ",
+          "Flocons givrés "
+        ],
+        "text": "Je suis la crème de la crème, je suis au top <BLANK>. ",
+        "type": "nom propre - marque de céréales "
+      },
+      "gene": [
+        "Weetabix ",
+        "Parce que les mots qui riment sont un de mes trucs de fête. "
+      ],
+      "x": false,
+      "id": 52020
+    },
+    {
+      "a": {
+        "examples": [
+          "avocat ",
+          "charpentier ",
+          "brigadier scolaire "
+        ],
+        "text": "Regardez-moi travailler, je suis un maître <BLANK>. ",
+        "type": "nom singulier - une occupation "
+      },
+      "gene": [
+        "chef de cuisine ",
+        "Saviez-vous que les haricots verts ne sont que des haricots verts ? "
+      ],
+      "x": false,
+      "id": 52018
+    },
+    {
+      "a": {
+        "examples": [
+          "jazz",
+          "hip hop ",
+          "classique "
+        ],
+        "text": "C'est mon couronnement, appelez-moi la Reine de <BLANK>. ",
+        "type": "nom - type de musique "
+      },
+      "gene": [
+        "montrer des airs ",
+        "Je danse Razzle Dazzle et je claque mes cuillères de spectacle. "
+      ],
+      "x": false,
+      "id": 51898
+    },
+    {
+      "a": {
+        "examples": [
+          "déterminé ",
+          "qualifié ",
+          "bien "
+        ],
+        "text": "Mon œil est rivé sur le prix parce que je suis <BLANK>. ",
+        "type": "adjectif positif "
+      },
+      "gene": [
+        "digne ",
+        "Je dois acheter de nouvelles lunettes parce que les choses semblent floues. "
+      ],
+      "x": false,
+      "id": 52022
+    },
+    {
+      "a": {
+        "examples": [
+          "sécurité ",
+          "gentillesse ",
+          "chaleur "
+        ],
+        "text": "Mes rimes sont délicates alors manipulez-les avec <BLANK>. ",
+        "type": "nom commun - un concept positif "
+      },
+      "gene": [
+        "délice ",
+        "Je dois prendre un Xanax avant de prendre l'avion. "
+      ],
+      "x": false,
+      "id": 52077
+    },
+    {
+      "a": {
+        "examples": [
+          "les abeilles ",
+          "maisons ",
+          "rêves "
+        ],
+        "text": "Les rimes que je peins valent mille <BLANK>. ",
+        "type": "nom pluriel "
+      },
+      "gene": [
+        "romans ",
+        "J'ai beaucoup de chance, j'ai encore mes amygdales. "
+      ],
+      "x": false,
+      "id": 51867
+    },
+    {
+      "a": {
+        "examples": [
+          "bananes ",
+          "fou ",
+          "visqueux "
+        ],
+        "text": "Quand je commence à rimer, les gens disent <BLANK>. ",
+        "type": "adjectif - synonyme de « fou » "
+      },
+      "gene": [
+        "fou furieux ",
+        "Mais j'arrêterai s'ils le veulent. Je ne suis pas un con. "
+      ],
+      "x": false,
+      "id": 52019
+    },
+    {
+      "a": {
+        "examples": [
+          "feu ",
+          "matchs ",
+          "lasers"
+        ],
+        "text": "J'ai trop chaud, mon corps est fait de <BLANK>. ",
+        "type": "nom - quelque chose de chaud"
+      },
+      "gene": [
+        "radiateurs ",
+        "Ce que je préfère dans le sport, ce sont les commentateurs. "
+      ],
+      "x": false,
+      "id": 51864
+    },
+    {
+      "a": {
+        "examples": [
+          " ragoût de boeuf ",
+          "baguettes ",
+          "pizzas "
+        ],
+        "text": "Quand la vie me donne des citrons, je fais <BLANK>. ",
+        "type": "nom pluriel - entrées "
+      },
+      "gene": [
+        "moutarde ",
+        "Quand ma copine m'ignore, je me gave de crème anglaise. "
+      ],
+      "x": false,
+      "id": 51901
+    },
+    {
+      "a": {
+        "examples": [
+          "mouchoir ",
+          "portefeuille",
+          "montre de poche "
+        ],
+        "text": "Je garde le succès dans ma poche à côté de mon <BLANK>. ",
+        "type": "nom singulier - chose dans ta poche "
+      },
+      "gene": [
+        "foret ",
+        "Je n’ai pas les moyens de faire appel à un médecin généraliste, alors je suis allé chez un vétérinaire. "
+      ],
+      "x": false,
+      "id": 51863
+    },
+    {
+      "a": {
+        "examples": [
+          "eau ",
+          "céréales ",
+          "terre "
+        ],
+        "text": "Mon talent est si grand que nous manquons de <BLANK>. ",
+        "type": "nom commun - ressource naturelle "
+      },
+      "gene": [
+        "oxygène ",
+        "Je suis vraiment mauvais avec les noms, qui es-tu déjà ? "
+      ],
+      "x": false,
+      "id": 51950
+    },
+    {
+      "a": {
+        "examples": [
+          "mordre ",
+          "rabat ",
+          "se dépêcher "
+        ],
+        "text": "Une oie sauvage essaie de m'attraper <BLANK>. ",
+        "type": "verbe - une action animale "
+      },
+      "gene": [
+        "se dandiner ",
+        "S'il vous plaît, gardez vos bouteilles vides parce que je collectionne les bouteilles. "
+      ],
+      "x": false,
+      "id": 51948
+    },
+    {
+      "a": {
+        "examples": [
+          "Oprah ",
+          "Elon Musk ",
+          "Obama "
+        ],
+        "text": "J’achète toujours bio parce que je suis riche comme <BLANK>. ",
+        "type": "nom propre - une personne riche "
+      },
+      "gene": [
+        "Régis Philbin ",
+        "J’achète des carottes et des poivrons et bientôt j’ai une poubelle pleine ! "
+      ],
+      "x": false,
+      "id": 51899
+    },
+    {
+      "a": {
+        "examples": [
+          "conseils ",
+          "idées ",
+          "sagesse "
+        ],
+        "text": "Kanye et Drake m'appellent pour <BLANK>. ",
+        "type": "nom - terme pour « aider » "
+      },
+      "gene": [
+        "commentaires ",
+        "Comme tout bon jardinier, j’ai une cabane à graines. "
+      ],
+      "x": false,
+      "id": 51842
+    },
+    {
+      "a": {
+        "examples": [
+          "ours gommeux ",
+          "Explosion d'étoiles ",
+          "Le baiser de Hershey "
+        ],
+        "text": "J'ai un goût sucré, comme un délicieux <BLANK>. ",
+        "type": "nom - un type de bonbon "
+      },
+      "gene": [
+        "Rolo",
+        "J’aime dans ‘Pretty Woman’ quand ils vont regarder le polo. "
+      ],
+      "x": true,
+      "id": 52381
+    },
+    {
+      "a": {
+        "examples": [
+          "chauves-souris ",
+          "gaz ",
+          "argent "
+        ],
+        "text": "Quand je me coupe, je rase les flux <BLANK>. ",
+        "type": "nom pluriel "
+      },
+      "gene": [
+        "air ",
+        "Non, je ne me rase pas parce que mon visage n'a pas de cheveux. "
+      ],
+      "x": false,
+      "id": 51704
+    },
+    {
+      "a": {
+        "examples": [
+          "pommes ",
+          "oranges ",
+          "citrons "
+        ],
+        "text": "Partout où je vais, les fans me comblent de <BLANK>. ",
+        "type": "nom pluriel - fruits "
+      },
+      "gene": [
+        "boules de melon ",
+        "Et mes ennemis me fouettent avec des châles de soie. "
+      ],
+      "x": false,
+      "id": 51818
+    },
+    {
+      "a": {
+        "examples": [
+          "centre commercial ",
+          "Carmax ",
+          "librairie "
+        ],
+        "text": "Je viens de m'arrêter en route vers le <BLANK>. ",
+        "type": "nom - lieu d'affaires "
+      },
+      "gene": [
+        "clinique ",
+        "Pour te dire que tu n'as aucune chance de winnik. "
+      ],
+      "x": false,
+      "id": 52690
+    },
+    {
+      "a": {
+        "examples": [
+          "rire ",
+          "gifler ",
+          "purée"
+        ],
+        "text": "J'ai gagné un prix Nobel pour <BLANK>. ",
+        "type": "verbe se terminant par -ing "
+      },
+      "gene": [
+        "achats ",
+        "Shopping pour un cheval qui va faire du clip. "
+      ],
+      "x": false,
+      "id": 51814
+    },
+    {
+      "a": {
+        "examples": [
+          "voitures ",
+          "boulettes ",
+          "tours "
+        ],
+        "text": "Mon corps est souple, mon cerveau est plein de <BLANK>. ",
+        "type": "nom pluriel - objets trouvés à Shanghai "
+      },
+      "gene": [
+        "pollution ",
+        "Une taxe carbone sur les usines pourrait être la solution. "
+      ],
+      "x": false,
+      "id": 51843
+    },
+    {
+      "a": {
+        "examples": [
+          "crie ",
+          "rires ",
+          "les tout-petits "
+        ],
+        "text": "Je swag quand le soleil se lève et quand il <BLANK>. ",
+        "type": "verbe se terminant par -s "
+      },
+      "gene": [
+        "oscille ",
+        "Je suis archéologue et je vous emmène à des dates fossiles. "
+      ],
+      "x": false,
+      "id": 51813
+    },
+    {
+      "a": {
+        "examples": [
+          "Meilleur achat ",
+          "Arrêt du jeu ",
+          "Starbucks "
+        ],
+        "text": "J'ai été élevé dans la partie difficile de <BLANK>. ",
+        "type": "nom propre - un magasin "
+      },
+      "gene": [
+        "Hardee ",
+        "Ce n’était pas trop mal parce que j’ai fait de super fêtes ! "
+      ],
+      "x": false,
+      "id": 51807
+    },
+    {
+      "a": {
+        "examples": [
+          "Jeune Sheldon ",
+          "Stan Lee ",
+          "Marc Ruffalo "
+        ],
+        "text": "Je suis tellement dur qu’ils m’appellent <BLANK>. ",
+        "type": "nom propre - nerd célèbre "
+      },
+      "gene": [
+        "Rick Moranis ",
+        "Capable de rétrécir les enfants, voilà ce qu'est un homme ! "
+      ],
+      "x": false,
+      "id": 51797
+    },
+    {
+      "a": {
+        "examples": [
+          "apporter ",
+          "faire ",
+          "dire "
+        ],
+        "text": "Quand je suis au micro, je ne sais pas ce que je vais <BLANK>. ",
+        "type": "verbe "
+      },
+      "gene": [
+        "relier ",
+        "Mais je sais ceci : ça va être génial ! "
+      ],
+      "x": false,
+      "id": 52689
+    },
+    {
+      "a": {
+        "examples": [
+          "rose ",
+          "gâteau ",
+          "brise "
+        ],
+        "text": "Je n'ai jamais besoin de me doucher, je sens le <BLANK>. ",
+        "type": "nom singulier - chose qui sent bon "
+      },
+      "gene": [
+        "chiot ",
+        "Écoute, je suis un bébé qui boit dans ma tasse à bec. "
+      ],
+      "x": false,
+      "id": 52374
+    },
+    {
+      "a": {
+        "examples": [
+          "KO ",
+          "destruction ",
+          "rouleau compresseur "
+        ],
+        "text": "Le mot du jour pour les garçons et les filles est <BLANK>. ",
+        "type": "tout mot intimidant "
+      },
+      "gene": [
+        "coup ",
+        "Ma langue fait ça quand je fais un bon rap. "
+      ],
+      "x": false,
+      "id": 52373
+    },
+    {
+      "a": {
+        "examples": [
+          "Nascar ",
+          "Cible ",
+          "Arby's "
+        ],
+        "text": "Je suis tellement sexy que j'ai été sponsorisée par <BLANK>. ",
+        "type": "nom propre - une marque/une entreprise "
+      },
+      "gene": [
+        "Petco ",
+        "Mais quand j’ai fait un mauvais travail, eh bien, j’ai été relâché. "
+      ],
+      "x": false,
+      "id": 51815
+    },
+    {
+      "a": {
+        "examples": [
+          "Amazone ",
+          "Zeus ",
+          "Étoile de la mort "
+        ],
+        "text": "Il y a une planète qui porte mon nom et appelée <BLANK>. ",
+        "type": "un nom impressionnant "
+      },
+      "gene": [
+        "Cuillère ",
+        "Curieusement, c’est plus petit que New York. "
+      ],
+      "x": false,
+      "id": 51841
+    },
+    {
+      "a": {
+        "examples": [
+          "frire ",
+          "pause ",
+          "faire bouillir"
+        ],
+        "text": "Mon cerveau est si gros que ma tête est sur le point de <BLANK>.",
+        "type": "verbe - qu'est-ce qu'on fait à un œuf "
+      },
+      "gene": [
+        "fertiliser ",
+        "Après je vous le promets, je désinfecterai. "
+      ],
+      "x": true,
+      "id": 51817
+    },
+    {
+      "a": {
+        "examples": [
+          " Faible ",
+          "Fondre ",
+          "Laisser mijoter "
+        ],
+        "text": "Le nom de mon jeu est Rap ‘til I <BLANK>. ",
+        "type": "verbe "
+      },
+      "gene": [
+        "Voyage ",
+        "BOUM ! Je suis par terre et je me mords la lèvre. "
+      ],
+      "x": false,
+      "id": 51840
+    },
+    {
+      "a": {
+        "examples": [
+          "attends ",
+          "combattez-le ",
+          "se plaindre "
+        ],
+        "text": "Quand il sera temps de raccrocher, je ne le ferai pas <BLANK>. ",
+        "type": "verbe "
+      },
+      "gene": [
+        "bagarre ",
+        "Comme un maître Jedi, face à Dark Maul. "
+      ],
+      "x": false,
+      "id": 52291
+    },
+    {
+      "a": {
+        "examples": [
+          "heureux ",
+          "belle ",
+          "curieux "
+        ],
+        "text": "Mes paroles sont des rêves devenus réalité, faites-vous <BLANK>. ",
+        "type": "adjectif - état d'esprit positif "
+      },
+      "gene": [
+        "gazeux. ",
+        "La capitale de la Floride ? Facile : Tallahassee ! "
+      ],
+      "x": false,
+      "id": 51859
+    },
+    {
+      "a": {
+        "examples": [
+          "équipage ",
+          "groupe ",
+          "entourage "
+        ],
+        "text": "Le Père Noël a des elfes, j'ai mon <BLANK>. ",
+        "type": "nom collectif "
+      },
+      "gene": [
+        "Kit de bricolage ",
+        "Je suis debout toute la journée, c’est pour ça que je suis assis. "
+      ],
+      "x": false,
+      "id": 51844
+    },
+    {
+      "a": {
+        "examples": [
+          "Frais ",
+          "Fascinant ",
+          "Intelligent "
+        ],
+        "text": "Bienvenue en classe, je suis le professeur <BLANK>. ",
+        "type": "adjectif positif "
+      },
+      "gene": [
+        "Mélodieux ",
+        "Quelqu'un sait ce qu'est un « 40 » ? "
+      ],
+      "x": false,
+      "id": 52244
+    },
+    {
+      "a": {
+        "examples": [
+          "attaque ",
+          "détruire ",
+          "rugir "
+        ],
+        "text": "Ma routine de combat est du fil dentaire et du <BLANK>. ",
+        "type": "verbe - action menaçante "
+      },
+      "gene": [
+        "répéter ",
+        "Je n’y peux rien. J'aime que mes dents soient soignées. "
+      ],
+      "x": false,
+      "id": 51849
+    },
+    {
+      "a": {
+        "examples": [
+          "prince",
+          "chérie ",
+          "chérie "
+        ],
+        "text": "Ma mère dit toujours que je suis son numéro un <BLANK>. ",
+        "type": "terme d'affection "
+      },
+      "gene": [
+        "personne ",
+        "Elle le dit probablement parce que je le suis, son fils. "
+      ],
+      "x": false,
+      "id": 51845
+    },
+    {
+      "a": {
+        "examples": [
+          "chanson ",
+          "cri ",
+          "hymne "
+        ],
+        "text": "Wah-ka-bam-zoo est mon combat <BLANK>. ",
+        "type": "nom singulier - un son "
+      },
+      "gene": [
+        "poésie ",
+        "Je ne sais pas ce que cela signifie. Je viens de le faire circuler librement. "
+      ],
+      "x": false,
+      "id": 51847
+    },
+    {
+      "a": {
+        "examples": [
+          "tambour ",
+          "sax ",
+          "synthé "
+        ],
+        "text": "Ma bouche est comme une trompette, mon cerveau est comme un <BLANK>. ",
+        "type": "nom - instrument de musique "
+      },
+      "gene": [
+        "flûte ",
+        "Avez-vous déjà vu un tarsier ? Garçon, ils sont mignons. "
+      ],
+      "x": false,
+      "id": 51857
+    },
+    {
+      "a": {
+        "examples": [
+          "rubis ",
+          "platine ",
+          "argent "
+        ],
+        "text": "Découvrez mon grill tout constellé de <BLANK>. ",
+        "type": "nom - substance précieuse "
+      },
+      "gene": [
+        "perles ",
+        "Et quand je le nettoie, je le brosse en tourbillonnant. "
+      ],
+      "x": false,
+      "id": 51858
+    },
+    {
+      "a": {
+        "examples": [
+          "sauter ",
+          "changement ",
+          "glisser "
+        ],
+        "text": "Quand mes paroles vous parviendront, vos pieds seront <VIDES>. ",
+        "type": "verbe"
+      },
+      "gene": [
+        "tourner ",
+        "Mes ballons d'anniversaire ont commencé à se dégonfler. "
+      ],
+      "x": false,
+      "id": 51862
+    },
+    {
+      "a": {
+        "examples": [
+          "seau ",
+          "bol ",
+          "boîte "
+        ],
+        "text": "Je suis à genoux dans les rimes, mieux vaut avoir un <BLANK>. ",
+        "type": "nom commun - un conteneur "
+      },
+      "gene": [
+        "gourde creuse ",
+        "C’est celui dans lequel on a versé de la soupe chaude. "
+      ],
+      "x": false,
+      "id": 51701
+    },
+    {
+      "a": {
+        "examples": [
+          "épées ",
+          "lancer des étoiles ",
+          "sabres laser "
+        ],
+        "text": "C’est une confrontation et mes mots sont mon <BLANK>. ",
+        "type": "nom pluriel - armes "
+      },
+      "gene": [
+        "spray au poivre ",
+        "Je voulais monter à cheval mais il a dit « hennir ». "
+      ],
+      "x": false,
+      "id": 51769
+    },
+    {
+      "a": {
+        "examples": [
+          "Mont Everest ",
+          "Mont McKinley ",
+          "Mont Rainier "
+        ],
+        "text": "Je suis en route, je pourrais grimper <BLANK>. ",
+        "type": "nom propre - montagne "
+      },
+      "gene": [
+        "Mont Destin ",
+        "Je ne peux pas être le seul monstre de L O T R dans la pièce. "
+      ],
+      "x": false,
+      "id": 51714
+    },
+    {
+      "a": {
+        "examples": [
+          "danse ",
+          "sauter ",
+          "courir "
+        ],
+        "text": "Quand je commence à rimer, ils se lèvent tous jusqu'à <BLANK>. ",
+        "type": "verbe "
+      },
+      "gene": [
+        "bousculade ",
+        "Cela me fait mal s'ils s'enfuient à la vitesse de la lumière. "
+      ],
+      "x": false,
+      "id": 51713
+    },
+    {
+      "a": {
+        "examples": [
+          "chien ",
+          "pingouin ",
+          "abeille "
+        ],
+        "text": "Je détruis des pâtés de maisons comme un gigantesque <BLANK>. ",
+        "type": "nom - un animal "
+      },
+      "gene": [
+        "mangouste",
+        "Nous sommes tous les deux vraiment bons, appelons à une trêve. "
+      ],
+      "x": false,
+      "id": 50793
+    },
+    {
+      "a": {
+        "examples": [
+          "apprendre ",
+          "voir ",
+          "chiffre "
+        ],
+        "text": "Je suis le meilleur que vous puissiez tous <BLANK>. ",
+        "type": "verbe "
+      },
+      "gene": [
+        "gémir ",
+        "Vous n’avez pas la moitié des objets de collection que je possède. "
+      ],
+      "x": false,
+      "id": 50908
+    },
+    {
+      "a": {
+        "examples": [
+          "le plus grand ",
+          "le plus fort ",
+          "meilleur "
+        ],
+        "text": "Mon jeu de rimes est de loin le <BLANK>. ",
+        "type": "adjectif se terminant par -est "
+      },
+      "gene": [
+        "le plus élégant ",
+        "Steely Dan, ton rock est le plus jazzé ! "
+      ],
+      "x": false,
+      "id": 50909
+    },
+    {
+      "a": {
+        "examples": [
+          "tomber ",
+          "boire ",
+          "siffler "
+        ],
+        "text": "Courez et trouvez une couverture parce que je suis sur le point de <BLANK>. ",
+        "type": "verbe "
+      },
+      "gene": [
+        "trébucher ",
+        "Est-ce que tu m'entends bien ? J'ai tendance à marmonner. "
+      ],
+      "x": false,
+      "id": 51756
+    },
+    {
+      "a": {
+        "examples": [
+          "wow ",
+          "hourra ",
+          "mon Dieu "
+        ],
+        "text": "Tout le monde abandonne pour moi, dites <BLANK>. ",
+        "type": "une exclamation "
+      },
+      "gene": [
+        "youpi ",
+        "Je vais gagner. Vous pariez votre doux bippy ! "
+      ],
+      "x": false,
+      "id": 50918
+    },
+    {
+      "a": {
+        "examples": [
+          "Rome",
+          "Le Sud ",
+          "centre ville "
+        ],
+        "text": "Je suis le meilleur MC de tout <BLANK>. ",
+        "type": "nom - un lieu "
+      },
+      "gene": [
+        "Kansas ",
+        "Mes lunettes ressemblent à celles de George Costanza. "
+      ],
+      "x": false,
+      "id": 50919
+    },
+    {
+      "a": {
+        "examples": [
+          "rochers ",
+          "rhinocéros ",
+          "bâtiments "
+        ],
+        "text": "Je suis venu ici pour écraser et mes mots sont <BLANK>. ",
+        "type": "nom pluriel - choses lourdes "
+      },
+      "gene": [
+        "crème fouettée ",
+        "Après cela, puis-je vous raconter mon rêve le plus étrange ? "
+      ],
+      "x": false,
+      "id": 51728
+    },
+    {
+      "a": {
+        "examples": [
+          "Chicago ",
+          "Kmart ",
+          "L'Arctique "
+        ],
+        "text": "Ils m'appellent le souverain de <BLANK>. ",
+        "type": "nom propre - un lieu "
+      },
+      "gene": [
+        "La Nouvelle-Orléans ",
+        "Quand je porte, mes nouvelles gabardines. "
+      ],
+      "x": false,
+      "id": 50920
+    },
+    {
+      "a": {
+        "examples": [
+          "avion ",
+          "éléphant ",
+          "Taj Mahal "
+        ],
+        "text": "Je suis tellement riche en rimes que je pourrais en acheter un <BLANK>. ",
+        "type": "nom - une grande chose "
+      },
+      "gene": [
+        "nuage ",
+        "Essayez de le garder bas. Je n'aime pas ça fort. "
+      ],
+      "x": false,
+      "id": 51576
+    },
+    {
+      "a": {
+        "examples": [
+          "lentement ",
+          "finalement ",
+          "bruyamment "
+        ],
+        "text": "Je suis juste ici pour dire <BLANK>. ",
+        "type": "adverbe "
+      },
+      "gene": [
+        "poliment ",
+        "C'est quoi ce film, avec Holly Golightly ? "
+      ],
+      "x": false,
+      "id": 50923
+    },
+    {
+      "a": {
+        "examples": [
+          "Chine ",
+          "Philadelphie ",
+          "Guam "
+        ],
+        "text": "Vous pensez que je suis grand ici, vous devriez me voir en <BLANK>. ",
+        "type": "nom propre - ville, état ou pays "
+      },
+      "gene": [
+        "Islande ",
+        "Björk est originaire de là-bas, ça a l'air d'être un joli pays. "
+      ],
+      "x": false,
+      "id": 51541
+    },
+    {
+      "a": {
+        "examples": [
+          "Einstein ",
+          "Gandhi ",
+          "Tom Hanks "
+        ],
+        "text": "Je suis une légende, un <BLANK> régulier. ",
+        "type": "nom propre - personne célèbre "
+      },
+      "gene": [
+        "Bono ",
+        "J'ai raté le concert de U 2 parce que j'avais du mono. "
+      ],
+      "x": false,
+      "id": 51567
+    },
+    {
+      "a": {
+        "examples": [
+          "Georges Washington ",
+          "Attila le Hun ",
+          "Abigail Adams "
+        ],
+        "text": "Je crée de nouvelles règles comme un <BLANK> moderne. ",
+        "type": "nom propre - personnage historique "
+      },
+      "gene": [
+        "Daniel Boone ",
+        "J'ai changé le jeu musical alors appelez-moi Zune. "
+      ],
+      "x": false,
+      "id": 51708
+    },
+    {
+      "a": {
+        "examples": [
+          "fletcher ",
+          "constructeur ",
+          "banquier "
+        ],
+        "text": "J’atteins de nouveaux sommets, je suis un maître <BLANK>. ",
+        "type": "nom commun - type d'artisan "
+      },
+      "gene": [
+        "chenille ",
+        "J'ai entendu dire que LeBron James est un assez bon joueur de football. "
+      ],
+      "x": false,
+      "id": 51709
+    },
+    {
+      "a": {
+        "examples": [
+          "goudron ",
+          "glace ",
+          "marteaux "
+        ],
+        "text": "Je suis un tueur, avec un cœur de <BLANK>. ",
+        "type": "nom pluriel "
+      },
+      "gene": [
+        "levure ",
+        "Mes médecins ne sont pas contents, c’est le moins qu’on puisse dire. "
+      ],
+      "x": true,
+      "id": 51616
+    },
+    {
+      "a": {
+        "examples": [
+          "balancer",
+          "profiter ",
+          "siffler "
+        ],
+        "text": "J'entends le rythme, je sors <BLANK>. ",
+        "type": "nom se terminant par -ing "
+      },
+      "gene": [
+        "flottant ",
+        "J'aime les fèves au lard mais pas les ballonnements. "
+      ],
+      "x": false,
+      "id": 50924
+    },
+    {
+      "a": {
+        "examples": [
+          "chemise ",
+          "chapeau ",
+          "chaussette "
+        ],
+        "text": "Je suis toujours à la mode comme un tout nouveau <BLANK>. ",
+        "type": "nom singulier - article vestimentaire "
+      },
+      "gene": [
+        "bandana ",
+        "Que je porte quand je chante « Oh Susanna ». "
+      ],
+      "x": false,
+      "id": 51696
+    },
+    {
+      "a": {
+        "examples": [
+          "vers le bas ",
+          "autour ",
+          "à travers "
+        ],
+        "text": "Quand je suis au micro, tu ferais mieux de regarder <BLANK>. ",
+        "type": "préposition "
+      },
+      "gene": [
+        "à l'intérieur ",
+        "J'espère que le jeu se terminera avec nous tous à égalité ! "
+      ],
+      "x": false,
+      "id": 50931
+    },
+    {
+      "a": {
+        "examples": [
+          "camion ",
+          "repas ",
+          "montre de poche "
+        ],
+        "text": "Je brise les murs qui bloquent mon <BLANK>. ",
+        "type": "nom commun "
+      },
+      "gene": [
+        "craquelins d'animaux ",
+        "Je veux financer mon flux mais j'ai besoin de plus de soutiens. "
+      ],
+      "x": false,
+      "id": 51562
+    },
+    {
+      "a": {
+        "examples": [
+          "'Joie' ",
+          "'Bravo' ",
+          "'Date limite' "
+        ],
+        "text": "Mes lignes sont profondes comme un épisode de <BLANK>. ",
+        "type": "une émission de télévision "
+      },
+      "gene": [
+        "«Zone crépusculaire» ",
+        "Je dors avec un gros oreiller pour ne pas me sentir seul. "
+      ],
+      "x": false,
+      "id": 51645
+    },
+    {
+      "a": {
+        "examples": [
+          "Narnia ",
+          "Oz ",
+          "Nirvana "
+        ],
+        "text": "Mes rimes vous feront exploser jusqu'à <BLANK>. ",
+        "type": "nom propre - lieu fictif "
+      },
+      "gene": [
+        "Terre du Milieu",
+        "Je pense que « Le Hobbit » aurait dû mettre en vedette Colin Firth. "
+      ],
+      "x": false,
+      "id": 51634
+    },
+    {
+      "a": {
+        "examples": [
+          "vente de pâtisseries ",
+          "marathon ",
+          "danse scolaire "
+        ],
+        "text": "Je suis tellement excité pour ce superbe <BLANK>.",
+        "type": "nom - un événement "
+      },
+      "gene": [
+        "vente de diamants ",
+        "Je vais en déposer une centaine sur un escargot incrusté de pierres précieuses. "
+      ],
+      "x": false,
+      "id": 51630
+    },
+    {
+      "a": {
+        "examples": [
+          "Atlanta ",
+          "Miami ",
+          "Seattle "
+        ],
+        "text": "J'ai plus de bling qu'une femme au foyer de <BLANK>. ",
+        "type": "nom propre - une ville "
+      },
+      "gene": [
+        "Dubaï ",
+        "À la réflexion, c’est probablement un mensonge. "
+      ],
+      "x": false,
+      "id": 51613
+    },
+    {
+      "a": {
+        "examples": [
+          "Sérieux ",
+          "Attrayant ",
+          "Inspiré "
+        ],
+        "text": "Au lycée, j'ai été élu le plus <BLANK> ",
+        "type": "adjectif - trait positif "
+      },
+      "gene": [
+        "Pétillant ",
+        "Mais j'ai encore du mal, le stationnement en parallèle. "
+      ],
+      "x": false,
+      "id": 51578
+    },
+    {
+      "a": {
+        "examples": [
+          "pourri ",
+          "en retard ",
+          "perdu "
+        ],
+        "text": "Mes rimes sont expresses donc elles ne sont jamais <BLANK>. ",
+        "type": "adjectif négatif "
+      },
+      "gene": [
+        "flou ",
+        "Je porte toujours un foulard pour que ma mère ne s'inquiète pas. "
+      ],
+      "x": false,
+      "id": 51643
+    },
+    {
+      "a": {
+        "examples": [
+          "mardi ",
+          "Lundi ",
+          "mercredi "
+        ],
+        "text": "Mon flux malade vous ramènera au dernier <BLANK>. ",
+        "type": "un jour de la semaine "
+      },
+      "gene": [
+        "Journée de la bosse ",
+        "Besoin d'aide pour installer une pompe de puisard ? 'D'accord. "
+      ],
+      "x": false,
+      "id": 51520
+    },
+    {
+      "a": {
+        "examples": [
+          "or ",
+          "ambroisie ",
+          "poussière de diamant "
+        ],
+        "text": "J’ai des sous-vêtements vaporisés de <BLANK>. ",
+        "type": "nom - substance coûteuse "
+      },
+      "gene": [
+        "Fébreze ",
+        "Si vous les sentiez, vous diriez « Oh s’il vous plaît ». "
+      ],
+      "x": true,
+      "id": 51614
+    },
+    {
+      "a": {
+        "examples": [
+          "Oprah ",
+          "Elon Musk ",
+          "Gwenyth Paltrow "
+        ],
+        "text": "J'en ai sorti un single maintenant je suis riche comme <BLANK>. ",
+        "type": "nom d'une personne riche "
+      },
+      "gene": [
+        "la reine ",
+        "Mes cheveux sont blancs et mes dents sont propres. "
+      ],
+      "x": false,
+      "id": 51633
+    },
+    {
+      "a": {
+        "examples": [
+          "nez ",
+          "cheveux",
+          "menton "
+        ],
+        "text": "Je suis tellement musclé que j'ai des muscles sur mon <BLANK>. ",
+        "type": "nom - partie du visage "
+      },
+      "gene": [
+        "pouce ",
+        "Je peux le mettre dans une tarte et en retirer une prune. "
+      ],
+      "x": false,
+      "id": 51526
+    },
+    {
+      "a": {
+        "examples": [
+          "jongler ",
+          "courir ",
+          "crabe "
+        ],
+        "text": "Je parle couramment la conversation hustlin en <BLANK>. ",
+        "type": "verbe se terminant par -ing "
+      },
+      "gene": [
+        "flop ",
+        "Besoin d'un disque ? Je peux faire bouger ta fête. "
+      ],
+      "x": false,
+      "id": 51631
+    },
+    {
+      "a": {
+        "examples": [
+          "la grippe ",
+          "tête froide ",
+          "pied d'athlète "
+        ],
+        "text": "Je ne peux pas m'en remettre. Je suis comme un cas de <BLANK>. ",
+        "type": "nom - une maladie ou une maladie "
+      },
+      "gene": [
+        "démangeaisons des fesses ",
+        "Allez-y et grattez. Je ne dénoncerai pas. "
+      ],
+      "x": true,
+      "id": 51601
+    },
+    {
+      "a": {
+        "examples": [
+          "Fée Clochette ",
+          "la méchante sorcière ",
+          "Harry Potter "
+        ],
+        "text": "Je travaille ma magie, comme <BLANK>. ",
+        "type": "nom propre - personnage magique "
+      },
+      "gene": [
+        "Radagast ",
+        "Mec, ses lapins géants couraient vite ! "
+      ],
+      "x": false,
+      "id": 50932
+    },
+    {
+      "a": {
+        "examples": [
+          "pharmacie ",
+          "boulangerie ",
+          "banque "
+        ],
+        "text": "Voler cette bataille comme si je volais un <BLANK>. ",
+        "type": "nom commun - un type de magasin "
+      },
+      "gene": [
+        "zoo ",
+        "J'adorerais avoir un hérisson qui roule dans mon équipage. "
+      ],
+      "x": false,
+      "id": 51503
+    },
+    {
+      "a": {
+        "examples": [
+          "Chute de micro ",
+          "Blaster ",
+          "Victoire "
+        ],
+        "text": "Les Avengers m'appellent, Capitaine <BLANK>. ",
+        "type": "un surnom sympa "
+      },
+      "gene": [
+        "Comédie ",
+        "Même si je dirais que mon style est plus proche de la comédie dramatique. "
+      ],
+      "x": false,
+      "id": 51615
+    },
+    {
+      "a": {
+        "examples": [
+          "FOU ",
+          "Semaine d'actualités ",
+          "Les gens "
+        ],
+        "text": "Vous voyez mon visage sur la couverture de <BLANK>. ",
+        "type": "un titre de magazine "
+      },
+      "gene": [
+        "Points forts ",
+        "Ces énigmes d’images cachées testent ma vue. "
+      ],
+      "x": false,
+      "id": 51539
+    },
+    {
+      "a": {
+        "examples": [
+          "le plus laid ",
+          "le plus fou ",
+          "le plus étrange "
+        ],
+        "text": "Regardez-moi maintenant vivre la vie du <BLANK>. ",
+        "type": "adjectif se terminant par -est "
+      },
+      "gene": [
+        "le plus ringard ",
+        "Sur « Sesame Street », j’ai préféré Big Bird. "
+      ],
+      "x": false,
+      "id": 51387
+    },
+    {
+      "a": {
+        "examples": [
+          "hip hop ",
+          "rap ",
+          "barres crachant "
+        ],
+        "text": "Je suis le grand maréchal de <BLANK>. ",
+        "type": "nom - lié au rap "
+      },
+      "gene": [
+        "Défilés de Thanksgiving ",
+        "Préféreriez-vous un autre jeu ? Dis, charades ? "
+      ],
+      "x": false,
+      "id": 51373
+    },
+    {
+      "a": {
+        "examples": [
+          "des buissons ",
+          "cultures ",
+          "mauvaises herbes "
+        ],
+        "text": "Je plante des graines de rythme qui deviennent <BLANK> ",
+        "type": "nom pluriel - plantes "
+      },
+      "gene": [
+        "jonquilles ",
+        "Ils sont si jolis quand on les voit sur les rebords de fenêtres. "
+      ],
+      "x": false,
+      "id": 51559
+    },
+    {
+      "a": {
+        "examples": [
+          "sourire ",
+          "musique ",
+          "tranquillité d'esprit "
+        ],
+        "text": "Ne regardez pas maintenant : j’ai volé votre <BLANK>. ",
+        "type": "nom commun "
+      },
+      "gene": [
+        "enfance ",
+        "Ils ont refait des films qui n’étaient pas bons. "
+      ],
+      "x": false,
+      "id": 51603
+    },
+    {
+      "a": {
+        "examples": [
+          "Turquie ",
+          "Oregon ",
+          "Mars "
+        ],
+        "text": "Je suis connu, d'ici à <BLANK>. ",
+        "type": "nom propre - un lieu "
+      },
+      "gene": [
+        "Kalamazoo ",
+        "De toute façon, ils me connaissent plutôt bien là-bas. "
+      ],
+      "x": false,
+      "id": 50935
+    },
+    {
+      "a": {
+        "examples": [
+          "oie ",
+          "ballon ",
+          "cigogne "
+        ],
+        "text": "Je vole haut comme un grand vieux <BLANK> ",
+        "type": "nom singulier - chose volante "
+      },
+      "gene": [
+        "Superman ",
+        "De l’époque « Lois & Clark », je suis un très grand fan. "
+      ],
+      "x": false,
+      "id": 51665
+    },
+    {
+      "a": {
+        "examples": [
+          "chasser ",
+          "tuer ",
+          "sprinter "
+        ],
+        "text": "Je ne joue pas à des jeux, je suis ici pour <BLANK>. ",
+        "type": "verbe "
+      },
+      "gene": [
+        "jouer ",
+        "D'autres choses comme les instruments. "
+      ],
+      "x": false,
+      "id": 51231
+    },
+    {
+      "a": {
+        "examples": [
+          "voiture ",
+          "taco ",
+          "sac à main "
+        ],
+        "text": "Mon avenir est aussi brillant qu’un <BLANK> brûlant. ",
+        "type": "nom singulier - dernière chose que tu as achetée "
+      },
+      "gene": [
+        "affiche d'ALF",
+        "Le meilleur rôle de John Goodman était dans « King Ralph ». "
+      ],
+      "x": false,
+      "id": 51389
+    },
+    {
+      "a": {
+        "examples": [
+          "pharaons ",
+          "druides",
+          "Illuminati "
+        ],
+        "text": "J’ai appris les anciens secrets du <BLANK>. ",
+        "type": "nom pluriel - un groupe de personnes"
+      },
+      "gene": [
+        "Pierrafeu ",
+        "Il existe désormais une offre spéciale d’échange sur les téléphones Sprint. "
+      ],
+      "x": false,
+      "id": 51375
+    },
+    {
+      "a": {
+        "examples": [
+          "lisse ",
+          "électrique ",
+          "automatique "
+        ],
+        "text": "Certains disent que je suis flashy, d'autres disent que je suis <BLANK>. ",
+        "type": "adjectif positif "
+      },
+      "gene": [
+        "accessible ",
+        "Mon oncle Scott n'est tout simplement pas impressionnable. "
+      ],
+      "x": false,
+      "id": 51374
+    },
+    {
+      "a": {
+        "examples": [
+          "Les idiots ",
+          "Mégots ",
+          "Morve "
+        ],
+        "text": "Mes fans s'appellent eux-mêmes The <BLANK>. ",
+        "type": "surnom pluriel "
+      },
+      "gene": [
+        "Beatles ",
+        "Ce qui est bizarre parce qu’il y a un groupe qui s’appelle comme ça. "
+      ],
+      "x": false,
+      "id": 51306
+    },
+    {
+      "a": {
+        "examples": [
+          "diadème ",
+          "bague ",
+          "cap "
+        ],
+        "text": "Je suis prêt à régner, alors donnez-moi le <BLANK>. ",
+        "type": "nom - accessoire vestimentaire "
+      },
+      "gene": [
+        "collier ",
+        "Peut-être que ça détournera l'attention de mes taches de rousseur. "
+      ],
+      "x": false,
+      "id": 50936
+    },
+    {
+      "a": {
+        "examples": [
+          "tarte ",
+          "pudding ",
+          "beignet "
+        ],
+        "text": "Je monte au sommet du <BLANK>. ",
+        "type": "nom singulier - un dessert "
+      },
+      "gene": [
+        "Gelée-O ",
+        "Quand je te méprise, je crie bonjour ! "
+      ],
+      "x": false,
+      "id": 51344
+    },
+    {
+      "a": {
+        "examples": [
+          "Un C ",
+          "radio ",
+          "régulateur de vitesse "
+        ],
+        "text": "'Excusez-moi pendant que j'augmente le <BLANK>. ",
+        "type": "nom - caractéristique de la voiture "
+      },
+      "gene": [
+        "chauffe-siège ",
+        "Mon métier de rêve ? Peut-être un artiste de cirque ? "
+      ],
+      "x": false,
+      "id": 50937
+    },
+    {
+      "a": {
+        "examples": [
+          "Britney Spears ",
+          "Beyoncé ",
+          "Tom Hanks "
+        ],
+        "text": "N'as-tu pas entendu ? Je suis le prochain <BLANK>. ",
+        "type": "nom propre - un artiste "
+      },
+      "gene": [
+        "Liberace ",
+        "Vous ne savez pas qui il est ? YouTube lui et regarde. "
+      ],
+      "x": false,
+      "id": 51349
+    },
+    {
+      "a": {
+        "examples": [
+          "Harry Potter ",
+          "Peter Pan ",
+          "David Copperfield "
+        ],
+        "text": "Mes mots sont magiques, appelez-moi <BLANK>. ",
+        "type": "nom propre - personne magique "
+      },
+      "gene": [
+        "Stevie Nicks ",
+        "J'aromatise mon café avec un mélange à gâteau en boîte. "
+      ],
+      "x": false,
+      "id": 51342
+    },
+    {
+      "a": {
+        "examples": [
+          "sauter ",
+          "roter ",
+          "baver "
+        ],
+        "text": "Tous mes fans, suppliez-moi de <BLANK>. ",
+        "type": "verbe - action enfantine "
+      },
+      "gene": [
+        "trop ",
+        "Alors je fais des bruits de train, ils trouvent ça rigolo. "
+      ],
+      "x": false,
+      "id": 51308
+    },
+    {
+      "a": {
+        "examples": [
+          "César ",
+          "Jack l'Éventreur ",
+          "Cléopâtre "
+        ],
+        "text": "Je viens voir et conquérir tout comme <BLANK>. ",
+        "type": "nom propre - personnage historique "
+      },
+      "gene": [
+        "Marie, reine d'Écosse ",
+        "Je saute les frites et pars avec des tater tots. "
+      ],
+      "x": true,
+      "id": 51331
+    },
+    {
+      "a": {
+        "examples": [
+          "jointure ",
+          "reins ",
+          "gorge"
+        ],
+        "text": "C'est moi qui ai le <BLANK> doré. ",
+        "type": "nom - une partie du corps "
+      },
+      "gene": [
+        "philtrum ",
+        "Chaque fois que je bois ce lait, j'en renverse. "
+      ],
+      "x": false,
+      "id": 50939
+    },
+    {
+      "a": {
+        "examples": [
+          "Code postal ",
+          "majordome ",
+          "jet privé "
+        ],
+        "text": "C'est vrai, mon ego a son propre <BLANK>. ",
+        "type": "nom singulier - article de luxe "
+      },
+      "gene": [
+        "réglage de la table ",
+        "Des protéines et des légumes, voilà ce que vous obtenez. "
+      ],
+      "x": false,
+      "id": 51377
+    },
+    {
+      "a": {
+        "examples": [
+          "Superman ",
+          "Père Noël ",
+          "Godzilla "
+        ],
+        "text": "Mes mots sont des cadeaux que je livre comme <BLANK>. ",
+        "type": "nom propre - personnage fictif "
+      },
+      "gene": [
+        "BoJack Cavalier ",
+        "Un ami a besoin d’aide pour déménager, je dis « bien sûr mec » ! "
+      ],
+      "x": false,
+      "id": 51326
+    },
+    {
+      "a": {
+        "examples": [
+          "cerveau ",
+          "pantalons intelligents ",
+          "cerveau "
+        ],
+        "text": "J’ai de grands projets, je suis un <BLANK>. ",
+        "type": "nom singulier - terme pour « personne intelligente » "
+      },
+      "gene": [
+        "pointeur ",
+        "C'est ta copine ? Puis-je m'asseoir à côté ? "
+      ],
+      "x": false,
+      "id": 50941
+    },
+    {
+      "a": {
+        "examples": [
+          "enclumes ",
+          "boules de bowling ",
+          "les éléphants "
+        ],
+        "text": "Couvrez-vous la tête, mes rythmes tombent comme <BLANK>. ",
+        "type": "nom pluriel - choses lourdes "
+      },
+      "gene": [
+        "dalles de marbre ",
+        "Je préfère rouler dans des taxis traditionnels. "
+      ],
+      "x": false,
+      "id": 51341
+    },
+    {
+      "a": {
+        "examples": [
+          "fleurs ",
+          "rubans ",
+          "pierres précieuses "
+        ],
+        "text": "Mes rimes sont si douces qu’elles sont couvertes de <BLANK>. ",
+        "type": "nom pluriel - jolies choses "
+      },
+      "gene": [
+        "gâteaux bundt ",
+        "Ma famille a une maison près des Grands Lacs. "
+      ],
+      "x": false,
+      "id": 51340
+    },
+    {
+      "a": {
+        "examples": [
+          "clou rouillé ",
+          "chien enragé ",
+          "éclair "
+        ],
+        "text": "Je suis dangereux, comme un <BLANK>. ",
+        "type": "nom singulier - chose dangereuse "
+      },
+      "gene": [
+        "pot de mayonnaise ",
+        "C'est resté au soleil toute la journée, oh. "
+      ],
+      "x": false,
+      "id": 50942
+    },
+    {
+      "a": {
+        "examples": [
+          "couteau ",
+          "pot ",
+          "mixeur "
+        ],
+        "text": "Je remue les rythmes avec mon grand vieux <BLANK>. ",
+        "type": "nom - ustensile de cuisine "
+      },
+      "gene": [
+        "théière ",
+        "Earl Grey est le meilleur thé que j’ai jamais acheté. "
+      ],
+      "x": true,
+      "id": 51325
+    },
+    {
+      "a": {
+        "examples": [
+          "Rumplestilskin ",
+          "Gandalf ",
+          "Fée Clochette "
+        ],
+        "text": "Je suis pratiquement magique, un <BLANK> ordinaire. ",
+        "type": "nom - un être magique "
+      },
+      "gene": [
+        "Merlin ",
+        "Mais amène-moi près des montagnes russes que je lance. "
+      ],
+      "x": false,
+      "id": 51302
+    },
+    {
+      "a": {
+        "examples": [
+          "tricoter ",
+          "se raser ",
+          "nettoyer "
+        ],
+        "text": "Quand j'aurai fini ici, j'irai <BLANK>.",
+        "type": "verbe - une activité ennuyeuse "
+      },
+      "gene": [
+        "réduire",
+        "C’est quelque chose que j’apprécie depuis que je suis petite. "
+      ],
+      "x": false,
+      "id": 51303
+    },
+    {
+      "a": {
+        "examples": [
+          "agrafeuses",
+          "trombones ",
+          "tasses à café "
+        ],
+        "text": "Je sais ce qu’ils veulent dire : Mo’ money mo’ <BLANK>. ",
+        "type": "nom pluriel - fournitures de bureau "
+      },
+      "gene": [
+        "bureaux ",
+        "Ce sera un mot difficile à lire, je vous le demande. "
+      ],
+      "x": false,
+      "id": 51305
+    },
+    {
+      "a": {
+        "examples": [
+          "veines ",
+          "oeil ",
+          "cerveaux "
+        ],
+        "text": "J'ai du feu dans mon cœur, de la glace dans mon <BLANK>. ",
+        "type": "nom - une partie du corps "
+      },
+      "gene": [
+        "pieds ",
+        "Merde, ces chaussettes que m'a offertes Oncle Pete. "
+      ],
+      "x": false,
+      "id": 50943
+    },
+    {
+      "a": {
+        "examples": [
+          "bibliothèque ",
+          "cuisine ",
+          "Wendy's "
+        ],
+        "text": "Me voici, directement du <BLANK>. ",
+        "type": "nom - un lieu "
+      },
+      "gene": [
+        "nettoyants ",
+        "Les teckels sont des chiens qui ressemblent à des weiners ! "
+      ],
+      "x": false,
+      "id": 50944
+    },
+    {
+      "a": {
+        "examples": [
+          "héros ",
+          "soulagement comique ",
+          "piste romantique "
+        ],
+        "text": "Le succès est mon meilleur ami, l'échec est mon <BLANK>. ",
+        "type": "nom commun - type de caractère "
+      },
+      "gene": [
+        "supplément impayé ",
+        "Si je vous montrais tous mes tampons, cela vous impressionnerait certainement. "
+      ],
+      "x": false,
+      "id": 51225
+    },
+    {
+      "a": {
+        "examples": [
+          "MC Rap ",
+          "Dr Rhyme ",
+          "Pour shizzle "
+        ],
+        "text": "Toc-toc, qui est là, c'est moi <BLANK>. ",
+        "type": "ton nom de rappeur "
+      },
+      "gene": [
+        "Glen ",
+        "J'aime me coucher au quart après 22 heures. "
+      ],
+      "x": false,
+      "id": 51295
+    },
+    {
+      "a": {
+        "examples": [
+          "se baigner ",
+          "voter ",
+          "respirer "
+        ],
+        "text": "Agitez vos mains en l’air comme si vous ne le faisiez pas <BLANK>. ",
+        "type": "verbe "
+      },
+      "gene": [
+        "importe ",
+        "Excusez-moi, je dois aller vider la vieille vessie. "
+      ],
+      "x": true,
+      "id": 51304
+    },
+    {
+      "a": {
+        "examples": [
+          "Ouais ! ",
+          "Waouh ! ",
+          "AAAAH ! "
+        ],
+        "text": "Quand je dis « Hé », tout le monde crie <BLANK>. ",
+        "type": "une exclamation "
+      },
+      "gene": [
+        "Bonjour! ",
+        "Et puis je donne un pourboire de mon chapeau décontracté. "
+      ],
+      "x": false,
+      "id": 51296
+    },
+    {
+      "a": {
+        "examples": [
+          "balles de baseball ",
+          "bretzels ",
+          "mouton "
+        ],
+        "text": "Je viens d’être évalué, je vaux 10 000 <BLANK>. ",
+        "type": "nom pluriel "
+      },
+      "gene": [
+        "câlins ",
+        "Allons chez Micky D parce que je dois récupérer mes pépites. "
+      ],
+      "x": false,
+      "id": 51197
+    },
+    {
+      "a": {
+        "examples": [
+          "féroce ",
+          "qualifié ",
+          "persistant "
+        ],
+        "text": "Je ne suis peut-être pas charmant mais je suis <BLANK>. ",
+        "type": "adjectif positif "
+      },
+      "gene": [
+        "calme ",
+        "Certains font l’erreur que je suis embaumé. "
+      ],
+      "x": false,
+      "id": 51264
+    },
+    {
+      "a": {
+        "examples": [
+          "chanter ",
+          "conférence ",
+          "se gargariser "
+        ],
+        "text": "Je suis un grand rappeur mais tu devrais m'entendre <BLANK>. ",
+        "type": "verbe "
+      },
+      "gene": [
+        "yodel ",
+        "Dorian est une gamme musicale modale. "
+      ],
+      "x": false,
+      "id": 51294
+    },
+    {
+      "a": {
+        "examples": [
+          "voyage ",
+          "croisière ",
+          "outing"
+        ],
+        "text": "Appelez cela le début de ma victoire <BLANK>. ",
+        "type": "nom - synonyme de « excursion » "
+      },
+      "gene": [
+        "junket ",
+        "Du Titanic, on dit qu'un iceberg l'a coulé. "
+      ],
+      "x": false,
+      "id": 51265
+    },
+    {
+      "a": {
+        "examples": [
+          " toupler ",
+          "Goobley ",
+          "upplupp "
+        ],
+        "text": "Mes rimes sont si douces que vous direz <BLANK>. ",
+        "type": "un mot absurde "
+      },
+      "gene": [
+        "hooley bagoo ",
+        "C'est ce que je crie en me promenant dans le zoo. "
+      ],
+      "x": false,
+      "id": 51271
+    },
+    {
+      "a": {
+        "examples": [
+          "loutre ",
+          "yak ",
+          "morse "
+        ],
+        "text": "Ma bouche fonctionne comme un petit <BLANK>. ",
+        "type": "nom singulier - un animal "
+      },
+      "gene": [
+        "Diable de Tasmanie ",
+        "Une surface inclinée est appelée biseau. "
+      ],
+      "x": false,
+      "id": 51270
+    },
+    {
+      "a": {
+        "examples": [
+          "crémeux ",
+          "gluant ",
+          "faim "
+        ],
+        "text": "Je dois ralentir, je deviens trop <BLANK>. ",
+        "type": "adjectif "
+      },
+      "gene": [
+        "gonflé ",
+        "La perruche de mon amie Tammy s’appelle Fluffy. "
+      ],
+      "x": false,
+      "id": 51268
+    },
+    {
+      "a": {
+        "examples": [
+          "caviar",
+          " diamants ",
+          "or "
+        ],
+        "text": "Je nage dans les bijoux et je me baigne dans <BLANK>. ",
+        "type": "nom pluriel - chose luxueuse "
+      },
+      "gene": [
+        "guacamole ",
+        "Il est fait à partir d’avocats que vous connaissez. "
+      ],
+      "x": false,
+      "id": 51267
+    },
+    {
+      "a": {
+        "examples": [
+          "coups de poing ",
+          "coups ",
+          "croix à droite "
+        ],
+        "text": "Mes rimes sont un poing, mes vers sont <BLANK>. ",
+        "type": "nom pluriel - mot pour « coups de poing » "
+      },
+      "gene": [
+        "faneuses",
+        "Les lutins du Père Noël étaient-ils aussi ses fabricants de traîneaux ? "
+      ],
+      "x": false,
+      "id": 51250
+    },
+    {
+      "a": {
+        "examples": [
+          "génial ",
+          "incroyable",
+          "fabuleux "
+        ],
+        "text": "Mon haleine est fétide mais mes barres sont <VIERGES>. ",
+        "type": "adjectif positif "
+      },
+      "gene": [
+        "présentable ",
+        "Je suis conscient que la mauvaise haleine est évitable. "
+      ],
+      "x": false,
+      "id": 51259
+    },
+    {
+      "a": {
+        "examples": [
+          "docteur ",
+          "avocat ",
+          "scientifique "
+        ],
+        "text": "Je ne suis pas vraiment un <BLANK>. ",
+        "type": "nom - une occupation "
+      },
+      "gene": [
+        "représentant des ventes ",
+        "Mais « Rango » est la meilleure œuvre de Johnny Depp. "
+      ],
+      "x": false,
+      "id": 50945
+    },
+    {
+      "a": {
+        "examples": [
+          "pompage ",
+          "cuisine ",
+          "qui coule "
+        ],
+        "text": "Je le ressens, le rythme est <BLANK>. ",
+        "type": "verbe se terminant par -ing "
+      },
+      "gene": [
+        "percolant ",
+        "Si c’est Beyoncé, je danse sans attendre ! "
+      ],
+      "x": false,
+      "id": 50946
+    },
+    {
+      "a": {
+        "examples": [
+          "tamales ",
+          "soupe au poulet ",
+          "biscuits et sauce "
+        ],
+        "text": "Je le livre chaud, comme <BLANK>. ",
+        "type": "nom - une entrée "
+      },
+      "gene": [
+        "spaghettis ",
+        "Si une nouille colle au mur, elle est prête. "
+      ],
+      "x": false,
+      "id": 50947
+    },
+    {
+      "a": {
+        "examples": [
+          "cyclone ",
+          "coup de froid ",
+          "tempête de grêle "
+        ],
+        "text": "Mes raps sont si furieux qu'ils ont provoqué un <BLANK>. ",
+        "type": "nom singulier - événement météorologique "
+      },
+      "gene": [
+        "bourrasque blanche ",
+        "Parce que je suis le Jeff Bridges qui a tout. "
+      ],
+      "x": false,
+      "id": 51146
+    },
+    {
+      "a": {
+        "examples": [
+          "Lady Gaga ",
+          "Hugh Jackman ",
+          "Franck Sinatra "
+        ],
+        "text": "Je peux tout faire, comme <BLANK>. ",
+        "type": "nom propre - artiste célèbre "
+      },
+      "gene": [
+        "Kenny G. ",
+        "Il joue du sax soprano, voyez-vous. "
+      ],
+      "x": false,
+      "id": 50948
+    },
+    {
+      "a": {
+        "examples": [
+          "machine ",
+          "arme ",
+          "chasseur "
+        ],
+        "text": "Tu ferais mieux de reconnaître que je suis le <BLANK> ultime. ",
+        "type": "nom "
+      },
+      "gene": [
+        "méchant ",
+        "Chaque fois que je bois du jus de raisin, il déborde. "
+      ],
+      "x": false,
+      "id": 50949
+    },
+    {
+      "a": {
+        "examples": [
+          "biologie ",
+          "mathématiques ",
+          "philosophie "
+        ],
+        "text": "Mes paroles sont une connaissance, meilleure que <BLANK>. ",
+        "type": "nom - matière scolaire "
+      },
+      "gene": [
+        "éducation civique ",
+        "Todd a une nouvelle Civic. C'est plutôt doux. "
+      ],
+      "x": false,
+      "id": 50950
+    },
+    {
+      "a": {
+        "examples": [
+          "soleil ",
+          "veilleuse ",
+          "veau d'or "
+        ],
+        "text": "Couvrez vos yeux, je suis brillant comme un <BLANK>. ",
+        "type": "nom - chose brillante"
+      },
+      "gene": [
+        "Décoration de Noël ",
+        "Mon support s'est fait éclater lors du tournoi de cerceaux. "
+      ],
+      "x": false,
+      "id": 50779
+    },
+    {
+      "a": {
+        "examples": [
+          "faim ",
+          "somnolent ",
+          "ravi "
+        ],
+        "text": "J'ai une machine à voyager dans le temps et je suis super <BLANK>. ",
+        "type": "adjectif positif "
+      },
+      "gene": [
+        "fragile ",
+        "Je n’ai pas l’énergie pour arrêter un assassinat. "
+      ],
+      "x": false,
+      "id": 51191
+    },
+    {
+      "a": {
+        "examples": [
+          "Quilles ",
+          "chocolat ",
+          "bonbons à la gelée "
+        ],
+        "text": "Doux comme des bonbons, je suis Mix Master <BLANK>. ",
+        "type": "nom - type de bonbon "
+      },
+      "gene": [
+        "Gaufrettes Necco ",
+        "J'ai des animaux mignons comme économiseurs d'écran principaux. "
+      ],
+      "x": false,
+      "id": 51093
+    },
+    {
+      "a": {
+        "examples": [
+          "muffin ",
+          "miche de pain ",
+          "biscuit "
+        ],
+        "text": "Mes mots sont si frais qu’ils sentent le <BLANK>. ",
+        "type": "nom singulier - bon cuit au four "
+      },
+      "gene": [
+        "focaccia ",
+        "La pression de mon eau est incertaine, donc je ne peux pas te laver. "
+      ],
+      "x": false,
+      "id": 50782
+    },
+    {
+      "a": {
+        "examples": [
+          "planche à roulettes ",
+          "montagne bigass ",
+          "guitare "
+        ],
+        "text": "Google-moi, vous verrez une image d'un <BLANK>. ",
+        "type": "nom singulier - chose géniale "
+      },
+      "gene": [
+        "chat sur un roomba ",
+        "J'ai travaillé dur lors de ma Zumba du samedi. "
+      ],
+      "x": true,
+      "id": 51142
+    },
+    {
+      "a": {
+        "examples": [
+          "chou frisé ",
+          "épinards ",
+          "yaourt "
+        ],
+        "text": "Je suis si fort parce que je mange tout mon <BLANK>. ",
+        "type": "nom pluriel - alimentation saine "
+      },
+      "gene": [
+        "carottes ",
+        "J'en mange et donne le reste à mes furets. "
+      ],
+      "x": false,
+      "id": 50833
+    },
+    {
+      "a": {
+        "examples": [
+          "Rob Schneider ",
+          "Johnny Cash ",
+          "Bono "
+        ],
+        "text": "Je suis une légende, un <BLANK> régulier. ",
+        "type": "nom propre - célébrité ennuyeuse "
+      },
+      "gene": [
+        "Scott Bakula ",
+        "Vous vous souvenez quand il a fait un saut quantique dans Dracula ? "
+      ],
+      "x": false,
+      "id": 50834
+    },
+    {
+      "a": {
+        "examples": [
+          "chauve-souris ",
+          "jet",
+          "cerf-volant "
+        ],
+        "text": "Je vole haut comme une sorte de <BLANK>. ",
+        "type": "nom - chose volante "
+      },
+      "gene": [
+        "Klingon ",
+        "J'aime aller au karaoké et ensuite chanter ! "
+      ],
+      "x": false,
+      "id": 50836
+    },
+    {
+      "a": {
+        "examples": [
+          "chats ",
+          "YouTube ",
+          "sushis "
+        ],
+        "text": "Les gens m’aiment plus qu’ils n’aiment <BLANK>. ",
+        "type": "nom - une chose populaire "
+      },
+      "gene": [
+        "pies ",
+        "La pie est aussi un oiseau vraiment cool. "
+      ],
+      "x": false,
+      "id": 50985
+    },
+    {
+      "a": {
+        "examples": [
+          "voyage ",
+          "nourriture ",
+          "jours de neige "
+        ],
+        "text": "Tout d’abord : je suis meilleur que <BLANK>. ",
+        "type": "nom pluriel - événements/activités amusants "
+      },
+      "gene": [
+        "films ",
+        "Même ceux qui montrent des pipis ou des fous. "
+      ],
+      "x": true,
+      "id": 51159
+    },
+    {
+      "a": {
+        "examples": [
+          "donner un coup de pied ",
+          "fort ",
+          "métal "
+        ],
+        "text": "Augmentez le volume, la musique est <BLANK>. ",
+        "type": "adjectif - décrivez votre musique préférée "
+      },
+      "gene": [
+        "impétueux ",
+        "L'hydrocortisone est bonne contre les éruptions cutanées. "
+      ],
+      "x": false,
+      "id": 51160
+    },
+    {
+      "a": {
+        "examples": [
+          "former ",
+          "Harley ",
+          "limousine "
+        ],
+        "text": "Je viens vers toi, comme un fugitif <BLANK>. ",
+        "type": "nom - un véhicule "
+      },
+      "gene": [
+        "scooter",
+        "Moi ou Stephen Root ? Lequel est le plus mignon ? "
+      ],
+      "x": false,
+      "id": 51161
+    },
+    {
+      "a": {
+        "examples": [
+          "avant ",
+          "déjà ",
+          "hier "
+        ],
+        "text": "Je peux tout faire comme je vous l'ai dit <BLANK>. ",
+        "type": "adverbe de temps "
+      },
+      "gene": [
+        "récemment ",
+        "Susan, si tu romps avec moi, fais-le décemment. "
+      ],
+      "x": false,
+      "id": 51162
+    },
+    {
+      "a": {
+        "examples": [
+          "Fantôme ",
+          "Frankenstein ",
+          "Godzilla "
+        ],
+        "text": "Je vais tellement bien que c'est effrayant, appelle-moi M C <BLANK>. ",
+        "type": "nom - un monstre "
+      },
+      "gene": [
+        "Monstre aux biscuits ",
+        "Je pensais avoir vu Elmo une fois mais c'était un imposteur. "
+      ],
+      "x": false,
+      "id": 51410
+    },
+    {
+      "a": {
+        "examples": [
+          "chaussures ",
+          "danser ",
+          "bouge "
+        ],
+        "text": "Sautez, si vous aimez mon <BLANK>. ",
+        "type": "nom "
+      },
+      "gene": [
+        "pochoir ",
+        "De nombreuses queues de singes sont préhensiles. "
+      ],
+      "x": false,
+      "id": 51163
+    },
+    {
+      "a": {
+        "examples": [
+          "serpent ",
+          "souris ",
+          "rapace "
+        ],
+        "text": "Je suis géant mais doux, je ne ferais pas de mal à un <BLANK>. ",
+        "type": "nom singulier - animal "
+      },
+      "gene": [
+        "alouette ",
+        "Mais je déteste les requins, alors je suppose que je ferais du mal à un requin. "
+      ],
+      "x": false,
+      "id": 51494
+    },
+    {
+      "a": {
+        "examples": [
+          "occupé ",
+          "féroce ",
+          "grand "
+        ],
+        "text": "Rassemblez-vous, je suis sur le point d’avoir <BLANK>. ",
+        "type": "adjectif "
+      },
+      "gene": [
+        "bulbeux ",
+        "Comme maman quand elle enfile sa vieille ferme. "
+      ],
+      "x": false,
+      "id": 51164
+    },
+    {
+      "a": {
+        "examples": [
+          "Waouh ",
+          "Ouais ",
+          "Jeepers "
+        ],
+        "text": "Je suis tellement belle que tout le monde dit : « <BLANK> ! » ",
+        "type": "une exclamation "
+      },
+      "gene": [
+        "Zoinks ",
+        "La chose la plus mignonne chez les cochons ? Probablement leurs grognements. "
+      ],
+      "x": false,
+      "id": 51460
+    },
+    {
+      "a": {
+        "examples": [
+          "champignons ",
+          "poulets ",
+          "pluie "
+        ],
+        "text": "Je suis tout à fait naturel, mes rimes viennent de <BLANK>. ",
+        "type": "nom pluriel - choses trouvées dans la nature "
+      },
+      "gene": [
+        "chêne empoisonné ",
+        "Je préfère de loin les énigmes pour ne pas faire de blagues. "
+      ],
+      "x": false,
+      "id": 51489
+    },
+    {
+      "a": {
+        "examples": [
+          "discrètement ",
+          "étonnamment ",
+          "glorieusement "
+        ],
+        "text": "Je suis connu pour rimer <BLANK>. ",
+        "type": "adverbe positif "
+      },
+      "gene": [
+        "par intermittence ",
+        "Une fois que j’aurai quitté mon emploi, j’aurai plus de temps libre. "
+      ],
+      "x": false,
+      "id": 51165
+    },
+    {
+      "a": {
+        "examples": [
+          "pull ",
+          "dîner ",
+          "idées "
+        ],
+        "text": "Je ne compte pas sur le hasard pour créer le mien <BLANK>. ",
+        "type": "nom - quelque chose que tu fais "
+      },
+      "gene": [
+        "excuses ",
+        "La source de mes rimes ? Tu sais que Mother Goose l'est ! "
+      ],
+      "x": false,
+      "id": 51480
+    },
+    {
+      "a": {
+        "examples": [
+          "chèvre ",
+          "cafard ",
+          "rat d'égout"
+        ],
+        "text": "Je suis tenace, comme un <BLANK>. ",
+        "type": "nom - un animal "
+      },
+      "gene": [
+        "tardigrade ",
+        "Recherchez-le. Ce n’est pas une blague que j’ai faite. "
+      ],
+      "x": false,
+      "id": 51167
+    },
+    {
+      "a": {
+        "examples": [
+          "des ballons ",
+          "un soda ",
+          "mortier "
+        ],
+        "text": "Mes rimes volent comme des fusées explosent comme <BLANK>. ",
+        "type": "nom pluriel "
+      },
+      "gene": [
+        "baleines ",
+        "Si vous voulez plus de vitamines, essayez de manger du chou frisé. "
+      ],
+      "x": false,
+      "id": 51459
+    },
+    {
+      "a": {
+        "examples": [
+          "poulet ",
+          "oreiller ",
+          "cocher "
+        ],
+        "text": "Mon portefeuille est plein comme un <BLANK> surchargé. ",
+        "type": "nom singulier "
+      },
+      "gene": [
+        "canapé ",
+        "La fois où j'ai essayé le stand-up, un gars a jeté son mocassin. "
+      ],
+      "x": false,
+      "id": 51461
+    },
+    {
+      "a": {
+        "examples": [
+          "chaud ",
+          "épicé ",
+          "génial "
+        ],
+        "text": "Ne précipitez pas la scène dans laquelle j’arrive <BLANK>. ",
+        "type": "adjectif"
+      },
+      "gene": [
+        "puant ",
+        "Je ne sais pas pourquoi, mais ça vient de mon petit doigt "
+      ],
+      "x": false,
+      "id": 51451
+    },
+    {
+      "a": {
+        "examples": [
+          "dominer ",
+          "bousculade ",
+          "parler "
+        ],
+        "text": "Je ne débats pas, c’est un fait que je <BLANK>. ",
+        "type": "verbe - action positive "
+      },
+      "gene": [
+        "paillettes ",
+        "Mais une fois, j’ai accidentellement appliqué de la litière pour chat. "
+      ],
+      "x": false,
+      "id": 51407
+    },
+    {
+      "a": {
+        "examples": [
+          "cheveux ",
+          "peau ",
+          "œsophage "
+        ],
+        "text": "Mes vers viennent directement du <BLANK>. ",
+        "type": "nom - une partie du corps "
+      },
+      "gene": [
+        "pancréas",
+        "Mon père l'a fait sortir. Voilà quel genre d’homme il est. "
+      ],
+      "x": false,
+      "id": 52685
+    },
+    {
+      "a": {
+        "examples": [
+          "ballon de football ",
+          "basket-ball ",
+          "casque de football "
+        ],
+        "text": "Je slamdunking les rimes comme un <BLANK>. ",
+        "type": "nom singulier - équipement sportif "
+      },
+      "gene": [
+        "gant de receveur ",
+        "J’ai encore plus de choses à faire sur ma liste de tâches, bon sang. "
+      ],
+      "x": false,
+      "id": 51878
+    },
+    {
+      "a": {
+        "examples": [
+          "hélicoptère ",
+          "Ségué ",
+          "Bug VW "
+        ],
+        "text": "Mes mots sont si profonds que vous aurez besoin d’un <BLANK>. ",
+        "type": "nom singulier - véhicule "
+      },
+      "gene": [
+        "Trottinette rasoir ",
+        "Mes jantes ne sont pas en argent véritable, elles sont principalement en étain. "
+      ],
+      "x": false,
+      "id": 51881
+    },
+    {
+      "a": {
+        "examples": [
+          "bagarre ",
+          "cracher ",
+          "têtes de cul "
+        ],
+        "text": "Je ne suis pas du genre à bavarder, j'aime <BLANK>. ",
+        "type": "verbe agressif "
+      },
+      "gene": [
+        "abraser ",
+        "Ma compagnie aérienne préférée : British Airways. "
+      ],
+      "x": false,
+      "id": 51169
+    },
+    {
+      "a": {
+        "examples": [
+          "baril ",
+          "porte-clés ",
+          "gant de cuisine "
+        ],
+        "text": "Allumez la mèche et j’exploserai comme un <BLANK>. ",
+        "type": "nom singulier - un objet "
+      },
+      "gene": [
+        "mitaine ",
+        "Je n'aime pas ces vêtements, j'essaie juste de m'intégrer. "
+      ],
+      "x": false,
+      "id": 51409
+    },
+    {
+      "a": {
+        "examples": [
+          "« Qui est le patron ? » ",
+          "'Bravo' ",
+          "« Légion » "
+        ],
+        "text": "J'ai appris tout ce que je sais en regardant <BLANK>. ",
+        "type": "nom propre - titre de l'émission télévisée "
+      },
+      "gene": [
+        "« Petite merveille » ",
+        "Fermez la fenêtre ! J'ai entendu le tonnerre ! "
+      ],
+      "x": false,
+      "id": 51879
+    },
+    {
+      "a": {
+        "examples": [
+          "mignon ",
+          "sortant ",
+          "sauvage "
+        ],
+        "text": "Le calcul montre que je suis à 100 % <BLANK>. ",
+        "type": "adjectif positif "
+      },
+      "gene": [
+        "nerveux ",
+        "Ai-je insulté le serveur ? Pourquoi ne nous sert-il pas ? "
+      ],
+      "x": false,
+      "id": 51406
+    },
+    {
+      "a": {
+        "examples": [
+          "Le plus grand ",
+          "Méchant ",
+          "Rimeur "
+        ],
+        "text": "Appelez-moi Colérique, I B <BLANK>.",
+        "type": "un surnom "
+      },
+      "gene": [
+        "Gène ",
+        "J'aimerais que mon nom ne rime pas avec « méchant ». "
+      ],
+      "x": false,
+      "id": 51170
+    },
+    {
+      "a": {
+        "examples": [
+          "couiner ",
+          "crier ",
+          "gazouiller "
+        ],
+        "text": "J'apaise les bébés qui pleurent avec le son de mon <BLANK>. ",
+        "type": "nom - une vocalisation "
+      },
+      "gene": [
+        "crier ",
+        "J'adore sortir avec les bébés et manger de la crème caillée. "
+      ],
+      "x": false,
+      "id": 51449
+    },
+    {
+      "a": {
+        "examples": [
+          "Cadillac ",
+          "semi ",
+          "hors-bord "
+        ],
+        "text": "Mon visage donne l’impression d’avoir été frappé par un <BLANK>. ",
+        "type": "nom singulier - un véhicule "
+      },
+      "gene": [
+        "Grande roue ",
+        "C'est arrivé souvent quand j'étais enfant. Ce n'est pas grave. "
+      ],
+      "x": false,
+      "id": 51173
+    },
+    {
+      "a": {
+        "examples": [
+          "pantalon ",
+          "sourire ",
+          "entreprise "
+        ],
+        "text": "Si vous me détestez, vous détesterez mon <BLANK>. ",
+        "type": "nom "
+      },
+      "gene": [
+        "chien ",
+        "Il est bizarre et bruyant et sent le fumier. "
+      ],
+      "x": false,
+      "id": 51452
+    },
+    {
+      "a": {
+        "examples": [
+          "coquilles d'oeufs ",
+          "enregistrements ",
+          "bibelots "
+        ],
+        "text": "Je vis si grand que je casse <BLANK>. ",
+        "type": "nom pluriel - chose fragile "
+      },
+      "gene": [
+        "marbre ",
+        "C'était au gymnase. J'ai laissé tomber une barre. "
+      ],
+      "x": false,
+      "id": 51175
+    },
+    {
+      "a": {
+        "examples": [
+          "banane ",
+          "carotte ",
+          "melon "
+        ],
+        "text": "Mes rimes sont fraîches comme un nouveau <BLANK> mûr. ",
+        "type": "nom - fruit ou légume "
+      },
+      "gene": [
+        "durian ",
+        "Ils coulent si vite que je dois continuer à me dépêcher ! "
+      ],
+      "x": false,
+      "id": 51176
+    },
+    {
+      "a": {
+        "examples": [
+          "raisins ",
+          "beignets ",
+          "pizzas "
+        ],
+        "text": "Je me réveille et je mange des rimes comme <BLANK>. ",
+        "type": "nom pluriel - nourriture "
+      },
+      "gene": [
+        "empanadas ",
+        "Ma grand-mère est en ville et ne séjourne qu'au Ramadas. "
+      ],
+      "x": false,
+      "id": 51874
+    },
+    {
+      "a": {
+        "examples": [
+          "macaroni au fromage ",
+          "chili de dinde ",
+          "jambon et œufs "
+        ],
+        "text": "Si mes rimes étaient de la nourriture, elles seraient <BLANK>. ",
+        "type": "nom - une entrée "
+      },
+      "gene": [
+        "Macaroni au chili ",
+        "Mais ne mangez pas trop, sinon vous aurez une crise cardiaque. "
+      ],
+      "x": false,
+      "id": 51177
+    },
+    {
+      "a": {
+        "examples": [
+          "Caroline du Nord ",
+          "Katmandou ",
+          "Canada "
+        ],
+        "text": "Je suis connu dans le monde entier, du Japon jusqu’à <BLANK>. ",
+        "type": "nom propre - un lieu "
+      },
+      "gene": [
+        "Ville de Lac Salé ",
+        "Je viens de voir tes yeux, ils sont vraiment jolis. "
+      ],
+      "x": false,
+      "id": 51178
+    },
+    {
+      "a": {
+        "examples": [
+          "cinq ",
+          "50 ",
+          "100 "
+        ],
+        "text": "Un deux trois quatre cinq six <BLANK>. ",
+        "type": "nom - un nombre "
+      },
+      "gene": [
+        "zéro ",
+        "Je dis « sous-sandwich », mais certains disent « héros ». "
+      ],
+      "x": false,
+      "id": 51074
+    },
+    {
+      "a": {
+        "examples": [
+          "chambre à coucher ",
+          "canapé ",
+          "salle de bain"
+        ],
+        "text": "Inclinez-vous devant moi, le président du <BLANK>. ",
+        "type": "nom commun - un lieu "
+      },
+      "gene": [
+        "Rocheuses ",
+        "On dirait que j'ai un cas de Cockies. "
+      ],
+      "x": false,
+      "id": 51181
+    },
+    {
+      "a": {
+        "examples": [
+          "Goberge ",
+          "Koons ",
+          "Frankenhaler "
+        ],
+        "text": "Mes mots sont comme de la peinture. Je suis un artiste comme <BLANK>. ",
+        "type": "nom propre - un artiste "
+      },
+      "gene": [
+        "Calder ",
+        "Mes cheveux tombent, j'espère que je ne deviendrai pas plus chauve. "
+      ],
+      "x": false,
+      "id": 51182
+    },
+    {
+      "a": {
+        "examples": [
+          "batteur à oeufs ",
+          "spatule ",
+          "couteau à beurre "
+        ],
+        "text": "Mes rimes sont plus nettes qu'un <BLANK>. ",
+        "type": "nom singulier - ustensile de cuisine "
+      },
+      "gene": [
+        "tranche de cheddar ",
+        "Mon joueur de tennis préféré est Roger Federer. "
+      ],
+      "x": false,
+      "id": 51183
+    },
+    {
+      "a": {
+        "examples": [
+          "causeur ",
+          "rottweiler ",
+          "rappeur "
+        ],
+        "text": "Je ne suis pas un gangsta, je suis l'original <BLANK>. ",
+        "type": "nom "
+      },
+      "gene": [
+        "baleine bleue ",
+        "J'espère que mes rimes ne me feront pas envoyer en prison. "
+      ],
+      "x": false,
+      "id": 51185
+    },
+    {
+      "a": {
+        "examples": [
+          "trophées ",
+          "crânes ",
+          "en espèces "
+        ],
+        "text": "Je ne collecte pas les impôts que je ramène à la maison <BLANK>. ",
+        "type": "nom pluriel - récompenses "
+      },
+      "gene": [
+        "distinctions ",
+        "Je veux être célèbre juste pour avoir un cortège. "
+      ],
+      "x": false,
+      "id": 51186
+    },
+    {
+      "a": {
+        "examples": [
+          "guépard ",
+          "sceau ",
+          "coureur routier "
+        ],
+        "text": "Je crache si vite qu'ils m'appellent le <BLANK>. ",
+        "type": "nom singulier - animal rapide "
+      },
+      "gene": [
+        "baleine ",
+        "Je vais chez Costco pour acheter du krill en gros "
+      ],
+      "x": false,
+      "id": 50988
+    },
+    {
+      "a": {
+        "examples": [
+          "Corvette ",
+          "diadème ",
+          "yacht "
+        ],
+        "text": "Mes rendez-vous me montrent comme si j'étais un <BLANK>. ",
+        "type": "nom singulier - article cher "
+      },
+      "gene": [
+        "lustre ",
+        "Quand je montre mes fesses, les gens applaudissent ! "
+      ],
+      "x": false,
+      "id": 50986
+    },
+    {
+      "a": {
+        "examples": [
+          "mathématiques ",
+          "lecture ",
+          "sciences "
+        ],
+        "text": "Je suis le plus intelligent du monde chez <BLANK>. ",
+        "type": "nom - matière scolaire "
+      },
+      "gene": [
+        "maison ce",
+        "Bien sûr, je vais raccommoder ton pull, juste une seconde. "
+      ],
+      "x": false,
+      "id": 51187
+    },
+    {
+      "a": {
+        "examples": [
+          "crier ",
+          "faible ",
+          "sourire "
+        ],
+        "text": "Partout où je vais, les gens, <BLANK>. ",
+        "type": "verbe "
+      },
+      "gene": [
+        "monstre ",
+        "Parce qu'ils savent que ma toupet est en désordre. "
+      ],
+      "x": false,
+      "id": 51188
+    },
+    {
+      "a": {
+        "examples": [
+          "courir ",
+          "parler ",
+          "dormir "
+        ],
+        "text": "Je m'appelle The Juggernaut parce que je n'ai jamais <BLANK>. ",
+        "type": "verbe - action quotidienne "
+      },
+      "gene": [
+        "laver ",
+        "Je suis toujours mis à jour, comme un MacIntosh. "
+      ],
+      "x": false,
+      "id": 51190
+    },
+    {
+      "a": {
+        "examples": [
+          "maison ",
+          "monument ",
+          "stade "
+        ],
+        "text": "Mes raps sont si forts qu'ils pourraient faire un <BLANK>. ",
+        "type": "nom commun - un bâtiment "
+      },
+      "gene": [
+        "belvédère ",
+        "Ce qui est agréable et aéré grâce au vent uniforme. "
+      ],
+      "x": false,
+      "id": 51007
+    },
+    {
+      "a": {
+        "examples": [
+          "viande ",
+          "provolone ",
+          "avocat "
+        ],
+        "text": "Mes rimes sont savoureuses comme un sandwich avec <BLANK>. ",
+        "type": "nom - garniture de sandwich "
+      },
+      "gene": [
+        "choux ",
+        "Qui sont délicieux, malgré mes doutes. "
+      ],
+      "x": false,
+      "id": 51008
+    },
+    {
+      "a": {
+        "examples": [
+          "baleine bleue ",
+          "calmar géant ",
+          "éléphant"
+        ],
+        "text": "Mon impact est énorme comme un <BLANK> enragé.",
+        "type": "nom singulier - un animal"
+      },
+      "gene": [
+        "requin ",
+        "Je suis aveugle quand je nage dans l'obscurité totale"
+      ],
+      "x": false,
+      "id": 51034
+    }
+  ]
+}

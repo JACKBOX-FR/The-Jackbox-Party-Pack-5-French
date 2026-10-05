@@ -1,0 +1,916 @@
+{
+  "content": [
+    {
+      "id": "001",
+      "text": "Regardez-moi. Je suis une jolie princesse. "
+    },
+    {
+      "id": "002",
+      "text": "Quelles sont les chances que cette réponse standard rime ? "
+    },
+    {
+      "id": "003",
+      "text": "C'est une expression courante. C'est une expression courante. "
+    },
+    {
+      "id": "004",
+      "text": "Cette réponse est mauvaise. Vous êtes sûr de gagner maintenant. "
+    },
+    {
+      "id": "005",
+      "text": "Faisons une pause. Quelqu'un me frotte les oignons. "
+    },
+    {
+      "id": "006",
+      "text": "Bien laaaaddy ! Avec le flavinnn ! "
+    },
+    {
+      "id": "007",
+      "text": "Et puis j'ai sali mon pantalon. "
+    },
+    {
+      "id": "008",
+      "text": "Je suis une grosse tête stupide. La fin. "
+    },
+    {
+      "id": "009",
+      "text": "D’ailleurs, c’est moi qui ai pété. "
+    },
+    {
+      "id": "010",
+      "text": "Gleep glurp glop gloppity glerm. "
+    },
+    {
+      "id": "011",
+      "text": "Je ne porte pas de caleçon. "
+    },
+    {
+      "id": "012",
+      "text": "Nous avons besoin de faire de l'exercice, tu veux faire du vélo ? "
+    },
+    {
+      "id": "013",
+      "text": "Les rimes sont contraires à ma philosophie personnelle. "
+    },
+    {
+      "id": "014",
+      "text": "Je ne sais pas rimer, mais attends le concours de maillots de bain. "
+    },
+    {
+      "id": "015",
+      "text": "Pas question que je gagne avec des rimes comme celles-là. "
+    },
+    {
+      "id": "016",
+      "text": "C'est la partie où j'ai manqué de temps. "
+    },
+    {
+      "id": "017",
+      "text": "les fesses les fesses les fesses les fesses les fesses "
+    },
+    {
+      "id": "018",
+      "text": "J'espère que ces rimes deviendront plus faciles. "
+    },
+    {
+      "id": "019",
+      "text": "Zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz… "
+    },
+    {
+      "id": "020",
+      "text": "Assurez-vous de voter contre moi, d'accord ? "
+    },
+    {
+      "id": "021",
+      "text": "Je mérite beaucoup de votes négatifs. "
+    },
+    {
+      "id": "022",
+      "text": "Voyons combien de votes négatifs j'obtiens. "
+    },
+    {
+      "id": "023",
+      "text": "Et maintenant, j'aimerais vous montrer mes fesses. "
+    },
+    {
+      "id": "024",
+      "text": "Ces mots sont là parce que je suis mauvais à ce jeu. "
+    },
+    {
+      "id": "025",
+      "text": "Bouh-moi, hue-moi, j'adore quand tu me hues. "
+    },
+    {
+      "id": "026",
+      "text": "Certains des plus grands poèmes de l’histoire ne riment pas. "
+    },
+    {
+      "id": "027",
+      "text": "Il est maintenant temps d’avouer : je commet des crimes. "
+    },
+    {
+      "id": "028",
+      "text": "Cette réponse rapporte des dividendes, car c'est du stock. "
+    },
+    {
+      "id": "029",
+      "text": "Vous ne saviez pas que j'avais des automatismes dans mon équipe ? "
+    },
+    {
+      "id": "030",
+      "text": "Veuillez accueillir un invité spécial : Réponse automatique ! "
+    },
+    {
+      "id": "031",
+      "text": "L'important c'est qu'on s'amuse tous. "
+    },
+    {
+      "id": "032",
+      "text": "Règle des packs de fête Jackbox ! (Je l'ai écrit moi-même.) "
+    },
+    {
+      "id": "033",
+      "text": "S'il vous plaît, applaudissez. "
+    },
+    {
+      "id": "034",
+      "text": "Les spaghettis de maman. "
+    },
+    {
+      "id": "035",
+      "text": "J'adore ce que tu as fait avec tes cheveux. "
+    },
+    {
+      "id": "036",
+      "text": "Frotter un dub dub, trois hommes dans une baignoire. "
+    },
+    {
+      "id": "037",
+      "text": "Je te regarde, robot. "
+    },
+    {
+      "id": "038",
+      "text": "Quelqu'un veut une cacahuète ? "
+    },
+    {
+      "id": "039",
+      "text": "Et abracadabra ! Cette ligne rime. "
+    },
+    {
+      "id": "040",
+      "text": "Avez-vous entendu parler du remplissage automatique ? C'est ça. "
+    },
+    {
+      "id": "041",
+      "text": "Cette ligne terrible est intentionnelle. "
+    },
+    {
+      "id": "042",
+      "text": "Nous devrions donner de l'argent supplémentaire à Jackbox. "
+    },
+    {
+      "id": "043",
+      "text": "Les mots avec beaucoup de rimes incluent « non » et « essayer ». "
+    },
+    {
+      "id": "044",
+      "text": "Je suis la deuxième personne la plus attirante de la pièce. "
+    },
+    {
+      "id": "045",
+      "text": "Qui veut une pizza ? C'est sur moi ! "
+    },
+    {
+      "id": "046",
+      "text": "Insérez ici une rime hilarante et insultante. "
+    },
+    {
+      "id": "047",
+      "text": "Esto ni siquiera rima en Espanol. "
+    },
+    {
+      "id": "048",
+      "text": "Partez, partez, partez, partez. (bruit de mouette) "
+    },
+    {
+      "id": "049",
+      "text": "Mon médecin dit que je suis intolérant aux rimes. "
+    },
+    {
+      "id": "050",
+      "text": "Les rimes les mieux écrites des souris et des hommes… "
+    },
+    {
+      "id": "051",
+      "text": "Réglons nos problèmes sans rimes violentes. "
+    },
+    {
+      "id": "052",
+      "text": "Ne me comptez pas, il y a toujours le vote de pitié !"
+    },
+    {
+      "id": "053",
+      "text": "Assez. Quelqu'un dans cette pièce est un meurtrier ! "
+    },
+    {
+      "id": "054",
+      "text": "Vous devez écouter les rimes que je ne dis PAS. "
+    },
+    {
+      "id": "055",
+      "text": "Maman dit que j'ai juste besoin de confiance pour gagner. "
+    },
+    {
+      "id": "056",
+      "text": "L'anglais n'est pas ma langue principale. "
+    },
+    {
+      "id": "057",
+      "text": "J'espère que cette réponse ne semble pas informatique. "
+    },
+    {
+      "id": "058",
+      "text": "Je suis plutôt un artiste hip hop théorique. "
+    },
+    {
+      "id": "059",
+      "text": "Puis-je payer un supplément pour de meilleures lignes automatisées ? "
+    },
+    {
+      "id": "060",
+      "text": "Il y a des trophées de participation, non ? "
+    },
+    {
+      "id": "061",
+      "text": "Je ne vais pas mentir. Tu es meilleur que moi. "
+    },
+    {
+      "id": "062",
+      "text": "Cette réponse m'est venue dans un rêve. "
+    },
+    {
+      "id": "063",
+      "text": "Rap rap rappity bippity rap! "
+    },
+    {
+      "id": "064",
+      "text": "J'ai une stratégie brillante mais c'est un secret. "
+    },
+    {
+      "id": "065",
+      "text": "Quelque chose, quelque chose, je suis le meilleur, tu n'es pas bon. "
+    },
+    {
+      "id": "066",
+      "text": "Nous sommes tous les deux amoureux de la même personne. "
+    },
+    {
+      "id": "067",
+      "text": "Les roses sont rouges. Les violettes sont bleues. C'est ça. "
+    },
+    {
+      "id": "068",
+      "text": "Beeeeeeeeeeeeesssssssssssss !!!!!! "
+    },
+    {
+      "id": "069",
+      "text": "La vache fait MOOOOOOOOOOO. "
+    },
+    {
+      "id": "070",
+      "text": "J'ai écrit ceci tout seul, sans aucune aide. "
+    },
+    {
+      "id": "071",
+      "text": "Au lieu d’une rime, j’ai choisi simplement de danser. "
+    },
+    {
+      "id": "072",
+      "text": "Il est préférable de ne pas dire certaines choses. "
+    },
+    {
+      "id": "073",
+      "text": "Par la présente, je renonce à mon droit de rimer. "
+    },
+    {
+      "id": "074",
+      "text": "Nous croisons les doigts pour que cette ligne rime avec « chaussure ». "
+    },
+    {
+      "id": "075",
+      "text": "Fermez les yeux et faites comme si ça rimait. "
+    },
+    {
+      "id": "076",
+      "text": "Grâce au pouvoir de l’imagination, cela rime. "
+    },
+    {
+      "id": "077",
+      "text": "Je laisse aussi d'autres personnes choisir mes vêtements. "
+    },
+    {
+      "id": "078",
+      "text": "Je gagnerai cette manche avec ma personnalité. "
+    },
+    {
+      "id": "079",
+      "text": "Cette ligne étonnante a été écrite pour moi. "
+    },
+    {
+      "id": "080",
+      "text": "Quelqu'un aurait-il une comptine à emprunter ? "
+    },
+    {
+      "id": "081",
+      "text": "Des arbres, des nuages, des insectes et des beignets. "
+    },
+    {
+      "id": "082",
+      "text": "Cette phrase rime absolument avec la précédente. "
+    },
+    {
+      "id": "083",
+      "text": "Merci, Obama. "
+    },
+    {
+      "id": "084",
+      "text": "Je préfère les actions aux mots, donc je n'ai pas écrit ceci. "
+    },
+    {
+      "id": "085",
+      "text": "Bow wow wow froyo hippie hennissement. "
+    },
+    {
+      "id": "086",
+      "text": "La comédie est une question de timing, et je n'en ai pas. "
+    },
+    {
+      "id": "087",
+      "text": "Pause dansante ! "
+    },
+    {
+      "id": "088",
+      "text": "J'ai toujours voulu dire que tu es mon meilleur ami. "
+    },
+    {
+      "id": "089",
+      "text": "Cette phrase ne rime que si vous y croyez vraiment."
+    },
+    {
+      "id": "090",
+      "text": "C'est long, mais je suppose que la rime est orange. "
+    },
+    {
+      "id": "091",
+      "text": "C'est Rap Zéro. Même bon goût, sans rimes. "
+    },
+    {
+      "id": "092",
+      "text": "Bravo aux personnes qui ont écrit ce jeu ! "
+    },
+    {
+      "id": "093",
+      "text": "Je ne peux pas croire que tu m'as battu LE JOUR DE MON ANNIVERSAIRE ! "
+    },
+    {
+      "id": "094",
+      "text": "Tu es bien trop moche pour que je puisse t'insulter. "
+    },
+    {
+      "id": "095",
+      "text": "Rapper, c'est mon boulot. Et je suis en pause café. "
+    },
+    {
+      "id": "096",
+      "text": "Réglons cela avec une course autour du pâté de maisons ! "
+    },
+    {
+      "id": "097",
+      "text": "Je suis un artiste rap abstrait donc : beignets d'ascenseur verts ! "
+    },
+    {
+      "id": "098",
+      "text": "Je me battrai contre tous ceux qui n’aiment pas « Gilmore Girls » ! "
+    },
+    {
+      "id": "099",
+      "text": "Allez-vous signer une pétition pour supprimer la règle des rimes ? "
+    },
+    {
+      "id": "100",
+      "text": "J'ai laissé tomber tellement de couplets qu'ils sont maintenant cassés. "
+    },
+    {
+      "id": "101",
+      "text": "Cela rime dans ma langue maternelle. "
+    },
+    {
+      "id": "102",
+      "text": "Test auditif : si cela ne rime pas, vos oreilles sont nulles. "
+    },
+    {
+      "id": "103",
+      "text": "J'ai déjà tué et je tuerai encore. "
+    },
+    {
+      "id": "104",
+      "text": "Devinez mon nom et je vous rendrai votre enfant ! "
+    },
+    {
+      "id": "105",
+      "text": "Je ne suis pas un héros. Les héros écrivent leurs propres lignes. "
+    },
+    {
+      "id": "106",
+      "text": "J'ai le talent du monstre du Loch Ness parce qu'il n'existe pas. "
+    },
+    {
+      "id": "107",
+      "text": "Appelez-moi un livre de bibliothèque parce que je l'ai vérifié. "
+    },
+    {
+      "id": "108",
+      "text": "Maintenant, réponds-moi à ces trois énigmes ! "
+    },
+    {
+      "id": "109",
+      "text": "Je vais te combattre physiquement. "
+    },
+    {
+      "id": "110",
+      "text": "Quelqu'un sait où je peux cacher un corps ? "
+    },
+    {
+      "id": "111",
+      "text": "C'est mieux que d'embrasser... je suppose. "
+    },
+    {
+      "id": "112",
+      "text": "Je ne me suis jamais brossé les dents. "
+    },
+    {
+      "id": "113",
+      "text": "C’est ce qu’on appelle un cliffhanger. "
+    },
+    {
+      "id": "114",
+      "text": "Je t'épargnerai, mais tu me dois une faveur. "
+    },
+    {
+      "id": "115",
+      "text": "Utiliser les lignes existantes est meilleur pour l’environnement. "
+    },
+    {
+      "id": "116",
+      "text": "Mes rimes sont si chaudes qu'elles se sont évaporées. "
+    },
+    {
+      "id": "117",
+      "text": "Tu as gagné la bataille du rap mais je gagnerai la guerre du rap. "
+    },
+    {
+      "id": "118",
+      "text": "Et c'est comme ça, les enfants, que j'ai rencontré votre mère. "
+    },
+    {
+      "id": "119",
+      "text": "Mais je m'éloigne du sujet. Comment se passe le travail ? "
+    },
+    {
+      "id": "120",
+      "text": "Comme l'a dit Oscar Wilde : « Tu es un idiot ! » "
+    },
+    {
+      "id": "121",
+      "text": "Quelqu'un a-t-il une menthe à l'haleine ? J'embrasserai plus tard. "
+    },
+    {
+      "id": "122",
+      "text": "C'est ce qu'elle a dit."
+    },
+    {
+      "id": "123",
+      "text": "Rimer, c'est un peu comme danser : je ne peux pas faire non plus. "
+    },
+    {
+      "id": "124",
+      "text": "Et ils vécurent tous heureux pour toujours. "
+    },
+    {
+      "id": "125",
+      "text": "Si l’IRS le demande, c’était une bataille de rap business. "
+    },
+    {
+      "id": "126",
+      "text": "Poisson d'avril ! Il s'avère que je ne sais pas rimer du tout ! "
+    },
+    {
+      "id": "127",
+      "text": "Et ainsi de suite. "
+    },
+    {
+      "id": "128",
+      "text": "Vous pouvez imaginer comment se passerait le reste. "
+    },
+    {
+      "id": "129",
+      "text": "Ne devrions-nous pas discuter de sujets plus importants ? "
+    },
+    {
+      "id": "130",
+      "text": "Oh non! La pleine lune ! Grrrr… "
+    },
+    {
+      "id": "131",
+      "text": "Vite, monte dans la voiture ! Pas le temps de rimer ! "
+    },
+    {
+      "id": "132",
+      "text": "Si mes mots sont nuls, est-ce un mouvement de voyelle ? "
+    },
+    {
+      "id": "133",
+      "text": "Je fais seulement semblant d'être ami avec toi. "
+    },
+    {
+      "id": "134",
+      "text": "Pourquoi ai-je parié 500 dollars sur ce tour ?! "
+    },
+    {
+      "id": "135",
+      "text": "L'alunissage était un canular. "
+    },
+    {
+      "id": "136",
+      "text": "Je vais donc simplement laisser mon CV et attendre votre appel. "
+    },
+    {
+      "id": "137",
+      "text": "J'aime cette ligne, mais je ne l'aime pas. "
+    },
+    {
+      "id": "138",
+      "text": "Une chose est sûre : j'ai écrit cette ligne. "
+    },
+    {
+      "id": "139",
+      "text": "Je promets de me lever tôt et de courir trois miles. "
+    },
+    {
+      "id": "140",
+      "text": "J'ai l'impression qu'il est temps pour un train de massage. "
+    },
+    {
+      "id": "141",
+      "text": "Je n'y prête pas attention, je fais juste des compliments. "
+    },
+    {
+      "id": "142",
+      "text": "AAAAAAAAAHHHHHHHH ! Une araignée ! "
+    },
+    {
+      "id": "143",
+      "text": "Les gens qui ont créé ce jeu sont très attirants. "
+    },
+    {
+      "id": "144",
+      "text": "Si vous n’essayez pas, je ne le ferai pas non plus. "
+    },
+    {
+      "id": "145",
+      "text": "Tes rimes sont si laides que je ne peux pas ouvrir les yeux. "
+    },
+    {
+      "id": "146",
+      "text": "Bientôt : plus d’efforts de ma part. "
+    },
+    {
+      "id": "147",
+      "text": "Ce verset était en feu, alors je l'ai éteint en toute sécurité. "
+    },
+    {
+      "id": "148",
+      "text": "Peut-être que je gagnerai le vote électoral. "
+    },
+    {
+      "id": "149",
+      "text": "Mon flux est tellement mauvais que mon urologue s'inquiète. "
+    },
+    {
+      "id": "150",
+      "text": "Je ne pense peut-être pas vite mais je peux... Euh... tu sais... "
+    },
+    {
+      "id": "151",
+      "text": "Je suis maudit par la beauté et le manque de rythme. "
+    },
+    {
+      "id": "152",
+      "text": "J'exige un recomptage ! "
+    },
+    {
+      "id": "153",
+      "text": "Si quelqu'un a des rimes supplémentaires, puis-je les utiliser ? "
+    },
+    {
+      "id": "154",
+      "text": "Une personne sage connaît ses limites. "
+    },
+    {
+      "id": "155",
+      "text": "Rapper est plus difficile que Coolio ne le laisse croire."
+    },
+    {
+      "id": "156",
+      "text": "J'ai perdu mon flux. Puis-je emprunter le vôtre ? "
+    },
+    {
+      "id": "157",
+      "text": "Est-ce que je gagne déjà ? "
+    },
+    {
+      "id": "158",
+      "text": "Gardons simplement les scores dans nos têtes. "
+    },
+    {
+      "id": "159",
+      "text": "J'ai tellement triché qu'on pourrait penser que je ferais mieux. "
+    },
+    {
+      "id": "160",
+      "text": "Je suis bien assis et je suppose que ça rime. "
+    },
+    {
+      "id": "161",
+      "text": "Insérez une photo de moi en train de gagner. "
+    },
+    {
+      "id": "162",
+      "text": "Je pense à mon argent et j'espère que ça rime. "
+    },
+    {
+      "id": "163",
+      "text": "Je suis cool et ça rime et tout va bien. "
+    },
+    {
+      "id": "164",
+      "text": "Tout le monde frappe dans vos mains et agit comme ces rimes. "
+    },
+    {
+      "id": "165",
+      "text": "Maintenant, tout le monde confie un secret à la personne à gauche. "
+    },
+    {
+      "id": "166",
+      "text": "Les oiseaux me trouvent très attirant. "
+    },
+    {
+      "id": "167",
+      "text": "Bébé bébé bébé bébé bébé bébé bébé bébé ouais. "
+    },
+    {
+      "id": "168",
+      "text": "Je vous ai tous réunis ici pour une raison… "
+    },
+    {
+      "id": "169",
+      "text": "Chat, chauve-souris, sat, rat, gros, tapis. "
+    },
+    {
+      "id": "170",
+      "text": "BOOM BOOM BOOM est le son du tonnerre. "
+    },
+    {
+      "id": "171",
+      "text": "Saviez-vous que vous pouvez avoir la rime Jackbox ? Je l'ai fait. "
+    },
+    {
+      "id": "172",
+      "text": "Rime rime rime ! J'ai si bien fait ! "
+    },
+    {
+      "id": "173",
+      "text": "C'est un appel à l'aide. "
+    },
+    {
+      "id": "174",
+      "text": "Tout est un taco si vous essayez vraiment. "
+    },
+    {
+      "id": "175",
+      "text": "La soupe est destinée aux personnes qui détestent la nourriture. "
+    },
+    {
+      "id": "176",
+      "text": "Danser, c'est parler au corps. "
+    },
+    {
+      "id": "177",
+      "text": "Celui-ci est pour les haineux ! Vous aviez raison ! "
+    },
+    {
+      "id": "178",
+      "text": "Que quelqu'un me dise si j'ai gagné ce tour. "
+    },
+    {
+      "id": "179",
+      "text": "Est-ce que quelqu'un veut parler de sentiments ? "
+    },
+    {
+      "id": "180",
+      "text": "Oh mon Dieu, c'est vraiment une fête maintenant."
+    },
+    {
+      "id": "181",
+      "text": "Est-ce que quelqu'un d'autre sent le pain grillé ? "
+    },
+    {
+      "id": "182",
+      "text": "Du rap comme quelqu’un d’autre l’écrit. "
+    },
+    {
+      "id": "183",
+      "text": "GARÇON-EEEEEEEEEEEEEEEEEEEEEEEEEEEEEE. "
+    },
+    {
+      "id": "184",
+      "text": "Lait, pain, œufs et gelée. "
+    },
+    {
+      "id": "185",
+      "text": "Aller! Dites à tout le monde ce que vous avez vu ici ce soir. "
+    },
+    {
+      "id": "186",
+      "text": "Cette ligne particulière est à gratter et à renifler. "
+    },
+    {
+      "id": "187",
+      "text": "Et c'est pour ça qu'ils m'appellent Lil' Snackcake. "
+    },
+    {
+      "id": "188",
+      "text": "Tiens ma main et courons vers l'éternité. "
+    },
+    {
+      "id": "189",
+      "text": "J'ai sauté, puis j'ai verrouillé et je ne trouve plus mes clés. "
+    },
+    {
+      "id": "190",
+      "text": "Attention! Un ours ! "
+    },
+    {
+      "id": "191",
+      "text": "Rime Doobeedoobeedoobee. "
+    },
+    {
+      "id": "192",
+      "text": "Je n'ai pas peur de demander de l'aide. "
+    },
+    {
+      "id": "193",
+      "text": "J'ai choisi l'option où l'ordinateur a écrit ceci. "
+    },
+    {
+      "id": "194",
+      "text": "Mettez vos mains en l'air si vous avez utilisé Write for Me. "
+    },
+    {
+      "id": "195",
+      "text": "Il n'y a aucune honte à échouer. "
+    },
+    {
+      "id": "196",
+      "text": "J'aime plus les bagels que le pain ordinaire. "
+    },
+    {
+      "id": "197",
+      "text": "Rapper est difficile alors j’ai demandé de l’aide. "
+    },
+    {
+      "id": "198",
+      "text": "Je suis un très bon chien. "
+    },
+    {
+      "id": "199",
+      "text": "Je ne suis pas venu ici pour me faire des amis. "
+    },
+    {
+      "id": "200",
+      "text": "Je me suis dégonflé, bawk bawk, ​​je suis un poulet. "
+    },
+    {
+      "id": "201",
+      "text": "Je suis venu ici pour gagner, mais je vais perdre. "
+    },
+    {
+      "id": "202",
+      "text": "Merci d'être venus, les amis. S'il vous plaît, essayez le veau. "
+    },
+    {
+      "id": "203",
+      "text": "Et maintenant, je vais sortir un lapin de mes fesses. "
+    },
+    {
+      "id": "204",
+      "text": "Je ne suis pas trop paresseux pour rimer, je ne suis juste pas motivé. "
+    },
+    {
+      "id": "205",
+      "text": "Mère a toujours dit que je serais un échec. Maman gagne. "
+    },
+    {
+      "id": "206",
+      "text": "Vous ne pouvez pas épeler « embarras » sans « assment ». "
+    },
+    {
+      "id": "207",
+      "text": "Puis-je vous intéresser à une hypothèque inversée ? "
+    },
+    {
+      "id": "208",
+      "text": "dit l'actrice à l'évêque."
+    },
+    {
+      "id": "209",
+      "text": "Et maintenant un mot de notre sponsor. "
+    },
+    {
+      "id": "210",
+      "text": "Et mon nom MC est DJ Downvote. "
+    },
+    {
+      "id": "211",
+      "text": "Mot. "
+    },
+    {
+      "id": "212",
+      "text": "Au lit. "
+    },
+    {
+      "id": "213",
+      "text": "L est pour le perdant qui est assis tout seul. "
+    },
+    {
+      "id": "214",
+      "text": "Et tout comme un boxeur, je suis prêt à compter. "
+    },
+    {
+      "id": "215",
+      "text": "Comme disait mon grand-père, laisse-moi mourir en paix. "
+    },
+    {
+      "id": "216",
+      "text": "Orange, tu es content que je n'aie pas dit banane ? "
+    },
+    {
+      "id": "217",
+      "text": "J'espère que ma dernière ligne rime avec « rutabaga ». "
+    },
+    {
+      "id": "218",
+      "text": "Glug glug glug est allé Goldy le poisson rouge. "
+    },
+    {
+      "id": "219",
+      "text": "J'agite le drapeau blanc de la reddition. "
+    },
+    {
+      "id": "220",
+      "text": "Et il me manque un crédit pour obtenir mon diplôme. "
+    },
+    {
+      "id": "221",
+      "text": "Les mots peuvent être difficiles. Et les mots aussi. "
+    },
+    {
+      "id": "222",
+      "text": "C'est ce qu'a dit l'homme de Nantucket. "
+    },
+    {
+      "id": "223",
+      "text": "Pop devient la fouine ! "
+    },
+    {
+      "id": "224",
+      "text": "Et j'ai pris la route la moins fréquentée. "
+    },
+    {
+      "id": "225",
+      "text": "Excusez-moi pendant que j'embrasse ce type. Ou le ciel. Pas sûr. "
+    },
+    {
+      "id": "226",
+      "text": "Knick Knack Paddy Whack donne un os à un chien. "
+    },
+    {
+      "id": "227",
+      "text": "Jack, saute par-dessus le chandelier. "
+    },
+    {
+      "id": "228",
+      "text": "Sa toison était blanche comme neige."
+    }
+  ]
+}

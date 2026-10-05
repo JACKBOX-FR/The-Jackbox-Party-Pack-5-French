@@ -1,0 +1,139 @@
+{
+    "content": [
+        {
+            "id": "001",
+            "name": "Jeux Jackbox (abandonnés)",
+            "giveTrophy":true
+        },
+        {
+            "id": "002",
+            "name": "Binjpipe",
+            "giveTrophy":false
+        },
+        {
+            "id": "003",
+            "name": "un immeuble très cher",
+            "giveTrophy":false
+        },
+        {
+            "id": "004",
+            "name": "Tour commémorative Mike Pictures",
+            "giveTrophy":false
+        },
+        {
+            "id": "005",
+            "name": "Centre de dépôt de micro",
+            "giveTrophy":false
+        },
+        {
+            "id": "006",
+            "name": "École des arts Allard Laban",
+            "giveTrophy":false
+        },
+        {
+            "id": "007",
+            "name": "juste votre bâtiment normal de tous les jours",
+            "giveTrophy":false
+        },
+        {
+            "id": "008",
+            "name": "Ben Jacobs Online College, campus hors ligne",
+            "giveTrophy":false
+        },
+        {
+            "id": "009",
+            "name": "Tour du voyant",
+            "giveTrophy":false
+        },
+        {
+            "id": "010",
+            "name": "Explosifs Discount Inc.",
+            "giveTrophy":false
+        },
+        {
+            "id": "011",
+            "name": "Bill Ding's Construction",
+            "giveTrophy":false
+        },
+        {
+            "id": "012",
+            "name": "Entrepôt d’approvisionnement d’entrepôt",
+            "giveTrophy":false
+        },
+        {
+            "id": "013",
+            "name": "Frank Lloyd Mauvais bâtiment",
+            "giveTrophy":false
+        },
+        {
+            "id": "014",
+            "name": "Pas une cachette secrète",
+            "giveTrophy":false
+        },
+        {
+            "id": "015",
+            "name": "Hôpital pour chiots",
+            "giveTrophy":false
+        },
+        {
+            "id": "016",
+            "name": "Fourniture d'objets fragiles de Ken",
+            "giveTrophy":false
+        },
+        {
+            "id": "017",
+            "name": "Garage de stationnement des informateurs",
+            "giveTrophy":false
+        },
+        {
+            "id": "018",
+            "name": "Cures Médicales Percées Inc.",
+            "giveTrophy":false
+        },
+        {
+            "id": "019",
+            "name": "Centre des choses et des choses importantes",
+            "giveTrophy":false
+        },
+        {
+            "id": "020",
+            "name": "Institut Putyerlefthand",
+            "giveTrophy":false
+        },
+        {
+            "id": "021",
+            "name": "Centre Dondestroyous-s'il vous plaît",
+            "giveTrophy":false
+        },
+        {
+            "id": "022",
+            "name": "Museum of Future Art",
+            "giveTrophy":false
+        },
+        {
+            "id": "023",
+            "name": "Boutique Bullina Chine",
+            "giveTrophy":false
+        },
+        {
+            "id": "024",
+            "name": "Bâtiment Titanic",
+            "giveTrophy":false
+        },
+        {
+            "id": "025",
+            "name": "Tours de gars",
+            "giveTrophy":false
+        },
+        {
+            "id": "026",
+            "name": "Bâtiment Thetensionis",
+            "giveTrophy":false
+        },
+        {
+            "id": "027",
+            "name": "Banque de confiance établie",
+            "giveTrophy":false
+        }
+    ]
+}

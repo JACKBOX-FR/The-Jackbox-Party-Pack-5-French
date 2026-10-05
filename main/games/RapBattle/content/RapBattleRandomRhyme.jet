@@ -1,0 +1,716 @@
+{
+  "content": [
+    {
+      "id": "001",
+      "text": "Je ne pouvais pas me donner la peine de commencer à taper. "
+    },
+    {
+      "id": "002",
+      "text": "Devinez qui n'a rien inscrit. "
+    },
+    {
+      "id": "003",
+      "text": "Je n'étais pas sûr de ce qu'ils entendaient par « il est temps d'écrire ». "
+    },
+    {
+      "id": "004",
+      "text": "Ce jeu serait plus facile si je savais lire. "
+    },
+    {
+      "id": "005",
+      "text": "Je ne suis pas accroché à cette histoire d'« achèvement ». "
+    },
+    {
+      "id": "006",
+      "text": "Où est ce foutu bouton Envoyer ? "
+    },
+    {
+      "id": "007",
+      "text": "Peut-être que la prochaine fois, je ferai attention. "
+    },
+    {
+      "id": "008",
+      "text": "Ma réponse allait être géniale, croyez-moi. "
+    },
+    {
+      "id": "009",
+      "text": "J'ai décidé de me curer le nez au lieu de répondre. "
+    },
+    {
+      "id": "010",
+      "text": "Il est difficile de suivre des instructions ! "
+    },
+    {
+      "id": "011",
+      "text": "Peut-être devrions-nous activer des minuteries prolongées. "
+    },
+    {
+      "id": "012",
+      "text": "Cela ne rime pas parce que je n’ai rien écrit. "
+    },
+    {
+      "id": "013",
+      "text": "Je ne comprends pas... Mon téléphone est ma manette ? "
+    },
+    {
+      "id": "014",
+      "text": "Je n'ai rien écrit, faites-moi honte. "
+    },
+    {
+      "id": "015",
+      "text": "Je m'en fichais assez pour finir cette rime. "
+    },
+    {
+      "id": "016",
+      "text": "J'avais trop peur pour taper, alors j'ai laissé l'ordinateur décider. "
+    },
+    {
+      "id": "017",
+      "text": "Je n'ai pas appuyé sur le bon bouton, donc cette rime est farfelue. "
+    },
+    {
+      "id": "018",
+      "text": "C'était l'heure du jeu et j'ai paniqué. Je suis désolé. "
+    },
+    {
+      "id": "019",
+      "text": "Fait amusant : une phrase courante apparaît si vous n’en soumettez pas. "
+    },
+    {
+      "id": "020",
+      "text": "Je ne peux pas suivre les instructions. "
+    },
+    {
+      "id": "021",
+      "text": "Là! C'est tout ce dont j'avais besoin pour taper ! "
+    },
+    {
+      "id": "022",
+      "text": "Attendez! Je n'ai pas écrit ça ! Hé! "
+    },
+    {
+      "id": "023",
+      "text": "La prochaine fois, n'oubliez pas : votre rime va ici. "
+    },
+    {
+      "id": "024",
+      "text": "Il doit y avoir quelque chose avec mon téléphone. "
+    },
+    {
+      "id": "025",
+      "text": "Je pense que j'ai peut-être oublié quelque chose… "
+    },
+    {
+      "id": "026",
+      "text": "S'il vous plaît, laissez-moi gagner même si je n'ai rien écrit. "
+    },
+    {
+      "id": "027",
+      "text": "Je n'ai rien soumis, mais je ferai mieux la prochaine fois. "
+    },
+    {
+      "id": "028",
+      "text": "Et c'est tout ce que j'ai écrit, désolé. "
+    },
+    {
+      "id": "029",
+      "text": "Et puis j'ai oublié d'entrer quelque chose. "
+    },
+    {
+      "id": "030",
+      "text": "Et puis j'ai gâché le jeu pour tout le monde. "
+    },
+    {
+      "id": "031",
+      "text": "À partir de maintenant, je vais écrire plus et parler moins. "
+    },
+    {
+      "id": "032",
+      "text": "Oups ! Je suppose que je n'ai pas fini la rime. "
+    },
+    {
+      "id": "033",
+      "text": "J'aurais bien aimé finir cette comptine. "
+    },
+    {
+      "id": "034",
+      "text": "La prochaine fois, j'écrirai et je ne serai pas si paresseux. "
+    },
+    {
+      "id": "035",
+      "text": "Je suis trop pacifiste pour tuer ce verset. "
+    },
+    {
+      "id": "036",
+      "text": "Je vais laisser l'ordinateur répondre de manière folle !"
+    },
+    {
+      "id": "037",
+      "text": "(Cet espace laissé intentionnellement vide) "
+    },
+    {
+      "id": "038",
+      "text": "D'accord, mais je parie 50 dollars que je réussirai le prochain. "
+    },
+    {
+      "id": "039",
+      "text": "Je m'ennuie tellement de tes vers que je m'endors. "
+    },
+    {
+      "id": "040",
+      "text": "Ah, bon sang, laissez mon adversaire gagner. "
+    },
+    {
+      "id": "041",
+      "text": "J'étais bien trop fatigué pour remplir le reste. "
+    },
+    {
+      "id": "042",
+      "text": "Ils ont écrit ça pour moi, parce que je suis nul. "
+    },
+    {
+      "id": "043",
+      "text": "Désolé, je pensais à m'embrasser. "
+    },
+    {
+      "id": "044",
+      "text": "Oh non, je suis sur le point de manquer de ti "
+    },
+    {
+      "id": "045",
+      "text": "Prends mes clés de voiture, j'ai trop sommeil pour jouer. "
+    },
+    {
+      "id": "046",
+      "text": "Désolé, je suppose que je suis un peu un imbécile. "
+    },
+    {
+      "id": "047",
+      "text": "Je ne peux même pas écrire une petite ligne. "
+    },
+    {
+      "id": "048",
+      "text": "Ugggh, il y a tout simplement trop de mots ! "
+    },
+    {
+      "id": "049",
+      "text": "Peut-être qu'au prochain tour, je ne parlerai pas autant. "
+    },
+    {
+      "id": "050",
+      "text": "Oups... Y a-t-il quelque chose que j'ai oublié de faire ? "
+    },
+    {
+      "id": "051",
+      "text": "Attendez! Il y a une limite de temps ?! "
+    },
+    {
+      "id": "052",
+      "text": "Désolé, j'étais occupé à penser à des toasts. "
+    },
+    {
+      "id": "053",
+      "text": "Je ne pouvais pas penser parce que j'étais perdu dans tes yeux. "
+    },
+    {
+      "id": "054",
+      "text": "Je ne peux même pas écrire une petite ligne. "
+    },
+    {
+      "id": "055",
+      "text": "Je ne vais pas écrire juste parce qu'ils l'ont dit. "
+    },
+    {
+      "id": "056",
+      "text": "Pas de rime cette fois. Sauf celui-là… "
+    },
+    {
+      "id": "057",
+      "text": "Utiliser le texte prédictif pour écrire, c'est le déjeuner ! "
+    },
+    {
+      "id": "058",
+      "text": "Donne-moi un ballon parce que je viens de le faire exploser. "
+    },
+    {
+      "id": "059",
+      "text": "Ne m'invitez plus jamais à jouer. "
+    },
+    {
+      "id": "060",
+      "text": "Je me suis endormi. Que faisons-nous ? "
+    },
+    {
+      "id": "061",
+      "text": "Des victoires lentes et régulières… rien. "
+    },
+    {
+      "id": "062",
+      "text": "Quelqu’un intervient et prend ma place. "
+    },
+    {
+      "id": "063",
+      "text": "J'ai manqué de temps parce que je suis un idiot. "
+    },
+    {
+      "id": "064",
+      "text": "Saviez-vous que vous devez taper des mots ? "
+    },
+    {
+      "id": "065",
+      "text": "Ne me regarde pas à moins que tu veuilles voir de la honte. "
+    },
+    {
+      "id": "066",
+      "text": "Désolé, je n'avais rien d'autre à dire. "
+    },
+    {
+      "id": "067",
+      "text": "Réveille-moi quand il est temps de jouer. "
+    },
+    {
+      "id": "068",
+      "text": "Je dors, donc je perds. "
+    },
+    {
+      "id": "069",
+      "text": "Eh bien, c'est embarrassant. "
+    },
+    {
+      "id": "070",
+      "text": "Je n'ai rien écrit. Je suis trop triste. "
+    },
+    {
+      "id": "071",
+      "text": "Au lieu de laisser tomber le micro, j'ai laissé tomber la balle. "
+    },
+    {
+      "id": "072",
+      "text": "Et les violettes sont bleues, comme si j'avais fait sauter cette ligne. "
+    },
+    {
+      "id": "073",
+      "text": "Je ne dormais pas ! Je reposais mes yeux ! "
+    },
+    {
+      "id": "074",
+      "text": "Ne me blâmez pas parce que mon clavier est nul. "
+    },
+    {
+      "id": "075",
+      "text": "Ouais, je sais que ça a l'air mauvais. Je peux expliquer. "
+    },
+    {
+      "id": "076",
+      "text": "Peut-être que je n'écrirai pas le reste du jeu. "
+    },
+    {
+      "id": "077",
+      "text": "Et voici la partie où je m'embarrasse. "
+    },
+    {
+      "id": "078",
+      "text": "La créativité ne devrait jamais avoir de contraintes de temps. "
+    },
+    {
+      "id": "079",
+      "text": "Je suppose que cela doit rimer avec « sasquatch »."
+    },
+    {
+      "id": "080",
+      "text": "Manquant : un auteur de rimes. "
+    },
+    {
+      "id": "081",
+      "text": "Oh l'agonie. Personne ne sait dans quelle douleur je souffre. "
+    },
+    {
+      "id": "082",
+      "text": "Je suis à court de mots, sauf ces nuls. "
+    },
+    {
+      "id": "083",
+      "text": "Gagner est pour les perdants. Je ne céderai pas. "
+    },
+    {
+      "id": "084",
+      "text": "Oupsadoodle. "
+    },
+    {
+      "id": "085",
+      "text": "J'ai fait de mon mieux et ça n'a pas marché. "
+    },
+    {
+      "id": "086",
+      "text": "Laisse-moi t'entendre dire \"OH NON\". "
+    },
+    {
+      "id": "087",
+      "text": "N'appelez pas ça un retour. Je n'ai rien fait. "
+    },
+    {
+      "id": "088",
+      "text": "(doigts dans les oreilles) LALALALALALALA. "
+    },
+    {
+      "id": "089",
+      "text": "Même la pizza ne peut pas résoudre ce problème. "
+    },
+    {
+      "id": "090",
+      "text": "Merci Jackbox d'avoir complété cette comptine. "
+    },
+    {
+      "id": "091",
+      "text": "Personne n'est à la maison. Laissez un rap au BEEEEEEP. "
+    },
+    {
+      "id": "092",
+      "text": "Non, je ne jouais même pas à ce jeu. "
+    },
+    {
+      "id": "093",
+      "text": "Taper des mots est difficile et compliqué. "
+    },
+    {
+      "id": "094",
+      "text": "Si je dis mon rap à voix haute, il ne se réalisera pas. "
+    },
+    {
+      "id": "095",
+      "text": "Je tweetais au lieu de penser à une rime. "
+    },
+    {
+      "id": "096",
+      "text": "C'est un tour d'entraînement, n'est-ce pas ? "
+    },
+    {
+      "id": "097",
+      "text": "Bien! C'est vrai ! JE SUIS juste un joli visage. "
+    },
+    {
+      "id": "098",
+      "text": "Quelqu'un a-t-il un chargeur de téléphone ? "
+    },
+    {
+      "id": "099",
+      "text": "Quelle excuse trouverez-vous la plus crédible ? "
+    },
+    {
+      "id": "100",
+      "text": "Est-ce que j'ai écrit ceci ? Ou était-ce un fantôme ? "
+    },
+    {
+      "id": "101",
+      "text": "Allumez le feu parce que je viens de geler. "
+    },
+    {
+      "id": "102",
+      "text": "C'était gentil de leur part de remplir cette ligne. "
+    },
+    {
+      "id": "103",
+      "text": "Au moins, mes cheveux sont beaux. "
+    },
+    {
+      "id": "104",
+      "text": "Ne parlez jamais de cet échec à ma famille. "
+    },
+    {
+      "id": "105",
+      "text": "Est-ce juste moi ou « rime » s'écrit bizarrement ? "
+    },
+    {
+      "id": "106",
+      "text": "J'ai oublié le mot de passe de mon téléphone. "
+    },
+    {
+      "id": "107",
+      "text": "Je veux vraiment conserver mon statut d’opprimé. "
+    },
+    {
+      "id": "108",
+      "text": "Taper des trucs, c'est pour les idiots ! "
+    },
+    {
+      "id": "109",
+      "text": "Je serais probablement tué en premier dans Hunger Games. "
+    },
+    {
+      "id": "110",
+      "text": "Une limite de temps n'est-elle pas plutôt une suggestion ? "
+    },
+    {
+      "id": "111",
+      "text": "Si mon visage est rouge, c'est parce que je m'étouffe. "
+    },
+    {
+      "id": "112",
+      "text": "Ne parlons plus jamais de mon échec. "
+    },
+    {
+      "id": "113",
+      "text": "Attendez… si je n'ai pas écrit ça… qui l'a fait ?! "
+    },
+    {
+      "id": "114",
+      "text": "J'ai cinq dollars si tu es prêt à écrire pour moi. "
+    },
+    {
+      "id": "115",
+      "text": "Pouvons-nous revoir les instructions ?"
+    },
+    {
+      "id": "116",
+      "text": "Quelqu'un a-t-il vu mon téléphone… oh le voici. "
+    },
+    {
+      "id": "117",
+      "text": "Mais sérieusement… est-ce qu'on commande à manger ? "
+    },
+    {
+      "id": "118",
+      "text": "Les doigts inactifs sont le terrain de jeu de l'ordinateur. "
+    },
+    {
+      "id": "119",
+      "text": "Je ne peux jamais applaudir au rythme ou répondre à temps. "
+    },
+    {
+      "id": "120",
+      "text": "Nouveau micro, qui l'a ? "
+    },
+    {
+      "id": "121",
+      "text": "S'il vous plaît, apportez des fleurs sur la tombe de mon score. "
+    },
+    {
+      "id": "122",
+      "text": "Quelqu'un peut-il me dire ce qu'est un verbe ? "
+    },
+    {
+      "id": "123",
+      "text": "Ce n'est pas ma faute, j'ai le pire robot. "
+    },
+    {
+      "id": "124",
+      "text": "J'ai fait le rêve le plus étrange où j'étais dans une bataille de rap. "
+    },
+    {
+      "id": "125",
+      "text": "Je crois que j'ai entendu quelque chose dehors ! Je vais enquêter ! "
+    },
+    {
+      "id": "126",
+      "text": "Cette phrase était trop dévastatrice pour qu’on puisse y donner suite. "
+    },
+    {
+      "id": "127",
+      "text": "Le seul geste gagnant est de ne pas jouer. "
+    },
+    {
+      "id": "128",
+      "text": "Dans une chronologie alternative, j'avais une super rime. "
+    },
+    {
+      "id": "129",
+      "text": "La physique newtonienne déclare que je dois rester au repos. "
+    },
+    {
+      "id": "130",
+      "text": "J'ai vraiment besoin d'une doublure. "
+    },
+    {
+      "id": "131",
+      "text": "La batterie de mon téléphone fonctionne bien mais mon cerveau n'est pas chargé. "
+    },
+    {
+      "id": "132",
+      "text": "Je ne recevrai pas de trophée, n'est-ce pas ? "
+    },
+    {
+      "id": "133",
+      "text": "Mon médecin me conseille d'éviter de rimer. "
+    },
+    {
+      "id": "134",
+      "text": "Attends… De quoi parlions-nous ? "
+    },
+    {
+      "id": "135",
+      "text": "J'ai perdu ma rime, puis-je avoir la tienne ? "
+    },
+    {
+      "id": "136",
+      "text": "À suivre...? "
+    },
+    {
+      "id": "137",
+      "text": "Les boutons de mon téléphone sont collants de confiture ! "
+    },
+    {
+      "id": "138",
+      "text": "Les règles me déroutent et me mettent en colère. "
+    },
+    {
+      "id": "139",
+      "text": "Cet acte de charité constitue une déduction fiscale. "
+    },
+    {
+      "id": "140",
+      "text": "Appelez la police des rimes parce que j'ai enfreint la loi. "
+    },
+    {
+      "id": "141",
+      "text": "Le temps est relatif… relativement difficile à comprendre. "
+    },
+    {
+      "id": "142",
+      "text": "J'avais un travail. "
+    },
+    {
+      "id": "143",
+      "text": "Voilà à quoi ressemble un gâchis. "
+    },
+    {
+      "id": "144",
+      "text": "Est-ce que tout le monde a suivi les instructions ? "
+    },
+    {
+      "id": "145",
+      "text": "Je ne peux pas mentir. J'ai manqué de temps. "
+    },
+    {
+      "id": "146",
+      "text": "La vie est pleine de secondes chances. Mais pas cette fois. "
+    },
+    {
+      "id": "147",
+      "text": "La vie est belle et j'ai été distrait. "
+    },
+    {
+      "id": "148",
+      "text": "Vous tous, je n'étais pas prêt pour ça. "
+    },
+    {
+      "id": "149",
+      "text": "J'ai foiré. Je vais me débrouiller."
+    },
+    {
+      "id": "150",
+      "text": "Je n'ai rien et je n'ai pas honte ! "
+    },
+    {
+      "id": "151",
+      "text": "Un algorithme a écrit ceci. "
+    },
+    {
+      "id": "152",
+      "text": "Je maintiens mon choix de ne pas soumettre de rime. "
+    },
+    {
+      "id": "153",
+      "text": "Faites attention, je me tire une balle dans le pied. "
+    },
+    {
+      "id": "154",
+      "text": "Le temps est une construction que je ne comprends pas. "
+    },
+    {
+      "id": "155",
+      "text": "J'ai laissé ce champ vide, parce que je suis un dingle. "
+    },
+    {
+      "id": "156",
+      "text": "Toc toc ! Qui est là ? Pas moi! "
+    },
+    {
+      "id": "157",
+      "text": "Et voilà comment tuer un bon flux. "
+    },
+    {
+      "id": "158",
+      "text": "Oh, tu m'attends ? Alors je suis un crétin. "
+    },
+    {
+      "id": "159",
+      "text": "J'ai heurté un mur. Quelqu'un a-t-il 5 heures d'énergie ? "
+    },
+    {
+      "id": "160",
+      "text": "Pauvre de moi. Pauvre de moi. Pauvre de moi. "
+    },
+    {
+      "id": "161",
+      "text": "Et maintenant je vais ramper sous ce gros rocher. "
+    },
+    {
+      "id": "162",
+      "text": "Oh mon Dieu. Où est passé le temps ? "
+    },
+    {
+      "id": "163",
+      "text": "Désolé, j'ai les mains liées. J'ai tapé avec mon nez. "
+    },
+    {
+      "id": "164",
+      "text": "J'ai complètement oublié ce que j'allais dire. "
+    },
+    {
+      "id": "165",
+      "text": "Réfléchissez à cela alors que je me tiens ici comme un lourdaud. "
+    },
+    {
+      "id": "166",
+      "text": "Et soudain, je suis complètement sans voix. "
+    },
+    {
+      "id": "167",
+      "text": "Excusez-moi, j'ai un rôti au four. "
+    },
+    {
+      "id": "168",
+      "text": "Non, reste où tu es. Je vais me laisser sortir. "
+    },
+    {
+      "id": "169",
+      "text": "Désolé, mon téléphone est en train de mourir. J'ai dû récupérer mon chargeur. "
+    },
+    {
+      "id": "170",
+      "text": "J'ai du mal à finir les choses. "
+    },
+    {
+      "id": "171",
+      "text": "Oh attends. Ai-je raté quelque chose ? "
+    },
+    {
+      "id": "172",
+      "text": "Malheureusement, je ne peux pas sauvegarder cela pour le moment. "
+    },
+    {
+      "id": "173",
+      "text": "Je vais à la cuisine. Quelqu'un a besoin d'une recharge ?"
+    },
+    {
+      "id": "174",
+      "text": "Ouais, essayez juste d'ignorer cette dernière partie. "
+    },
+    {
+      "id": "175",
+      "text": "La vérité est que je suis en fait assez nouveau dans le hip hop. "
+    },
+    {
+      "id": "176",
+      "text": "Oh, je ne savais pas qu'il y avait deux parties à cela. "
+    },
+    {
+      "id": "177",
+      "text": "La première chose que j’ai dite est autonome. "
+    },
+    {
+      "id": "178",
+      "text": "Oups, dee doo. Vingt-trois motoneiges !"
+    }
+  ]
+}

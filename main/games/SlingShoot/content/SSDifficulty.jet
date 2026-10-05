@@ -1,0 +1,449 @@
+{
+    "content":[
+        {
+            "id":"Tutorial",
+            "difficulty": 0,
+            "titles": ["Attends, qu'est-ce que je fais?","Euh... comment ça marche?","Quoi? Où suis-je?"],
+            "minChallenges":4,
+            "maxChallenges":4,
+            "mission": "Terminez tous les défis",
+            "gauntletBonus": 4000,
+            "enemiesPerChallenge": {
+                "1": {
+                    "min":3,
+                    "max":5
+                },
+                "2": {
+                    "min":3,
+                    "max":5
+                },
+                "3": {
+                    "min":4,
+                    "max":5
+                },
+                "4": {
+                    "min":4,
+                    "max":5
+                },
+                "5": {
+                    "min":4,
+                    "max":5
+                },
+                "6": {
+                    "min":4,
+                    "max":5
+                }
+            },
+            "enemyEncounterRates": {
+                "BasicEnemy": 10,
+                "ArmoredEnemy": 5
+            },
+            "minActionCooldown": 8.0,
+            "maxActionCooldown": 14.0,
+            "actionCooldownPercentageModPerTimer":1.35,
+            "actionCooldownPercentageModPerExtraEnemy":0.9,
+            "incapacitatedDuration":10,
+            "incapacitatedDurationBonusPerPlayer": 0,
+            "primeDurationBonusPerPlayer": 0.9,
+            "chanceEnemyWillPrimeNonPlayerColor": 0,
+            "incapacitatedHeal": 0.1,
+            "incapacitatedHitMaxPerPlayer": {
+                "1":1,
+                "2":1,
+                "3":1,
+                "4":1,
+                "5":1,
+                "6":1
+            },
+            "challengeCompleteHeal": 0.1,
+            "numActionTimers": 2,
+            "minChallengeRating": 0,
+            "maxChallengeRating": 0,
+            "availableWeaponEffects": [
+                "ClusterBombs"
+            ],
+            "prizeGate": 0,
+            "selectable": true,
+            "unlockTitle": "Tutoriel"
+        },
+        {
+            "id":"Easy",
+            "difficulty": 1,
+            "titles": [ "Aie! Mes os !", "L'agonie ! L'agonie!", "Le tourment est sans fin!","Ça brûle ! Ça brûle!","Je suis marqué!" ],
+            "minChallenges":4,
+            "maxChallenges":4,
+            "mission": "Terminez tous les défis",
+            "gauntletBonus": 6000,
+            "enemiesPerChallenge": {
+                "1": {
+                    "min":4,
+                    "max":5
+                },
+                "2": {
+                    "min":3,
+                    "max":6
+                },
+                "3": {
+                    "min":4,
+                    "max":6
+                },
+                "4": {
+                    "min":4,
+                    "max":6
+                },
+                "5": {
+                    "min":4,
+                    "max":6
+                },
+                "6": {
+                    "min":4,
+                    "max":6
+                }
+            },
+            "enemyEncounterRates": {
+                "BasicEnemy": 10,
+                "ArmoredEnemy": 5,
+                "DetonatorEnemy": 5,
+                "ConnectedEnemy": 5
+            },
+            "minActionCooldown": 8.0,
+            "maxActionCooldown": 14.0,
+            "actionCooldownPercentageModPerTimer":1.25,
+            "actionCooldownPercentageModPerExtraEnemy":0.85,
+            "incapacitatedDuration":7,
+            "incapacitatedDurationBonusPerPlayer": 0.4,
+            "primeDurationBonusPerPlayer": 0.7,
+            "chanceEnemyWillPrimeNonPlayerColor": 0.35,
+            "incapacitatedHeal": 0.1,
+            "incapacitatedHitMaxPerPlayer": {
+                "1":1,
+                "2":1,
+                "3":1,
+                "4":1,
+                "5":1,
+                "6":1
+            },            
+            "challengeCompleteHeal": 0.1,
+            "numActionTimers": 2,
+            "minChallengeRating": 0,
+            "maxChallengeRating": 2,
+            "availableWeaponEffects": [
+                "ClusterBombs",
+                "Stun",
+                "Shield",
+                "RainbowCannon",
+                "SuperBlaster"
+            ],
+            "prizeGate": 4500,
+            "selectable": true,
+            "unlockType": "Gauntlet",
+            "unlockTitle": "Facile",
+            "unlockDescription": "Il est temps de passer aux choses sérieuses ! Rebondissez sur les PARE-CHOCS pour affronter des ennemis plus coriaces"
+        },
+        {
+            "id":"Medium",
+            "difficulty": 2,
+            "titles": [ "Ahhh ! Tant de sang !", "S'il vous plaît, s'il vous plaît, s'il vous plaît, pas plus!", "Pourquoi tu me fais ça?!","Tout explose!","La douleur insupportable!","S'il vous plaît, laissez-moi rentrer à la maison !", "Qui aime les traumatismes ?"],
+            "minChallenges":5,
+            "maxChallenges":5,
+            "mission": "Terminez tous les défis",
+            "gauntletBonus": 10000,
+            "enemiesPerChallenge": {
+                "1": {
+                    "min":3,
+                    "max":5
+                },
+                "2": {
+                    "min":3,
+                    "max":6
+                },
+                "3": {
+                    "min":4,
+                    "max":6
+                },
+                "4": {
+                    "min":4,
+                    "max":6
+                },
+                "5": {
+                    "min":4,
+                    "max":6
+                },
+                "6": {
+                    "min":4,
+                    "max":6
+                }
+            },
+            "enemyEncounterRates": {
+                "BasicEnemy": 5,
+                "ArmoredEnemy": 3,
+                "DetonatorEnemy": 4,
+                "ConnectedEnemy": 7,
+                "AbsorberEnemy": 5
+            },
+            "minActionCooldown": 7.0,
+            "maxActionCooldown": 13.0,
+            "actionCooldownPercentageModPerTimer":1.2,
+            "actionCooldownPercentageModPerExtraEnemy":0.85,
+            "incapacitatedDuration":6,
+            "incapacitatedDurationBonusPerPlayer": 0.6,
+            "primeDurationBonusPerPlayer": 0.6,
+            "chanceEnemyWillPrimeNonPlayerColor": 0.35,
+            "incapacitatedHeal": 0.1,
+            "incapacitatedHitMaxPerPlayer": {
+                "1":1,
+                "2":1,
+                "3":1,
+                "4":1,
+                "5":1,
+                "6":1
+            },
+            "challengeCompleteHeal": 0.1,
+            "numActionTimers": 2,
+            "minChallengeRating": 1,
+            "maxChallengeRating": 2,
+            "availableWeaponEffects": [
+                "ClusterBombs",
+                "Stun",
+                "Shield",
+                "RainbowCannon",
+                "SuperBlaster"
+            ],
+            "prizeGate": 80000,
+            "selectable": true,
+            "unlockType": "Gauntlet",
+            "unlockTitle": "Moyen",
+            "unlockDescription": "Coordonnez-vous avec votre équipe pour franchir les BARRIÈRES DE COULEUR !"
+            
+        },
+        {
+            "id":"Hard",
+            "difficulty": 3,
+            "titles": [ "Des corps partout !", Je ne sens pas mes jambes !!", "Je suis en feu !!!","Ma chair est partie !","S'il te plaît, tue-moi!","La mort! La mort! La mort!","Tant de carnage!","Médical! Médical!" ],
+            "minChallenges":5,
+            "maxChallenges":5,
+            "mission": "Terminez tous les défis",
+            "gauntletBonus": 15000,
+            "enemiesPerChallenge": {
+                "1": {
+                    "min":3,
+                    "max":5
+                },
+                "2": {
+                    "min":3,
+                    "max":6
+                },
+                "3": {
+                    "min":4,
+                    "max":6
+                },
+                "4": {
+                    "min":4,
+                    "max":6
+                },
+                "5": {
+                    "min":4,
+                    "max":6
+                },
+                "6": {
+                    "min":4,
+                    "max":6
+                }
+            },
+            "enemyEncounterRates": {
+                "BasicEnemy": 3,
+                "ArmoredEnemy": 3,
+                "DetonatorEnemy": 5,
+                "ConnectedEnemy": 5,
+                "AbsorberEnemy": 5,
+                "SpawnerEnemy": 5
+            },
+            "minActionCooldown": 7.0,
+            "maxActionCooldown": 13.0,
+            "actionCooldownPercentageModPerTimer":1.35,
+            "actionCooldownPercentageModPerExtraEnemy":0.85,
+            "incapacitatedDuration":5.5,
+            "incapacitatedDurationBonusPerPlayer": 0.6,
+            "primeDurationBonusPerPlayer": 0.45,
+            "chanceEnemyWillPrimeNonPlayerColor": 0.4,
+            "incapacitatedHeal": 0.1,
+            "incapacitatedHitMaxPerPlayer": {
+                "1":1,
+                "2":1,
+                "3":1,
+                "4":1,
+                "5":1,
+                "6":1
+            },
+            "challengeCompleteHeal": 0.1,
+            "numActionTimers": 3,
+            "minChallengeRating": 3,
+            "maxChallengeRating": 4,
+            "availableWeaponEffects": [
+                "ClusterBombs",
+                "Stun",
+                "Shield",
+                "RainbowCannon",
+                "SuperBlaster"
+            ],
+            "prizeGate": 200000,
+            "selectable": true,
+            "unlockType": "Gauntlet",
+            "unlockTitle": "Folle",
+            "unlockDescription": "Parcourez un portail et sortez par l'autre !"
+            
+        },
+        {
+            "id":"Xtreme",
+            "difficulty": 4,
+            "titles": [ "L'horreur indescriptible!", "Faites que ça s'arrête!", "AAAAAAAHHHHH!!!!" ],
+            "minChallenges":6,
+            "maxChallenges":6,
+            "mission": "Terminez tous les défis",
+            "gauntletBonus": 20000,
+            "enemiesPerChallenge": {
+                "1": {
+                    "min":3,
+                    "max":5
+                },
+                "2": {
+                    "min":3,
+                    "max":6
+                },
+                "3": {
+                    "min":4,
+                    "max":6
+                },
+                "4": {
+                    "min":4,
+                    "max":6
+                },
+                "5": {
+                    "min":4,
+                    "max":6
+                },
+                "6": {
+                    "min":4,
+                    "max":6
+                }
+            },
+            "enemyEncounterRates": {
+                "BasicEnemy": 3,
+                "ArmoredEnemy": 3,
+                "DetonatorEnemy": 6,
+                "ConnectedEnemy": 6,
+                "AbsorberEnemy": 5,
+                "SpawnerEnemy": 5
+            },
+            "minActionCooldown": 6.0,
+            "maxActionCooldown": 12.0,
+            "actionCooldownPercentageModPerTimer":1.30,
+            "actionCooldownPercentageModPerExtraEnemy":0.80,
+            "incapacitatedDuration":5,
+            "incapacitatedDurationBonusPerPlayer": 0.6,
+            "primeDurationBonusPerPlayer": 0.40,
+            "chanceEnemyWillPrimeNonPlayerColor": 0.5,
+            "incapacitatedHeal": 0.1,
+            "incapacitatedHitMaxPerPlayer": {
+                "1":1,
+                "2":1,
+                "3":1,
+                "4":1,
+                "5":1,
+                "6":1
+            },
+            "challengeCompleteHeal": 0.1,
+            "numActionTimers": 3,
+            "minChallengeRating": 2,
+            "maxChallengeRating": 4,
+            "availableWeaponEffects": [
+                "ClusterBombs",
+                "Stun",
+                "Shield",
+                "RainbowCannon",
+                "SuperBlaster"
+            ],
+            "prizeGate": 400000,
+            "selectable": false,
+            "unlockType": "difficulty",
+            "unlockTitle": "Folie totale",
+            "unlockDescription": "Une folie totale ! Survivez à MEDIUM ou INSANE pour atteindre ce défi"
+        },
+        {
+            "id":"XXtreme",
+            "difficulty": 5,
+            "titles": [ "Je ne peux pas le prendre!", "Aïe mon bassin!", "Suis-je déjà mort?" ],
+            "minChallenges":5,
+            "maxChallenges":5,
+            "mission": "Terminez tous les défis",
+            "gauntletBonus": 25000,
+            "enemiesPerChallenge": {
+                "1": {
+                    "min":3,
+                    "max":5
+                },
+                "2": {
+                    "min":3,
+                    "max":6
+                },
+                "3": {
+                    "min":4,
+                    "max":6
+                },
+                "4": {
+                    "min":4,
+                    "max":6
+                },
+                "5": {
+                    "min":4,
+                    "max":6
+                },
+                "6": {
+                    "min":4,
+                    "max":6
+                }
+            },
+            "enemyEncounterRates": {
+                "BasicEnemy": 2,
+                "ArmoredEnemy": 2,
+                "DetonatorEnemy": 6,
+                "ConnectedEnemy": 6,
+                "AbsorberEnemy": 5,
+                "SpawnerEnemy": 5
+            },
+            "minActionCooldown": 6.0,
+            "maxActionCooldown": 12.0,
+            "actionCooldownPercentageModPerTimer":1.30,
+            "actionCooldownPercentageModPerExtraEnemy":0.75,
+            "incapacitatedDuration":4.5,
+            "incapacitatedDurationBonusPerPlayer": 0.5,
+            "primeDurationBonusPerPlayer": 0.25,
+            "chanceEnemyWillPrimeNonPlayerColor": 0.6,
+            "incapacitatedHeal": 0.1,
+            "incapacitatedHitMaxPerPlayer": {
+                "1":1,
+                "2":1,
+                "3":1,
+                "4":1,
+                "5":1,
+                "6":1
+            },
+            "challengeCompleteHeal": 0.1,
+            "numActionTimers": 3,
+            "minChallengeRating": 3,
+            "maxChallengeRating": 4,
+            "availableWeaponEffects": [
+                "ClusterBombs",
+                "Stun",
+                "Shield",
+                "RainbowCannon",
+                "SuperBlaster"
+            ],
+            "prizeGate": 600000,
+            "selectable": false,
+            "unlockType": "difficulty",
+            "unlockTitle": "Enfer",
+            "unlockDescription": "Survivez à INSANE pour atteindre ce défi final !"
+        }
+    ]
+}
