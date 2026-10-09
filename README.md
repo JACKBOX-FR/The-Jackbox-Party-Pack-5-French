@@ -12,6 +12,7 @@ Ce repository contient les traductions de la communauté française pour le jeu 
 | Zeeple Dome  | RapBattle | ✅ | ✅  | ✅ | [NIX3S](https://github.com/NIX3S)(Sauf menu lobby Start,back , settings introuvables) |
 | Patently Stupid | PatentlyStupid | ✅ | ✅ | ✅ | [Alexis](https://github.com/AlexisL61) ,[NIX3S](https://github.com/NIX3S)(Texte jeu manquant + fichier)|
 | Jeu | PartyPack | ✅ | ✅ |   |  |
+
 ✅ Terminé</br>
 ⚪ Commencé mais non terminé</br>
 ❌ Non commencé
